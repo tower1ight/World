@@ -3,7 +3,7 @@
   "enabledCssSnippets": [
     "extended-colorschemes"
   ],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSizeAction": false,
   "baseFontSize": 14,
   "accentColor": ""
