@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Sessions and Planning/C.04/Myths/The Mindless.md",
+                "file": "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Mindless"
+              "title": "Backlinks for C.04 Arc 3 - Into The Woods"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Sessions and Planning/C.04/Myths/The Mindless.md",
+                "file": "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Mindless"
+              "title": "Outgoing links from C.04 Arc 3 - Into The Woods"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Sessions and Planning/C.04/Myths/The Mindless.md",
+                "file": "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Mindless"
+              "title": "Outline of C.04 Arc 3 - Into The Woods"
             }
           },
           {
@@ -181,6 +181,7 @@
   },
   "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
+    "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
     "0.Sessions and Planning/C.04/Myths/The Mindless.md"
   ]
 }
