@@ -1,0 +1,31 @@
+**
+
+Within the organization of the Heralds of the Library, dissent brewed. A leader on his own quest to the devotion of many stole his first followers from among the library’s elite. Once the rupture occurred and their betrayal was evident, this inner circle was divided and given quests. The branch that is relevant to this story, who followed the almost-saint Nepsis. Due to his importance, the eponym is sufficient, but scholars are aware through his granddaughter, Nayva, that his line bore the name Atsuin.
+
+Nepsis’ group was tasked with planar research, a key strategic insight that would allow for Tel’Voric’s siege of The Library. After several years of trying and failing to establish a semi-stable gate to the elemental plane of air (testing could not be conducted directly on The Library for fear of their wards), an accident with the circumstances of the spell resulted unexpectedly in two ways: firstly, the gate led to the Feywild, not the elemental plane of air. And secondly-- perhaps more importantly-- they could not find a way to close it.
+
+Being of common Sylvan ancestry, Nepsis’ elven followers were intimately aware of several key traits of the fey: their greed, their caprice, the immortals’ disdain for mortal life, but also their weakness for games of wit. If Nepsis was confident in one thing, it was reportedly his own capacity for cunning.
+
+Thus, when High Queen Mab of the Fey Court came calling, the dogs of the Great Hunt baying at her heels, alerting the small research settlement of the encroaching war machine, Nepsis welcomed her with open arms and impeccable hospitality. Even so, the town would have certainly been obliterated, if it weren't for the looming presence of the near-god, Tel’Voric. However, Nepsis did have the blessing of the dragon, and thus was treated with respect as an emissary of a rising power on the prime material plane. The threat of destruction was, in fact mutual, and Mab could tell that Tel’Voric would not allow what was their purview to be destroyed without retribution.
+
+The field for diplomacy was set, and both sides had as much to gain as they had to lose. No one knows exactly what terms were set out within the contract, but they were judged agreeable by both sides. In a story almost mythologized within the few circles in which it is known, Nepsis wielded with Queen’s vorpal dagger to score his own hand, drawing blood before extending his hand to shake.
+
+From on high, Mab extended one spindly arm, and without breaking eye contact with Nepsis, pointed directly at his daughter, Nereida. “We shall seal the deal with your blood, yes. The babe which grows in that girl’s belly is now mine by right, and her birth will mark the birth of our contract.” The Queen’s smile was wide and genuine at having pulled off one last trick to get the upper hand on Nepsis. Nereida, who had not known she was pregnant, reportedly fainted at that time.
+
+And so, Nepsis, with approval from Tel’Voric, reluctantly agreed, giving for hostage the girl who was soon to be his only grandchild. With no children born before or everafter in the town, and no one permitted to enter or leave, Nepsis consigned himself to living the rest of his life worrying over his studies, praying to a god, and old friend, who appeared less and less frequently, before one day he stopped responding altogether.
+
+Nayva, instantly called Pearl, for the odd sheen of her hair, was a happy child. Unaware of what a childhood might otherwise be, and surrounded by love and caring from all sides, she danced through her adolescence with a smile on her face. Mab was not unreasonable, and allowed Nayva to be raised until she was cognizant by her mother Nereida, and allowed her to return to the place of her birth for days on end, before ultimately coming back to her place at court. It was common to see Mab herself, walking with the toddling girl, her spindly arm down stretched, back hunched to hold Nayva’s chubby fist.
+
+While Nayva was never alone, she had no true company, quickly outgrowing cohort after cohort of fey peers, who matured at a much slower rate, and unable to hold meaningful conversation with the human changelings, kept sedate and empty-headed as pretty baubles around court. Her schooling was diligent, but odd for anyone growing outside the fey court. Lessons in poetry as weapon, how best to coax a spider into weaving you a silk cloak, when and how it is appropriate and safe to dance with a stranger at a masque. She also learned the basic craft of fey magic, having been blessed by Mab in the womb with the gift of potential.
+
+This schooling often put her at odds with her family back home. Nereida was in a constant state of mourning for the child that would never be truly hers, so the researchers took Nayva in as a child of the collective, as well as their next research subject.So she observed, but never intrinsically understood the magic of her forefathers. In place of understanding, Nayva sought connection by opening her heart to Focalism.
+
+She dabbled well in singing, dancing, and poetry, but surpassed all expectations in the field of weaving, often abandoning arithmetic lessons to study with the palace weavers, and then comparing that technique with the town tailors to see if she could adapt any fey techniques to suit a being with two arms.
+
+And so the time passed, years and decades, until Nayva’s coming of age ceremony, a raucous affair for town and court alike, held in the grand ballroom, presided over by Mab. The elven contingent stood out, engulfed in the furor of a fey party, whispering to themselves as Nayva flitted among them, making introductions and warning them which foods were and weren't safe to eat.
+
+But when the time came for the bell to be struck and Nayva to become an adult, the swirling colors of the ballroom blinked out of existence. In a diaphanous dress unfit for the weather, she shivered before opening her eyes to her new reality: shackled to the ground on a moving vehicle she would soon learn is called a train.
+
+This, however, is where the true story begins…
+
+**

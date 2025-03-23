@@ -1,0 +1,15 @@
+- ALL monstors in as actors with icons
+- Stocked sound library 
+- Ambient and sound effect playlists coordinated with hex type playlist
+- Stocked asset library full of set dressing peices 
+- Scenes of stuff you have already preeped 
+- have a page for poes research
+- Have a DM screen page 
+- make gourmand easier to run
+- get the auro working
+- cohesive icon language
+- write and work with macros
+- custom ring system with the clock
+- learn how to ping
+- sound effects on nat 20s
+- import class choices and smooth out progression
