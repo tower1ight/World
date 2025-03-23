@@ -4,5 +4,6 @@
     "extended-colorschemes"
   ],
   "theme": "moonstone",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "baseFontSize": 14
 }

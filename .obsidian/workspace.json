@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/VTT Blue Sky.md",
+                "file": "3.Rules, Systems, Handouts/New PC HANDOUT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VTT Blue Sky"
+              "title": "New PC HANDOUT"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/VTT Blue Sky.md",
+                "file": "3.Rules, Systems, Handouts/New PC HANDOUT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for VTT Blue Sky"
+              "title": "Backlinks for New PC HANDOUT"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/VTT Blue Sky.md",
+                "file": "3.Rules, Systems, Handouts/New PC HANDOUT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from VTT Blue Sky"
+              "title": "Outgoing links from New PC HANDOUT"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/VTT Blue Sky.md",
+                "file": "3.Rules, Systems, Handouts/New PC HANDOUT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of VTT Blue Sky"
+              "title": "Outline of New PC HANDOUT"
             }
           },
           {
@@ -176,11 +176,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
+    "Misc/VTT Blue Sky.md",
     "Misc/Weather Table.png",
     "Misc/Untitled 2.md",
     "Misc/Future Xylaan 1.md",
