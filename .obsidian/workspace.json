@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of The Mindless"
             }
+          },
+          {
+            "id": "9f0bd24836e3fa89",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
