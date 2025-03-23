@@ -1,0 +1,164 @@
+---
+tags:
+  - C04
+aliases:
+---
+Sessions [[C.04.04]], [[C.04.05]], [[C.04.06]], [[C.04.05]]
+ ## Raynault Adventure
+Outline
+	 - Alchemists show up 
+		 - massve party of kobolds with drangolin mounts 
+		 - post up 
+	 - Field encounter
+			 - goofy man caught in bear trap
+	 - COL Justice 
+		 - The gang goes in finds some stuff  
+		 - conclusion: col have entered the bowels of the [[The Talons|Talons]], the underway: they await ffurther instruction never fully receiving an order for drop off, known entrances and exits are being watched COLD is working on extraction 
+	- In the cave 😎
+		- First encounter some frightened giant centipedes that will attack the players
+			- Upon investegation of tracks on bizarely soft earth the partty may find tracks that lead to the remantants of a fight, a trail of blood leads from this location to a nest containing a slain adult giant centipede wrapped around an egg
+			- The egg is sitting in wet shredded earth, will eventually crack if left in dry air for too long w
+		- [[Alchemists|alchemist]] homies 
+			- cover:  surveying a break in the alchemist network 
+			- they will interrogate the players as to why they are there and what their relation to the COL soliders is, 
+				- Thier communication functions in one direction, allowing them to send visisons to one another, their primary means of speech is through signing with no audio component , heavy use of facial expressions 
+				- If the party indicates that they are hunting the soliders, the alchemists will lend you their aid 
+					- Access to rest in a hidden  maintenance hovel to the middle left side of the map
+		- Several patrols exist surveying the exits and entrances of the 
+			- one gaurds the entrance of the top of the map, 
+			- the bottom entrance containing the boats has more gaurds and more cover
+			- Battle 
+				- narative: stope these 
+				- Objective keep the objects from escaping down the river
+		- Post encounter
+			- Patrolling alchemists smashing cultist androids to a pulp, ripping into the lockboxes
+				- A3, 3 potions of hilgiant strength, 
+				- A5,  the germ was stolen
+				- A6,  robe of useful things
+					- 3 bags 100 gold
+					- 2 windows
+					- 1 horse and saddle
+					- 1 rowboat
+					- 2 10 foot pits
+				- B8, oil of slipperiness
+				- D4, immovable rod 
+				- C8, glamourweave
+			- Alchemists are older, scared, scales cracked, 
+				- Senae
+				- tak
+				- each carries a set of contraptions, 
+			- Adventure branches 
+				- If the group is unable to keep the [[Alchemists]] from prying: they will be escorted back to the premises 
+				- If they are able to convince the alchemists of the other thing they get to go back
+		- The cave diverts into two paths 
+			- one of them is a waterfall to certain death bum bum bum
+			- the other is a path that heads directly to the lake beside fort raynault, the stream is gentle and particularly wide, now that you are deeper into the cave bioluminescent fungus is consistant, 
+			- resting at the river bed, small fish swim beside your boat, the sweet aroma has yet to leave you
+			- 
+	- Retverning to [[Fort Raynault]]
+		- Unless players notice an illusory stone, DC  16,  Players will be have to go through the drinking water veseviour, avoid some traps in the waste water system, and show up in the lab, falling into a hydroponics system
+			- If they pass take them through the cave
+		- Reemerge, 
+			- acosted by aelon's lakeys and brought to her office, shes wearing a gown of blue mesh beads and is fiddling with a staff, her staff 
+			- Brought to bunk, where they see some signs that things are bad
+			- they take a rest
+			- kid wakes them up to snitch 
+			- rest is history
+	- Getting Taken to the alchemist camo **use every opportunity to hint that they. have answers to the player qestions**, what is it that the general stole,
+		- 
+		- follow winding path to get there
+		- The Tent
+				- Lots of complex visual patterns cover their walls dyed textiles with 4 or 5 different shades of a single color, the patterns, columns wind their way up, connecting at seemingly random places, ribbons of a sheer thin fabric drop from a ceiling and column connection points
+			- Prominent bathing and painting scenario
+			- Bedding area that,m emulates soft dirt
+			- Show information they know 
+		- Make this tense 
+	- Lead up to trial
+		- Sage aelon assembles a procession with gifts
+		- Has an argument with sircha, Will contact gloria
+			- [[Poe the Perfumer]] you recieve a message: Your inability to capture A5 is regrettable but seemingly irelevent, You will Secure trade with Alchemists, We need contact if we ever want to learn.
+			- Sends a message in secret DC 15
+	- Trial is held to deal with your fate 
+		- negotiation: Make an agreement about the relationship
+			- Rules
+				- Stats: patience and interest 0 - 5
+					- Either stat drops to 0 and the discussion is over
+					- interest of 5 sees the best outcome 
+				- Motivations 
+				- Rolls
+					- Pick a charisma skill, make an argument and Ill set a DC according to the validity of the claim and how susceptible
+					- roll and add relevant bonuses (Nat 20s are not critical successes), if the roll is over the DC, then drop patience by 1 increase interest by 1, if the roll exceeds the DC by 5 
+					- hitting on a pitfall causes both stats to decrease by 1
+					- A windfall creates the opportunity to win 
+					- patience: 1
+					- interest is 4
+			- SenaK
+				- Here are the facts
+					- "we have information you might need"
+					- Affraid of telor: disabling or poisoning the safegaurds
+						- psionic network 
+						- safegaurds 
+					- but your stumbles have concequences: We have a common enemy but here are the demands\
+						- They have a diplomatic presence in fort raynault
+						- snooping into our science like general raynault with result in a disolussion of the treaty
+						- They choose your representative and who gets to give and receive information
+						- You remove milityary presence through the tunnels 
+							- aelon is working on that rn
+					- sernoa
+ 			- Pitfalls: 
+				- Responsibility to the dead of your group
+				- windfalls: 
+			- Outcomes
+				- Nothing, Walk away, there is nothing to be done, this was nearly a lost cause we have nothing to say to you
+				- No aliance currently but a treaty of no violence 
+				- Alliance, no information trad 
+				- Alliance, trade agreement 
+				- Limited party access to the city
+				- The party gets access to the city, they are diplomats now if they would like the 
+					- sage will want them in her pocket
+	- Aelon for talks 
+	- 
+		- 
+- Whatever notes
+		- What is the conflict (you have but one choice): keep the soldiers from starting a war 
+			- Negotiation has made alchemist terms clear
+				- Retun the item stollen by General Raynault in 4 days and we will act as though this never happened 
+				- Fail to do so and: they will storm the fort, kill all of fort raynault, Retreiveing the item in the process
+				- Alchemists: they wait for their threat to bear fruit, building a large tent covering a large portion of their force, this morning they all filed into the tent and no one has seen them since
+		- What has happened in the three days 
+			- atempted to organize a charge, was appreheneded and many soliders were killed for mutany?
+			- sage aelon, gathered that general raynault stole the thing, they know it was in the vault, sage aelon does not want a war, shes read her history, she knows that the prism has made something very powerful in the forest, figure out what brought the wall down and how to put it back together. she wants to find the 
+		- The players resurface: lead them so aelon
+			- What happens when people see them
+		- The players are bunked in with the army, and someone squeels to the players, something is going on, officers are moving goods out of the armory 
+			- Soliders intend to sneak explosives into the tent and explode before the negotiation can be held, plan to pick off staggerers with ballistas on the walls
+			- 
+		- 
+		- Important Players and their takes 
+			- Sage Aelon
+			- Sage Kai
+			- Intro
+			- 
+				- The 
+			- How do I add tension
+				- Soldiers are scared and feel impotent: about half of them want a war, the other are scared and will follow the first half 
+					- theyve been sitting on their asses
+					- they dont know how to fight this fight
+					- So many of their kind are missing or dead
+					- many know there is a larger organization within the military
+					- 
+
+
+ ### To Do
+
+- [ ] What is the alchemist encounter, what does it communicate, what challenges does it pose
+- [ ] Design the underway beneath fort raynault
+- [ ] The finale
+	- [ ] what has happened since they left 
+		- [ ] The Rammys: what will happen without the spore what will happen withthe spore
+			- [ ] Hidden and given to follanel
+			- [ ] given to the alchemists
+			- [ ] discovered by the alchemists ther
+	- [ ] What is the conflict
+	- [ ] Cinematic
+
