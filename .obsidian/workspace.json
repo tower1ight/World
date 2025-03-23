@@ -177,7 +177,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "b8dc840a35d195b4",
