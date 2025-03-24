@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Ichor.md",
+                "file": "1.People/Gods/Xylaan (entity).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ichor"
+              "title": "Xylaan (entity)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Ichor.md",
+                "file": "1.People/Gods/Xylaan (entity).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ichor"
+              "title": "Backlinks for Xylaan (entity)"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Ichor.md",
+                "file": "1.People/Gods/Xylaan (entity).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ichor"
+              "title": "Outline of Xylaan (entity)"
             }
           },
           {
@@ -195,13 +195,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f0bd24836e3fa89",
+  "active": "e095d4a60d6b442a",
   "lastOpenFiles": [
+    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Ichor.md",
     "1.People/Groups and Factions/Seraphs.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Xylaani History and Politics.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/symbiotic groups.md",
     "3.Rules, Systems, Handouts/VTT Map Ledger.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Ichor.md",
     "1.Places/Geography and Borders/Xylaan/Xylaan (location).md",
     "Misc/mist layer.md",
     "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
