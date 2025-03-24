@@ -54,6 +54,7 @@ aliases:
   
   ## Rainforest
   - Description
+	  - A hot and humid place, storms are brought in by the xylaani bay and high air pressure is held in by the mountains and an ever thick sugar layer this biome like many fo
   - Important locations
 	  - seraphine port city
   - Important 
