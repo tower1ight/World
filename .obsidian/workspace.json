@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
+                "file": "0.Sessions and Planning/OS.01/OS.01 (One Shot 01) planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "polyphony"
+              "title": "OS.01 (One Shot 01) planning"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xylaan",
+                "query": "\"years ago\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
+                "file": "0.Sessions and Planning/OS.01/OS.01 (One Shot 01) planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for polyphony"
+              "title": "Backlinks for OS.01 (One Shot 01) planning"
             }
           },
           {
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
+                "file": "0.Sessions and Planning/OS.01/OS.01 (One Shot 01) planning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of polyphony"
+              "title": "Outline of OS.01 (One Shot 01) planning"
             }
           },
           {
@@ -195,6 +196,12 @@
   },
   "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
+    "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Timeline.md",
+    "0.Sessions and Planning/OS.01/OS.01 (One Shot 01) planning.md",
+    "1.People/Gods/The Great Library.md",
+    "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species/Dragonborn.md",
+    "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
+    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
     "3.Rules, Systems, Handouts/New PC HANDOUT.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/mycelium.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Germ.md",
@@ -206,7 +213,6 @@
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/sugars.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/skiffs.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Propagation Rituals.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/{Xylaani orcs}.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/mold.md",
     "Misc/Xylaan.md",
@@ -214,14 +220,9 @@
     "Misc/Weather Table.png",
     "1.Places/Geography and Borders/The Talons.md",
     "Misc/TO DO.md",
-    "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
     "0.Sessions and Planning/C.04/Myths/The Elf.md",
     "0.Sessions and Planning/C.04/C.04 Rules and Consistency.md",
     "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
-    "0.Sessions and Planning/C.04/C.04 Downtime.md",
-    "0.Sessions and Planning/C.04/C.04 Arc 1 - Introduction.md",
-    "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
-    "1.People/NPCs/SenaK.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts",

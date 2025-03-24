@@ -35,8 +35,8 @@ Telor is a country home to the Teloric people also known as Tels.
 ## History and Politics
 ##### [[Teloric Government]]
 ![[Teloric Government]]
-##### [[Time Line]]
-![[Time Line]]
+##### [[Timeline]]
+![[Timeline]]
 ## Geography and Cultural Borders
 ## Geography and Key Locations
 

@@ -2,6 +2,6 @@
 tags: Event
 alias: 
 ---
-up:  [[Time Line]]
+up:  [[Timeline]]
 
 [[Xylaan|Xylaan's]] flight
