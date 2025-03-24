@@ -80,7 +80,7 @@ Ok here is what we know thus far
  ## Anti-Psionics:
 one might identify alchemists solely with their creation of anti-psionic technology, It builds some of the most foundational aspects of their culture, history, and identity. From the moment it was born the kobolds were set apart from xylaan as a community, they had opted out of xylaan's body and were met with swift retrobution. what followed was an ethnic cleansing of monumental proportions. 
 
-When first created, anti-psionics were individual, a way of cutting ones [[Germ]] off from the network and all psionic forces. The first iterations of this left the germ more or less inept, removing the users ability to metabolize xylaani [[sugars]] and but soon they developed tech for this shit 
+When first created, anti-psionics were individual, a way of cutting ones [[Germ]] off from the network and all psionic forces. The first iterations of this left the germ more or less inept, removing the users ability to metabolize xylaani [[Ichor]] and but soon they developed tech for this shit 
 
 After creating ways to turn this technology outward they were able to develop decices capable of emiting an antipsionic feild, ssomething that allowed them to create the deadlands, gradually pushing xylaans border further and further back. the Boundaries that exist now have been more or less static for decades, marking the limit for what the alchemists can reasonably commit to powering, maintaining, and defending. 
 

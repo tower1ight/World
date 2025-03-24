@@ -67,7 +67,7 @@ Things to consider
 
  #### bugs
  Isopod mites: live between shell gaps eating their flesh and laying eggs 
- Stalk worms: about 1/2 inch long in their infancy they have sharp shreading teeth the allow them to burrow to the center of green and yellow stalks, once in a stalk they make their way to the top and grow barbs into the stalk walls dig their sides and grow to about 5 feet. they live by sucking [[sugars]] out of the [[mist layer]] and ultimately depriving their host 
+ Stalk worms: about 1/2 inch long in their infancy they have sharp shreading teeth the allow them to burrow to the center of green and yellow stalks, once in a stalk they make their way to the top and grow barbs into the stalk walls dig their sides and grow to about 5 feet. they live by sucking [[Ichor]] out of the [[mist layer]] and ultimately depriving their host 
  
  ## Yellow Stalks
 

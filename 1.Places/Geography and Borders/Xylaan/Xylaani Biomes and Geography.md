@@ -48,7 +48,7 @@ aliases:
 	  - you are being fucking watched 
 
   ## Arcadia
-  - Description: the Arcadian sea is an enormous lake nestled against a finger of the tallons that curves around xylaan's southern edge. Home to the [[Arcadian Court]] it holds the wealth of [[Xylaan]], a massive stockpile of [[sugars|sugar]] stored in liquid and solid form to preserve its stability. Immiscible in water and much heavier, the sugar sits below 20 ft of clear water.
+  - Description: the Arcadian sea is an enormous lake nestled against a finger of the tallons that curves around xylaan's southern edge. Home to the [[Arcadian Court]] it holds the wealth of [[Xylaan]], a massive stockpile of [[Ichor|sugar]] stored in liquid and solid form to preserve its stability. Immiscible in water and much heavier, the sugar sits below 20 ft of clear water.
   - Important locations
   - Important 
   

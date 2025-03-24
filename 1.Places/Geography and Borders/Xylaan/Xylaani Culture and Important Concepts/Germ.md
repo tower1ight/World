@@ -21,9 +21,9 @@ does it talk?
 
 
 Benefits 
-- Allows you to digest [[sugars|Xylanni Sugars]]
+- Allows you to digest [[Ichor|Xylanni Sugars]]
 - provides magical ability 
 - Allows for the possibility of 
 - the spore is personal, it exists as a part of a whole but is ultimately yours allowing you and it ag
 Detriment
-- the Germ will consume you if it has no access to [[sugars]]
+- the Germ will consume you if it has no access to [[Ichor]]

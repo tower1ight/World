@@ -7,7 +7,7 @@ aliases:
   - Thrum
 ---
 
- #### *"When one walks through xylaan they are met with the thoughts and voices of every organism within ten miles. These sounds meld together into an indescribable clamor, I feel this place as a song, voices chanting against eachother and then something entirely different, a thread pulling me, an object trying to render itself in my head, all of it just beyond my comprehension"*
+ ##### *"When one walks through xylaan they are met with the thoughts and voices of every organism within ten miles. These sounds meld together into an indescribable clamor, I feel this place as a song, voices chanting against eachother and then something entirely different, a thread pulling me, an object trying to render itself in my head, all of it just beyond my comprehension"*
   — bigby 3138 39th of bida
  
  # Polyphony
@@ -15,7 +15,7 @@ The Polyphony is the phenomena of hearing unique sounds within the combination o
 
 In Xylaan if a [[Germ|spore]] has melded with your biology, when you make contact with the [[mycelium]] network you are capable of integrating with it, forming a symbiotic relationship. Ultimately connecting you with everything that's part of the network. This results in near instant telepathic communication throughout [[Xylaan (location)]]. However, this communication and connection requires [[focus]]. Almost all things in [[Xylaan (location)]] are capable of a level of complex focus that enables telepathic communication. However, some are truly skilled and are capable of expanding their perception through practice with focus.[^1] 
 
-This telepathic communication is instantaneous when connected to the network[^2] This instant communication coupled with the [[sugars]] enhancement of your mental capacity [^3] allows extremely high limits for complexity of messages and almost no obscurity in the reception of the messages content.  Communication is run through  encoded knowledge, essentially sharing files to others through telepathic transmissions. This means there is little to no written communication as we see it. many things connected to the network are inherently [[psionics|psionic]],  giving off constant transmissions of data stored locally in the [[mycelium]].[^4]  Rather than written work, these magical signatures give off a certain impression that acts as an access point for their data in the [[mycelium| network]][^5]
+This telepathic communication is instantaneous when connected to the network[^2] This instant communication coupled with the [[Ichor]] enhancement of your mental capacity [^3] allows extremely high limits for complexity of messages and almost no obscurity in the reception of the messages content.  Communication is run through  encoded knowledge, essentially sharing files to others through telepathic transmissions. This means there is little to no written communication as we see it. many things connected to the network are inherently [[psionics|psionic]],  giving off constant transmissions of data stored locally in the [[mycelium]].[^4]  Rather than written work, these magical signatures give off a certain impression that acts as an access point for their data in the [[mycelium| network]][^5]
 
 This form of communication is inherently magical as it is ultra refined and perfectly conceptualized though, sending and receiving messages takes significant [[focus]] and [[soul]] generation. 
 
