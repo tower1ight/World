@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Xylaan.md",
+                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xylaan"
+              "title": "polyphony"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "(location",
+                "query": "bigby",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Xylaan.md",
+                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Xylaan"
+              "title": "Backlinks for polyphony"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Xylaan.md",
+                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Xylaan"
+              "title": "Outline of polyphony"
             }
           },
           {
@@ -197,8 +198,8 @@
   },
   "active": "e095d4a60d6b442a",
   "lastOpenFiles": [
-    "1.Places/Geography and Borders/Xylaan/Xylaan (location).md",
     "Misc/Xylaan.md",
+    "1.Places/Geography and Borders/Xylaan/Xylaan (location).md",
     "1.People/Gods/Xylaan (entity).md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Ichor.md",
     "1.People/Groups and Factions/Seraphs.md",
