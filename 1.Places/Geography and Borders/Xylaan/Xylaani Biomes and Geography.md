@@ -23,11 +23,13 @@ aliases:
   - Description: The chaparral region is defined by a dry climate and distance from xylaan's heart, a valley between the foothills of xylaan's Northern mountain range and the tallons, this region receives a proportionally small amount of connection to the network or the sugar layer.
   - brittle and colorful, thin tall grass stretches throughout the biome, population spikes around large groves of brushlike trees that assemble around streams and the base of mountains
   - Important locations
-	  - 
+	  - [[{The Woven City}]]
+	  - City settlement by the lake
+	  - Mine 
   - Important 
 	  - this is where the [[mycelium]] is growing most thin
 	  - unintelligent and intelligent creatures alike burrow into the rough dirt to reach the [[mycelium]]
-	  - settlements exist undergroun
+	  - settlements exist semi underground for better mycelium proximity and 
 
   ## Alpine and Mountains
   - Description
