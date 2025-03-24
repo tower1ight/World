@@ -4,7 +4,7 @@ alias: Talons
 ---
 
 The largest mountain range in [[Urat]]. They are home to very a very deep carven  and a serries of natural and built cave complexes
-They divide [[Telor]] and [[Xylaan (location)]]
+They divide [[Telor]] and [[Xylaan]]
 
 Filled with underground tunnel system
 - occupied by COL 

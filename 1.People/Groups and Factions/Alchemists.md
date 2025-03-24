@@ -17,7 +17,7 @@ aliases:
  # Goals and Core tenants
 -
 	 - Intense adherence to personal liberty is core to their beliefs as a community that has succeeded from [[Xylaan]]. This is complicated by a fuzzy boundaries on the individual. This manifests as an anarchical society facilitated by each individuals consent to participate in the unit. consequences of this idea range from a virtually unlimited capacity for division
-	 - Free [[Xylaan (location)]] 
+	 - Free [[Xylaan]] 
 		 - containment 
 			 - Create a catalytic converter to block communication out of the forest
 			 - missionary work

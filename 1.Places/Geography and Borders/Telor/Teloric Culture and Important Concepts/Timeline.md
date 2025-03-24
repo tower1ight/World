@@ -17,7 +17,7 @@ up:  [[Telor]]
 -   156 years and 65 days ago: all knowledge and evidence of [[The Great Library]] becomes obscured. One can remember its existence or the pilgrimage they might have made to it, but any information gained and any method of locating the institution vanishes once again, rendering it a phantom in the nation and planet's mind. 
 -   86 years ago, returning to her position at the [[Violet Church]], High Sage [[Marge Vaginopolis]], bearing the [[draconic mark|Dragon Mark]], declares herself [[Tel'Voric|Tel'Voric's]] champion
 -   70 years ago [[Marge Vaginopolis]] is crowned Queen of Telor
--   8 years ago work begins on drilling through mountains to [[Xylaan (location)|The Ammolite Veil]]
+-   8 years ago work begins on drilling through mountains to [[Xylaan|The Ammolite Veil]]
 -   5 years ago the [[Invasion of The Veil]] begins
 
 

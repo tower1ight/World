@@ -6,5 +6,5 @@ tags:
 aliases:
 ---
 [[Xylaan]]
-[[Xylaan (location)]]
+[[Xylaan]]
 [[symbiotic groups]]

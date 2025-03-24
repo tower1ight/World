@@ -6,7 +6,7 @@ aliases:
 ---
 
  ## Summary
- The eyes and ears of [[Xylaan]] and [[Xylaan (location)]], an ethnically based faction filled with several variants of a species with a plantlike lifecycle, they have a deep connection the [[mycelium]]. Through meditation and powerful psionic abilities, they can send their awareness through the network. This allows them to keep complete surveillance on all connected to the network, remotely cast spells and powers, send communications, and with great effort, transport physical goods and people through the [[mycelium]]. 
+ The eyes and ears of [[Xylaan]] and [[Xylaan]], an ethnically based faction filled with several variants of a species with a plantlike lifecycle, they have a deep connection the [[mycelium]]. Through meditation and powerful psionic abilities, they can send their awareness through the network. This allows them to keep complete surveillance on all connected to the network, remotely cast spells and powers, send communications, and with great effort, transport physical goods and people through the [[mycelium]]. 
  
  The distance and potency of ones awareness is proportional to the distance between them and their target, and most importantly their [[focus|focusing]] capabilities. The physical distance that separates them is an approximation of the truth, What really determines the strength of ones power is mycelial connectivity, how long does a signal have to travel. This is determined by physical distance of the connection as well as the strength of a given link
 

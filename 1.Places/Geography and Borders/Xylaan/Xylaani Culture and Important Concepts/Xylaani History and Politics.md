@@ -6,7 +6,7 @@ aliases:
 ---
  # Political environment
  -  Pre [[disconnect]]
-	 - All entities within [[Xylaan (location)]] are essentially one organism, acting as a part of [[Xylaan]] with as much personal autonomy as it desires them to have
+	 - All entities within [[Xylaan]] are essentially one organism, acting as a part of [[Xylaan]] with as much personal autonomy as it desires them to have
 	 - Treats the space as a menagerie for its entertainment and a farm to steadily grow its power
 	 - Allows some autonomy for factions to naturally grow and develop, allows inter-faction conflict but restricts outright war through its influence on 
 	 - Each faction serves as something like an organ for the overall body

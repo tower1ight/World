@@ -11,7 +11,7 @@ aliases:
 
 ---
  # Summary
- This town primarily serves as a military base, acting as a beach head and ensuring the safety of travel in and out of [[Xylaan (location)]] 
+ This town primarily serves as a military base, acting as a beach head and ensuring the safety of travel in and out of [[Xylaan]] 
 
 This is becoming a colony
 
