@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Rules, Systems, Handouts/New PC HANDOUT.md",
+                "file": "Misc/The Talons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New PC HANDOUT"
+              "title": "The Talons"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xyla",
+                "query": "xylaan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Misc/The Talons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Talons"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Rules, Systems, Handouts/New PC HANDOUT.md",
+                "file": "Misc/The Talons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New PC HANDOUT"
+              "title": "Outline of The Talons"
             }
           },
           {
@@ -160,8 +160,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,8 +179,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31c9e605cdf6d37a",
+  "active": "9a76bc931779d5ec",
   "lastOpenFiles": [
+    "Misc/TO DO.md",
+    "Misc/The Talons.md",
+    "3.Rules, Systems, Handouts/New PC HANDOUT.md",
     "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
     "0.Sessions and Planning/C.04/Myths/The Elf.md",
     "0.Sessions and Planning/C.04/C.04 Rules and Consistency.md",
@@ -189,7 +191,7 @@
     "0.Sessions and Planning/C.04/C.04 Downtime.md",
     "0.Sessions and Planning/C.04/C.04 Arc 1 - Introduction.md",
     "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
-    "Misc/SenaK.md",
+    "1.People/NPCs/SenaK.md",
     "1.People/Groups and Factions/Alchemists.md",
     "1.People/Groups and Factions/Librarian Faith/Cult of the Library.md",
     "1.Places/Cities and Settlements/{The Woven City}.md",
@@ -205,9 +207,6 @@
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/focal council.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/draconic mark.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Worship of the Library.md",
-    "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Voral Dynasty.md",
-    "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Trains.md",
-    "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Time Line.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts",
