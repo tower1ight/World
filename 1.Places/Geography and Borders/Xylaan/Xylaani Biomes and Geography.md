@@ -54,7 +54,7 @@ aliases:
   
   ## Rainforest
   - Description
-	  - A hot and humid place, storms are brought in by the xylaani bay and high air pressure is held in by the mountains and an ever thick sugar layer. Perspective in this biome is particularly dependent on verticality, with the grand [[{Seraphine port city}]] at the tree
+	  - A hot and humid place, storms are brought in by the xylaani bay and high air pressure is held in by the mountains and an ever thick sugar layer. Perspective in this biome is particularly dependent on verticality, with the grand [[{Seraphine port city}]] at the the 
   - Important locations
 	  - seraphine port city
   - Important 
