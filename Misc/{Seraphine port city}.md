@@ -7,4 +7,4 @@ aliases:
 
  # what is it
 
-The [[Seraphs]] domain this city sits above in a thick [[Ichor|sugar]]
+The [[Seraphs]] domain this city sits above in a thick [[Ichor|sugar]] layer too thick to see down
