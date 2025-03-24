@@ -12,7 +12,7 @@ stems from group
 		- Instant use of the identify spell 
 		- High profile understanidng of magic
 	- Descidious [[The Entangled]]
-	- purelake [[Arcadia]]
+	- purelake [[Arcadian Court]]
 
 
 Feat possinilities

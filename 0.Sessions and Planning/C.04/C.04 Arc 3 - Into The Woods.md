@@ -22,7 +22,7 @@ Sessions
 			- Initial wave of [[Cult of the Library|soldiers]] baited into a battle with the goblins, thousands slaughtered
 			- battle not far into the woods
 			- Evidence of an existing legion found
-				- bodies of soldiers compelled by [[Arcadia]], watching workers and explorers 
+				- bodies of soldiers compelled by [[Arcadian Court]], watching workers and explorers 
 				- ranging part noticed signs of humans looking in on them
 		- She is asking this group specifically because she wants few people to know about this mission before it happens
 			- she intends the gang to sneak out during the precession 
@@ -228,7 +228,7 @@ big armored gar live in the river
 goblin slaves have been been sent to spy and perform small raids to test defenses, so the town is ancy, they have generally heard of the occupation of {{southren goblin city}}
 But little word has left the city since its closed its gates and the couruption of that city government has been an open secret for a long time. the town itself will be a huge strategic advantage should dagogs army take it, as it is well fortified and close enough to the bridge keep any large force from crossing. These people are farmers and hunters and bakers, there is a small gaurd force but only large enough to hold the gates and keep the peace. These people will be reluctant to leave but are possesed of enough fear, that they could be convinced to head to 
 
-The party will eventually need to convince the town to head for [[{Goblin City}]] and abandon their town, [[Prince Dagoag|Dagoag]]'s forces wont move to kill them. However, if the paarty seeks to delay them, the bridge must be destroyed. Other crossings exist but none in the area would support the seige equipment that the Dagoag is planning to use on [[{Goblin City}]]. [[skiffs]] could be used but, in this area skiffs are unreliable, military use of them is unprecedented, and the [[Arcadia]] does not possess them in large enough numbers.
+The party will eventually need to convince the town to head for [[{Goblin City}]] and abandon their town, [[Prince Dagoag|Dagoag]]'s forces wont move to kill them. However, if the paarty seeks to delay them, the bridge must be destroyed. Other crossings exist but none in the area would support the seige equipment that the Dagoag is planning to use on [[{Goblin City}]]. [[skiffs]] could be used but, in this area skiffs are unreliable, military use of them is unprecedented, and the [[Arcadian Court]] does not possess them in large enough numbers.
 
 
 

@@ -6,7 +6,7 @@ aliases:
 
 | Affiliations | Location | Campaign Featured |
 | ------------ | -------- | ----------------- |
-| [[Arcadia]]  |          |                   |
+| [[Arcadian Court]]  |          |                   |
 
 ---
  # Summary

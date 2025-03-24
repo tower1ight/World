@@ -45,14 +45,15 @@ aliases:
 	  - Line is really blurred between intelligent and unintelligent species
 	  - you are being fucking watched 
 
-  ## Purelake
-  - Description: shallow clear lake that covers the region, throughout the space mangroves and giant lilypads dot the lakes surface,
+  ## Arcadia
+  - Description: the Arcadian sea is an enormous lake nestled against a finger of the tallons that curves around xylaan's southern edge. Home to the [[Arcadian Court]] it holds the wealth of [[Xylaan]], a massive stockpile of [[sugars|sugar]] stored in liquid and solid form to preserve its stability. Immiscible in water and much heavier, the sugar sits below 20 ft of clear water.
   - Important locations
   - Important 
   
   ## Rainforest
   - Description
   - Important locations
+	  - seraphine port city
   - Important 
  
   

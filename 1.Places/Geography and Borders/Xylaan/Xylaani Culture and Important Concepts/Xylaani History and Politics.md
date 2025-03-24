@@ -17,7 +17,7 @@ aliases:
 		- There is a council with representatives from each group, but has little executive power
 		- Convergence of roles and function are handled by relevant parties (triple venddiagram)
  # Empowered Groups and People
-  ### [[Arcadia]]
+  ### [[Arcadian Court]]
   - Responsibilities: resource storage and distribution
 	  - In charge of physically distributing resources across xylaan
 	  - Has established trade routes and storage locations
