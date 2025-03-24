@@ -1,6 +1,12 @@
 ---
-tags: Faction, religion
-alias: cultist, cultists, The_Cult_of_the_Library
+tags:
+  - Faction
+  - religion
+aliases:
+  - cultist
+  - cultists
+  - The_Cult_of_the_Library
+  - COL
 ---
 up: [[Worship of the Library]]
 

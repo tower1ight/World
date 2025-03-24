@@ -7,11 +7,11 @@ Sessions [[C.04.04]], [[C.04.05]], [[C.04.06]], [[C.04.05]]
  ## Raynault Adventure
 Outline
 	 - Alchemists show up 
-		 - massve party of kobolds with drangolin mounts 
+		 - massve party of [[Alchemists]] with drangolin mounts 
 		 - post up 
 	 - Field encounter
 			 - goofy man caught in bear trap
-	 - COL Justice 
+	 - [[Cult of the Library|COL]] Justice 
 		 - The gang goes in finds some stuff  
 		 - conclusion: col have entered the bowels of the [[The Talons|Talons]], the underway: they await ffurther instruction never fully receiving an order for drop off, known entrances and exits are being watched COLD is working on extraction 
 	- In the cave 😎
@@ -33,7 +33,7 @@ Outline
 		- Post encounter
 			- Patrolling alchemists smashing cultist androids to a pulp, ripping into the lockboxes
 				- A3, 3 potions of hilgiant strength, 
-				- A5,  the germ was stolen
+				- A5,  the [[Germ]] was stolen
 				- A6,  robe of useful things
 					- 3 bags 100 gold
 					- 2 windows
@@ -92,7 +92,7 @@ Outline
 					- A windfall creates the opportunity to win 
 					- patience: 1
 					- interest is 4
-			- SenaK
+			- [[SenaK]]
 				- Here are the facts
 					- "we have information you might need"
 					- Affraid of telor: disabling or poisoning the safegaurds

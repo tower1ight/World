@@ -6,6 +6,7 @@ tags:
 aliases:
   - alchemist
   - alchemists
+  - kobolds
 ---
 
 

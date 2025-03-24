@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Places/Cities and Settlements/{The Woven City}.md",
+                "file": "Misc/SenaK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "{The Woven City}"
+              "title": "SenaK"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Places/Cities and Settlements/{The Woven City}.md",
+                "file": "Misc/SenaK.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of {The Woven City}"
+              "title": "Outline of SenaK"
             }
           },
           {
@@ -181,8 +181,12 @@
   },
   "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
-    "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
     "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
+    "Misc/SenaK.md",
+    "1.People/Groups and Factions/Alchemists.md",
+    "1.People/Groups and Factions/Librarian Faith/Cult of the Library.md",
+    "1.Places/Cities and Settlements/{The Woven City}.md",
+    "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species/Warforged.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species/Teloric Species Interaction.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species/Humans.md",
@@ -204,10 +208,6 @@
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Economy.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Caravans.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Architecture.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/{Xylaani orcs}.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/symbiotic groups.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/sugars.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/skiffs.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts",
     "1.Places/Geography and Borders/Xylaan",
