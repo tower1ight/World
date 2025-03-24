@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Biomes and Geography.md",
+                "file": "Misc/{Seraphine port city}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xylaani Biomes and Geography"
+              "title": "{Seraphine port city}"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Biomes and Geography.md",
+                "file": "Misc/{Seraphine port city}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Xylaani Biomes and Geography"
+              "title": "Backlinks for {Seraphine port city}"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Biomes and Geography.md",
+                "file": "Misc/{Seraphine port city}.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Xylaani Biomes and Geography"
+              "title": "Outline of {Seraphine port city}"
             }
           },
           {
@@ -196,8 +196,10 @@
   },
   "active": "e095d4a60d6b442a",
   "lastOpenFiles": [
-    "3.Rules, Systems, Handouts/New PC HANDOUT.md",
+    "Misc/Seraph.md",
+    "Misc/{Seraphine port city}.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Biomes and Geography.md",
+    "3.Rules, Systems, Handouts/New PC HANDOUT.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/mycelium.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Ichor.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/mold.md",
@@ -221,8 +223,6 @@
     "1.Places/Geography and Borders/The Talons.md",
     "Misc/TO DO.md",
     "0.Sessions and Planning/C.04/Myths/The Elf.md",
-    "0.Sessions and Planning/C.04/C.04 Rules and Consistency.md",
-    "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts",
