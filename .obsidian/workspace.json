@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Biomes and Geography.md",
+                "file": "Misc/mist layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xylaani Biomes and Geography"
+              "title": "mist layer"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Biomes and Geography.md",
+                "file": "Misc/mist layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Xylaani Biomes and Geography"
+              "title": "Backlinks for mist layer"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Biomes and Geography.md",
+                "file": "Misc/mist layer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Xylaani Biomes and Geography"
+              "title": "Outline of mist layer"
             }
           },
           {
@@ -196,9 +196,12 @@
   },
   "active": "e095d4a60d6b442a",
   "lastOpenFiles": [
+    "1.Places/Geography and Borders/Xylaan/Xylaan (location).md",
+    "Misc/mist layer.md",
+    "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
+    "1.Places/Geography and Borders/Xylaan/Xylaani Biomes and Geography.md",
     "Misc/{Seraphine port city}.md",
     "Misc/Seraph.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Biomes and Geography.md",
     "3.Rules, Systems, Handouts/New PC HANDOUT.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/mycelium.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Ichor.md",
@@ -212,7 +215,6 @@
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Germ.md",
     "1.People/Groups and Factions/Arcadian Court.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/symbiotic groups.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaan (location).md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Xylaani History and Politics.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/skiffs.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Propagation Rituals.md",
@@ -221,8 +223,6 @@
     "4.Rand Docs for messing arround/Untitled 2.md",
     "Misc/Weather Table.png",
     "1.Places/Geography and Borders/The Talons.md",
-    "Misc/TO DO.md",
-    "0.Sessions and Planning/C.04/Myths/The Elf.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts",
