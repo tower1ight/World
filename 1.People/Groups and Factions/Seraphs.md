@@ -15,7 +15,7 @@ asexually reproduce
 History
 
 - warfare and small scale building projects
-- Born out of agregate fungal tissue in the [[mist layer]]
+- Born out of agregate fungal tissue in the [[Ichor|sugar layer]]
 - internal 
 - 
 

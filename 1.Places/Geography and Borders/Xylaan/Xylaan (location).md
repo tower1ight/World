@@ -23,7 +23,7 @@ Geography and Ecology
 	- 
 	- 
  ## Reeds:
-  Similar to something like a chaparral region, marked by foothills stepped in an ocean of tall grass, It should be noted that the [[mist layer]], supported by denser ares of the forest, does not reach the majority of this region. 
+  Similar to something like a chaparral region, marked by foothills stepped in an ocean of tall grass, It should be noted that the [[Ichor]], supported by denser ares of the forest, does not reach the majority of this region. 
 	- Primary sentient residents: Goblinoids, spiders, and 
 	- Notable organisms: Tall grass (three varieties), parasite, bullete (eats grass )
 	- Scenes:
@@ -57,12 +57,12 @@ A gust of wind pushed reeds in a dance, their green stalks bending together as t
 
 
 
-- licken peaks: A set of mountains that branch from the [[The Talons|Talons]] and wrap inward. in most palces this mountain range can be divided into three regions, foothills, lichen, and the icy parts. The concentrated sugar found in the [[mist layer]] and feeds lichen, bacteria, and other microorganisms that latch onto the side of the mountain. these die and build on themselves, creating rough structures and supporting a fascinating ecosystem. This lichen is packed with sugars so 
+- licken peaks: A set of mountains that branch from the [[The Talons|Talons]] and wrap inward. in most palces this mountain range can be divided into three regions, foothills, lichen, and the icy parts. The concentrated sugar found in the [[Ichor]] and feeds lichen, bacteria, and other microorganisms that latch onto the side of the mountain. these die and build on themselves, creating rough structures and supporting a fascinating ecosystem. This lichen is packed with sugars so 
 - desidious
 	- primary sentient: 
 	- Notable organism: dancing lady, Weeping Willow, rot angel, rot beast hears, ginat spiders, very traditional fantasy beasts 
-- jungle: the jungle constitutes one of xylaans largest cities, it sits sollidly in the [[mist layer]] highly vertical. Being created by seraphs and the manufacturing site of almost all xylaani [[skiffs]], much of its traversal is done by flying, beneath 
-- Under jungle:  the [[mist layer]], when combined with the tree density and height of the area, blocks out almost all light under the the jungle creating something of a deadzone, a ecosystem that feeds on seraphim refuse and what energy iit can leach from the mycelium, what is whale fall 
+- jungle: the jungle constitutes one of xylaans largest cities, it sits sollidly in the [[Ichor]] highly vertical. Being created by seraphs and the manufacturing site of almost all xylaani [[skiffs]], much of its traversal is done by flying, beneath 
+- Under jungle:  the [[Ichor]], when combined with the tree density and height of the area, blocks out almost all light under the the jungle creating something of a deadzone, a ecosystem that feeds on seraphim refuse and what energy iit can leach from the mycelium, what is whale fall 
  ## Purelake:
   An enormous shallow lake, supports floating lilypads, highest biodiveristy
 	- giant lungfish
