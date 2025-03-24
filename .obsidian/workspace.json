@@ -11,14 +11,12 @@
             "id": "b8dc840a35d195b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Misc/The Talons.md",
-                "mode": "source",
-                "source": false
+                "file": "Misc/Weather Table.png"
               },
-              "icon": "lucide-file",
-              "title": "The Talons"
+              "icon": "lucide-image",
+              "title": "Weather Table"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/The Talons.md",
+                "file": "Misc/Weather Table.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Talons"
+              "title": "Backlinks for Weather Table"
             }
           },
           {
@@ -141,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/The Talons.md",
+                "file": "Misc/Weather Table.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Talons"
+              "title": "Outline of Weather Table"
             }
           },
           {
@@ -179,10 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a76bc931779d5ec",
+  "active": "53ac6ced630b4553",
   "lastOpenFiles": [
+    "4.Rand Docs for messing arround/Untitled 2.md",
+    "1.Places/Geography and Borders/The Talons.md",
     "Misc/TO DO.md",
-    "Misc/The Talons.md",
     "3.Rules, Systems, Handouts/New PC HANDOUT.md",
     "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
     "0.Sessions and Planning/C.04/Myths/The Elf.md",
@@ -206,7 +205,6 @@
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species/Dragonborn.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/focal council.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/draconic mark.md",
-    "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Worship of the Library.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts",
