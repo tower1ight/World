@@ -11,12 +11,14 @@
             "id": "b8dc840a35d195b4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Misc/Weather Table.png"
+                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Germ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Weather Table"
+              "icon": "lucide-file",
+              "title": "Germ"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Weather Table.png",
+                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Germ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Weather Table"
+              "title": "Backlinks for Germ"
             }
           },
           {
@@ -139,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Weather Table.png",
+                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Germ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Weather Table"
+              "title": "Outline of Germ"
             }
           },
           {
@@ -177,9 +179,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53ac6ced630b4553",
+  "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
+    "1.Places/Geography and Borders/Xylaan/Xylaan (location).md",
+    "Misc/Xylaan.md",
     "4.Rand Docs for messing arround/Untitled 2.md",
+    "Misc/Weather Table.png",
     "1.Places/Geography and Borders/The Talons.md",
     "Misc/TO DO.md",
     "3.Rules, Systems, Handouts/New PC HANDOUT.md",
@@ -203,8 +208,6 @@
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species/Elves.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species/Dwarves.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species/Dragonborn.md",
-    "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/focal council.md",
-    "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/draconic mark.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts",
@@ -213,7 +216,6 @@
     "1.Places/Geography and Borders",
     "1.Places/Cities and Settlements",
     "1.Places/Buildings and Landmarks",
-    "1.Places",
-    "Misc/Weather Table.png"
+    "1.Places"
   ]
 }
