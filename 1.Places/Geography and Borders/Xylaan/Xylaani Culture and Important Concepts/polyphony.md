@@ -19,15 +19,15 @@ This telepathic communication is instantaneous when connected to the network[^2]
 
 This form of communication is inherently magical as it is ultra refined and perfectly conceptualized though, sending and receiving messages takes significant [[focus]] and [[soul]] generation. 
 
-because these transitions and signatures have complex and fluid ideas concerning what a given thing is and who has access to what knowledge regarding it, everything is encrypted, [[Xylaan (entity)|god]]  is in complete control of the [[mycelium]] (as it is the flesh of their body) and therefore have complete control over the dissemination of that knowledge. If you are within the network you can visualize and comprehend data, [[Xylaan (entity)|god]], through the [[Germ|spore]], gives you the ability to decrypt the constant stream of code.[^6]
+because these transitions and signatures have complex and fluid ideas concerning what a given thing is and who has access to what knowledge regarding it, everything is encrypted, [[Xylaan|god]]  is in complete control of the [[mycelium]] (as it is the flesh of their body) and therefore have complete control over the dissemination of that knowledge. If you are within the network you can visualize and comprehend data, [[Xylaan|god]], through the [[Germ|spore]], gives you the ability to decrypt the constant stream of code.[^6]
 
 Returning to the file analogy, different kinds of information are used for different purposes, some filetypes are better at sending some types of thought. Not all of these networks meld together for everything,  [[symbiotic groups]] have their own syntax and types of encoded thought that are better for various tasks.  Example: One of these [[xylaani languages]] is extremely proficient at evocative connection, allowing direct communication of feelings.  
 
-because access to the [[mycelium]] is driven by the [[Germ]] and the [[Xylaan (entity)]], and because different [[xylaani languages]] are engines for processing different information, the syntax and underlying encrypted code of communication and is entirely different between languages, each requiring distinct information to decrypt and have access to these languages.[^7]
+because access to the [[mycelium]] is driven by the [[Germ]] and the [[Xylaan]], and because different [[xylaani languages]] are engines for processing different information, the syntax and underlying encrypted code of communication and is entirely different between languages, each requiring distinct information to decrypt and have access to these languages.[^7]
 
 This access is no simple thing to acquire, one must work hard or be born into a community to gain the privilege of joining their network.
 
-With all this context we return to polyphony, if one melds with the [[Xylaan (entity)]] via a [[Germ|spore]], they walk through the forest hearing a cacophony of telepathic thought, each language echoing through the minds of the community. 
+With all this context we return to polyphony, if one melds with the [[Xylaan]] via a [[Germ|spore]], they walk through the forest hearing a cacophony of telepathic thought, each language echoing through the minds of the community. 
 
  # Languages and Factions
   ## embeded language
@@ -103,6 +103,6 @@ Test
 [^3]:  this could be a poor idea 
 [^4]: This information is constantly updated and changed based on the perception of them by other beings. current perceptions of things are averaged in a way . However, A history of these changes and averages are also stored, [[mycelium]] become extremely dense around areas with a lot of history or cultural importance.
 [^5]: What is and is not shared with ithers is complex,  all thoughts enter the [[mycelium|network]]  however they are encrypted, you generate the image you send out into the world, however this meshes with how you are perceived by others 
-[^6]: [[Xylaan (entity)|god]] choses how you interpret the info maybe?
+[^6]: [[Xylaan|god]] choses how you interpret the info maybe?
 [^7]: this access is extremally important, without access you are completely cut off from the network 
 [^8]: 

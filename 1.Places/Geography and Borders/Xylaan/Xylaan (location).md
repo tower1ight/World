@@ -6,7 +6,7 @@ alias: The Forest, The Ammolite Veil
 
 [[Germ]]
 [[{Xylaani orcs}]]
-[[Xylaan (entity)]]
+[[Xylaan]]
 [[good questions]]
 [[symbiotic groups ]]
 [[Xylaani History and Politics]]

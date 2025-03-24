@@ -10,7 +10,7 @@ Filled with underground tunnel system
 - occupied by COL 
 - alchemists
 	- heat source
-	- used a s a hostile barrier to [[Xylaan (entity)]]
+	- used a s a hostile barrier to [[Xylaan]]
 - vibes to pull from
 	- wild magic 
 	- light and and warmth as lures 

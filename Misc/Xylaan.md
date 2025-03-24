@@ -2,10 +2,15 @@
 tags:
   - C04
   - xylaan
+  - god
+  - NPC
+  - religion
 aliases:
   - Xylaan's
   - The Veil
   - The ammonilite veil
+  - IT
+  - Xylaan
 ---
 
  # A land of isolation, it's creation is a fey tale and it's flesh is something else entirely
@@ -14,3 +19,4 @@ like everywhere of importance dragons had touched this place before, vermin thes
 Queen mab you see had demonstrated remarkable foresight, acknowledging a skirmish with a separatist sect of her court, and in recent position with a reality bending artifact she banished both to the material plane before the [[The Circle of Eight|Eight]] before we had even realized they were gone. The [[Arcadian Court| Court of Arcadia]] with that aforementioned immense power and new lands entirely sovereign to them had dutifully played the part, staging a rebellion with flourish and zeal. They left and the portal closed behind them with theatrical finality. The goblin court, always eager for influence and unmatched in their nastyness, has a pension for throwing wrenches into grand narratives, they had learned of Arcadias Pact with [[Queen Mab]] and stowed away many of their courts most vile and tricksy individuals. Without this digression from the plan I may have overlooked this place for even longer. 
 
 When I finally layed my eyes on the tree I knew instantly that we could never restore the sphere, something grander undulated beneath my feet, an organism the capacity and, unbeknownst to me, the inclination for godhood, the prism, trapped in the interdimentional heart of the tree syphoned off [[focus]] from [[The Prismatic Whole]]. Our work had surpassed us and created the most beautiful thing I had ever seen
+

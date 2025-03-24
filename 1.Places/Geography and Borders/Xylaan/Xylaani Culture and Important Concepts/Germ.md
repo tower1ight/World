@@ -6,7 +6,7 @@ tags:
 aliases:
   - spore
 ---
-up: drug  that chains you with [[Xylaan (entity)]]
+up: drug  that chains you with [[Xylaan]]
 gives you ability and strength, you become dependent on it, some carry spores when traveling but few risk being unable to return in time to replenish supplies 
 
 

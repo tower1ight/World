@@ -33,7 +33,7 @@ Why is it so hard to do things I dont want to do
 
 
 The rotten seer: 
-A parasite lays at xylaans feet, slowly consuming its body and spreading its curse into the earth. but I ask can a part of xylaan eliminate xylaan, is a change condemnation and dos xylaan not hold parasites in high esteem. Tell me if [[Xylaan (entity)|IT]] were to come back tomorrow, do you think that it would burn the rot away. It has a voice, did you know that, it speaks to me with horrid shrieks and compells me to heed its command. Would you have me close my ears? I serve xylaan and I will hear the infections words
+A parasite lays at xylaans feet, slowly consuming its body and spreading its curse into the earth. but I ask can a part of xylaan eliminate xylaan, is a change condemnation and dos xylaan not hold parasites in high esteem. Tell me if [[Xylaan|IT]] were to come back tomorrow, do you think that it would burn the rot away. It has a voice, did you know that, it speaks to me with horrid shrieks and compells me to heed its command. Would you have me close my ears? I serve xylaan and I will hear the infections words
 
 "Rot breaks the seal and the dead speak to the earth. The shadows power and decaying flesh feed US afterall"
 

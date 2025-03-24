@@ -82,10 +82,10 @@ Progressing personal stories
  - **Ritual to the hags**
 
  ### Sanctuaries 
- Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] kept by the [[The Entangled|Seers]]. Most will contain a seer bent and contorted around the node at all times, many important nodes will have one or more seers who have chosen to embed themselves into the [[mycelium]]. The design of individual temples can vary but most have some form of material documentation of [[Xylaan (entity)]] and its worship or history.
+ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] kept by the [[The Entangled|Seers]]. Most will contain a seer bent and contorted around the node at all times, many important nodes will have one or more seers who have chosen to embed themselves into the [[mycelium]]. The design of individual temples can vary but most have some form of material documentation of [[Xylaan]] and its worship or history.
  
  - Bountiful Seer:
-	 - Tapestries depicting the on the fey and the birth of [[Xylaan (entity)]] are strewn throughout the temple
+	 - Tapestries depicting the on the fey and the birth of [[Xylaan]] are strewn throughout the temple
 	 -  Molded 
  - Stalk Seer
 	 - 

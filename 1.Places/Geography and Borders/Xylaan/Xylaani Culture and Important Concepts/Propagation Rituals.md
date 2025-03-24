@@ -5,6 +5,6 @@ tags:
   - C04
 aliases:
 ---
-[[Xylaan (entity)]]
+[[Xylaan]]
 [[Xylaan (location)]]
 [[symbiotic groups]]

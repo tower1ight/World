@@ -10,13 +10,13 @@ aliases:
 ---
 
 
-[[Xylaan (entity)]]
+[[Xylaan]]
 [[VOCs]]
 [[{disconnected city}]]
 
  # Goals and Core tenants
 -
-	 - Intense adherence to personal liberty is core to their beliefs as a community that has succeeded from [[Xylaan (entity)]]. This is complicated by a fuzzy boundaries on the individual. This manifests as an anarchical society facilitated by each individuals consent to participate in the unit. consequences of this idea range from a virtually unlimited capacity for division
+	 - Intense adherence to personal liberty is core to their beliefs as a community that has succeeded from [[Xylaan]]. This is complicated by a fuzzy boundaries on the individual. This manifests as an anarchical society facilitated by each individuals consent to participate in the unit. consequences of this idea range from a virtually unlimited capacity for division
 	 - Free [[Xylaan (location)]] 
 		 - containment 
 			 - Create a catalytic converter to block communication out of the forest
@@ -24,7 +24,7 @@ aliases:
 			 - 
 	 - trying to create plant communication not facilitated by [[Germ]]
 		- Living with a restrained elderbrain system housed in the tallons 
-		- works as a defense system to rival [[Xylaan (entity)]]
+		- works as a defense system to rival [[Xylaan]]
 		- how is it restrained: unclear 
 		- is trying to develop a germ sytem on the same level 
 		- what are its limitations: 

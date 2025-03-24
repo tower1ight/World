@@ -6,12 +6,12 @@ aliases:
 ---
  # Political environment
  -  Pre [[disconnect]]
-	 - All entities within [[Xylaan (location)]] are essentially one organism, acting as a part of [[Xylaan (entity)]] with as much personal autonomy as it desires them to have
+	 - All entities within [[Xylaan (location)]] are essentially one organism, acting as a part of [[Xylaan]] with as much personal autonomy as it desires them to have
 	 - Treats the space as a menagerie for its entertainment and a farm to steadily grow its power
 	 - Allows some autonomy for factions to naturally grow and develop, allows inter-faction conflict but restricts outright war through its influence on 
 	 - Each faction serves as something like an organ for the overall body
 - Pre [[Xylaan (entity) retreat]]: 
-	- [[Xylaan (entity)]] is facilitating the transitioning existing rolls 
+	- [[Xylaan]] is facilitating the transitioning existing rolls 
 - At the Start of [[C.04.01]]
 	- Decentralized Power
 		- There is a council with representatives from each group, but has little executive power
