@@ -99,10 +99,10 @@ Outline
 						- psionic network 
 						- safegaurds 
 					- but your stumbles have concequences: We have a common enemy but here are the demands\
-						- They have a diplomatic presence in fort raynault
+						- They have a diplomatic presence in [[Fort Raynault]]
 						- snooping into our science like general raynault with result in a disolussion of the treaty
 						- They choose your representative and who gets to give and receive information
-						- You remove milityary presence through the tunnels 
+						- You remove [[Telor|Teloric]] presence through the tunnels 
 							- aelon is working on that rn
 					- sernoa
  			- Pitfalls: 
