@@ -23,7 +23,6 @@ does it talk?
 Benefits 
 - Allows you to digest [[sugars|Xylanni Sugars]]
 - provides magical ability 
-- bootested imune system 
 - Allows for the possibility of 
 - the spore is personal, it exists as a part of a whole but is ultimately yours allowing you and it ag
 Detriment

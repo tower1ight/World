@@ -7,6 +7,9 @@ aliases:
   - Thrum
 ---
 
+*"When one walks through xylaan they are met with the thoughts and voices of every organism within ten miles. These sounds meld together into an indescribable clamor, though the more time I spend here, the more I feel this place as a song, voices chanting against eachother and then something entirely different, a thread pulling me, an object trying to render itself in my head, all of it just beyond my comprehension"*
+  — bigby 
+ 
  # Polyphony
 The Polyphony is the phenomena of hearing unique sounds within the combination of several pieces of music played concurrently. Hearing things in the convergence of multiple songs.
 
