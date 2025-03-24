@@ -10,7 +10,7 @@ alias: The Forest, The Ammolite Veil
 [[good questions]]
 [[symbiotic groups ]]
 [[Xylaani History and Politics]]
-[[Xylaani Biomes and Climate]]
+[[Xylaani Biomes and Geography]]
 
 History
 - 

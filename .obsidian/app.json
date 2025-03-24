@@ -1,4 +1,5 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "Misc"
+  "newFileFolderPath": "Misc",
+  "alwaysUpdateLinks": true
 }

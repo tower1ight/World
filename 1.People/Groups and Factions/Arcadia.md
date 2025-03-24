@@ -4,6 +4,6 @@ tags:
   - C04
 aliases:
 ---
-the [[Xylaani Biomes and Climate|Purelake]] is the resting place for the arcadian court
+the [[Xylaani Biomes and Geography|Purelake]] is the resting place for the arcadian court
 
 split from the feywild 
