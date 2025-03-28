@@ -41,18 +41,20 @@ Sessions
 | —                                                                                                                                                                                                                                                                                    |
 
 
-| Yellow Grass                                                  | Tree Island   | Planes    | Fey Touched  |
-| ------------------------------------------------------------- | ------------- | --------- | ------------ |
-| Yellow Stalk<br>short tuftgrass<br>Mold<br>Fruit bearing vine | Arid tree<br> | Floor Oak |              |
-| Critter<br>Grape snake <br>                                   | Bush Mice     |           |              |
-| **Green Grass**                                               | **Meadow**    | **Lake**  |              |
-| Stalks                                                        | flowers       |           |              |
-| floor moss                                                    |               |           |              |
-| **White Grass**                                               | **Crags**     | **Swamp** | **Infected** |
-| Stalks<br>Mold (white variant)                                | Lichen        |           |              |
-| Skitterlings                                                  |               |           |              |
+| Yellow Grass                                                                            | Tree Island                                         | Planes    | Fey Touched  |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------ |
+| Yellow Stalk<br>short tuftgrass<br>Mold<br>Fruit bearing vine<br>Critter<br>Grape snake | Arid tree<br>berry bush<br>critter<br>Fruit Bat<br> | Floor Oak |              |
+|                                                                                         | Critter                                             |           |              |
+| **Green Grass**                                                                         | **Meadow**                                          | **Lake**  |              |
+| Stalks<br>floor moss<br>big hipo crunch                                                 | flowers                                             |           |              |
+| floor moss                                                                              |                                                     |           |              |
+| **White Grass**                                                                         | **Crags**                                           | **Swamp** | **Infected** |
+| Stalks<br>Mold (white variant)                                                          | Lichen                                              |           |              |
+| Skitterlings                                                                            |                                                     |           |              |
  ## Core puzzle 
  - what became of the soldiers 
+ - What Are they
+ - Wh
 
 
 
