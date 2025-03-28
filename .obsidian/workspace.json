@@ -174,9 +174,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "be0bc8849c11eccf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,7 +205,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e095d4a60d6b442a",
+  "active": "be0bc8849c11eccf",
   "lastOpenFiles": [
     "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
