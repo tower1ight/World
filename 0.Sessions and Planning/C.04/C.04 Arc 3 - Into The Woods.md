@@ -25,8 +25,11 @@ Sessions
 	 - Integration
 		 - See the 
  - Set tone
-	 - Stalks
-	 - Parasitic grape like vine, large crackly  
+	 - Hostile, Arid, bursting with life
+	 - Biodiversity
+		 - Stalks
+		 - Parasitic grape like vine, 
+			 - large crackly leaves, smell like cardomom
  - Core puzzle 
 	 - What became of the soliders
 	 - What are they now
