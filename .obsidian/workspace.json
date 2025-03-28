@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "go",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,8 +195,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31c9e605cdf6d37a",
+  "active": "e095d4a60d6b442a",
   "lastOpenFiles": [
+    "1.People/Groups and Factions/Goblins/Goblin.md",
+    "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
+    "Misc/goblin.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
     "Misc/Xylaan.md",
     "1.Places/Geography and Borders/Xylaan/Xylaan (location).md",
@@ -221,9 +223,6 @@
     "1.People/Gods/The Great Library.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species/Dragonborn.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Germ.md",
-    "1.People/Groups and Factions/Arcadian Court.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/skiffs.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Propagation Rituals.md",
     "Misc/Weather Table.png",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",

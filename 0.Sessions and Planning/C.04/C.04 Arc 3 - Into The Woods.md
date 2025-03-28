@@ -12,6 +12,15 @@ Sessions
 	- vission? Arcadia wants the players to kill the 
 	- The locals see them as an extension of arcadias will, as though a security camera is walking through the door, treat them with guest friendship
 
+
+
+
+
+
+
+
+
+
  # Outline
  ## ACT I
 - reaction, mission breif ] 15 min
@@ -48,7 +57,7 @@ Sessions
 	 - original battlefeild is overtaken by fungas plant and animal alike, sugar pools digesting the 
 		 - has a rotbeast heard, flies swarm, grubs writhe, massive grass 
  - suspense, run a lot of enclosed details before they go in
-	 - what the players know: the [[Goblins]] lure them on a march into unknown teritory 
+	 - what the players know: the [[Goblin]] lure them on a march into unknown teritory 
 		 - banner stolen in a previous goblin victory 
 		 - human figures looking in on arcadia 
 	 - what they dont:
@@ -66,7 +75,8 @@ Sessions
  
  ## ACT III
 
-goblin strength, you are an outsider 
+[[Goblin]] strength, you are an outsider, not well coordinated, vicious, 
+
 organize silent guards, you get a meeting with a beurocrat 
 - they already knew but they cannot budge the soliders are puppets of the goblins, and they would break a fey pact if they interfere
 
