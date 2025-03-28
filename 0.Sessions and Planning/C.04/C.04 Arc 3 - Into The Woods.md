@@ -67,7 +67,8 @@ Sessions
  ## ACT III
 
 goblin strength, you are an outsider 
-oraniz
+organize silent guards, you get a meeting with a beurocrat 
+- they already knew but they cannot budge the soliders are puppets of the goblins, and they would break a fey pact if they interfere
 
 - on the prooving ground: investigating a mystery 
 	- what is the deal why are they acting inhuman

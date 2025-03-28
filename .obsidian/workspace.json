@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bigby",
+                "query": "go",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,7 +196,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e095d4a60d6b442a",
+  "active": "31c9e605cdf6d37a",
   "lastOpenFiles": [
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
     "Misc/Xylaan.md",
