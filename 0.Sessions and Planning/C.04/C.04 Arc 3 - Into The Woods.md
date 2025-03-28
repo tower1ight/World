@@ -27,7 +27,9 @@ Sessions
  - Set tone
 	 - Hostile, Arid, bursting with life
 	 - Biodiversity
-		 - Stalks
+		 - Stalks,
+			 - 5ft diameter 10 or so feet apart for each pretty evenly spread but 
+			 - no distinct oder, feint 
 		 - Parasitic grape like vine, 
 			 - large crackly leaves, smell like cardomom
  - Core puzzle 
