@@ -7,13 +7,15 @@ Sessions
 
 
  ## General questions
- - - ==How are we dealing with the germ==
+ - what do the masks look like? how are they attached 
 - Establish protection for the heros
 	- vission? Arcadia wants the players to kill the 
 	- The locals see them as an extension of arcadias will, as though a security camera is walking through the door, treat them with guest friendship
 
 
-
+ ## Themes, goals vibes
+ - Germ 
+	 - sicwill set if at any point the player breaths air: two phases  
 
 
 
