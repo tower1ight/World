@@ -71,9 +71,13 @@ Things to consider
  
  ## Yellow Stalks
 
-| *yellow Stalk*                                                                                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| — Octagonal scalloped cylinders that reach into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away |
+| *yellow Stalk*                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike |
+
+| *yellow Stalk*                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike |
 - octagonal scalloped husky things, 
 - 5 ft in diameter 
 
