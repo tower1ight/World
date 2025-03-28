@@ -32,11 +32,14 @@ Sessions
 			 - no distinct oder, feint 
 		 - Parasitic grape like vine, 
 			 - large crackly leaves, smell like cardomom
+		 - Snake creature for grapes
 		 - rodent burrows arount the floor 
 			 - creature has a long snout 
+			 - 
 		 - Bug cloud situation 
 			 - large polyphonic static 
-			 - small swarms about a three food
+			 - small swarms about a three foot cube of volume
+		 - 
  - Core puzzle 
 	 - What became of the soliders
 	 - What are they now
