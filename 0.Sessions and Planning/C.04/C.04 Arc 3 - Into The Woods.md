@@ -11,11 +11,17 @@ Sessions
 - Establish protection for the heros
 	- vission? Arcadia wants the players to kill the 
 	- The locals see them as an extension of arcadias will, as though a security camera is walking through the door, treat them with guest friendship
+- 
 
 
  ## Themes, goals vibes
  - Germ 
-	 - sicwill set if at any point the player breaths air: two phases  
+	 - Mask 
+		 - perfect seal on the face
+	 - sickness will set if at any point the player breaths air: two phases  
+	 - looking phase
+		 - Start to hear the 
+	 - Integration
 
 
 
@@ -41,6 +47,8 @@ Sessions
 			- They get to hunt soliders 
 			- they get to explore **she will emphasize this**
 			- money, tittle, items, freedoms, land guarantees?
+		- What provisions are they given:
+			- lots of health potions 
 - Off on the journey
 	- Gopher like you pop up and make your way onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
 	- semi normal introdution
