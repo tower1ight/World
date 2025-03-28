@@ -33,6 +33,8 @@ Sessions
 | *yellow Stalk*                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike                                                |
+| **[[mold]]**                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                      |
 | **fruit bearing vine**                                                                                                                                                                                                                                                               |
 | — Parasitic grape like vine, grows from floor<br>— spherical berries with a point at the end, semi transparent skin<br>— bright red gel at the center, tastes sweet with a slight spice and a sinus sting like cardamom<br>— Film like leaves that acts like a husk around the fruit |
 | **Critter**                                                                                                                                                                                                                                                                          |
@@ -42,13 +44,18 @@ Sessions
 | **Bug Swarm**                                                                                                                                                                                                                                                                        |
 | —                                                                                                                                                                                                                                                                                    |
 
-| Critter                                                                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike |
 
-| Grape Lizard                                                                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike |
+| Yellow Grass                   | Tree Island   | Planes    | Fey Touched  |
+| ------------------------------ | ------------- | --------- | ------------ |
+| Yellow Stalk                   | Arid tree<br> | Floor Oak |              |
+| Skitterlings<br>               | Bush Mice     |           |              |
+| **Green Grass**                | **Meadow**    | **Lake**  |              |
+| Stalks                         | flowers       |           |              |
+| floor moss                     |               |           |              |
+| **White Grass**                | **Crags**     | **Swamp** | **Infected** |
+| Stalks<br>Mold (white variant) | Lichen        |           |              |
+| Skitterlings                   |               |           |              |
+
 
 - 5ft diameter 10 or so feet apart for each pretty evenly spread but 
 - no distinct oder, feint 
