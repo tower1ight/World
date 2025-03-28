@@ -25,11 +25,28 @@ Sessions
 		- See the 
  #### Set tone
 - Hostile, Arid, bursting with life
-- Biodiversity
-- Stalks,
 
+| *yellow Stalk*                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike |
 
+| *yellow Stalk*                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike |
+| fruit bearing vine                                                                                                                                                                                                                    |
+| — Parasitic grape like vine                                                                                                                                                                                                           |
+| *yellow Stalk*                                                                                                                                                                                                                        |
+| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike |
+| *yellow Stalk*                                                                                                                                                                                                                        |
+| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike |
 
+| Critter                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike |
+
+| Grape Lizard                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike |
 
 - 5ft diameter 10 or so feet apart for each pretty evenly spread but 
 - no distinct oder, feint 
