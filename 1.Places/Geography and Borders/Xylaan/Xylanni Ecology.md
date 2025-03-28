@@ -71,6 +71,13 @@ Things to consider
  
  ## Yellow Stalks
 
+| *yellow Stalk*                                                                     |
+| ---------------------------------------------------------------------------------- |
+| Octagonal scalloped cylinders that reach into the sky, tops are sometime<br>ksfdgn |
+- octagonal scalloped husky things, 
+- 5 ft in diameter 
+
+
 | Seight<br>Trees          | Smell<br>Flowers                 | Taste<br>Microorg       | Touch<br>            | Mind                                   |
 | ------------------------ | -------------------------------- | ----------------------- | -------------------- | -------------------------------------- |
 | Wavy<br>Hypnotic<br><br> | Musky<br>Fermented<br>Yeasty<br> | Bitter<br>Acrid<br><br> | Light<br>Elastic<br> | Claustrophobic<br><br><br><br><br><br> |
