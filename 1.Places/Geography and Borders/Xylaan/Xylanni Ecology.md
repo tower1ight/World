@@ -18,7 +18,7 @@ Things to consider
 | Yellow Grass                   | Tree Island             | Planes    | Fey Touched  |     |
 | ------------------------------ | ----------------------- | --------- | ------------ | --- |
 | Stalks<br>Mold                 | Acacia<br>Floor Oak<br> | Floor Oak |              |     |
-| Hell Pig<br>Skitterlings<br>   | Bush Mice               |           |              |     |
+| Skitterlings<br>               | Bush Mice               |           |              |     |
 | **Green Grass**                | **Meadow**              | **Lake**  |              |     |
 | Stalks                         | flowers                 |           |              |     |
 | floor moss                     |                         |           |              |     |
