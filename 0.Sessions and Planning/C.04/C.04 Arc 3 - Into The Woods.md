@@ -15,12 +15,12 @@ Sessions
 
 
  ## Themes, goals vibes
- - Germ 
-	 - Mask 
-		 - perfect seal on the face
-	 - sickness will set if at any point the player breaths air: two phases
-	 - looking phase
-		 - Incredible hunger, insatiable
+ #### Germ 
+- Mask 
+	- perfect seal on the face
+- sickness will set if at any point the player breaths air: two phases
+	- looking phase
+		- Incredible hunger, insatiable
 		 - 
 	 - Integration
 		 - See the 
