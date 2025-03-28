@@ -26,10 +26,6 @@ Sessions
  #### Set tone
 - Hostile, Arid, bursting with life
 
-| *yellow Stalk*                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike |
-
 | *yellow Stalk*                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike                                                |
@@ -45,38 +41,18 @@ Sessions
 | —                                                                                                                                                                                                                                                                                    |
 
 
-| Yellow Grass                   | Tree Island   | Planes    | Fey Touched  |
-| ------------------------------ | ------------- | --------- | ------------ |
-| Yellow Stalk                   | Arid tree<br> | Floor Oak |              |
-| Skitterlings<br>               | Bush Mice     |           |              |
-| **Green Grass**                | **Meadow**    | **Lake**  |              |
-| Stalks                         | flowers       |           |              |
-| floor moss                     |               |           |              |
-| **White Grass**                | **Crags**     | **Swamp** | **Infected** |
-| Stalks<br>Mold (white variant) | Lichen        |           |              |
-| Skitterlings                   |               |           |              |
-
-
-- 5ft diameter 10 or so feet apart for each pretty evenly spread but 
-- no distinct oder, feint 
-- Parasitic grape like vine, 
-- large crackly leaves, smell like cardomom
-- Snake creature for grapes
-- rodent burrows arount the floor 
-- creature has a long snout 
-- 
-- Bug cloud situation 
-- large polyphonic static 
-- small swarms about a three foot cube of volume
-- 
- - Core puzzle 
-	 - What became of the soliders
-	 - What are they now
-	 - Clues
-		 - how has this place changed their biology
-		 - 
-	 - 
-
+| Yellow Grass                                                  | Tree Island   | Planes    | Fey Touched  |
+| ------------------------------------------------------------- | ------------- | --------- | ------------ |
+| Yellow Stalk<br>short tuftgrass<br>Mold<br>Fruit bearing vine | Arid tree<br> | Floor Oak |              |
+| Critter<br>Grape snake <br>                                   | Bush Mice     |           |              |
+| **Green Grass**                                               | **Meadow**    | **Lake**  |              |
+| Stalks                                                        | flowers       |           |              |
+| floor moss                                                    |               |           |              |
+| **White Grass**                                               | **Crags**     | **Swamp** | **Infected** |
+| Stalks<br>Mold (white variant)                                | Lichen        |           |              |
+| Skitterlings                                                  |               |           |              |
+ ## Core puzzle 
+ - what became of the soldiers 
 
 
 
