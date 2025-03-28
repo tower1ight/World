@@ -22,10 +22,10 @@ Sessions
 	 - looking phase
 		 - Start to hear the 
 	 - Integration
-	 - 
+		 - See the 
  - Core puzzle 
-	 - Determine 
-
+	 - Why are the soliders watching the people 
+	 - 
 
 
 
@@ -105,6 +105,8 @@ organize silent guards, you get a meeting with a beurocrat
 			- bery vines with thorns growing around something
 - fight a battle outside the city
 - ==do these soliders pose a serious threat? Why == 
+- treasure:
+	- enough sugars to survive a couple months 
 
 # Omens
  1. A half dug pit lays full to the brim with emaciated soliders almost untouched as if their flesh had nothing of desire 
