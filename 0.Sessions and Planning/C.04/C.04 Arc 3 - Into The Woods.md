@@ -66,6 +66,9 @@ Sessions
  
  ## ACT III
 
+goblin strength, you are an outsider 
+oraniz
+
 - on the prooving ground: investigating a mystery 
 	- what is the deal why are they acting inhuman
 	- who is this main vilan
