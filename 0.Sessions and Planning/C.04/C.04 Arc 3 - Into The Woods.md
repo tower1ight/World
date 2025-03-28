@@ -18,11 +18,15 @@ Sessions
  - Germ 
 	 - Mask 
 		 - perfect seal on the face
-	 - sickness will set if at any point the player breaths air: two phases  
+	 - sickness will set if at any point the player breaths air: two phases
 	 - looking phase
-		 - Start to hear the 
+		 - Incredible hunger, insatiable
+		 - 
 	 - Integration
 		 - See the 
+ - Set tone
+	 - Stalks
+	 - Parasitic grape like vine, large crackly  
  - Core puzzle 
 	 - What became of the soliders
 	 - What are they now
