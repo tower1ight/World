@@ -24,7 +24,11 @@ Sessions
 	 - Integration
 		 - See the 
  - Core puzzle 
-	 - Why are the soliders watching the people 
+	 - What became of the soliders
+	 - What are they now
+	 - Clues
+		 - how has this place changed their biology
+		 - 
 	 - 
 
 
@@ -34,7 +38,9 @@ Sessions
 
  # Outline
  ## RECAP
- - 
+ - Important NPCs
+ - the pieces of info 
+	 - the negotiation
  ## ACT I
 - reaction, mission breif ] 15 min
 	- in media res watching the generals arival
