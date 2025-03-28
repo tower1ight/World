@@ -21,25 +21,28 @@ Sessions
 - sickness will set if at any point the player breaths air: two phases
 	- looking phase
 		- Incredible hunger, insatiable
-		 - 
-	 - Integration
-		 - See the 
- - Set tone
-	 - Hostile, Arid, bursting with life
-	 - Biodiversity
-		 - Stalks,
-			 - 5ft diameter 10 or so feet apart for each pretty evenly spread but 
-			 - no distinct oder, feint 
-		 - Parasitic grape like vine, 
-			 - large crackly leaves, smell like cardomom
-		 - Snake creature for grapes
-		 - rodent burrows arount the floor 
-			 - creature has a long snout 
-			 - 
-		 - Bug cloud situation 
-			 - large polyphonic static 
-			 - small swarms about a three foot cube of volume
-		 - 
+	- Integration
+		- See the 
+ #### Set tone
+- Hostile, Arid, bursting with life
+- Biodiversity
+- Stalks,
+
+
+
+
+- 5ft diameter 10 or so feet apart for each pretty evenly spread but 
+- no distinct oder, feint 
+- Parasitic grape like vine, 
+- large crackly leaves, smell like cardomom
+- Snake creature for grapes
+- rodent burrows arount the floor 
+- creature has a long snout 
+- 
+- Bug cloud situation 
+- large polyphonic static 
+- small swarms about a three foot cube of volume
+- 
  - Core puzzle 
 	 - What became of the soliders
 	 - What are they now
