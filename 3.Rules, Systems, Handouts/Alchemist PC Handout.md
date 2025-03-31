@@ -25,11 +25,12 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 
 
 ## Mechanical Class and Social Structure
-**Druids, Wizards, Sorcerers:** often performing some sort of science roll
+**Druids, Wizards, Artificers, Sorcerers:** often performing some sort of science roll
+**Bards:** Keepers of oral history, designers, artists
+Rangers:
+**Paladins, Fighters, Rouges, Artificers again**
 
-**Fighters, Rouges, 
-
-**
+**Barbarians, Clerics, Warlocks
 
 
 ## Core concepts and Ideas
