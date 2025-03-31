@@ -23,13 +23,13 @@
       "suffix": " files",
       "metric": {
         "type": 2,
-        "counter": 6
+        "counter": 0
       }
     }
   ],
   "countComments": false,
   "collectStats": true,
-  "displaySectionCounts": true,
+  "displaySectionCounts": false,
   "pageWords": 300,
   "statsPath": ".obsidian/vault-stats.json"
 }
