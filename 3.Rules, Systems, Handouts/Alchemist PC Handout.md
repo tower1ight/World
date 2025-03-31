@@ -5,7 +5,7 @@ aliases:
 
  # TC and Overview
 
-You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs of your homeland for an unseemly desire for independence, you and yours chalk that trait up to your mother the ancient dragon [[Tanniaxs]]. You've allowed the newcomers to call you alchemists, but [[tannia]] is the word you call yourself, not a name you keep secret, but one not permitet  haughty and proudly you wear your draconic nobility on your scales, 
+You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs of your homeland for an unseemly desire for independence, you and yours chalk that trait up to your mother the ancient dragon [[Tanniaxs]]. You've allowed the newcomers to call you alchemists, but [[tannia]] is the word you call yourself, a name not permitted to roll over unforked tongues. You may be small but none with any sense would call you weak, you speal proudly you wear your draconic nobility on your scales, 
 
 
 
