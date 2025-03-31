@@ -15,7 +15,7 @@ Tannians were here before anyone else in this land. you, along with the [[The En
 
 ## Core concepts and Ideas
 
- **Xylaan:** "Xylaan is both a land and a being, every organism within its body thinking, growing, breathing together. If one can imagine a god having singular identity, see Xylaan as a gardener."
+ **Xylaan (zy laa):** "Xylaan is both a land and a being, every organism within its body thinking, growing, breathing together. If one can imagine a god having singular identity, see Xylaan as a gardener."
  
 **Network and the Germ:** Running throughout Xylaan (L) is a vast and dense mycelial network, this makes makes up the body of this god. The network grants low level psionic connection to all those that have bonded to it. This process involves taking in and growing a spore, primarily referred to as a "germ" of the network into ones body. This piece of the network is disconnected from the god but is integral to connecting with it. Several variations of this germ have been crafted and engineered (by your ancestors), these variants provide a wide variety of additional effects. The network constantly emits signal radially from its flesh, similar to that of a magnetic field emitted by a wire with active current. The strength of ones connection is primarily dependent on proximity.
 
@@ -27,13 +27,15 @@ Tannians were here before anyone else in this land. you, along with the [[The En
 
 In terms of the earths surface, Xylaan can be split into a couple regions, the deadlands, chaparral, alpine, deciduous forest, the Arcadian sea, and the rainforest. Xylaan, however is differentiated vertically as much as it is horizontally, beneath the earth and water the mycelium ebbs and flows in strength, lending strength to people and areas that it relies on for its function as an organism. Above there is a thick cloud of mist, swirling lethargically with the wind, colloquially known as the "sugar layer". This layer is home to an unimaginable amount of biodiversity, supporting billions of microbes and creatures able to drift through it including a consistent presence of the germ. 
 
-**Deadlands**: A somewhat pessimistic term coined by tannian's frustrated with a lack of progress at repopulating this biome. You and yours have managed to get a wispy grass to take root here but a commitment to waning your biology off of [[Ichor]] has left you with wildly fertile soil, but no species capable of processing its nutrients. For the two centuries you have been here you have dug a vast network of tunnels bellow ground, in which you have hid the machines keeping the xylaan at bay. Anti-psionic fields project from the earth and cancel out any growth xylaan would try to muster. on the opposite side of the forest a mycelial netw
+**Deadlands**: A somewhat pessimistic term coined by tannian's frustrated with a lack of progress at repopulating this biome. You and yours have managed to get a wispy grass to take root here but a commitment to waning your biology off of [[Ichor]] has left you with wildly fertile soil, but no species capable of processing its nutrients. For the two centuries you have been here you have dug a vast network of tunnels bellow ground, in which you have hid the machines keeping the xylaan at bay. Anti-psionic fields project from the earth and cancel out any growth xylaan would try to muster. 
 
 **Chaparral**: The chaparral region is defined by a dry climate and distance from xylaan's heart, a valley between the foothills of xylaan's Northern mountain range and the tallons, this region receives a proportionally small amount of connection to the network or the sugar layer. 
 
 **Alpine:** The alpine defined as a region by its elevation more than is physical space, it is highlighted by a crust of colorful lichen making rings around everything at this elevation, organisms pack into the stony crags, soaking in the sugar layer, calcifying on the mountains surface, and giving way to its descendants building  even further out, for moss to find purchase in its nooks and crannys, for critters to build nests in, for small birds to hunt said critters, and so on and so on 
 
 **Deciduous Forrest:**
+Your former home 
+
 
 **Arcadian sea:** the Arcadian sea is an enormous lake nestled against a finger of the tallons that curves around xylaan's southern edge. Home to the arcadian court it holds the wealth of xylaan
 
