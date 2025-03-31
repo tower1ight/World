@@ -27,16 +27,17 @@ Tannians were here before anyone else in this land. you, along with the [[The En
 
 In terms of the earths surface, Xylaan can be split into a couple regions, the deadlands, chaparral, alpine, deciduous forest, the Arcadian sea, and the rainforest. Xylaan, however is differentiated vertically as much as it is horizontally, beneath the earth and water the mycelium ebbs and flows in strength, lending strength to people and areas that it relies on for its function as an organism. Above there is a thick cloud of mist, swirling lethargically with the wind, colloquially known as the "sugar layer". This layer is home to an unimaginable amount of biodiversity, supporting billions of microbes and creatures able to drift through it including a consistent presence of the germ. 
 
-** Deadlands**
+**Deadlands**: A somewhat pessimistic term coined by tannian's frustrated with a lack of scientific progress since their exedous from xylaan 
 
-**Chaparral**: he chaparral region is defined by a dry climate and distance from xylaan's heart, a valley between the foothills of xylaan's Northern mountain range and the tallons, this region receives a proportionally small amount of connection to the network or the sugar layer. 
+**Chaparral**: The chaparral region is defined by a dry climate and distance from xylaan's heart, a valley between the foothills of xylaan's Northern mountain range and the tallons, this region receives a proportionally small amount of connection to the network or the sugar layer. 
 
 **Alpine:** The alpine defined as a region by its elevation more than is physical space, it is highlighted by a crust of colorful lichen making rings around everything at this elevation, organisms pack into the stony crags, soaking in the sugar layer, calcifying on the mountains surface, and giving way to its descendants building  even further out, for moss to find purchase in its nooks and crannys, for critters to build nests in, for small birds to hunt said critters, and so on and so on 
 
+**Deciduous Forrest:**
 
 **Arcadian sea:** the Arcadian sea is an enormous lake nestled against a finger of the tallons that curves around xylaan's southern edge. Home to the arcadian court it holds the wealth of xylaan
 
-**Rain forest and it's Abyssal dark:** closer to the planet's equator dis place humid and dark
+**Rain forest and Abyssal dark:** closer to the planet's equator this place is humid and below the crown cover, dark. Even for your people, little is known about this region
  - Xylaani Peoples:
 
 	 
