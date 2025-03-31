@@ -4,7 +4,9 @@ aliases:
 ---
 
  # TC and Overview
- You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs of you homeland and 
+
+You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs of your homeland. You go by many names, alchemists, kobolds, 
+
 
 
 
