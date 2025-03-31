@@ -157,7 +157,7 @@
               "type": "outline",
               "state": {
                 "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,7 +206,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b8dc840a35d195b4",
+  "active": "178fde90833364b0",
   "lastOpenFiles": [
     "1.People/Groups and Factions/Tannia.md",
     "Misc/Tanniaxs.md",
