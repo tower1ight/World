@@ -27,7 +27,7 @@ Tannians were here before anyone else in this land. you, along with the [[The En
 
 In terms of the earths surface, Xylaan can be split into a couple regions, the deadlands, chaparral, alpine, deciduous forest, the Arcadian sea, and the rainforest. Xylaan, however is differentiated vertically as much as it is horizontally, beneath the earth and water the mycelium ebbs and flows in strength, lending strength to people and areas that it relies on for its function as an organism. Above there is a thick cloud of mist, swirling lethargically with the wind, colloquially known as the "sugar layer". This layer is home to an unimaginable amount of biodiversity, supporting billions of microbes and creatures able to drift through it including a consistent presence of the germ. 
 
-**Deadlands**: A somewhat pessimistic term coined by tannian's frustrated with a lack of progress at repopulating this biome since their exodus from xylaan. A whispy grass 
+**Deadlands**: A somewhat pessimistic term coined by tannian's frustrated with a lack of progress at repopulating this biome. You and yours have managed to get a wispy grass to take root here but a commitment to waning your biology off of [[Ichor]] has left you with a wildly fertile 
 
 **Chaparral**: The chaparral region is defined by a dry climate and distance from xylaan's heart, a valley between the foothills of xylaan's Northern mountain range and the tallons, this region receives a proportionally small amount of connection to the network or the sugar layer. 
 
