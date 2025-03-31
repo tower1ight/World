@@ -4,8 +4,21 @@
 We are soaking up the world
 
 ## Rythm, Phases, and Actions
- #### Day Start
- At the Start of a day a couple things will happen, the GM will roll on a random table for the days weather 
+#### Phases
+Each Day has 3 Phases:
+- Morning: Sunrise to Noon.
+- Afternoon: Noon to Sunset.
+- Night: Sunset to Sunrise.
+
+ When ending a phase in a wilderness hex, a roll will made by the GM determining if the party provokes no encounter, makes contact with any landmarks that could be found in the given hex, an stumbles upon an omen or sign of a myth or legend in the area
+
+| D6  | Outcome                                                      |
+| --- | ------------------------------------------------------------ |
+| 1   | Encounter the next Omen from a<br>random Myth in this Realm. |
+| 2-3 | Encounter the next Omen from the<br>nearest Myth.            |
+| 4-6 | Encounter the Hex’s Landmark.<br>Otherwise all clear.        |
+#### Day Start
+ At the Start of a day a couple things will happen, the GM will roll on a random table for the days weather
 
 | 2D12 | Descriptor | Element  |
 | :--- | :--------- | :------- |
@@ -23,25 +36,7 @@ We are soaking up the world
 | 12   | Harsh      |          |
 
 
- When ending a phase in a wilderness hex, a roll will made by the GM determining if the party provokes no encounter, makes contact with any landmarks that could be found in the given hex, an stumbles upon an omen or sign of a myth or legend in the area
- #### Phases
-Each Day has 3 Phases:
-- Morning: Sunrise to Noon.
-- Afternoon: Noon to Sunset.
-- Night: Sunset to Sunrise.
-
-Wilderness Roll: when ending a phase in the wilderness, make a wilderness roll
-
-| D6  | Outcome                                                      |
-| --- | ------------------------------------------------------------ |
-| 1   | Encounter the next Omen from a<br>random Myth in this Realm. |
-| 2-3 | Encounter the next Omen from the<br>nearest Myth.            |
-| 4-6 | Encounter the Hex’s Landmark.<br>Otherwise all clear.        |
-
-
-
-
-Resting in the wild:
+#### Resting, Navigation, Committing to the Second World:
 
 The forest is a dangerous place, a draining place, an entirely alien ecosystem presses on your mind. When resting in the wilderness, the preparation and time required for a long rest will result in the benefits of a short rest. A short rest will allow you to catch your breath, get a lay of the land, do any planning you might need, but it will not provide the benefits of a typical short rest.
 
