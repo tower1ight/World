@@ -13,8 +13,13 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 - Survive
 **The Dark:** kobolds naturally prefer cold dark spaces, at their core they are burrowers and cave dwellers
 **The Secondary Network:** Kobolds have developed a contained variant of xylaan's mycelial network bellow ground, It has been around for about 50 years and is still a contentious issue, some believe its existance is antithetical to the goal of keeping the forest from spreading, some believe it. is the only tool that will allow them to help the people of xylaan, some feel a deep longing for the connection and meaning that xylaan was able to provide in the best of times. These contradictions define them as a people 
+**Nationalism:** These people are deeply to their heritage and their peoples collective work, they may disagree on how best to achieve their cultural goals but they are inextricably bound by pride in both their ethnic and national identity
+
+
+
+
 **Economy:** Without external trade and complex drives for with a complex and equitable network resources are often well distributed and there is significant care put into ensuring people have their needs met
-**Nationalism:** These people are deeply proud of their heritage and their peoples collective work 
+
 
 ## Core concepts and Ideas
 
