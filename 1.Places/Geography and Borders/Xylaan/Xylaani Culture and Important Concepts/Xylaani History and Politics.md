@@ -40,7 +40,7 @@ aliases:
 		 - Specifically is getting help with manufacturing practices
  - Faction History
 	  - Pre [[disconnect]]
-		  - collaborated on [[skiffs]] with [[Alchemists]]
+		  - collaborated on [[skiffs]] with [[Tannia]]
 	  - Post [[Xylaan (entity) retreat]]
 
   ### [[The Entangled]]   
@@ -53,7 +53,7 @@ aliases:
 	  -  Pre [[disconnect]]
 	  - Post [[Xylaan (entity) retreat]]
 
- ### [[Alchemists|Alchemists]]  (mechanics, manufacturing, physical and natural sciences)
+ ### [[Tannia|Tannia]]  (mechanics, manufacturing, physical and natural sciences)
 
 
 

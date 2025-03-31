@@ -7,7 +7,7 @@ Sessions [[C.04.04]], [[C.04.05]], [[C.04.06]], [[C.04.05]]
  ## Raynault Adventure
 Outline
 	 - Alchemists show up 
-		 - massve party of [[Alchemists]] with drangolin mounts 
+		 - massve party of [[Tannia]] with drangolin mounts 
 		 - post up 
 	 - Field encounter
 			 - goofy man caught in bear trap
@@ -18,7 +18,7 @@ Outline
 		- First encounter some frightened giant centipedes that will attack the players
 			- Upon investegation of tracks on bizarely soft earth the partty may find tracks that lead to the remantants of a fight, a trail of blood leads from this location to a nest containing a slain adult giant centipede wrapped around an egg
 			- The egg is sitting in wet shredded earth, will eventually crack if left in dry air for too long w
-		- [[Alchemists|alchemist]] homies 
+		- [[Tannia|alchemist]] homies 
 			- cover:  surveying a break in the alchemist network 
 			- they will interrogate the players as to why they are there and what their relation to the COL soliders is, 
 				- Thier communication functions in one direction, allowing them to send visisons to one another, their primary means of speech is through signing with no audio component , heavy use of facial expressions 
@@ -48,7 +48,7 @@ Outline
 				- tak
 				- each carries a set of contraptions, 
 			- Adventure branches 
-				- If the group is unable to keep the [[Alchemists]] from prying: they will be escorted back to the premises 
+				- If the group is unable to keep the [[Tannia]] from prying: they will be escorted back to the premises 
 				- If they are able to convince the alchemists of the other thing they get to go back
 		- The cave diverts into two paths 
 			- one of them is a waterfall to certain death bum bum bum

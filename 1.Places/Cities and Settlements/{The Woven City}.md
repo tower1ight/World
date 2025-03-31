@@ -25,7 +25,7 @@ new neighborhood being built to facilitate mycelial atrophy refugees
 
 Eras
 - 1, definition of a new court, identification with the fey
-	- raids on the mountain [[Alchemists|kobolds]]
+	- raids on the mountain [[Tannia|kobolds]]
 	- warfare, squabbles and partisan immigration into the court when the 
 - 2. the era of the builder
 	- resource project, sanctum project, waste project

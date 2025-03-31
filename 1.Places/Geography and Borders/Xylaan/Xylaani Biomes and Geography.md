@@ -12,7 +12,7 @@ aliases:
 
  # Biomes
   ## Forced Grassland
-  - Description: Split into two sections by grouping of [[Alchemists]]. Grassland that feels simulated Not barren but cultivated, plants grow but without any communication or community
+  - Description: Split into two sections by grouping of [[Tannia]]. Grassland that feels simulated Not barren but cultivated, plants grow but without any communication or community
   - Important locations
 	  - [[Fort Raynault]]
 	  - [[{disconnected city}]]
