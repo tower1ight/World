@@ -7,7 +7,7 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 
 ## IN MEDIAS RES
 
-The, party in their most recent session has tasked 
+The, party in their most recent session negotiated a peace deal with your people, returning what you know as a experimental germ variant stolen by their former general. This however does not indicate your peoples confidence in the legitimacy of this peace, 
 
 
 ## Cultural Values and Concepts
