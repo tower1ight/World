@@ -26,7 +26,7 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 
 ## Mechanical Class and Social Structure
 
-Druids, Paladins, and Rangers are by far the most likely of an archetype that 
+Druids, Paladins, Fighters, and Rangers are by far the most likely of an archetype for making a PC in this society. This would be followed by Wizards, Artificers, and Bards which are prevalent but ra
 **Druids, Wizards, Artificers, Sorcerers, Rangers:** often performing some sort of science roll
 **Druids, Bards, Paladins:** Keepers of oral history, designers, artists, healers 
 **Paladins, Fighters, Rouges, Artificers again:** Almost always immersed in the structure of the tannian military, paladins don't receive divine power perse but rather gain power through cultural commitment to containing xylaan
