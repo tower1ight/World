@@ -7,7 +7,11 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 
 ## Societal Structure
 **Goals**
--
+- Keep the forest from spreading 
+- Maintain and Rehabilitate xylaani species
+- Survive
+
+**
 
 ## Core concepts and Ideas
 
