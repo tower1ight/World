@@ -25,13 +25,11 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 
 
 ## Mechanical Class and Social Structure
-**Druids, Wizards, Artificers, Sorcerers:** often performing some sort of science roll
+**Druids, Wizards, Artificers, Sorcerers, Rangers:** often performing some sort of science roll
 **Bards:** Keepers of oral history, designers, artists
-Rangers:
 **Paladins, Fighters, Rouges, Artificers again**
-
 **Barbarians, Clerics, Warlocks
-
+**3rd party classes and Edgecasses:** If you have an idea for your character that you are excited about I would love to talk! Let me know what you are thinking and generally speaking we can usually work something out. However I reserve the right to veto 
 
 ## Core concepts and Ideas
 
