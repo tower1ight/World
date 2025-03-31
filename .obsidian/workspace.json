@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dragon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,7 +205,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8dc840a35d195b4",
+  "active": "31c9e605cdf6d37a",
   "lastOpenFiles": [
     "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
     "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
