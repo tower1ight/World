@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +207,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "178fde90833364b0",
+  "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
     "1.People/Groups and Factions/Tannia.md",
     "Misc/Tanniaxs.md",
