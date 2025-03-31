@@ -30,8 +30,8 @@ In terms of the earths surface, Xylaan can be split into a couple regions, the d
 
 **Alpine:** The alpine defined as a region by its elevation more than is physical space, it is highlighted by a crust of colorful lichen making rings around everything at this elevation, organisms pack into the stony crags, soaking in the sugar layer, calcifying on the mountains surface, and giving way to its descendants building  even further out, for moss to find purchase in its nooks and crannys, for critters to build nests in, for small birds to hunt said critters, and so on and so on 
 
-**Deciduous Forrest:**
-Your former home, shared with the [[The Entangled|Entangled]] also known as [[The Entangled|Seers]]
+**Hedgerow:**
+Your former home, shared with the [[The Entangled|Entangled]] also known as [[The Entangled|Seers]] this place has heavy presence of fungi making up
 
 
 **Arcadian sea:** the Arcadian sea is an enormous lake nestled against a finger of the tallons that curves around xylaan's southern edge. Home to the arcadian court it holds the wealth of xylaan
