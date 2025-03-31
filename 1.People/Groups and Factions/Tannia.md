@@ -10,7 +10,7 @@ aliases:
 ---
 
 
-Tannia (plural) Tannian (singlular) great Tannia (honarific)
+Tannia, Tannians (plural) Tannian (singlular) great Tannia (honorific)
 
 [[Xylaan]]
 [[VOCs]]

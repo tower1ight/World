@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.People/Groups and Factions/Tannia.md",
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tannia"
+              "title": "Alchemist PC Handout"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.People/Groups and Factions/Tannia.md",
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tannia"
+              "title": "Backlinks for Alchemist PC Handout"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.People/Groups and Factions/Tannia.md",
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tannia"
+              "title": "Outline of Alchemist PC Handout"
             }
           },
           {
@@ -207,10 +207,11 @@
   },
   "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
+    "1.People/Groups and Factions/Tannia.md",
+    "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
+    "1.People/Groups and Factions/The Entangled.md",
     "Misc/Xylaan.md",
     "Misc/Tanniaxs.md",
-    "1.People/Groups and Factions/The Entangled.md",
-    "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
     "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
     "3.Rules, Systems, Handouts/Non specific PC Handout.md",
     "3.Rules, Systems, Handouts/VTT Map Ledger.md",
@@ -232,7 +233,6 @@
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/mycelium.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/mold.md",
     "0.Sessions and Planning/OS.01/OS.01 (One Shot 01) planning.md",
-    "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
     "Misc/Weather Table.png",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
