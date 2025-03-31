@@ -9,7 +9,7 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 
 An abridged history, 
 - Tannians were here before anyone else in this land
-- you, along with the [[The Entangled]], the [[Arcadian Court]], and the [[Goblin|Goblin Court]] and later the [[Seraphs]] built xylaan to
+- you, along with the [[The Entangled]], the [[Arcadian Court]], and the [[Goblin|Goblin Court]] and later the [[Seraphs]] built [[Xylaan]] or "the forest" together, a community and ecosystem absolutely brimming with life, but as centuries passed and the entif
 
 
 
