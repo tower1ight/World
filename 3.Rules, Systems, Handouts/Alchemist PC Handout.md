@@ -5,7 +5,7 @@ aliases:
 
  # TC and Overview
 
-You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs of your homeland for an unseemly desire for independence, you and yours chalk that up to your mother the great dragon. Alchemists is the name you've given to these newcomers and [[tannia]] is the word you call yourself in your tongue, a word you guard, your people are very 
+You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs of your homeland for an unseemly desire for independence, you and yours chalk that trait up to your mother the ancient dragon [[Tanniaxs]]. You've allowed the newcomers to call you alchemists, but [[tannia]] is the word you call yourself in your tongue, a word you guard. Your people 
 
 
 
