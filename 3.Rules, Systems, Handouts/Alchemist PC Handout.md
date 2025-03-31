@@ -10,8 +10,8 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 - Keep the forest from spreading 
 - Maintain and Rehabilitate xylaani species
 - Survive
-
-**
+**The Dark:** kobolds naturally prefer cold dark spaces, at their core they are burrowers and cave dwellers
+**The Secondary Network:** Kobolds 
 
 ## Core concepts and Ideas
 
