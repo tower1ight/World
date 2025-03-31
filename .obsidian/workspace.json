@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Rules, Systems, Handouts/New PC HANDOUT.md",
-                "mode": "preview",
+                "file": "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New PC HANDOUT"
+              "title": "Travel, hexes, and landmarks"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Rules, Systems, Handouts/New PC HANDOUT.md",
+                "file": "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New PC HANDOUT"
+              "title": "Backlinks for Travel, hexes, and landmarks"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Rules, Systems, Handouts/New PC HANDOUT.md",
+                "file": "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New PC HANDOUT"
+              "title": "Outline of Travel, hexes, and landmarks"
             }
           },
           {
@@ -206,8 +206,9 @@
   },
   "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
+    "3.Rules, Systems, Handouts/Non specific PC Handout.md",
+    "3.Rules, Systems, Handouts/VTT Map Ledger.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
-    "3.Rules, Systems, Handouts/New PC HANDOUT.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
     "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
     "1.People/Groups and Factions/Goblins/Goblin.md",
@@ -219,7 +220,6 @@
     "1.People/Groups and Factions/Seraphs.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Xylaani History and Politics.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/symbiotic groups.md",
-    "3.Rules, Systems, Handouts/VTT Map Ledger.md",
     "Misc/mist layer.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Biomes and Geography.md",
     "1.Places/Cities and Settlements/{Seraphine port city}.md",

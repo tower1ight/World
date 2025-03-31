@@ -1,9 +1,9 @@
 
 
+## What are we doing here
+We are soaking up the world
 
- ## What are we doing here
-
- ## Rythm, Phases, and Actions
+## Rythm, Phases, and Actions
  #### Day Start
  At the Start of a day a couple things will happen, the GM will roll on a random table for the days weather 
 
