@@ -6,12 +6,13 @@ aliases:
 You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs of your homeland for an unseemly desire for independence. You've allowed the newcomers to call you alchemists, but [[tannia]] is the word you call yourself, a name given to you long ago by your mother, the ancient dragon [[Tanniaxs]], a name not permitted to roll over unforked tongues. You may be small but none with any sense would call you weak, you stand in a sheildwall with your brothers and sisters, proudly wearing your draconic nobility on painted scales.
 
 ## Societal Structure
+
 **Goals**
 - Keep the forest from spreading 
 - Maintain and Rehabilitate xylaani species
 - Survive
 **The Dark:** kobolds naturally prefer cold dark spaces, at their core they are burrowers and cave dwellers
-**The Secondary Network:** Kobolds have developed a contained variant of 
+**The Secondary Network:** Kobolds have developed a contained variant of xylaan's mycelial network bellow ground
 **Economy:** Without external trade and complex drives for with a complex and equitable network resources are often well distributed and there is significant care put into ensuring people. have their needs met
 
 ## Core concepts and Ideas
