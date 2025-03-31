@@ -20,9 +20,10 @@ Tannians were here before anyone else in this land. you, along with the [[The En
 
 **Polyphony:** "When one walks through xylaan they are met with the thoughts and voices of every organism within ten miles. These sounds meld together into an indescribable clamor, though the more time I spend here, the more I feel this place as a song, voices chanting against each other and then something entirely different, a thread pulling me, an object trying to render itself in my head,  all of it just beyond my comprehension" The psionic connection that the network provides resembles something like language or an augmentation on language. Most creatures communicate in a variation on the same psionic language, that is most capable at conveying raw emotion and simple concepts. This language can break down when entities of wildly different species attempt to communicate, for example an giant lungfish would have a bit of trouble finding common ground with a desert shrub. This, however, is not the only form of telepathic communication in xylaan. For the species with a higher capacity for focus (intelegence, wisdom, magical ability) have developed private communication pathways that best suit their communities.
 
-## Geography and Regions 
 
-In terms of the earths surface, Xylaan can be split into a couple regions, the deadlands, chaparral, alpine, deciduous forest, the Arcadian sea, and the rainforest. Xylaan, however is differentiated vertically as much as it is horizontally, beneath the earth and water the mycelium ebbs and flows in strength, lending strength to people and areas that it relies on for its function as an organism. Above there is a thick cloud of mist, swirling lethargically with the wind, colloquially known as the "sugar layer". This layer is home to an unimaginable amount of biodiversity, supporting billions of microbes and creatures able to drift through it including a consistent presence of the germ. 
+## Xylaani Geography and Regions 
+
+In terms of the earths surface, Xylaan can be split into a couple regions, the deadlands, chaparral, alpine, deciduous forest / substrate, the Arcadian sea, and the rainforest. Xylaan, however is differentiated vertically as much as it is horizontally, beneath the earth and water the mycelium ebbs and flows in strength, lending strength to people and areas that it relies on for its function as an organism. Above there is a thick cloud of mist, swirling lethargically with the wind, colloquially known as the "sugar layer". This layer is home to an unimaginable amount of biodiversity, supporting billions of microbes and creatures able to drift through it including a consistent presence of the germ. 
 
 **Deadlands**: A somewhat pessimistic term coined by tannian's frustrated with a lack of progress at repopulating this biome. You and yours have managed to get a wispy grass to take root here but a commitment to waning your biology off of [[Ichor]] has left you with wildly fertile soil, but no species capable of processing its nutrients. For the two centuries you have been here you have dug a vast network of tunnels bellow ground, in which you have hid the machines keeping the xylaan at bay. Anti-psionic fields project from the earth and cancel out any growth xylaan would try to muster. 
 
@@ -30,14 +31,14 @@ In terms of the earths surface, Xylaan can be split into a couple regions, the d
 
 **Alpine:** The alpine defined as a region by its elevation more than is physical space, it is highlighted by a crust of colorful lichen making rings around everything at this elevation, organisms pack into the stony crags, soaking in the sugar layer, calcifying on the mountains surface, and giving way to its descendants building  even further out, for moss to find purchase in its nooks and crannys, for critters to build nests in, for small birds to hunt said critters, and so on and so on 
 
-**Substrate:**
-Your former home, shared with the [[The Entangled|Entangled]] also known as [[The Entangled|Seers]],  this place has heavy presence of large fungi, essentially creating a crown cover underneath an already existing one made by the trees. 
+**Substrate:** Your former home, shared with the [[The Entangled|Entangled]] also known as [[The Entangled|Seers]],  this place has heavy presence of large fungi, underneath a large deciduous forestessentially creating a crown cover underneath an already existing one made by the trees. The network is at its most dense here
 
 **Arcadian sea:** the Arcadian sea is an enormous lake nestled against a finger of the tallons that curves around xylaan's southern edge. Home to the arcadian court it holds the wealth of xylaan
 
 **Rain forest and Abyssal dark:** closer to the planet's equator this place is humid and below the crown cover, dark. Even for your people, thrilled by the prospect of cool dark spaces fear this place! little is known about this region
 
-Xylaani Peoples:
+
+## Xylaani Peoples:
 
 **Goblin Court:** An offshoot from the feywild's goblin court, settled in then grassland region, the goblin court has a long history as xylaan's cunning crafters, creating a great deal of its built infrastructure. On one hand these are fickle, violent, and spiteful creatures with a pension for authoritarian power they have started hundreds of huge projects leaving nearly all of them unfinished and canibalised for other works, on the other, they are responsible for incredible feats of design and have built entire systems for how xylaan processes its transportation, waste, network pathways, etc. They played a significant roll in the [[disconnect]] 
 
