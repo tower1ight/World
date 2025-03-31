@@ -1,6 +1,7 @@
 ---
-tags: []
+tags: 
 aliases:
+  - Goblin Court
 ---
 
  # Factions
