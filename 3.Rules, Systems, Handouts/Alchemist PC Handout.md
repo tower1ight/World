@@ -5,7 +5,7 @@ aliases:
 
 You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs of your homeland for an unseemly desire for independence. You've allowed the newcomers to call you alchemists, but [[tannia]] is the word you call yourself, a name given to you long ago by your mother, the ancient dragon [[Tanniaxs]], a name not permitted to roll over unforked tongues. You may be small but none with any sense would call you weak, you stand in a sheildwall with your brothers and sisters, proudly wearing your draconic nobility on painted scales.
 
-## Societal Structure
+## Cultural Values and Concepts
 
 **Goals**
 - Keep the forest from spreading 
@@ -15,12 +15,7 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 **The Secondary Network:** Kobolds have developed a contained variant of xylaan's mycelial network bellow ground, It has been around for about 50 years and is still a contentious issue, some believe its existance is antithetical to the goal of keeping the forest from spreading, some believe it. is the only tool that will allow them to help the people of xylaan, some feel a deep longing for the connection and meaning that xylaan was able to provide in the best of times. These contradictions define them as a people 
 **Nationalism:** These people are deeply to their heritage and their peoples collective work, they may disagree on how best to achieve their cultural goals but they are inextricably bound by pride in both their ethnic and national identity
 **Split:** some time after settling in the [[1.Places/Geography and Borders/Telor/The Talons|Talons]], the mountain range sitting between xylaan and the rest of the continent, tannians decided to send a group north through the tallons to create a settlement on the eastern coast. In doing this they hopped to both ensure the survival of their culture in the event that xylaan moved to destroy their new home, and to flank xylaan creating a force of tannian seafarers, capable of sealing xylaan in on the ocean. The two groups are aligned in their goals but in the century since the northeastern settlements founding, contact has been minimal. The seafaring kobolds see betrayal in the southern kobolds acceptance of a secondary network
-**Strategy and Tactics:** The kobolds, compensating for limited strength and size, keep a formidably coordinated approach to combat, working in remarkably flexible and dynamic shield formations, and with platted drangolin mounts capable of digging under most defensive infrastructure, tannians are incredibly difficult to defend against. Tinkerers and biologists at heart they are also very adept at laying devilish traps. Few things are as unwise as charging a kobold shield wall on a battlefield they have chosen.
-
-
-
-
-**Economy:** Without external trade and complex drives for with a complex and equitable network resources are often well distributed and there is significant care put into ensuring people have their needs met
+**Strategy and Tactics:** The kobolds, compensating for limited strength and size and ever preparing for an apocalyptic battle with their former god, keep a formidably coordinated approach to combat. Working in remarkably flexible and dynamic shield formations, and with platted drangolin mounts capable of digging under most defensive infrastructure, tannians are incredibly difficult to defend against. Tinkerers and biologists at heart they are also very adept at laying devilish traps. Few things are as unwise as charging a kobold shield wall on a battlefield they have chosen.
 
 
 ## Core concepts and Ideas
