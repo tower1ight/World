@@ -27,7 +27,7 @@ Tannians were here before anyone else in this land. you, along with the [[The En
 
 In terms of the earths surface, Xylaan can be split into a couple regions, the deadlands, chaparral, alpine, deciduous forest, the Arcadian sea, and the rainforest. Xylaan, however is differentiated vertically as much as it is horizontally, beneath the earth and water the mycelium ebbs and flows in strength, lending strength to people and areas that it relies on for its function as an organism. Above there is a thick cloud of mist, swirling lethargically with the wind, colloquially known as the "sugar layer". This layer is home to an unimaginable amount of biodiversity, supporting billions of microbes and creatures able to drift through it including a consistent presence of the germ. 
 
-**Deadlands**: A somewhat pessimistic term coined by tannian's frustrated with a lack of scientific progress since their exedous from xylaan 
+**Deadlands**: A somewhat pessimistic term coined by tannian's frustrated with a lack of scientific progress since their exodus from xylaan 
 
 **Chaparral**: The chaparral region is defined by a dry climate and distance from xylaan's heart, a valley between the foothills of xylaan's Northern mountain range and the tallons, this region receives a proportionally small amount of connection to the network or the sugar layer. 
 
@@ -38,20 +38,16 @@ In terms of the earths surface, Xylaan can be split into a couple regions, the d
 **Arcadian sea:** the Arcadian sea is an enormous lake nestled against a finger of the tallons that curves around xylaan's southern edge. Home to the arcadian court it holds the wealth of xylaan
 
 **Rain forest and Abyssal dark:** closer to the planet's equator this place is humid and below the crown cover, dark. Even for your people, little is known about this region
- - Xylaani Peoples:
+
+Xylaani Peoples:
 
 	 
-	 - **Alchemists:**
-	 - **Goblin Court:** An offshoot from the feywild's goblin court, settled in then grassland region, the goblin court has a long history as xylaan's cunning crafters, creating a great deal of its built infrastructure. On one hand these are fickle, violent, and spiteful creatures with a pension for authoritarian power they have started hundreds of huge projects leaving nearly all of them unfinished and canibalised for other works, on the other, they are responsible for incredible feats of design and have built entire systems for how xylaan processes its transportation, waste, network pathways, etc. yo`
-	 - **Seers:** These creatures are highly tuned to psionic power and have remarkable capacity for focus. Living appendages to the network they are worshiped by some as emissaries of xylaan and feared by others for unearthly ability to weird define power through the network. A seers life cycle operates in three phases, a sapling like fetus sprouting from the network, a four legged ambulatory creature whose shape is often determined by subspecies, and a tree that plants itself at the will of xylaan. 
-	 - **Arcadian Court:** A court of archfey, settled in the Arcadian sea, these fey take the physical form of insects, flys, and other critters and hold the seat of power in xylann, storing and distributing its wealth of sugars. 
-	 - **Seraphs:** A form of filter feeding sentient lichen, these creatures originate in a mist like layer of gaseous sugar that hovers above the forest. They are standoffish and prefer to make their home in large treetop settlements and ports. Adept scientists and beyond skilled with arcane magic and these creatures develop advanced technology in their cloud cites. 
 
- # Time and Cosmology
- - note
- # Theology
- # Continent divided into regions
- # Continent divided into regions
- # Continent divided into regions
- # Name Detail
- 
+**Goblin Court:** An offshoot from the feywild's goblin court, settled in then grassland region, the goblin court has a long history as xylaan's cunning crafters, creating a great deal of its built infrastructure. On one hand these are fickle, violent, and spiteful creatures with a pension for authoritarian power they have started hundreds of huge projects leaving nearly all of them unfinished and canibalised for other works, on the other, they are responsible for incredible feats of design and have built entire systems for how xylaan processes its transportation, waste, network pathways, etc. 
+`
+**Seers:** These creatures are highly tuned to psionic power and have remarkable capacity for focus. Living appendages to the network they are worshiped by some as emissaries of xylaan and feared by others for unearthly ability to weird define power through the network. A seers life cycle operates in three phases, a sapling like fetus sprouting from the network, a four legged ambulatory creature whose shape is often determined by subspecies, and a tree that plants itself at the will of xylaan. 
+
+**Arcadian Court:** A court of archfey, settled in the Arcadian sea, these fey take the physical form of insects, flys, and other critters and hold the seat of power in xylann, storing and distributing its wealth of its ichor. 
+
+**Seraphs:** A form of filter feeding sentient lichen, these creatures originate in a mist like layer of gaseous sugar that hovers above the forest. They are standoffish and prefer to make their home in large treetop settlements and ports. Adept scientists and beyond skilled with arcane magic and these creatures develop advanced technology in their cloud cites. 
+
