@@ -5,9 +5,12 @@ aliases:
 
 You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs of your homeland for an unseemly desire for independence. You've allowed the newcomers to call you alchemists, but [[tannia]] is the word you call yourself, a name given to you long ago by your mother, the ancient dragon [[Tanniaxs]], a name not permitted to roll over unforked tongues. You may be small but none with any sense would call you weak, you stand in a sheildwall with your brothers and sisters, proudly wearing your draconic nobility on painted scales.
 
+
+
 ## IN MEDIAS RES
 
-The, party in their most recent session negotiated a peace deal with your people, returning what you know as a experimental germ variant stolen by their former general. This however does not indicate your peoples confidence in the legitimacy of this peace, 
+The, party in their most recent session negotiated a peace deal with your people, returning what you know as a experimental germ (see) variant stolen by their former general. This however does not indicate your peoples confidence in the legitimacy of this peace, both camps know the humans will turn on us as soon as it is advantageous, that wont stop us from using this facade 
+
 
 
 ## Cultural Values and Concepts
@@ -29,6 +32,7 @@ The, party in their most recent session negotiated a peace deal with your people
 **Split:** some time after settling in the [[1.Places/Geography and Borders/Telor/The Talons|Talons]], the mountain range sitting between xylaan and the rest of the continent, tannians decided to send a group north through the tallons to create a settlement on the eastern coast. In doing this they hopped to both ensure the survival of their culture in the event that xylaan moved to destroy their new home, and to flank xylaan creating a force of tannian seafarers, capable of sealing xylaan in on the ocean. The two groups are aligned in their goals but in the century since the northeastern settlements founding, contact has been minimal. The seafaring kobolds see betrayal in the southern kobolds acceptance of a secondary network.
 
 
+
 ## Mechanical Class and Social Structure
 
 Druids, Paladins, Fighters, and Rangers are by far the most likely of an archetype for making a PC in this society. This would be followed by Wizards, Artificers, and Bards which are prevalent. Rogues, Monks, and Sorcerers would follow as plausible but requiring a more complex explanation of what motivated them to fit this archetype. Finally Barbarians, Clerics, and Warlocks are highly uncommon and would represent a form of social deviance working in opposition to the dominant cultural norms and values. 
@@ -44,7 +48,9 @@ The following are of course suggestions and represent the most common instance o
 
 **3rd party classes and Edgecasses:** If you have an idea for your character that you are excited about I would love to talk! Let me know what you're thinking and generally speaking we can usually work something out. However I reserve the right to say no if it is incongruous with the setting.
 
-## Core concepts and Ideas
+
+
+## Core Xylaani Concepts and Ideas
 
  **Xylaan (zy lawn):** "Xylaan is both a land and a being, every organism within its body thinking, growing, breathing together. If one can imagine a god having singular identity, see Xylaan as a gardener."
  
@@ -60,6 +66,20 @@ The following are of course suggestions and represent the most common instance o
 ## An Abridged and Unnuanced History
 
 Tannians were here before anyone else in this land. you, along with the [[The Entangled|Seers]], the [[Arcadian Court]], the [[Goblin|Goblin Court]] and later the [[Seraphs]] built [[Xylaan]],"the forest", together, a community and ecosystem absolutely brimming with life. But, as centuries passed and the entity that connects the whole of xylaan slowly and steadily grew, the forest became something with increasing presence and sentience. Tannians were at the forefront of this growth, with the seers tending the network, the arcadians ruling, and the goblins building, the kobold's worked in concert with xylaan to study this beautiful land, your culture cared for and even created what we understand now as xylaan's ecosystem and biology. Because of this your people were the first to let out a warning of xylaan's burdening godhood, ultimately unsuccessful at halting its growth the network became some like a hive mind, overtaking anything connected to it, strong enough now to override your decent, lulling you and everything else into complacency. That is until you developed a new technology, your people created something able to cut anyone off from the network, severing them completely. This naturally called for genocide, and in an event known as the [[disconnect]], your people fled. You are the decedent's of those that made it out alive, a people who cut out space for themselves as far from xylaan's heart as they could, from that moment they wholly and utterly devoted themselves to containing this forest.
+
+
+
+## Xylaani Peoples:
+
+**Goblin Court:** An offshoot from the feywild's goblin court, settled in chapparal region, the goblin court has a long history as xylaan's cunning crafters, creating a great deal of its built infrastructure. On one hand these are fickle, violent, and spiteful creatures with a pension for authoritarian power have started hundreds of huge projects leaving nearly all of them unfinished and canibalised for other works, on the other, they are responsible for incredible feats of design and have built entire systems for how xylaan processes its transportation, waste, network pathways, etc. They played a significant roll in the [[disconnect]], massacring a hoard of tannia newly cut off from a beautiful world they had helped build, scared, angry, disadvantaged. Your people, decedents of the few they were unable to kill, see them with contempt, pity, and self righteous hope that they will one day free themselves of xylaans chains
+
+**Seers:** These creatures are highly tuned to psionic power and have remarkable capacity for focus. Living appendages to the network they are worshiped by some as emissaries of xylaan and feared by others for unearthly ability to weird define power through the network. A seers life cycle operates in three phases, a sapling like fetus sprouting from the network, a four legged ambulatory creature whose shape is often determined by subspecies, and a tree that plants itself at the will of xylaan. 
+
+**Arcadian Court:** A court of archfey, settled in the Arcadian sea, these fey take the physical form of insects, flys, and other critters and hold the seat of power in xylann, storing and distributing its wealth of its ichor. 
+
+**Seraphs:** A form of filter feeding sentient lichen, these creatures originate in a mist like layer of gaseous sugar that hovers above the forest. They are standoffish and prefer to make their home in large treetop settlements and ports. Adept scientists and beyond skilled with arcane magic and these creatures develop advanced technology in their cloud cites. 
+
+
 
 
 ## Xylaani Geography and Regions 
@@ -78,14 +98,4 @@ In terms of the earths surface, Xylaan can be split into a couple regions, the d
 
 **Rain forest and Abyssal dark:** closer to the planet's equator this place is humid and below the crown cover, dark. Even for your people, thrilled by the prospect of cool dark spaces fear this place! little is known about this region
 
-
-## Xylaani Peoples:
-
-**Goblin Court:** An offshoot from the feywild's goblin court, settled in chapparal region, the goblin court has a long history as xylaan's cunning crafters, creating a great deal of its built infrastructure. On one hand these are fickle, violent, and spiteful creatures with a pension for authoritarian power have started hundreds of huge projects leaving nearly all of them unfinished and canibalised for other works, on the other, they are responsible for incredible feats of design and have built entire systems for how xylaan processes its transportation, waste, network pathways, etc. They played a significant roll in the [[disconnect]], massacring a hoard of tannia newly cut off from a beautiful world they had helped build, scared, angry, disadvantaged. Your people, decedents of the few they were unable to kill, see them with contempt, pity, and self righteous hope that they will one day free themselves of xylaans chains
-
-**Seers:** These creatures are highly tuned to psionic power and have remarkable capacity for focus. Living appendages to the network they are worshiped by some as emissaries of xylaan and feared by others for unearthly ability to weird define power through the network. A seers life cycle operates in three phases, a sapling like fetus sprouting from the network, a four legged ambulatory creature whose shape is often determined by subspecies, and a tree that plants itself at the will of xylaan. 
-
-**Arcadian Court:** A court of archfey, settled in the Arcadian sea, these fey take the physical form of insects, flys, and other critters and hold the seat of power in xylann, storing and distributing its wealth of its ichor. 
-
-**Seraphs:** A form of filter feeding sentient lichen, these creatures originate in a mist like layer of gaseous sugar that hovers above the forest. They are standoffish and prefer to make their home in large treetop settlements and ports. Adept scientists and beyond skilled with arcane magic and these creatures develop advanced technology in their cloud cites. 
 
