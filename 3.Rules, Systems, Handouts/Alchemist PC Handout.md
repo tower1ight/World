@@ -9,16 +9,17 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 
 ## IN MEDIAS RES
 
-The, party in their most recent session negotiated a peace deal with your people, returning what you know as a experimental germ (see) variant stolen by their former general. This however does not indicate your peoples confidence in the legitimacy of this peace, both camps know the humans will turn on us as soon as it is advantageous, that wont stop us from using this facade 
+The, party in their most recent session negotiated a peace deal with your people, returning what we know as a experimental germ variant (see Core Xylaani Concepts and Ideas) stolen by their former general. This does not indicate our confidence in the legitimacy of this peace, both parties know the humans will turn on us as soon as it is advantageous, that wont stop us from using this facade 
 
 
 
 ## Cultural Values and Concepts
 
 **Goals**
-- Keep the forest from spreading 
-- Maintain and Rehabilitate xylaani species
-- Survive
+Keep the forest from spreading 
+Maintain and Rehabilitate xylaani species 
+Survive
+
 **The Ever Present Enemy:** Having freed themselves from a mind controlling god who ordered their extermination their commitment to oppose that god is a grudge that might as well be a religion itself. They have charged themselves with an unknown worlds protection from this being and they will stop at nothing to see it contained. The treeline, ever visible from the mouth of their cave, represents a seductive evil, and has worked its way into much of their art and writing. Their oral histories guide them to hate this forest and simultaneously miss an exquisite connection to the natural world that they have been unable to replicate outside of its borders. 
 
 **Biology:** Though biology is not an appropriate term for how tannian culture sees the study of the natural world, these people hold science in high regard seeing the pursuit of conservation and immersion in nature as morally righteous, this comes through in not just scientific practice but in their architecture, civic life, politics, and art. This makes their inability to rehabilitate a number of species they helped to create even more painful, after two centuries of failures all they have managed to populate the deadlands with is a wispy grass that sprouts in feeble patches over the ground.
