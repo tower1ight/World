@@ -31,7 +31,7 @@ In terms of the earths surface, Xylaan can be split into a couple regions, the d
 **Alpine:** The alpine defined as a region by its elevation more than is physical space, it is highlighted by a crust of colorful lichen making rings around everything at this elevation, organisms pack into the stony crags, soaking in the sugar layer, calcifying on the mountains surface, and giving way to its descendants building  even further out, for moss to find purchase in its nooks and crannys, for critters to build nests in, for small birds to hunt said critters, and so on and so on 
 
 **Hedgerow:**
-Your former home, shared with the [[The Entangled|Entangled]] also known as [[The Entangled|Seers]] this place has heavy presence of fungi making up
+Your former home, shared with the [[The Entangled|Entangled]] also known as [[The Entangled|Seers]] this place has heavy presence of fungi making up 
 
 
 **Arcadian sea:** the Arcadian sea is an enormous lake nestled against a finger of the tallons that curves around xylaan's southern edge. Home to the arcadian court it holds the wealth of xylaan
@@ -39,8 +39,6 @@ Your former home, shared with the [[The Entangled|Entangled]] also known as [[Th
 **Rain forest and Abyssal dark:** closer to the planet's equator this place is humid and below the crown cover, dark. Even for your people, little is known about this region
 
 Xylaani Peoples:
-
-	 
 
 **Goblin Court:** An offshoot from the feywild's goblin court, settled in then grassland region, the goblin court has a long history as xylaan's cunning crafters, creating a great deal of its built infrastructure. On one hand these are fickle, violent, and spiteful creatures with a pension for authoritarian power they have started hundreds of huge projects leaving nearly all of them unfinished and canibalised for other works, on the other, they are responsible for incredible feats of design and have built entire systems for how xylaan processes its transportation, waste, network pathways, etc. 
 `
