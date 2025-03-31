@@ -7,7 +7,7 @@ aliases:
 
 You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs of your homeland for an unseemly desire for independence. You've allowed the newcomers to call you alchemists, but [[tannia]] is the word you call yourself, a name given to you long ago by your mother, the ancient dragon [[Tanniaxs]], a name not permitted to roll over unforked tongues. You may be small but none with any sense would call you weak, you stand in a sheildwall with your brothers and sisters, proudly wearing your draconic nobility on painted scales.
 
-An abridged history: Tannians were here before anyone else in this land. you, along with the [[The Entangled]], the [[Arcadian Court]], and the [[Goblin|Goblin Court]] and later the [[Seraphs]] built [[Xylaan]] or "the forest" together, a community and ecosystem absolutely brimming with life but as centuries passed and the entity that connects the whole of xylaan slowly and steadily grew to godhood, xylaan became something with increasing presence and sentience. Tannians were at the forefront of this growth, they had a 
+An abridged history: Tannians were here before anyone else in this land. you, along with the [[The Entangled|Seers]], the [[Arcadian Court]], the [[Goblin|Goblin Court]] and later the [[Seraphs]] built [[Xylaan]] or "the forest" together, a community and ecosystem absolutely brimming with life but as centuries passed and the entity that connects the whole of xylaan slowly and steadily grew to godhood, xylaan became something with increasing presence and sentience. Tannians were at the forefront of this growth, with the seers tending the network, the arcadians ruling, and goblins building, the kobolds worked in concert with xy
 
 
 
