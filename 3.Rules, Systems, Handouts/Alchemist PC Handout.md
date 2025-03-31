@@ -12,15 +12,24 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 - Maintain and Rehabilitate xylaani species
 - Survive
 **The Ever Present Enemy:** Having freed themselves from a mind controlling god who ordered their extermination their commitment to oppose that god is a grudge that might as well be a religion itself. They have charged themselves with an unknown worlds protection from this being and they will stop at nothing to see it contained. The treeline, ever visible from the mouth of their cave, represents a seductive evil, and has worked its way into much of their art and writing. Their oral histories guide them to hate this forest and simultaneously miss an exquisite connection to the natural world that they have been unable to replicate outside of its borders. 
+
 **Biology:** Though biology is not an appropriate term for how tannian culture sees the study of the natural world, these people hold science in high regard seeing the pursuit of conservation and immersion in nature as morally righteous, this comes through in not just scientific practice but in their architecture, civic life, politics, and art. This makes their inability to rehabilitate a number of species they helped to create even more painful, after two centuries of failures all they have managed to populate the deadlands with is a wispy grass that sprouts in feeble patches over the ground.
+
 **The Secondary Network:** Kobolds have developed a contained and limited variant of xylaan's mycelial network bellow ground, It has been around for about 50 years and is still a contentious issue, some believe it's existence is antithetical to the goal of keeping the forest from spreading, some believe it's the only tool that will allow them to help the people of xylaan, some feel a deep longing for the connection and meaning that xylaan was able to provide in the best of times. These contradictions define them as a people.
+
 **Nationalism:** These people are deeply committed to their heritage and their peoples collective work, they may disagree on how best to achieve their cultural goals but they are inextricably bound by pride in both their ethnic and national identity.
+
 **Strategy and Tactics:** The kobolds, compensating for limited strength and size and ever preparing for an apocalyptic battle with their former god, keep a formidably coordinated approach to combat. Working in remarkably flexible and dynamic shield formations, and with platted drangolin mounts capable of digging under most defensive infrastructure, tannians are incredibly difficult to defend against. Tinkerers and biologists at heart they are also very adept at laying devilish traps. Few things are as unwise as charging a kobold shield wall on a battlefield they have chosen.
+
 **Split:** some time after settling in the [[1.Places/Geography and Borders/Telor/The Talons|Talons]], the mountain range sitting between xylaan and the rest of the continent, tannians decided to send a group north through the tallons to create a settlement on the eastern coast. In doing this they hopped to both ensure the survival of their culture in the event that xylaan moved to destroy their new home, and to flank xylaan creating a force of tannian seafarers, capable of sealing xylaan in on the ocean. The two groups are aligned in their goals but in the century since the northeastern settlements founding, contact has been minimal. The seafaring kobolds see betrayal in the southern kobolds acceptance of a secondary network.
 
 
 ## Mechanical Class and Social Structure
+**Druids, Wizards, Sorcerers:** often performing some sort of science roll
 
+**Fighters, Rouges, 
+
+**
 
 
 ## Core concepts and Ideas
@@ -32,6 +41,8 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 **Sugar:** Both the biodiversity, mega-flora, and mega-fauna found in xylaan are supported by the presence of [[Ichor]] an energy dense molecule produced and released in abundance by nearly all things capable of photosynthesis. Typically very difficult to break down, even for those producing it, an organisms symbiotic relationship with its germ allows them to use this energy source with ease. This however comes at a cost, if deprived of [[Ichor]] a germ will look for energy wherever they can find it, leaving its host emaciated and eventually dead if they are unable to find any. It should be easy to find though produced from the exhalation of every creature that can photosynthesize, [[Ichor]] takes a gaseous form at room temperature, slowly drifting upward, consolidating into a layer of mist that rests over the land.
 
 **Polyphony:** "When one walks through xylaan they are met with the thoughts and voices of every organism within ten miles. These sounds meld together into an indescribable clamor, though the more time I spend here, the more I feel this place as a song, voices chanting against each other and then something entirely different, a thread pulling me, an object trying to render itself in my head,  all of it just beyond my comprehension" The psionic connection that the network provides resembles something like language or an augmentation on language. Most creatures communicate in a variation on the same psionic language, that is most capable at conveying raw emotion and simple concepts. This language can break down when entities of wildly different species attempt to communicate, for example an giant lungfish would have a bit of trouble finding common ground with a desert shrub. This, however, is not the only form of telepathic communication in xylaan. For the species with a higher capacity for focus (intelegence, wisdom, magical ability) have developed private communication pathways that best suit their communities.
+
+
 
 
 ## An Abridged and Unnuanced History
