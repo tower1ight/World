@@ -12,7 +12,7 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 - Maintain and Rehabilitate xylaani species
 - Survive
 **The Dark:** kobolds naturally prefer cold dark spaces, at their core they are burrowers and cave dwellers
-**The Secondary Network:** Kobolds have developed a contained variant of xylaan's mycelial network bellow ground
+**The Secondary Network:** Kobolds have developed a contained variant of xylaan's mycelial network bellow ground, It has been around for about 50 years and is still a contentious issue, some believe its existance is antithetical to the goal of keeping the forest from spreading, some believe it. is the only tool that will 
 **Economy:** Without external trade and complex drives for with a complex and equitable network resources are often well distributed and there is significant care put into ensuring people. have their needs met
 
 ## Core concepts and Ideas
