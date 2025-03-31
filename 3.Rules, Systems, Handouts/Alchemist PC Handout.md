@@ -5,7 +5,7 @@ aliases:
 
  # TC and Overview
 
-You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs of your homeland. the alchemists, tanninite 
+You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs of your homeland. Alchemists is the name you've given to these newcomers, tannia is the word in your tongue, your people 
 
 
 
