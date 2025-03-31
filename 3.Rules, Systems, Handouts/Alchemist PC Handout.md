@@ -11,7 +11,8 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 - Maintain and Rehabilitate xylaani species
 - Survive
 **The Dark:** kobolds naturally prefer cold dark spaces, at their core they are burrowers and cave dwellers
-**The Secondary Network:** Kobolds 
+**The Secondary Network:** Kobolds have developed a contained variant of 
+**Economy:** Without external trade and complex drives for with a complex and equitable network resources are often well distributed and there is significant care put into ensuring people. have their needs met
 
 ## Core concepts and Ideas
 
