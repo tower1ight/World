@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
+                "file": "Misc/Tanniax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alchemist PC Handout"
+              "title": "Tanniax"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
+                "file": "Misc/Tanniax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Alchemist PC Handout"
+              "title": "Backlinks for Tanniax"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
+                "file": "Misc/Tanniax.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Alchemist PC Handout"
+              "title": "Outline of Tanniax"
             }
           },
           {
@@ -205,10 +205,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31c9e605cdf6d37a",
+  "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
-    "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
+    "Misc/Xylaan.md",
+    "Misc/Tanniax.md",
+    "1.People/Groups and Factions/The Entangled.md",
     "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
+    "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
     "3.Rules, Systems, Handouts/Non specific PC Handout.md",
     "3.Rules, Systems, Handouts/VTT Map Ledger.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
@@ -216,7 +219,6 @@
     "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
     "1.People/Groups and Factions/Goblins/Goblin.md",
     "Misc/goblin.md",
-    "Misc/Xylaan.md",
     "1.Places/Geography and Borders/Xylaan/Xylaan (location).md",
     "1.People/Gods/Xylaan (entity).md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Ichor.md",
@@ -231,8 +233,6 @@
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/mold.md",
     "0.Sessions and Planning/OS.01/OS.01 (One Shot 01) planning.md",
     "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
-    "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Timeline.md",
-    "1.People/Gods/The Great Library.md",
     "Misc/Weather Table.png",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
