@@ -19,6 +19,10 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 **Split:** some time after settling in the [[1.Places/Geography and Borders/Telor/The Talons|Talons]], the mountain range sitting between xylaan and the rest of the continent, tannians decided to send a group north through the tallons to create a settlement on the eastern coast. In doing this they hopped to both ensure the survival of their culture in the event that xylaan moved to destroy their new home, and to flank xylaan creating a force of tannian seafarers, capable of sealing xylaan in on the ocean. The two groups are aligned in their goals but in the century since the northeastern settlements founding, contact has been minimal. The seafaring kobolds see betrayal in the southern kobolds acceptance of a secondary network.
 
 
+## Mechanical Class and Social Structure
+
+
+
 ## Core concepts and Ideas
 
  **Xylaan (zy lawn):** "Xylaan is both a land and a being, every organism within its body thinking, growing, breathing together. If one can imagine a god having singular identity, see Xylaan as a gardener."
