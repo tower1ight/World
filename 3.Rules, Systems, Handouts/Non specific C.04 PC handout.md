@@ -9,14 +9,14 @@ You are unwelcome. Condescended to by unorganized unprepared outsiders. Pariahs 
 **Orders**
 "As you know Aelon's subordinates negotiated a peace deal with signifier Senak, returning what we know as an experimental germ variant, stolen by their former general", *pausing for effect, your boss spits, holding to tasting the air with something like disdain* 
 "raynault" you say, stressing the T, interrupting before he is thoroughly done with his theatrics 
-"We mustn't be confident in this deal, all we need do is learn. . . You are to join the humans as an emissary to xylaan"
+"We mustn't be confident in this deal, all we need do is learn . . . Ive nominated you to join the humans as an emissary to xylaan"
 
 "learn what they know"
 "restrict what they know of us"
 "keep them alive as best you can."
 
 
-## Cultural Values and Concepts
+## Tannian Cultural Values and Concepts
 
 **Goals**
 Keep the forest from spreading 
