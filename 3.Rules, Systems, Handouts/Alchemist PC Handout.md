@@ -7,12 +7,12 @@ aliases:
 You are unwelcome. Condescended to by unorganized unprepared outsiders. Pariahs of your homeland for an unseemly desire for clarity and independence. You've allowed the newcomers to call you alchemists, but [[tannia]] is the word you call yourself, a name, given to you long ago by tanniaxs, the great mother, a name, not permitted to roll over unforked tongues. You are small and none with any sense would call you weak. Standing in a sheildwall brothers and sisters locked together, you proudly wear draconic nobility on painted scales.
 
 "Aelons subordinates negotiated a peace deal with signifier senak, returning what we know as an experimental germ variant, stolen by their former general", *pausing for effect, your boss spits, holding to tasting the air with something like disdain* 
-"raynault" you say stressing the T
+"raynault" you say, stressing the T, interrupting before he is thoroughly done with his theatrics 
 "We mustn't be confident in this deal, all we need do is learn. . . You are to join the humans as an emissary to xylaan,
 
-learn what they know, 
-keep what they know of us to a minimum, 
-try to keep them alive as best you can.
+"learn what they know"
+"restrict what they know of us"
+"keep them alive as best you can."
 
 
 ## Cultural Values and Concepts
