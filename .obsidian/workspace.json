@@ -11,12 +11,14 @@
             "id": "b8dc840a35d195b4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "0.Sessions and Planning/OS.01/OS.1 Planning Notes.pdf"
+                "file": "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "OS.1 Planning Notes"
+              "icon": "lucide-file",
+              "title": "C.04 Arc 2 - The Great Arsonist Hunt"
             }
           },
           {
@@ -153,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Sessions and Planning/OS.01/OS.1 Planning Notes.pdf",
+                "file": "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OS.1 Planning Notes"
+              "title": "Outline of C.04 Arc 2 - The Great Arsonist Hunt"
             }
           },
           {
@@ -203,11 +205,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "53ac6ced630b4553",
+  "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
-    "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
-    "0.Sessions and Planning/OS.01/OS.1 Planning Notes.pdf",
+    "0.Sessions and Planning/C.04/C.04 Arc 1 - Introduction.md",
     "0.Sessions and Planning/C.04/C.04 Planning Notes.pdf",
+    "0.Sessions and Planning/C.04/C.04 Campaign Pitch.md",
+    "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
+    "0.Sessions and Planning/C.04/Session/C.04.05.md",
+    "0.Sessions and Planning/C.04/Session/C.04.04.md",
+    "0.Sessions and Planning/C.04/Session/C.04.02.md",
+    "0.Sessions and Planning/OS.01/OS.1 Planning Notes.pdf",
+    "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
     "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
     "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
     "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
@@ -229,18 +237,12 @@
     "Misc/goblin.md",
     "1.Places/Geography and Borders/Xylaan/Xylaan (location).md",
     "1.People/Gods/Xylaan (entity).md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Ichor.md",
-    "1.People/Groups and Factions/Seraphs.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Xylaani History and Politics.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/symbiotic groups.md",
-    "Misc/mist layer.md",
     "Misc/Weather Table.png",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts",
     "1.Places/Geography and Borders/Xylaan",
     "1.Places/Geography and Borders/Telor",
-    "1.Places/Geography and Borders",
-    "1.Places/Cities and Settlements"
+    "1.Places/Geography and Borders"
   ]
 }
