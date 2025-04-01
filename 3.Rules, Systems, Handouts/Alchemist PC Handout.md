@@ -28,6 +28,10 @@ Survive
 
 **Strategy and Tactics:** The kobolds, compensating for limited strength and size and ever preparing for an apocalyptic battle with their former god, keep a formidably coordinated approach to combat. Working in remarkably flexible and dynamic shield formations, and with platted drangolin mounts capable of digging under most defensive infrastructure, tannians are incredibly difficult to defend against. Tinkerers and biologists at heart they are also very adept at laying devilish traps. Few things are as unwise as charging a kobold shield wall on a battlefield they have chosen.
 
+
+
+## Bonus Cultural Values and Concepts
+
 **The Secondary Network:** Kobolds have developed a contained and limited variant of xylaan's mycelial network bellow ground, It has been around for about 50 years and is still a contentious issue, some believe it's existence is antithetical to the goal of keeping the forest from spreading, some believe it's the only tool that will allow them to help the people of xylaan, some feel a deep longing for the connection and meaning that xylaan was able to provide in the best of times. These contradictions define them as a people.
 
 **Nationalism:** These people are deeply committed to their heritage and their peoples collective work, they may disagree on how best to achieve their cultural goals but they are inextricably bound by pride in both their ethnic and national identity.
@@ -56,7 +60,7 @@ For thinking about team composition other party members are currently playing th
 Pearl (sorcerer with healing)
 Tal (Sorcerer)
 Poe (Beastmaster) 
-Billiard ()
+Billiard (Barbarian)
 
 
 
