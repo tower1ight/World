@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "seraph",
+                "query": "tag:#C04",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -203,7 +203,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b8dc840a35d195b4",
+  "active": "53ac6ced630b4553",
   "lastOpenFiles": [
     "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
     "0.Sessions and Planning/OS.01/OS.1 Planning Notes.pdf",
