@@ -8,7 +8,7 @@ You are unwelcome. Condescended to by unorganized unprepared outsiders. Pariahs 
 
 "Aelons subordinates negotiated a peace deal with signifier senak, returning what we know as an experimental germ variant, stolen by their former general", *pausing for effect, your boss spits, holding to tasting the air with something like disdain* 
 "raynault" you say, stressing the T, interrupting before he is thoroughly done with his theatrics 
-"We mustn't be confident in this deal, all we need do is learn. . . You are to join the humans as an emissary to xylaan,
+"We mustn't be confident in this deal, all we need do is learn. . . You are to join the humans as an emissary to xylaan"
 
 "learn what they know"
 "restrict what they know of us"
@@ -42,6 +42,8 @@ Druids, Paladins, Fighters, and Rangers are by far the most likely of an archety
 
 The following are of course suggestions and represent the most common instance of where these archetypes fit into society
 **Druids, Wizards, Artificers, Sorcerers, Rangers:** often performing some sort of science roll, or providing key community resources like food, construction, maintenance of the network etc.
+
+Clerics and 
 
 **Druids, Bards, occasionally Paladins:** Keepers of oral history, designers, artists, healers, leaders and politicians 
 
