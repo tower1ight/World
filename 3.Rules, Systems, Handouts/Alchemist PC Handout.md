@@ -47,9 +47,16 @@ The following are of course suggestions and represent the most common instance o
 
 **Paladins, Fighters, Rouges, Artificers again:** Almost always immersed in the structure of the tannian military, paladins don't receive divine power perse but rather gain power through cultural commitment to containing xylaan
 
-**Barbarians, Clerics, Warlocks:** If you want to play this please think of why you have chosen this path, and why you have been chosen to accompany the party 
+**Barbarians, Clerics, Warlocks:** If you want to play this please think of why you have chosen this path, and who chose you to accompany the party, why? 
 
 **3rd party classes and Edgecasses:** If you have an idea for your character that you are excited about I would love to talk! Let me know what you're thinking and generally speaking we can usually work something out. However I reserve the right to say no if it is incongruous with the setting.
+
+For thinking about team composition other party members are currently playing the following class
+
+Pearl (sorcerer with healing)
+Tal (Sorcerer)
+Poe (Beastmaster) 
+Billiard ()
 
 
 
