@@ -11,14 +11,12 @@
             "id": "b8dc840a35d195b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
-                "mode": "source",
-                "source": false
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Alchemist PC Handout"
+              "icon": "lucide-file-text",
+              "title": "Alchemist PC Handout V2"
             }
           },
           {
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Alchemist PC Handout"
+              "title": "Backlinks for Alchemist PC Handout V2"
             }
           },
           {
@@ -155,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Alchemist PC Handout"
+              "title": "Outline of Alchemist PC Handout V2"
             }
           },
           {
@@ -205,10 +203,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9f0bd24836e3fa89",
+  "active": "53ac6ced630b4553",
   "lastOpenFiles": [
-    "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
     "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
+    "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
+    "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
     "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
     "3.Rules, Systems, Handouts/Non specific C.04 PC handout.md",
     "3.Rules, Systems, Handouts/Non specific PC Handout.md",
@@ -241,7 +240,6 @@
     "1.Places/Geography and Borders/Telor",
     "1.Places/Geography and Borders",
     "1.Places/Cities and Settlements",
-    "1.Places/Buildings and Landmarks",
-    "1.Places"
+    "1.Places/Buildings and Landmarks"
   ]
 }
