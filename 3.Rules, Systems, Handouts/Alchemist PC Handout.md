@@ -57,7 +57,7 @@ Clerics and
 
 ## Core Xylaani Concepts and Ideas
 
- **Xylaan (zy lawn):** "Xylaan is both a land and a being, every organism within its body thinking, growing, breathing together. If one can imagine a god having singular identity, see Xylaan as a gardener."
+ **Xylaan (zy lawn) (Known by Telor as The Forest):** "Xylaan is both a land and a being, every organism within its body thinking, growing, breathing together. If one can imagine a god having singular identity, see Xylaan as a gardener."
  
 **Network and the Germ:** Running throughout Xylaan (L) is a vast and dense mycelial network, this makes makes up the body of this god. The network grants low level psionic connection to all those that have bonded to it. This process involves taking in and growing a spore, primarily referred to as a "germ" of the network into ones body. This piece of the network is disconnected from the god but is integral to connecting with it. Several variations of this germ have been crafted and engineered (by your ancestors), these variants provide a wide variety of additional effects. The network constantly emits signal radially from its flesh, similar to that of a magnetic field emitted by a wire with active current. The strength of ones connection is primarily dependent on proximity.
 
