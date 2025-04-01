@@ -8,7 +8,7 @@ You are unwelcome, condescended to by unorganized unprepared outsiders, pariahs 
 
 ## IN MEDIAS RES
 
-In their most recent session, the party negotiated a peace deal with senak, returning what we know as a experimental germ variant (see: Core Xylaani Concepts and Ideas>Network and the Germ) stolen by their former general. This does not indicate our confidence in the legitimacy of this peace, both parties know the humans will turn on us as soon as it is advantageous, that however, wont stop us from using this facade to our aid. You are to join the humans as an emissary to xylaan, learn what they know, keep what they know of us to a minimum, try to keep them alive as best you can.
+In their most recent session, the party negotiated a peace deal with senak, a military leader, returning what we know as a experimental germ variant (see: Core Xylaani Concepts and Ideas>Network and the Germ) stolen by their former general. This does not indicate our confidence in the legitimacy of this peace, both parties know the humans will turn on us as soon as it is advantageous, that however, wont stop us from using this facade to our aid. You are to join the humans as an emissary to xylaan, learn what they know, keep what they know of us to a minimum, try to keep them alive as best you can.
 
 
 ## Cultural Values and Concepts
