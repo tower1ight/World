@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "0.Sessions and Planning/C.04/C.04 Planning Notes.pdf"
+                "file": "0.Sessions and Planning/OS.01/OS.1 Planning Notes.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "C.04 Planning Notes"
+              "title": "OS.1 Planning Notes"
             }
           },
           {
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Sessions and Planning/C.04/C.04 Planning Notes.pdf",
+                "file": "0.Sessions and Planning/OS.01/OS.1 Planning Notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C.04 Planning Notes"
+              "title": "Backlinks for OS.1 Planning Notes"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Sessions and Planning/C.04/C.04 Planning Notes.pdf",
+                "file": "0.Sessions and Planning/OS.01/OS.1 Planning Notes.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C.04 Planning Notes"
+              "title": "Outline of OS.1 Planning Notes"
             }
           },
           {
@@ -205,8 +205,10 @@
   },
   "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
-    "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
+    "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
+    "0.Sessions and Planning/OS.01/OS.1 Planning Notes.pdf",
     "0.Sessions and Planning/C.04/C.04 Planning Notes.pdf",
+    "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
     "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
     "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
     "3.Rules, Systems, Handouts/Non specific C.04 PC handout.md",
@@ -239,7 +241,6 @@
     "1.Places/Geography and Borders/Xylaan",
     "1.Places/Geography and Borders/Telor",
     "1.Places/Geography and Borders",
-    "1.Places/Cities and Settlements",
-    "1.Places/Buildings and Landmarks"
+    "1.Places/Cities and Settlements"
   ]
 }
