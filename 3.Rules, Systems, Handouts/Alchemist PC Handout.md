@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-You are unwelcome. Condescended to by unorganized unprepared outsiders. Pariahs of your homeland for an unseemly desire for sentience. You've allowed the newcomers to call you alchemists, but [[tannia]] is the word you call yourself, a name given to you long ago by your mother, the ancient dragon [[Tanniaxs]], a name not permitted to roll over unforked tongues. You may be small but none with any sense would call you weak, you stand in a sheildwall with your brothers and sisters, proudly wearing your draconic nobility on painted scales.
+You are unwelcome. Condescended to by unorganized unprepared outsiders. Pariahs of your homeland for an unseemly desire for clarity and independence. You've allowed the newcomers to call you alchemists, but [[tannia]] is the word you call yourself, a name given to you long ago by tanniaxs the great mother your name is not permitted to roll over unforked tongues. You may be small but none with any sense would call you weak, you stand in a sheildwall with your brothers and sisters, proudly wearing your draconic nobility on painted scales.
 
 In their most recent session, the party negotiated a peace deal with signifier senak, returning what we know as a experimental germ variant (see: Core Xylaani Concepts and Ideas>Network and the Germ) stolen by their former general. This does not indicate our confidence in the legitimacy of this peace, both parties know the humans will turn on us as soon as it is advantageous, that however, wont stop us from using this facade to our aid. You are to join the humans as an emissary to xylaan, learn what they know, keep what they know of us to a minimum, try to keep them alive as best you can.
 
