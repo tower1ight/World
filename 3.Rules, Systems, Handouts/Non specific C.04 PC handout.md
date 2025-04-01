@@ -3,10 +3,11 @@ tags:
   - C04
 aliases:
 ---
+**You**
+You are unwelcome. Condescended to by unorganized unprepared outsiders. Pariahs of your homeland for an unseemly desire for clarity and independence. You've allowed the newcomers to call you alchemists, but [[tannia]] is the word you call yourself, a name, given to you long ago by tanniaxs, the great mother, a name, not permitted to roll over unforked tongues. You are small and none with any sense would call you weak. Standing in a sheildwall, brothers and sisters locked together, you proudly wear draconic nobility on painted scales.
 
-You are unwelcome. Condescended to by unorganized unprepared outsiders. Pariahs of your homeland for an unseemly desire for clarity and independence. You've allowed the newcomers to call you alchemists, but [[tannia]] is the word you call yourself, a name, given to you long ago by tanniaxs, the great mother, a name, not permitted to roll over unforked tongues. You are small and none with any sense would call you weak. Standing in a sheildwall brothers and sisters locked together, you proudly wear draconic nobility on painted scales.
-
-"Aelons subordinates negotiated a peace deal with signifier senak, returning what we know as an experimental germ variant, stolen by their former general", *pausing for effect, your boss spits, holding to tasting the air with something like disdain* 
+**Orders**
+"As you know Aelon's subordinates negotiated a peace deal with signifier Senak, returning what we know as an experimental germ variant, stolen by their former general", *pausing for effect, your boss spits, holding to tasting the air with something like disdain* 
 "raynault" you say, stressing the T, interrupting before he is thoroughly done with his theatrics 
 "We mustn't be confident in this deal, all we need do is learn. . . You are to join the humans as an emissary to xylaan"
 
@@ -41,9 +42,7 @@ Survive
 Druids, Paladins, Fighters, and Rangers are by far the most likely of an archetype for making a PC in this society. This would be followed by Wizards, Artificers, and Bards which are prevalent. Rogues, Monks, and Sorcerers would follow as plausible but requiring a more complex explanation of what motivated them to fit this archetype. Finally Barbarians, Clerics, and Warlocks are highly uncommon and would represent a form of social deviance working in opposition to the dominant cultural norms and values. 
 
 The following are of course suggestions and represent the most common instance of where these archetypes fit into society
-**Druids, Wizards, Artificers, Sorcerers, Rangers:** often performing some sort of science roll, or providing key community resources like food, construction, maintenance of the network etc.
-
-Clerics and 
+**Druids, Wizards, Artificers, Sorcerers, Rangers:** often performing some sort of science roll, or providing key community resources like food, construction, maintenance of the network etc
 
 **Druids, Bards, occasionally Paladins:** Keepers of oral history, designers, artists, healers, leaders and politicians 
 
@@ -76,7 +75,7 @@ Tannians were here before anyone else in this land. you, along with the [[The En
 
 ## Xylaani Peoples:
 
-**Goblin Court:** An offshoot from the feywild's goblin court, settled in chapparal region, the goblin court has a long history as xylaan's cunning crafters, creating a great deal of its built infrastructure. On one hand these are fickle, violent, and spiteful creatures with a pension for authoritarian power have started hundreds of huge projects leaving nearly all of them unfinished and canibalised for other works, on the other, they are responsible for incredible feats of design and have built entire systems for how xylaan processes its transportation, waste, network pathways, etc. They played a significant roll in the [[disconnect]], massacring a hoard of tannia newly cut off from a beautiful world they had helped build, scared, angry, disadvantaged. Your people, decedents of the few they were unable to kill, see them with contempt, pity, and self righteous hope that they will one day free themselves of xylaans chains
+**Goblin Court:** An offshoot from the feywild's goblin court, settled in the chapparal region, the goblin court has a long history as xylaan's cunning crafters, creating a great deal of its built infrastructure. On one hand these are fickle, violent, and spiteful creatures with a pension for authoritarian power have started hundreds of huge projects leaving nearly all of them unfinished and canibalised for other works, on the other, they are responsible for incredible feats of design and have built entire systems for how xylaan processes its transportation, waste, network pathways, etc. They played a significant roll in the [[disconnect]], massacring a hoard of tannia newly cut off from a beautiful world they had helped build, scared, angry, disadvantaged. Your people, decedents of the few they were unable to kill, see them with contempt, pity, and self righteous hope that they will one day free themselves of xylaans chains
 
 **Seers:** These creatures are highly tuned to psionic power and have remarkable capacity for focus. Living appendages to the network they are worshiped by some as emissaries of xylaan and feared by others for unearthly ability to weird define power through the network. A seers life cycle operates in three phases, a sapling like fetus sprouting from the network, a four legged ambulatory creature whose shape is often determined by subspecies, and a tree that plants itself at the will of xylaan. 
 
