@@ -43,13 +43,11 @@ Druids, Paladins, Fighters, and Rangers are by far the most likely of an archety
 The following are of course suggestions and represent the most common instance of where these archetypes fit into society
 **Druids, Wizards, Artificers, Sorcerers, Rangers:** often performing some sort of science roll, or providing key community resources like food, construction, maintenance of the network etc.
 
-Clerics and 
-
 **Druids, Bards, occasionally Paladins:** Keepers of oral history, designers, artists, healers, leaders and politicians 
 
 **Paladins, Fighters, Rouges, Artificers again:** Almost always immersed in the structure of the tannian military, paladins don't receive divine power perse but rather gain power through cultural commitment to containing xylaan
 
-**Barbarians, Clerics, Warlocks:** If you want to play this please think of why you have chosen this path, and more importantly why you have been chosen to accompany the party 
+**Barbarians, Clerics, Warlocks:** If you want to play this please think of why you have chosen this path, and why you have been chosen to accompany the party 
 
 **3rd party classes and Edgecasses:** If you have an idea for your character that you are excited about I would love to talk! Let me know what you're thinking and generally speaking we can usually work something out. However I reserve the right to say no if it is incongruous with the setting.
 
@@ -63,10 +61,8 @@ Clerics and
 
 **Sugar:** Both the biodiversity, mega-flora, and mega-fauna found in xylaan are supported by the presence of [[Ichor]] an energy dense molecule produced and released in abundance by nearly all things capable of photosynthesis. Typically very difficult to break down, even for those producing it, an organisms symbiotic relationship with its germ allows them to use this energy source with ease. This however comes at a cost, if deprived of [[Ichor]] a germ will look for energy wherever they can find it regardless of its connection with the host, leaving its host emaciated and eventually dead if they are unable to find any. However, It should be easy to find, as its released with every exhalation of every creature that can photosynthesize in xylaan, [[Ichor]] takes a gaseous form at room temperature, slowly drifting upward, consolidating into a layer of mist that rests over the land.
 
-**Polyphony:** "When one walks through xylaan they are met with the thoughts and voices of everything within ten spans. These sounds meld together into an indescribable clamor, though the more time I spend here, the more I feel this place as a song, the more these voices chant against each other ... I'm beginning to feel something entirely different, a thread pulling me to an idea, an object trying to render itself in my head, ... just beyond my comprehension." (bigby, 3138 39th of bida) The psionic connection that the network provides, resembles something like language or rather an augmentation on language. Most creatures communicate in a variation on the same psionic language useful for conveying simple concepts or augmenting noise/speach. This language can break down when entities of wildly different species or environment attempt to communicate, for example an giant lungfish would have a bit of trouble finding common ground with a desert shrub. This, however, is not the only form of telepathic communication in xylaan. For the species with a higher capacity for focus (intelegence, wisdom, magical ability) have developed private communication pathways that best suit their communities.
+**Polyphony:** "When one walks through xylaan they are met with the thoughts and voices of everything within ten spans. These sounds meld together into an indescribable clamor, though the more time I spend here, the more I feel this place as a song, the more these voices chant against each other ... I'm beginning to feel something entirely different, a thread pulling me to an idea, an object trying to render itself in my head, ... just beyond my comprehension." (bigby, 3138 39th of bida) The psionic connection that the network provides, resembles something like language or rather an augmentation on language. Most creatures communicate in a variation on the same psionic language useful for conveying simple concepts or augmenting noise/speach. This language can break down when entities of wildly different species or environment attempt to communicate, for example an giant lungfish would have a bit of trouble finding common ground with a desert shrub. This, however, is not the only form of telepathic communication in xylaan. For the species with a higher capacity for focus (intelegence, wisdom, magical ability) have developed private communication pathways that best suit their communities. 
 
-
- in the accompanying their speach with 
 
 ## An Abridged and Unnuanced History
 
