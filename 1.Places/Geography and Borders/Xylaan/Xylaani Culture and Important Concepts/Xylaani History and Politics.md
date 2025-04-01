@@ -10,7 +10,7 @@ aliases:
 	 - Treats the space as a menagerie for its entertainment and a farm to steadily grow its power
 	 - Allows some autonomy for factions to naturally grow and develop, allows inter-faction conflict but restricts outright war through its influence on 
 	 - Each faction serves as something like an organ for the overall body
-- Pre [[Xylaan (entity) retreat]]: 
+- Pre [[Xylaan retreat]]: 
 	- [[Xylaan]] is facilitating the transitioning existing rolls 
 - At the Start of [[C.04.01]]
 	- Decentralized Power
@@ -29,7 +29,7 @@ aliases:
 
   - Faction History
 	  -  Pre [[disconnect]]
-	  - Post [[Xylaan (entity) retreat]]
+	  - Post [[Xylaan retreat]]
   
  ### [[Seraphs]] 
  - Responsibilities: arcane study, manufacturing, Travel and ship design
@@ -41,7 +41,7 @@ aliases:
  - Faction History
 	  - Pre [[disconnect]]
 		  - collaborated on [[skiffs]] with [[Tannia]]
-	  - Post [[Xylaan (entity) retreat]]
+	  - Post [[Xylaan retreat]]
 
   ### [[The Entangled]]   
   - Responsibilities: communication, germ maintinance
@@ -51,7 +51,7 @@ aliases:
 		  - Trying to resist the call of external help
   - Faction History
 	  -  Pre [[disconnect]]
-	  - Post [[Xylaan (entity) retreat]]
+	  - Post [[Xylaan retreat]]
 
  ### [[Tannia|Tannia]]  (mechanics, manufacturing, physical and natural sciences)
 

@@ -9,7 +9,7 @@ aliases:
 Things to consider
 - how do hexes and organisms change seasonally
 - what are life cycles, not just time but reproduction and life stages
-- how do they use the [[mycelium|network]], how are they suffering in the wake of [[Xylaan (entity) retreat]]
+- how do they use the [[mycelium|network]], how are they suffering in the wake of [[Xylaan retreat]]
  
  
  
