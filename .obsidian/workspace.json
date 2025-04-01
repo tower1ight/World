@@ -11,14 +11,12 @@
             "id": "b8dc840a35d195b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3.Rules, Systems, Handouts/Non specific C.04 PC handout.md",
-                "mode": "source",
-                "source": false
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Non specific C.04 PC handout"
+              "icon": "lucide-file-text",
+              "title": "Alchemist PC Handout V2"
             }
           },
           {
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Rules, Systems, Handouts/Non specific C.04 PC handout.md",
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Non specific C.04 PC handout"
+              "title": "Backlinks for Alchemist PC Handout V2"
             }
           },
           {
@@ -155,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Rules, Systems, Handouts/Non specific C.04 PC handout.md",
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Non specific C.04 PC handout"
+              "title": "Outline of Alchemist PC Handout V2"
             }
           },
           {
@@ -189,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,12 +203,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "178fde90833364b0",
+  "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
-    "3.Rules, Systems, Handouts/Non specific PC Handout.md",
-    "3.Rules, Systems, Handouts/Non specific C.04 PC handout.md",
-    "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
     "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
+    "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
+    "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
+    "3.Rules, Systems, Handouts/Non specific C.04 PC handout.md",
+    "3.Rules, Systems, Handouts/Non specific PC Handout.md",
     "1.Places/Cities and Settlements/Cordova - City of Motes.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
     "Misc/Xylaan.md",
@@ -232,7 +231,6 @@
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/Xylaani History and Politics.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/symbiotic groups.md",
     "Misc/mist layer.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Biomes and Geography.md",
     "Misc/Weather Table.png",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
