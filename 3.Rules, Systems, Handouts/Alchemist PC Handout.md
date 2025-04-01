@@ -34,14 +34,14 @@ Survive
 
 
 
-## Mechanical Class and Social Structure
+## Mechanical Class and Social Architypes
 
 Druids, Paladins, Fighters, and Rangers are by far the most likely of an archetype for making a PC in this society. This would be followed by Wizards, Artificers, and Bards which are prevalent. Rogues, Monks, and Sorcerers would follow as plausible but requiring a more complex explanation of what motivated them to fit this archetype. Finally Barbarians, Clerics, and Warlocks are highly uncommon and would represent a form of social deviance working in opposition to the dominant cultural norms and values. 
 
 The following are of course suggestions and represent the most common instance of where these archetypes fit into society
 **Druids, Wizards, Artificers, Sorcerers, Rangers:** often performing some sort of science roll, or providing key community resources like food, construction, maintenance of the network etc.
 
-**Druids, Bards, Paladins:** Keepers of oral history, designers, artists, healers, leaders and politicians 
+**Druids, Bards, occasionally Paladins:** Keepers of oral history, designers, artists, healers, leaders and politicians 
 
 **Paladins, Fighters, Rouges, Artificers again:** Almost always immersed in the structure of the tannian military, paladins don't receive divine power perse but rather gain power through cultural commitment to containing xylaan
 
