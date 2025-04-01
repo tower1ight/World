@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Places/Cities and Settlements/Cordova - City of Motes.md",
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cordova - City of Motes"
+              "title": "Alchemist PC Handout"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.People/Groups and Factions/Tannia.md",
+                "file": "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tannia"
+              "title": "polyphony"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.People/Groups and Factions/Tannia.md",
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tannia"
+              "title": "Backlinks for Alchemist PC Handout"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.People/Groups and Factions/Tannia.md",
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tannia"
+              "title": "Outline of Alchemist PC Handout"
             }
           },
           {
@@ -207,21 +206,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e095d4a60d6b442a",
+  "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
-    "Misc/Tanniaxs.md",
-    "1.People/Groups and Factions/Tannia.md",
     "1.Places/Cities and Settlements/Cordova - City of Motes.md",
+    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
+    "Misc/Xylaan.md",
+    "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
+    "1.People/Groups and Factions/Tannia.md",
+    "Misc/Tanniaxs.md",
     "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
     "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
     "3.Rules, Systems, Handouts/Non specific C.04 PC handout 2 (in progress).md",
-    "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
     "1.People/Groups and Factions/Arcadian Court.md",
     "1.People/Groups and Factions/Goblins/Goblin.md",
     "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
     "1.People/Groups and Factions/The Entangled.md",
-    "Misc/Xylaan.md",
     "3.Rules, Systems, Handouts/Non specific PC Handout.md",
     "3.Rules, Systems, Handouts/VTT Map Ledger.md",
     "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
