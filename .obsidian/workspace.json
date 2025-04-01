@@ -11,12 +11,14 @@
             "id": "b8dc840a35d195b4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1.People/Gods/Tel'voric's Visual Design.pdf"
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Tel'voric's Visual Design"
+              "icon": "lucide-file",
+              "title": "Alchemist PC Handout"
             }
           },
           {
@@ -205,8 +207,9 @@
   },
   "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
-    "1.People/Gods/Tel'Voric.md",
+    "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
     "1.People/Gods/Tel'voric's Visual Design.pdf",
+    "1.People/Gods/Tel'Voric.md",
     "0.Sessions and Planning/OS.01/OS.01.01.md",
     "0.Sessions and Planning/OS.01/OS.1 Notability Planning.pdf",
     "0.Sessions and Planning/OS.01/OS.01.03.md",
@@ -226,7 +229,6 @@
     "0.Sessions and Planning/C.04/Session/C.04.04.md",
     "0.Sessions and Planning/C.04/Session/C.04.02.md",
     "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
-    "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
     "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
     "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
     "3.Rules, Systems, Handouts/Non specific C.04 PC handout.md",
@@ -236,7 +238,6 @@
     "Misc/Xylaan.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
     "1.People/Groups and Factions/Tannia.md",
-    "Misc/Tanniaxs.md",
     "Misc/Weather Table.png",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
