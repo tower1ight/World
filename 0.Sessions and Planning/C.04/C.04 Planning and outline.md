@@ -47,7 +47,7 @@ Progressing personal stories
 - [[{Vacuole Stronghold}]] (Hold)
 
  ## Myths:
- - [[The Tether]]
+ - [[The Sync]]
  - [[The Mindless]]
  - [[The Infection]]
  - [[The Mine]]

@@ -11,7 +11,7 @@ aliases:
 How are  we framing this this is a digital landscape 
 
  # Omens
- 1.
+ 1. omen triggered by eating the fruit
  2.
  3.
  4.
