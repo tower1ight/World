@@ -12,7 +12,8 @@ aliases:
 
 
  # Omens
- 1. A solider left behind delirious and fridged to the touch they murmur about refusing to drink the sap from the roots  
+ 1. Evidence of the first march, a grouping of dead soliders
+	 1. if germed up by now fucking somehow, they will feel l
  2. A company (12) of soldiers lines a high ridge will firing arrows upon the party if spotted, but will retreat if approached
  3. A solider hunched over a rot beast with viscera laying arount, 
 	 1. rotbeast shows indication as a former mount
