@@ -83,11 +83,11 @@ Tannians were here before anyone else in this land. you, along with the [[The En
 
 ## Xylaani Peoples:
 
-**Goblin Court:** An offshoot from the feywild's goblin court, settled in chapparal region, the goblin court has a long history as xylaan's cunning crafters, creating a great deal of its built infrastructure. On one hand these are fickle, violent, and spiteful creatures with a pension for authoritarian power have started hundreds of huge projects leaving nearly all of them unfinished and canibalised for other works, on the other, they are responsible for incredible feats of design and have built entire systems for how xylaan processes its transportation, waste, network pathways, etc. They played a significant roll in the [[disconnect]], massacring a hoard of tannia newly cut off from a beautiful world they had helped build, scared, angry, disadvantaged. Your people, decedents of the few they were unable to kill, see them with contempt, pity, and self righteous hope that they will one day free themselves of xylaans chains
+**Goblin Court:** An offshoot from the feywild's goblin court, settled in the chaparral region, the goblin court has a long history as xylaan's cunning crafters, creating a great deal of its built infrastructure. On one hand, these are fickle, violent, and spiteful creatures with a pension for authoritarian power  have started hundreds of huge projects leaving nearly all of them unfinished and canibalised for other works, on the other, they are responsible for incredible feats of design and have built entire systems for how xylaan processes its transportation, waste, network pathways, etc. They played a significant roll in the [[disconnect]], massacring a hoard of tannia newly cut off from a beautiful world they had helped build, scared, angry, disadvantaged. Your people, decedents of the few they were unable to kill, see them with contempt, pity, and self righteous hope that they will one day free themselves of xylaans chains
 
 **Seers:** These creatures are highly tuned to psionic power and have remarkable capacity for focus. Living appendages to the network they are worshiped by some as emissaries of xylaan and feared by others for unearthly ability to weird define power through the network. A seers life cycle operates in three phases, a sapling like fetus sprouting from the network, a four legged ambulatory creature whose shape is often determined by subspecies, and a tree that plants itself at the will of xylaan. 
 
-**Arcadian Court:** A court of archfey, settled in the Arcadian sea, these fey take the physical form of insects, flys, and other critters and hold the seat of power in xylann, storing and distributing its wealth of its ichor. 
+**Arcadian Court:** A court of archfey, settled in the Arcadian sea, these fey take the physical form of insects, flys, and other Invertebrates. They hold the seat of power in Xylann, storing and distributing its wealth of ichor. 
 
 **Seraphs:** A form of filter feeding sentient lichen, these creatures originate in a mist like layer of gaseous sugar that hovers above the forest. They are standoffish and prefer to make their home in large treetop settlements and ports. Adept scientists and beyond skilled with arcane magic and these creatures develop advanced technology in their cloud cites. 
 
@@ -106,7 +106,7 @@ In terms of the earths surface, Xylaan can be split into a couple regions, the d
 
 **Decisuous/Substrate:** Your former home, shared with the [[The Entangled|Entangled]] also known as [[The Entangled|Seers]],  this place has heavy presence of large fungi, underneath a large deciduous forest, essentially creating a crown cover underneath an already existing one made by the trees. The network is at its most dense here
 
-**Arcadian sea:** the Arcadian sea is an enormous lake nestled against a finger of the tallons that curves around xylaan's southern edge. Home to the arcadian court it holds the wealth of xylaan
+**Arcadian sea:** the Arcadian sea is an enormous lake nestled against a finger of the tallons. Curves around xylaan's southern edge, it is home to the arcadian court it holds the wealth of xylaan
 
 **Rain forest and Abyssal dark:** closer to the planet's equator this place is humid and below the crown cover, dark. Even for your people, thrilled by the prospect of cool dark spaces fear this place! little is known about this region
 
