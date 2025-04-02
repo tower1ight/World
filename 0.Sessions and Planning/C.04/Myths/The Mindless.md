@@ -13,11 +13,10 @@ aliases:
 
  # Omens
  1. A solider left behind delirious and fridged to the touch they murmur about refusing to drink the sap from the roots  
- 2. 
- 3. A company (12) of soldiers lines a high ridge will firing arrows upon the party if spotted, but will retreat if approached
- 4. A solider hunched over a rot beast 
-	 1. rotbeas
- 5. An empty, remarkably human camp, animal carcasses litter the ground, chunks of meat and viscera have been torn from each body, lumber and felled trees are strewn across the entire area, a path points forward directing your attention towards a series of boats by the lake 
+ 2. A company (12) of soldiers lines a high ridge will firing arrows upon the party if spotted, but will retreat if approached
+ 3. A solider hunched over a rot beast with viscera laying arount, 
+	 1. rotbeast shows indication as a former mount
+ 4. An empty, remarkably human camp, animal carcasses litter the ground, chunks of meat and viscera have been torn from each body, lumber and felled trees are strewn across the entire area, a path points forward directing your attention towards a series of boats by the lake 
 
 
 Encounter: 
