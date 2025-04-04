@@ -45,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
+                "file": "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Travel, hexes, and landmarks"
+              "title": "Outline of C.04 Arc 3 - Into The Woods"
             }
           },
           {
@@ -217,8 +218,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b8dc840a35d195b4",
+  "active": "e095d4a60d6b442a",
   "lastOpenFiles": [
+    "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
     "0.Sessions and Planning/C.04/C.04 Rules and Consistency.md",
     "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
     "0.Sessions and Planning/C.04/Myths/The Mindless.md",
@@ -250,7 +252,6 @@
     "0.Sessions and Planning/C.04/Session/C.04.04.md",
     "0.Sessions and Planning/C.04/Session/C.04.02.md",
     "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
-    "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
     "Misc/Weather Table.png",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts",
