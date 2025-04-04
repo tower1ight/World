@@ -25,7 +25,7 @@ aliases:
  4. A solider hunched over a rot beast with viscera laying around, will continue to eat until they leave, if interacted with she will look at you inquisitively, something will come over her and she will attack those that havent been marked
 	 2. rotbeast has empty saddlebags full of collorful stains, and the pits of local stone fruit that grow on surrounding bushes
 5.  5. An empty, remarkably human camp, animal carcasses litter the ground, chunks of meat and viscera have been torn from each body, lumber and felled trees are strewn across the entire area, a path points forward directing your attention towards a series of boats by the lake 
-
+ Hey 
 
 Encounter: 
 A number of rudimentary long boats, are set to launch any minute now a nearly undefended city 
