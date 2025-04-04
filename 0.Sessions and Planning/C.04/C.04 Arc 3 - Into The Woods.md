@@ -136,12 +136,7 @@ organize silent guards, you get a meeting with a beurocrat
 - treasure:
 	- enough sugars to survive a couple months 
 
-# Omens
- 1. A half dug pit lays full to the brim with emaciated soliders almost untouched as if their flesh had nothing of desire 
- 2. A solider left behind delirious and fridged to the touch they murmur about refusing to drink the sap from the roots  
- 3. A company (12) of soldiers lines a high ridge will firing arrows upon the party if spotted, but will retreat if approached
- 4. A fresh battlefield, blood bubbling, hundreds of teloric soldiers and goblins in Arcadian livery lay face down in the mud, a lean horse pulls a body by a mangled leg caught in the stirrups, if approached its revealed that the body is a former solider and it will chase after you until killed
- 5. An empty, remarkably human camp, animal carcasses litter the ground, chunks of meat and viscera have been torn from each body, lumber and felled trees are strewn across the entire area, a path points forward directing your attention towards a series of boats by the lake 
+
 
 
 
