@@ -69,7 +69,9 @@ Sessions
 	- one of pearls cohort wispers in her ear that everything is ready
 	- Give a goal breakdown
 		- Escape fort raylault without anyone noticing
-		- Stop the soliders 
+		- Teloric Soliders are have been spotted watching the scholars work from within the forest, Find out whats keeping them alive 
+		- Kill a
+		- 
 	- 
 	- 
 	- The players are asked by sage aelon to find out what happened to them
