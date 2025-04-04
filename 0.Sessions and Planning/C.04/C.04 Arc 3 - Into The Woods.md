@@ -65,7 +65,7 @@ Sessions
 	 - the negotiation
 ## ACT I
 - reaction, they know the mission (15 min)
-	- in media res watching the generals arival: ==An energy of nervous anticipation prevades the crouw
+	- in media res watching the generals arival: ==An energy of nervous anticipation pervades the crowd, Soldiers stand at attention playing act dicipline and compenfor months of banal patrol and
 	- one of pearls cohort wispers in her ear that everything is ready
 	- Give a goal breakdown
 		- Context: At the begining of the teloric invasion a thousands of soliders were baited by goblins into the veil (battlefield marked on the map), after years of assuming that they were dead, Teloric Soliders have been spotted watching the scholars work from within the forest,
