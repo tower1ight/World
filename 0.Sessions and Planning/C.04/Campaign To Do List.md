@@ -4,14 +4,6 @@ tags:
 aliases:
 ---
 Goal: Get ready for out of hiatus 
-
-Requirements: 
-- Downtime: 
-- Overworld
-- Faction-work
-- Primary story 
-- Locations
-- Functioning VTT
 - 
  
 Overworld

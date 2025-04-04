@@ -5,7 +5,6 @@ aliases:
 ---
 Sessions 
 
-
  ## General questions
  - what do the masks look like? how are they attached 
 - Establish protection for the heros
