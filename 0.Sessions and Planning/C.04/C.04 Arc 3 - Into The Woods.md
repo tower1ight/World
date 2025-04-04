@@ -64,8 +64,10 @@ Sessions
  - the pieces of info 
 	 - the negotiation
 ## ACT I
-- reaction, mission breif ] 15 min
+- reaction, they know the mission 15 min
 	- in media res watching the generals arival
+	- one of pearls cohort wispers in her ear that everything is ready
+	- leave 
 	- 
 	- The players are asked by sage aelon to find out what happened to them
 		- context for the mission
