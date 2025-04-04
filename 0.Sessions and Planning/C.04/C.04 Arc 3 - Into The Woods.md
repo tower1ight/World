@@ -71,7 +71,7 @@ Sessions
 		- Context: At the begining of the teloric invasion a thousands of soliders were baited by goblins into the veil, after years of no word Teloric Soliders have been spotted watching the scholars work from within the forest
 		- Eyes follow the party: Escape fort raylault without anyone noticing
 		- Meet the rest of your expedition at a point in the woods outside of the forest 
-		- 
+		-  uncovwer 
 		
 		- Kill as many as you can
 		- What provisions are they given:
