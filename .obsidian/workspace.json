@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "travel ",
+                "query": "wels",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -219,6 +219,7 @@
   },
   "active": "e095d4a60d6b442a",
   "lastOpenFiles": [
+    "1.People/PCs/Pearl.md",
     "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
     "0.Sessions and Planning/C.04/C.04 Rules and Consistency.md",
@@ -249,7 +250,6 @@
     "0.Sessions and Planning/C.04/C.04 Arc 1 - Introduction.md",
     "0.Sessions and Planning/C.04/Session/C.04.05.md",
     "0.Sessions and Planning/C.04/Session/C.04.04.md",
-    "0.Sessions and Planning/C.04/Session/C.04.02.md",
     "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
     "Misc/Weather Table.png",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Teloric Species",

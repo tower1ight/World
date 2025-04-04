@@ -84,6 +84,10 @@ Sessions
 	- Vision: looked surveyed by prince dagog
 		- Within the vission the environment warps and the players are brought before [[Prince Dagoag]]
 		- Your mind brings forward the prince 
+		- Some people marked as useful, others are marked as disposable 
+			- disposable: [[Pearl]], [[Taylors Character]], Qball
+			-protected: [[Talot]], [[billiard Ball]], [[Poe the Perfumer]], [[]]
+	- 
 	- rott beast charges in a gores a redshirt, start your first combat
 - Travel gameplay description
 - Play travel untill they arive at the battlefield,
