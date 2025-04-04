@@ -45,8 +45,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of C.04 Planning and outline"
             }
           },
           {
@@ -216,7 +216,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "15e06a337b6ca505",
+  "active": "b8dc840a35d195b4",
   "lastOpenFiles": [
     "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
     "0.Sessions and Planning/C.04/Myths/The Mindless.md",
