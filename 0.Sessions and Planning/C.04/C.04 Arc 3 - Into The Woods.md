@@ -80,8 +80,7 @@ Sessions
 	- Gopher like you pop up and make your way onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
 	- bring them into two seperate vissions,
 		- spit
-	- semi normal introdution
-		- Suprised by something totaly normal {{fgndfg}}
+	- Suppriesed by other party 
 	- scene description at the threshold of unexplored teritory
 		- alarm triggers all aroung perimeter,
 	
