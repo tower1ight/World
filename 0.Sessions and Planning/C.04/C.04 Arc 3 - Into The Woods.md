@@ -65,7 +65,7 @@ Sessions
 	 - the negotiation
 ## ACT I
 - reaction, they know the mission (15 min)
-	- in media res watching the generals arival
+	- in media res watching the generals arival: ==An energy of nervous anticipation prevades the crouw
 	- one of pearls cohort wispers in her ear that everything is ready
 	- Give a goal breakdown
 		- Context: At the begining of the teloric invasion a thousands of soliders were baited by goblins into the veil (battlefield marked on the map), after years of assuming that they were dead, Teloric Soliders have been spotted watching the scholars work from within the forest,
@@ -86,17 +86,15 @@ Sessions
 		- Your mind brings forward the prince 
 		- Some people marked as useful, others are marked as disposable 
 			- disposable: [[Pearl]], [[Taylors Character]], Qball
-			-protected: [[Talot]], [[billiard Ball]], [[Poe the Perfumer]], [[]]
-	- 
+			- protected: [[Talot]], [[billiard Ball]], [[Poe the Perfumer]], 
 	- rott beast charges in a gores a redshirt, start your first combat
 - Travel gameplay description
 - Play travel untill they arive at the battlefield,
 	- clue at a ridge that peaks above the stalks and alows for an unobstructed veiw of [[{The Woven City}]] and the 
-- 
 
 ## ACT II
  - Physical location upon which investigation can happen,
- - light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae
+ - ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
 	 - original battlefeild is overtaken by fungas plant and animal alike, sugar pools digesting the 
 		 - has a rotbeast heard, flies swarm, grubs writhe, massive grass 
  - suspense, run a lot of enclosed details before they go in
@@ -112,7 +110,6 @@ Sessions
 			 - what can u tell, 
 		 - meet an npc leader of the military that needs to be killed 
  - travel section
- - Kill
  - Get to the staging ground?
  
  
