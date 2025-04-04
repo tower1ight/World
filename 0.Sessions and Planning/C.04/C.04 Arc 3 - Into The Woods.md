@@ -68,22 +68,11 @@ Sessions
 	- in media res watching the generals arival
 	- one of pearls cohort wispers in her ear that everything is ready
 	- Give a goal breakdown
-		- Context: At the begining of the teloric invasion a thousands of soliders were baited by goblins into the veil
+		- Context: At the begining of the teloric invasion a thousands of soliders were baited by goblins into the veil,
 		- Escape fort raylault without anyone noticing
+		- A meeting point in the woods outside of the forest 
 		- Teloric Soliders are have been spotted watching the scholars work from within the forest, Find out whats keeping them alive 
 		- Kill as many as you can
-	- 
-	- The players are asked by sage aelon to find out what happened to them
-		- context for the mission
-			- Initial wave of [[Cult of the Library|soldiers]] baited into a battle with the goblins, thousands slaughtered
-			- battle not far into the woods
-			- Evidence of an existing legion found
-				- bodies of soldiers compelled by [[Arcadian Court]], watching workers and explorers 
-				- ranging part noticed signs of humans looking in on them
-		- ==What do they get in return?==
-			- They get to hunt soliders 
-			- they get to explore **she will emphasize this**
-			- money, tittle, items, freedoms, land guarantees?
 		- What provisions are they given:
 			- health potions, consider the starvation you put them through
 - Off on the journey
