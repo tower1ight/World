@@ -67,7 +67,10 @@ Sessions
 - reaction, they know the mission 15 min
 	- in media res watching the generals arival
 	- one of pearls cohort wispers in her ear that everything is ready
-	- leave 
+	- Give a goal breakdown
+		- Escape fort raylault without anyone noticing
+		- Stop the soliders 
+	- 
 	- 
 	- The players are asked by sage aelon to find out what happened to them
 		- context for the mission
