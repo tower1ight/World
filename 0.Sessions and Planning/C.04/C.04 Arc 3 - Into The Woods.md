@@ -83,11 +83,11 @@ Sessions
 		-  girl that hit on tall
 		- Wellsley 
 	- See a solider looking in on them, pulls them in to cross the border
-	- Vision: lo
-	- 
-	- - bring them into two seperate vissions,
-		- spit
-	
+	- Vision: looked surveyed by prince dagog
+		- Within the vission the environment warps and the players are brought before [[Prince Dagoag]]
+		- Your mind brings forward the prince 
+		- 
+	- rott beast charges in a gores a redshirt
 - Travel gameplay description
 - Play travel untill they arive at the battlefield,
 	- clue at a ridge that peaks above the stalks and alows for an unobstructed veiw of [[{The Woven City}]] and the 
