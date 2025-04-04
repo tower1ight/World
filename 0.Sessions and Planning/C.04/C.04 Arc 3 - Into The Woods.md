@@ -78,11 +78,15 @@ Sessions
 			- health potions, consider the starvation you put them through
 - Off on the journey
 	- Gopher like you pop up and make your way onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
-	- bring them into two seperate vissions,
+	- Suppriesed by other party members
+		- q ball
+		-  girl that hit on tall
+		- Wellsley 
+	- See a solider looking in on them, pulls them in to cross the border
+	- Vision: lo
+	- 
+	- - bring them into two seperate vissions,
 		- spit
-	- Suppriesed by other party 
-	- scene description at the threshold of unexplored teritory
-		- alarm triggers all aroung perimeter,
 	
 - Travel gameplay description
 - Play travel untill they arive at the battlefield,
