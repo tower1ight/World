@@ -68,11 +68,10 @@ Sessions
 	- in media res watching the generals arival
 	- one of pearls cohort wispers in her ear that everything is ready
 	- Give a goal breakdown
+		- Context: At the beginging of the teloric invassion
 		- Escape fort raylault without anyone noticing
 		- Teloric Soliders are have been spotted watching the scholars work from within the forest, Find out whats keeping them alive 
-		- Kill a
-		- 
-	- 
+		- Kill as many as you can
 	- 
 	- The players are asked by sage aelon to find out what happened to them
 		- context for the mission
@@ -81,8 +80,6 @@ Sessions
 			- Evidence of an existing legion found
 				- bodies of soldiers compelled by [[Arcadian Court]], watching workers and explorers 
 				- ranging part noticed signs of humans looking in on them
-		- She is asking this group specifically because she wants few people to know about this mission before it happens
-			- she intends the gang to sneak out during the precession 
 		- ==What do they get in return?==
 			- They get to hunt soliders 
 			- they get to explore **she will emphasize this**
