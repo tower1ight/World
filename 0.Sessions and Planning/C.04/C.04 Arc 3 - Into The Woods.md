@@ -68,10 +68,11 @@ Sessions
 	- in media res watching the generals arival
 	- one of pearls cohort wispers in her ear that everything is ready
 	- Give a goal breakdown
-		- Context: At the begining of the teloric invasion a thousands of soliders were baited by goblins into the veil,
-		- Escape fort raylault without anyone noticing
-		- A meeting point in the woods outside of the forest 
-		- Teloric Soliders are have been spotted watching the scholars work from within the forest, Find out whats keeping them alive 
+		- Context: At the begining of the teloric invasion a thousands of soliders were baited by goblins into the veil, after years of no word Teloric Soliders have been spotted watching the scholars work from within the forest
+		- Eyes follow the party: Escape fort raylault without anyone noticing
+		- Meet the rest of your expedition at a point in the woods outside of the forest 
+		- 
+		
 		- Kill as many as you can
 		- What provisions are they given:
 			- health potions, consider the starvation you put them through
