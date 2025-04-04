@@ -13,10 +13,11 @@ aliases:
 
  # Omens
  1. Evidence of the first march: 
-	 1. impressions in the 
-	 2. 
-	 3. a grouping of dead soliders, wrapped in vines, slow panicked spread of emaciated people
-	 4. if germed up by now fucking somehow, they will feel lots of fuz, someone ate a big meal, lots o signal 
+	 1. impressions in the ground (depending on area)
+	 2. Struck by a desire to wither in the ground and sink into the floor around it
+	 3. a grouping of dead soliders, wrapped in vines, slow panicked spread of scared people with no energy to flee
+	 4. bodies still have gear: 54th division or whatever 
+	 5. if germed up by now fucking somehow, they will feel lots of fuz, someone ate a big meal, lots o signal 
  2. A company (12) of soldiers lines a high ridge will firing arrows upon the party if spotted, but will retreat if approached
  3. A solider hunched over a rot beast with viscera laying around, will continue to eat until they leave, if interacted with she will look at you inquisitively, something will come over her and she will attack, 
 	 1. rotbeast shows indication as a former mount
