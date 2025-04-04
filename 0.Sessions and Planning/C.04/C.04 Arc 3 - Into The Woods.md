@@ -12,8 +12,6 @@ Sessions
 	- vission? Arcadia wants the players to kill the 
 	- The locals see them as an extension of arcadias will, as though a security camera is walking through the door, treat them with guest friendship
 - 
-
-
  ## Themes, goals vibes
  #### Germ 
 - Mask 
@@ -25,6 +23,7 @@ Sessions
 		- See the 
  #### Set tone
 - Hostile, Arid, bursting with life
+- watched, things react to your action
 
 | *yellow Stalk*                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
