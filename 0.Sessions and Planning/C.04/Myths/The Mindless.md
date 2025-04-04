@@ -20,9 +20,9 @@ aliases:
 	 5. if germed up by now fucking somehow, lots o signal, driven by something stronger than 
  2. A company (12) of soldiers mounted on rot beasts lining a high ridge
 	 1. Will retreat if approached, firing shots behind them as they flee 
- 3. A solider hunched over a rot beast with viscera laying around, will continue to eat until they leave, if interacted with she will look at you inquisitively, something will come over her and she will attack, 
-	 1. rotbeast has saddlebags fu
-	 2. 
+ 3. A solider hunched over a rot beast with viscera laying around, will continue to eat until they leave, if interacted with she will look at you inquisitively, something will come over her and she will attack those that havent been marked
+	 1. rotbeast has empty saddlebags full of stains 
+	2. 
  4. An empty, remarkably human camp, animal carcasses litter the ground, chunks of meat and viscera have been torn from each body, lumber and felled trees are strewn across the entire area, a path points forward directing your attention towards a series of boats by the lake 
 
 

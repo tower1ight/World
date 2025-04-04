@@ -5,14 +5,14 @@ aliases:
 ---
 Sessions 
 
- ## General questions
+## General questions
  - what do the masks look like? how are they attached 
 - Establish protection for the heros
 	- vission? Arcadia wants the players to kill the 
 	- The locals see them as an extension of arcadias will, as though a security camera is walking through the door, treat them with guest friendship
 - 
- ## Themes, goals vibes
- #### Germ 
+## Themes, goals vibes
+#### Germ 
 - Mask 
 	- perfect seal on the face
 - sickness will set if at any point the player breaths air: two phases
@@ -20,7 +20,7 @@ Sessions
 		- Incredible hunger, insatiable
 	- Integration
 		- See the 
- #### Set tone
+#### Set tone
 - Hostile, Arid, bursting with life
 - watched, things react to your action
 
@@ -58,12 +58,12 @@ Sessions
 
 
 
- # Outline
- ## RECAP
+# Outline
+## RECAP
  - Important NPCs
  - the pieces of info 
 	 - the negotiation
- ## ACT I
+## ACT I
 - reaction, mission breif ] 15 min
 	- in media res watching the generals arival
 	- 
