@@ -55,16 +55,16 @@ Progressing personal stories
 
 
 
-| Dwellings       | Sanctuaries | Monuments     |
-| --------------- | ----------- | ------------- |
-| City outskirts  |             | Masacre       |
-| here kity kity  |             | Alchemist lab |
-|                 |             | A new Court   |
-| **Hazards**     | **Curses**  | **Ruins**     |
-| ankheg          | Static Bird | Ship          |
-| Arcadian Scouts | Smoke       | Old pool      |
-| Fire            |             | Alchemist Lab |
-|                 |             |               |
+| Dwellings       | Sanctuaries    | Monuments     |
+| --------------- | -------------- | ------------- |
+| City outskirts  |                | Masacre       |
+| here kity kity  |                | Alchemist lab |
+|                 |                | A new Court   |
+| **Hazards**     | **Curses**     | **Ruins**     |
+| ankheg          | Static Bird    | Ship          |
+| Arcadian Scouts | Smoke          | Old pool      |
+| Fire            | hypnotic cloud | Alchemist Lab |
+|                 |                |               |
 
 
  ### Dwellings 
