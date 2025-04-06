@@ -78,8 +78,8 @@ Progressing personal stories
 	 - house gaurd cat convinced by another cat to leave
 	 - diplomacy,  violence, or failure possinle
 		 - boost to goblin public opinon
-		 -
  - **Ritual to the hags**
+	 - collect 
 
  ### Sanctuaries 
  Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] kept by the [[The Entangled|Seers]]. Most will contain a seer bent and contorted around the node at all times, many important nodes will have one or more seers who have chosen to embed themselves into the [[mycelium]]. The design of individual temples can vary but most have some form of material documentation of [[Xylaan]] and its worship or history.
@@ -88,7 +88,7 @@ Progressing personal stories
 	 - Tapestries depicting the on the fey and the birth of [[Xylaan]] are strewn throughout the temple
 	 -  Molded 
  - Stalk Seer
-	 - 
+	 -  wistopher the bold germed up
  - Rotten Seer
 
  ### Monument

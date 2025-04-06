@@ -39,14 +39,18 @@
             "id": "15e06a337b6ca505",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C.04 Arc 3 - Into The Woods"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wels",
+                "query": "c.04",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -217,18 +221,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e095d4a60d6b442a",
+  "active": "15e06a337b6ca505",
   "lastOpenFiles": [
-    "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
+    "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
+    "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
+    "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
     "1.People/PCs/Pearl.md",
     "0.Sessions and Planning/C.04/C.04 Rules and Consistency.md",
-    "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
     "0.Sessions and Planning/C.04/Myths/The Mindless.md",
     "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
     "0.Sessions and Planning/C.04/Campaign To Do List.md",
     "0.Sessions and Planning/C.04/C.04 Campaign Pitch.md",
-    "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
     "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
     "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
     "0.Sessions and Planning/C.04/Myths/The Infection.md",
