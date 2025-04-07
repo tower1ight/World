@@ -11,11 +11,11 @@ So basically I think the thing thats most important to know is that **trans** is
 Personally I had not really 
 
 
-**Discrimination, Dogwhistles, and Control**
+**Discrimination, Dogwhistles, and Control** 
 Why do I think discrimination happens: Some may disagree but I largely think its about disgust and control, I think most lgbtq+ discrimination has to do with queer people deviating from dominant cultural norms and  underlying disgust at queer bodies. Feminist literature spends a lot of time talking about how dividing men and women into two solid categories with different traits, skills, and roles, makes both groups easier to control and exploit. Critiques to that rigid picture of gender almost always threaten those systems of culturally accepted exploitation.
 
 There is nothing natural about shaved legs, but our cultural idea of femininity is associated with smooth skin. When a cis woman chooses to not shave her legs, like it or not that choice says something about her level of commitment to the patriarchal ideal of a desirable woman. Transness like feminism is the process of demanding freedom in those choices, and ensuring legal protections for those who cannot conform to the gender roles of the sex they were assigned at birth.
 
-The dominant rhetoric about Trans women often depicts us as imposters, threats to cis women and children. We are used as a scapegoat for a society that is comfortable with violence towards women. When our communities are not willing to hold men accountable, it become far easier to say that that violence is inevitable, that something about men (their biology) that is inherently hostile and cannot be blamed, so if you refuse to believe I am a woman, I become a dangerous presence in women's spaces, biologically driven to hurt people. Hence our depiction as monsters and freaks
+The dominant rhetoric about Trans women often depicts us as imposters, threats to cis women and children. We are used as a scapegoat for a society that is comfortable with violence towards women. Im of the opinion that when our communities are not willing to hold men accountable, it becomes far easier to say that that violence is inevitable, that something about men (their biology) that is inherently hostile and cannot be blamed for the harm they do. So if you refuse to believe I am a woman, I become a dangerous presence in women's spaces, biologically driven to hurt people. Hence our depiction as monsters and freaks
 
 The dominant rhetoric about trans men is closer to erasure, often seen as confused young girls sacrificing their womanhood. Conservatives will emphasize their biology by pointing to loss of fertility as a loss of function (see a very famous anti trans book called "irreversible damage" , a loss of purpose. 
