@@ -11,6 +11,6 @@ Why do I think this happens: Some may disagree but I largely think its about con
 
 When a cis woman chooses to not shave her legs, like it or not that choice says something about her level of commitment to the patriarchal ideal of a desirable woman. Transness like feminism is the process of demanding freedom in those choices, and ensuring legal protections for those whose lives and identities do not match that rigid idea of man and woman. 
 
-For me being trans is to step away from those norms entirely 
+Trans women are often depicted as threats to cis women and children, we are a scapegoat to the sexual violence that is permitted in our society 
 
-not just seeing a tranny clearly not passing and feeling like she grosses you out but equally real seeing a cis woman not catering her appearance to cultural norms, not shaving her armpits, in other words not fufiling social roles that are equal parts 
+Trans men are often erased, seen as confused young girls 
