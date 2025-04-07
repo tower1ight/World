@@ -9,7 +9,7 @@ So basically I think the thing thats most important to know is that **trans** is
 **Discrimination, Dogwhistles, and Control**
 Why do I think this happens: Some may disagree but I largely think its about control and disgust, I think most lgbtq+ discrimination has to do with an underlying disgust response and deviating from dominant cultural norms. Feminist literature spends a lot of time talking about how dividing men and women into two solid categories with different traits, skills, and roles, makes both groups easier to control and exploit. Critiques to that rigid picture of gender almost always threaten those systems of culturally accepted exploitation. So as a result trans people are reduced to how their bodies are unable to perform those roles
 
-When a cis woman chooses to not shave her legs, like it or not that choice says something about her level of commitment to the patriarchal ideal of a desirable woman. There is nothing natural about shaved legs, women and men alike grow hair on their legs, but our idea of femininity associates the two.
+When a cis woman chooses to not shave her legs, like it or not that choice says something about her level of commitment to the patriarchal ideal of a desirable woman. There is nothing natural about shaved legs, but our cultural idea of femininity is associated with smooth skin, and adherence to that f
 
 
 Transness like feminism is the process of demanding freedom in those choices, and ensuring legal protections for those whose lives and identities do not match that rigid idea of man and woman. 
