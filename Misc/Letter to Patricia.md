@@ -4,3 +4,7 @@ Hey, I'm not sure why I've taken so long to just sit down and write this, I thin
 **Do I try to hand wave this away?** This is very tempting, but "its complicated", though true, puts walls around these concepts. 
 
 So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. 
+
+
+
+In many ways we are defined by the publics opposition to e
