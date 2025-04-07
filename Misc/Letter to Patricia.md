@@ -8,7 +8,7 @@ Hey, I'm not sure why I've taken so long to just sit down and write this, I thin
 So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. That being said, words are practical and communication is very difficult without them. Here is a term glossary: https://transactual.org.uk/glossary/
 
 **What I am trying to pursue**
-Personally I had not really 
+A short description of my personal understanding is as follows: I have been semi comfortable living my life a man with 
 
 
 **Discrimination, Dogwhistles, and Control** 
