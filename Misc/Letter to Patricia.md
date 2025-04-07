@@ -1,1 +1,1 @@
-Hey, I'm not sure why I've taken so long to write this, I think a number of reasons can be highlighted but chief among them is an inability to simplify  a lot of the information and personal ex
+Hey, I'm not sure why I've taken so long to write this, I think a number of reasons can be highlighted but chief among them is an inability to simplify important concepts that have come to mean a lot to me. Do I try to explain terms 
