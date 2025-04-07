@@ -6,6 +6,8 @@ Hey, I'm not sure why I've taken so long to just sit down and write this, I thin
 So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. That being said, words are practical and communication is very difficult without them. Here is a term glossary: https://transactual.org.uk/glossary/
 
 **Discrimination, Dogwhistles, and Control**
-Why do I think this happens: Some may disagree but I largely think its about control and disgust, I think most lgbtq+ discrimination has to do with an underlying disgust response and deviating from dominant cultural norms. When a cis woman chooses to not shave her legs, she may just not want to spend time it takes, but like it or not that choice says something about her level of commitment to the patriarchal ideal of a desirable woman. She may face consequences for that choice. In many ways be 
+Why do I think this happens: Some may disagree but I largely think its about control and disgust, I think most lgbtq+ discrimination has to do with an underlying disgust response and deviating from dominant cultural norms. When a cis woman chooses to not shave her legs, she may just not want to spend time it takes, but like it or not that choice says something about her level of commitment to the patriarchal ideal of a desirable woman. Transness like feminism 
+
+For me being trans is to step away from those norms entirely 
 
 not just seeing a tranny clearly not passing and feeling like she grosses you out but equally real seeing a cis woman not catering her appearance to cultural norms, not shaving her armpits, in other words not fufiling social roles that are equal parts 
