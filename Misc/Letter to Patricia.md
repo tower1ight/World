@@ -1,10 +1,10 @@
 Hey, I'm not sure why I've taken so long to just sit down and write this, I think a number of reasons can be highlighted but chief among them is an inability to simplify important concepts that have come to mean a lot to me. 
 **Do I try to explain this thing with terms and definitions?** Well that route feels like cold taxonomy, something that can really only offer shallow information. 
 **Do I try to sell you on a worldview?** While this will get closer to understanding my perspective, that perspective would be singular and a lot of the power within this community comes dissimilar people and perspectives bound by similar feelings. 
-**Do I try to hand wave this away?** This is very tempting, but "its complicated", though true, puts walls around these concepts. 
+**Do I try to hand wave this away?** This is very tempting, but explaining trans people by saying "its complicated", though true, puts walls around these concepts. 
 
-So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. 
+So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. These terms while helpful have 
 
+Lets d
 
-
-In many ways we are defined by the publics opposition to e
+In many ways we are defined by the publics opposition to exploring gender in 
