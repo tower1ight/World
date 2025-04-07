@@ -157,7 +157,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -221,7 +221,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "15e06a337b6ca505",
+  "active": "9f0bd24836e3fa89",
   "lastOpenFiles": [
     "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
