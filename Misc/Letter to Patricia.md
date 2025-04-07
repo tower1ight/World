@@ -7,6 +7,10 @@ Hey, I'm not sure why I've taken so long to just sit down and write this, I thin
 **Terms**
 So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. That being said, words are practical and communication is very difficult without them. Here is a term glossary: https://transactual.org.uk/glossary/
 
+**What I am trying to pursue**
+Personally I had not really 
+
+
 **Discrimination, Dogwhistles, and Control**
 Why do I think discrimination happens: Some may disagree but I largely think its about disgust and control, I think most lgbtq+ discrimination has to do with queer people deviating from dominant cultural norms and  underlying disgust at queer bodies. Feminist literature spends a lot of time talking about how dividing men and women into two solid categories with different traits, skills, and roles, makes both groups easier to control and exploit. Critiques to that rigid picture of gender almost always threaten those systems of culturally accepted exploitation.
 
