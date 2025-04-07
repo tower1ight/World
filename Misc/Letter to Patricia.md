@@ -3,4 +3,4 @@ Hey, I'm not sure why I've taken so long to just sit down and write this, I thin
 **Do I try to sell you on a worldview?** While this will get closer to understanding my perspective, that perspective would be singular and a lot of the power within this community comes dissimilar people and perspectives bound by similar feelings. 
 **Do I try to hand wave this away?** This is very tempting, but "its complicated", though true, puts walls around these concepts. 
 
-So basically I think the thing thats most important to know is that **trans** is an umbrella term for more 
+So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. This otherness can relate to ones body, mind, social role, political 
