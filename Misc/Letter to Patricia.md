@@ -11,6 +11,6 @@ Why do I think discrimination happens: Some may disagree but I largely think its
 
 There is nothing natural about shaved legs, but our cultural idea of femininity is associated with smooth skin. When a cis woman chooses to not shave her legs, like it or not that choice says something about her level of commitment to the patriarchal ideal of a desirable woman. Transness like feminism is the process of demanding freedom in those choices, and ensuring legal protections for those whose lives and identities do not match that rigid idea of man and woman. 
 
-Trans women are often depicted as threats to cis women and children, we used are a scapegoat for a society that is comfortable with violence towards women. Supposedly violence is just what men do, men are dangerous and cannot blamed, so if you refuse to believe I am a woman, then I am a presence in women's spaces biologically driven to do damage.
+Trans women are often depicted as threats to cis women and children, we used are a scapegoat for a society that is comfortable with violence towards women. Supposedly violence is just what men do, men are dangerous and cannot blamed, so if you refuse to believe I am a woman, then I am a dangerous presence in women's spaces biologically driven to hurt people.
 
 Trans men are often erased, seen as confused young girls sacrificing a sacred idea of womanhood. Conservatives will often point to loss of fertility as a loss of function, a loss of purpose. 
