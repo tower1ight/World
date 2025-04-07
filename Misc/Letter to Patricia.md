@@ -1,4 +1,4 @@
 Hey, I'm not sure why I've taken so long to just sit down and write this, I think a number of reasons can be highlighted but chief among them is an inability to simplify important concepts that have come to mean a lot to me. 
 **Do I try to explain this thing with terms and definitions?** Well that route feels like cold taxonomy, something that can really only offer shallow information.
 **Do I try to sell you on a worldview?** While this will get closer to understanding my perspective, that perspective would be singular and a lot of the power within this community comes dissimilar people and perspectives bound by similar feelings. 
-**Do I try to 
+**Do I try to hand wave this away?** This is very tempting, but "its complicated", though true, will ne
