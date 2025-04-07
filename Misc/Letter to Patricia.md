@@ -6,5 +6,4 @@ Hey, I'm not sure why I've taken so long to just sit down and write this, I thin
 So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. That being said, words are practical and communication is very difficult without them. Here is a term glossary: https://transactual.org.uk/glossary/
 
 Discrimination, Dogwhistles, and 
-why do i think this happens: some may disagree but I largely think its about control and disg
-Trand
+Why do I think this happens: some may disagree but I largely think its about control and disgust, I think most stigma about lgbtq+ discrimination has to do with an underlying disgust response, not just seeing a tranny clearly not passing and feeling like she grosses you out but equally real seeing a woman not conforming to 
