@@ -3,8 +3,8 @@ Hey, I'm not sure why I've taken so long to just sit down and write this, I thin
 **Do I try to sell you on a worldview?** While this will get closer to understanding my perspective, that perspective would be singular and a lot of the power within this community comes dissimilar people and perspectives bound by similar feelings. 
 **Do I try to hand wave this away?** This is very tempting, but explaining trans people by saying "its complicated", though true, puts walls around these concepts. 
 
-So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. Weather intended or not these terms tend to capture the publics opposition to exploring gender
+So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. 
 
+Here is a term glossary: https://transactual.org.uk/glossary/
 
-
-In many ways we are defined by the publics opposition to exploring gender in 
+In many ways we are defined by the publics opposition to exploring gender
