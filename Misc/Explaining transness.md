@@ -2,7 +2,9 @@ Hey, I'm not sure why I've taken so long to just sit down and write this, I thin
 
 **Do I try to explain this thing with terms and definitions?** Well that route feels like cold taxonomy, something that can really only offer shallow information. 
 **Do I try to sell you on a worldview?** While this will get closer to understanding my perspective, that perspective would be singular and a lot of the power within this community comes dissimilar people and perspectives bound by similar feelings. 
-**Do I try to hand wave this away?** This is very tempting, but explaining trans people by saying "its complicated", though true, puts walls around these concepts. 
+**Do I try to hand wave this away?** This is very tempting, but explaining trans people by saying "its complicated", though true, puts walls around concepts you are already familiar with but havent examined with a trans lens 
+
+Genneral resource pa
 
 **Terms**
 So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. That being said, words are practical and communication is very difficult without them. Here is a term glossary: https://transactual.org.uk/glossary/
