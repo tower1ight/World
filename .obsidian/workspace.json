@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Untitled.md",
+                "file": "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Xylanni Ecology"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "c.04",
+                "query": "ecol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,8 +251,8 @@
   },
   "active": "8cf11b75651c719b",
   "lastOpenFiles": [
-    "Misc/T  T man T . . .  T even. Perhaps E.md",
     "Misc/Untitled.md",
+    "Misc/T  T man T . . .  T even. Perhaps E.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
     "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
     "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
