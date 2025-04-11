@@ -13,18 +13,18 @@ Things to consider
  
  
  
- # Chaparral Hexs
+# Chaparral Hexs
 
-| Yellow Grass                   | Tree Island             | Planes    | Fey Touched  |     |
-| ------------------------------ | ----------------------- | --------- | ------------ | --- |
-| Stalks<br>Mold                 | Acacia<br>Floor Oak<br> | Floor Oak |              |     |
-| Skitterlings<br>               | Bush Mice               |           |              |     |
-| **Green Grass**                | **Meadow**              | **Lake**  |              |     |
-| Stalks                         | flowers                 |           |              |     |
-| floor moss                     |                         |           |              |     |
-| **White Grass**                | **Crags**               | **Swamp** | **Infected** |     |
-| Stalks<br>Mold (white variant) | Lichen                  |           |              |     |
-| Skitterlings                   |                         |           |              |     |
+| Yellow Grass                   | Tree Island             | Planes    | Fey Touched  |
+| ------------------------------ | ----------------------- | --------- | ------------ |
+| Stalks<br>Mold                 | Acacia<br>Floor Oak<br> | Floor Oak |              |
+| Skitterlings<br>               | Bush Mice               |           |              |
+| **Green Grass**                | **Meadow**              | **Lake**  |              |
+| Stalks                         | flowers                 |           |              |
+| floor moss                     |                         |           |              |
+| **White Grass**                | **Crags**               | **Swamp** | **Infected** |
+| Stalks<br>Mold (white variant) | Lichen                  |           |              |
+| Skitterlings                   |                         |           |              |
 
 
 ## Flora
@@ -95,6 +95,8 @@ planes fraun grass
 ## Plane and foothills
 Whispy grass surround you, thick roots in the ground lets hundreds of fine frauns, they drift slowly with the with the wind, the earth is soft here, very dificult to run in. Steady flexible movements and psionic coordination allow those skilled in it to walk with it unhindered. Sad, you don't have that yet. you fall onto it learning that it will support your weight and in the same moment you are pulled beneath, staring a jungle of activity bellow, arachnids rest in burrows, a rodent like creature the size of a small dog digs throughs a large invertebrate, its claws tearing through thin skin on its underside.
 ## Forest
+
+Walkin and rollin down
 ##  Green Stalks 
 
 | Seight<br>Trees<br>Mammals | Smell<br>Flowers<br>Birds | Taste<br>Microorg<br>Invertibrates | Touch<br>Misc<br>Reptiles<br> | Mind                 |
@@ -132,4 +134,8 @@ Whispy grass surround you, thick roots in the ground lets hundreds of fine fraun
 | -------------------------- | ------------------------- | ---------------------------------- | ----------------------------- | -------------------- |
 | <br>                       |                           | <br><br>                           | <br>                          | <br><br><br><br><br> |
 |                            |                           |                                    |                               |                      |
- 
+# Alpine
+# Deciduous and Substrate
+# Arcadian Sea
+
+# Rainforest/ Abysal Dark
