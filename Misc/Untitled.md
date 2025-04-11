@@ -1,0 +1,1 @@
+thick grass prevades the space and 
