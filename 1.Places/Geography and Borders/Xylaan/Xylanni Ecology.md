@@ -34,7 +34,7 @@ Things to consider
  White Stalks 
 Carnivourus one
  water sponge flower: part hydrange part pussywillow, these guys sit at the side of a water source and dip their head in to drink
-planes fraun g
+planes fraun grass
  
 #### Microorg
  Mold
