@@ -13,7 +13,7 @@ Things to consider
  
  
  
-# Chaparral Hexs
+# Chaparral
 
 | Yellow Grass                   | Tree Island             | Planes    | Fey Touched  |
 | ------------------------------ | ----------------------- | --------- | ------------ |
@@ -72,7 +72,7 @@ planes fraun grass
  Isopod mites: live between shell gaps eating their flesh and laying eggs 
  Stalk worms: about 1/2 inch long in their infancy they have sharp shreading teeth the allow them to burrow to the center of green and yellow stalks, once in a stalk they make their way to the top and grow barbs into the stalk walls dig their sides and grow to about 5 feet. they live by sucking [[Ichor]] out of the [[Ichor]] and ultimately depriving their host 
  
-## Yellow Stalks
+#### Yellow Stalks
 
 | *yellow Stalk*                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -92,50 +92,24 @@ planes fraun grass
 
 
 
-## Plane and foothills
+#### Plane and foothills
 Whispy grass surround you, thick roots in the ground lets hundreds of fine frauns, they drift slowly with the with the wind, the earth is soft here, very dificult to run in. Steady flexible movements and psionic coordination allow those skilled in it to walk with it unhindered. Sad, you don't have that yet. you fall onto it learning that it will support your weight and in the same moment you are pulled beneath, staring a jungle of activity bellow, arachnids rest in burrows, a rodent like creature the size of a small dog digs throughs a large invertebrate, its claws tearing through thin skin on its underside.
-## Forest
+#### Forest
 
 Walkin and rollin down
-##  Green Stalks 
+#### Green Stalks 
 
-| Seight<br>Trees<br>Mammals | Smell<br>Flowers<br>Birds | Taste<br>Microorg<br>Invertibrates | Touch<br>Misc<br>Reptiles<br> | Mind                 |
-| -------------------------- | ------------------------- | ---------------------------------- | ----------------------------- | -------------------- |
-| <br>                       |                           | <br><br>                           | <br>                          | <br><br><br><br><br> |
-|                            |                           |                                    |                               |                      |
+#### Touched
+  - Wildmagic
+## White Stalks
+## Swamp
+## Infection 
+## Crags
 
 
-  ## Meadow
-
-| Seight<br>Trees<br>Mammals | Smell<br>Flowers<br>Birds | Taste<br>Microorg<br>Invertibrates | Touch<br>Misc<br>Reptiles<br> | Mind                 |
-| -------------------------- | ------------------------- | ---------------------------------- | ----------------------------- | -------------------- |
-| <br>                       |                           | <br><br>                           | <br>                          | <br><br><br><br><br> |
-|                            |                           |                                    |                               |                      |
-  ## White Stalks
-
-| Seight<br>Trees<br>Mammals | Smell<br>Flowers<br>Birds | Taste<br>Microorg<br>Invertibrates | Touch<br>Misc<br>Reptiles<br> | Mind                 |
-| -------------------------- | ------------------------- | ---------------------------------- | ----------------------------- | -------------------- |
-| <br>                       |                           | <br><br>                           | <br>                          | <br><br><br><br><br> |
-|                            |                           |                                    |                               |                      |
- ##  Swamp
-
-| Seight<br>Trees<br>Mammals | Smell<br>Flowers<br>Birds | Taste<br>Microorg<br>Invertibrates | Touch<br>Misc<br>Reptiles<br> | Mind                 |
-| -------------------------- | ------------------------- | ---------------------------------- | ----------------------------- | -------------------- |
-| <br>                       |                           | <br><br>                           | <br>                          | <br><br><br><br><br> |
-|                            |                           |                                    |                               |                      |
-  ## Infection 
-| Seight<br>Trees<br>Mammals | Smell<br>Flowers<br>Birds | Taste<br>Microorg<br>Invertibrates | Touch<br>Misc<br>Reptiles<br> | Mind                 |
-| -------------------------- | ------------------------- | ---------------------------------- | ----------------------------- | -------------------- |
-| <br>                       |                           | <br><br>                           | <br>                          | <br><br><br><br><br> |
-|                            |                           |                                    |                               |                      |
- ##  Crags
-
-| Seight<br>Trees<br>Mammals | Smell<br>Flowers<br>Birds | Taste<br>Microorg<br>Invertibrates | Touch<br>Misc<br>Reptiles<br> | Mind                 |
-| -------------------------- | ------------------------- | ---------------------------------- | ----------------------------- | -------------------- |
-| <br>                       |                           | <br><br>                           | <br>                          | <br><br><br><br><br> |
-|                            |                           |                                    |                               |                      |
 # Alpine
 # Deciduous and Substrate
+##
 # Arcadian Sea
 
-# Rainforest/ Abysal Dark
+# Rainforest and Abysal Dark
