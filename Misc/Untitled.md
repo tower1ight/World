@@ -1,1 +1,1 @@
-thick grass prevades the space and 
+thick whispy grass waves in the wind, thick roots in the ground lets hundreds of fine feather drift with the wind, the earth is soft here, broken up 
