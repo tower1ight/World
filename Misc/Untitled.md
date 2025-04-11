@@ -1,3 +1,1 @@
-thick whispy grass surround you, thick roots in the ground lets hundreds of fine frauns, they drift slowly with the with the wind, the earth is soft here, very dificult to run in.
-
-There is skill in traveling here, steady flexible movements and psionic coordination allows those skilled in it to drift unhindered
+thick whispy grass surround you, thick roots in the ground lets hundreds of fine frauns, they drift slowly with the with the wind, the earth is soft here, very dificult to run in. Steady flexible movements and psionic coordination allow those skilled in it to walk with it unhindered. Sad, you don't have that yet. you fall onto it learning that it will support your weight
