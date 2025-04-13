@@ -15,16 +15,10 @@ Things to consider
  
 # Chaparral
 
-| Yellow Grass                   | Tree Island             | Planes    | Fey Touched  |
-| ------------------------------ | ----------------------- | --------- | ------------ |
-| Stalks<br>Mold                 | Acacia<br>Floor Oak<br> | Floor Oak |              |
-| Skitterlings<br>               | Bush Mice               |           |              |
-| **Green Grass**                | **Meadow**              | **Lake**  |              |
-| Stalks                         | flowers                 |           |              |
-| floor moss                     |                         |           |              |
-| **White Grass**                | **Crags**               | **Swamp** | **Infected** |
-| Stalks<br>Mold (white variant) | Lichen                  |           |              |
-| Skitterlings                   |                         |           |              |
+| Yellow Stalks    | Dense Forest | Foothills |              |
+| ---------------- | ------------ | --------- | ------------ |
+| **Green Stalks** | **Meadow**   | **Lake**  |              |
+| **White Grass**  | **Crags**    | **Marsh** | **Infected** |
 
 
 ## Flora
