@@ -17,8 +17,9 @@ Things to consider
 
 | Yellow Stalks    | Dense Forest | Foothills |              |
 | ---------------- | ------------ | --------- | ------------ |
+|                  |              |           |              |
 | **Green Stalks** | **Meadow**   | **Lake**  |              |
-| **White Grass**  | **Crags**    | **Marsh** | **Infected** |
+| **White Stalks** | **Crags**    | **Marsh** | **Infected** |
 
 
 ## Flora
