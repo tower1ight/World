@@ -1,6 +1,6 @@
 Hey, I'm not sure why I've taken so long to just sit down and write this, I think a number of reasons can be highlighted but chief among them is an inability to simplify important concepts that have come to mean a lot to me. Additionally I have gained most of my ideas on gender theory from video essayists I enjoy watching, and I cant in good conscious recommend a bunch of three hour youtube videos to anyone with a job. 
 
-Though I am not a reddit user myself a lot of trans women pass information to one another on it and this is a post that I think has a lot of useful things. It may be a cop out but I feel that this is probably a more helpful than what I have provided bellow: https://www.reddit.com/r/Trans_Resources/wiki/further_resources/index/#wiki_media_.28_books.2C_movies.2C_series_.29
+Though I am not a reddit user myself, a lot of trans people use reddit to store and pass information amongst themselves. This is a post that I think has a lot of useful things. It may be a cop out but I feel that this is probably a more helpful than what I have provided bellow: https://www.reddit.com/r/Trans_Resources/wiki/further_resources/index/#wiki_media_.28_books.2C_movies.2C_series_.29
 
 **Terms**
 So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. That being said, words are practical and communication is very difficult without them. Here is a term glossary: https://transactual.org.uk/glossary/
@@ -15,9 +15,8 @@ Butler has collapsed the sex/gender distinction in order to argue that there is 
 Gender is not just a process, but it is a particular type of process, “a set of repeated acts
 *within a highly rigid regulatory frame*” as Butler puts it. I have italicized that last phrase in order to stress that, as with the wardrobe analogy that I introduce later in this chapter, Butler is not suggesting that the subject is free to choose which gender she or he is going to enact. “The script,” if you like, is always already determined within this regulatory frame, and the subject has a limited number of “costumes” from which to make a constrained choice of gender style.
 
-**Some Maybe Unhelpful Documents and Articles**
-If you think you will get 
-I have linked below a few articles and videos that I found quite interesting. These may be of little help 
+**A short and possibly unhelpful list of things that have influenced my thinking around this topic**
+I have linked below a few articles and videos that I found quite interesting. These may be of little help and you might find more information on the reddit page I linked above
 
 **Who's Afraid of Gender?**
 A more broad and contextual explanation of Judith Butler  
@@ -30,4 +29,6 @@ https://www.youtube.com/watch?v=EmT0i0xG6zg
 **Why Are People Trans?**
 Examines what threat ambiguity poses and how the pursuit of why certain identities exist will ultimately be harmful 
 https://www.youtube.com/watch?v=fadSfCyQCjQ
+
+Archetypal Transsexuality 
 
