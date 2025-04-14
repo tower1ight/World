@@ -5,7 +5,7 @@ Though I am not a reddit user myself a lot of trans women pass information to on
 **Terms**
 So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. That being said, words are practical and communication is very difficult without them. Here is a term glossary: https://transactual.org.uk/glossary/
 
-**My **
+**What school of gender theory I subscribe to**
 My personal perspective on gender theory, stems largely from citations and arguments of a controversial and dense book (that admittedly I have not read) called gender trouble by Judith Butler. Their speech is all very heady and philosophical and while I believe it generally is applicable to most questions of gender. Here is an excerpt from an article, "On Judith Butler and Performativity", written by Sara Salih:
 
 Butler has collapsed the sex/gender distinction in order to argue that there is no sex that is not always already gender. All bodies are gendered from the beginning of their social existence (and there is no existence that is not social), which means that there is no “natural body” that pre-exists its cultural inscription. This seems to point towards the conclusion that gender is not something one is, it is something one does, an act, or more precisely, a sequence of acts, a verb rather than a noun, a “doing” rather than a “being” (GT: 25). Butler elaborates this idea in the first chapter of Gender Trouble:
@@ -15,6 +15,8 @@ Butler has collapsed the sex/gender distinction in order to argue that there is 
 Gender is not just a process, but it is a particular type of process, “a set of repeated acts
 *within a highly rigid regulatory frame*” as Butler puts it. I have italicized that last phrase in order to stress that, as with the wardrobe analogy that I introduce later in this chapter, Butler is not suggesting that the subject is free to choose which gender she or he is going to enact. “The script,” if you like, is always already determined within this regulatory frame, and the subject has a limited number of “costumes” from which to make a constrained choice of gender style.
 
+**Some Maybe Unhelpful Documents and Articles**
+If you think you will get 
 I have linked below a few articles and videos that I found quite interesting. These may be of little help 
 
 
