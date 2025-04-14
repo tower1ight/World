@@ -66,7 +66,7 @@ Sessions
 ## ACT I
 - reaction, they know the mission (15 min)
 	- in media res watching the generals arival: An energy of nervous anticipation pervades the crowd, Sircha of [[House Follanel]] lounges in a box at the top of a newly constructed amphitheater. With her customary wry smile she surveys her work. [[Sage Aelon|Aelon's]] spot is empty, unsurprising given her reclusivness in the past couple months. Soldiers line the main road, standing at perfect attention, compensating for 2 months of walking around with their tails beneath their legs, celebrating a 6th year to an invasion with almost nothing to show for it. They are practically giddy with the prospect of new **military** leadership, many of their eyes slide over you. They need someone to blame don't they!
-	- one of pearls cohort whispers in her ear, conspicuously gesturing at a group stand beside the , you see a bulky guy with a q embroidered abo
+	- one of pearls cohort whispers in her ear, conspicuously gesturing at a group stand under the awning of ro, you see a bulky guy with a q embroidered abo
 		- 
 	- Give a goal breakdown
 		- Context: At the begining of the teloric invasion a thousands of soliders were baited by goblins into the veil (battlefield marked on the map), after years of assuming that they were dead, Teloric Soliders have been spotted watching the scholars work from within the forest,

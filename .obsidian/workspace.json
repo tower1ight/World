@@ -25,14 +25,12 @@
             "id": "e095d4a60d6b442a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
-                "mode": "source",
-                "source": false
+                "file": "3.Rules, Systems, Handouts/Time and Cosmology.pdf"
               },
-              "icon": "lucide-file",
-              "title": "C.04 Arc 3 - Into The Woods"
+              "icon": "lucide-file-text",
+              "title": "Time and Cosmology"
             }
           },
           {
@@ -74,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,8 +125,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,12 +242,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "15e06a337b6ca505",
+  "active": "e095d4a60d6b442a",
   "lastOpenFiles": [
-    "1.Places/Cities and Settlements/Fort Raynault.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
-    "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
     "4.Rand Docs for messing arround/Untitled 2.md",
+    "1.Places/Cities and Settlements/Fort Raynault.md",
+    "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
     "4.Rand Docs for messing arround/marge things.md",
     "4.Rand Docs for messing arround/thoughts on goblin city etc.md",
     "Misc/T    T, T man   T . . .  T even. Perhaps E.md",
