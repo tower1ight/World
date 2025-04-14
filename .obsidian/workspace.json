@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.People/PCs/Pearl.md",
+                "file": "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pearl"
+              "title": "Timeline"
             }
           },
           {
@@ -85,8 +85,7 @@
               "title": "Fort Raynault"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "voral",
+                "query": "timeline",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -256,12 +255,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3c20aa747653a296",
+  "active": "53ac6ced630b4553",
   "lastOpenFiles": [
+    "2.Supernatural and Natural Fundamentals/Cosmology and Time.md",
+    "1.People/PCs/Pearl.md",
     "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
     "Misc/Inner Circle.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
-    "1.People/PCs/Pearl.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Voral Dynasty.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Timeline.md",
     "Untitled",

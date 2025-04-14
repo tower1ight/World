@@ -1,18 +1,25 @@
 ---
-tags: []
+tags: 
 aliases:
+  - Aelor
+  - Volanor
+  - Ursk
+  - Renta
+  - Nepsis
 ---
 
  # what is it
 
 [[Tel'Voric]]'s Inner circle of [[The Great Library|Library]] [[stewards]]
 
-## Original Eight
+## Original  5
 #### Aelor
+- Daughter Gael
 #### Volanor
 #### Ursk
 #### Renta
-#### Nepsis
+#### Nepsis (Forgotten)
+- 
 
 # Title and Honorary Entries
 #### [[Voral Dynasty|Gael]]
