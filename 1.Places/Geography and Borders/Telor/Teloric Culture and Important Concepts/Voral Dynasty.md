@@ -1,6 +1,12 @@
 ---
- tags: Telor, Teloric_polotics
- alias: Voral
+tags:
+  - Telor
+  - Teloric_polotics
+aliases:
+  - Voral
+  - Gael
 ---
+# 
+
 [[draconic mark]]
 [[Tel'Voric]]
