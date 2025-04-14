@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Timeline.md",
+                "file": "1.Places/Buildings and Landmarks/Violet Church.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeline"
+              "title": "Violet Church"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Inner Circle.md",
+                "file": "1.Places/Cities and Settlements/Fort Raynault.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inner Circle"
+              "title": "Fort Raynault"
             }
           },
           {
@@ -85,7 +85,8 @@
               "title": "Fort Raynault"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "timeline",
+                "query": "ray",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -138,7 +139,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,19 +257,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "53ac6ced630b4553",
+  "active": "3c20aa747653a296",
   "lastOpenFiles": [
+    "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
+    "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
+    "1.Places/Cities and Settlements/Fort Raynault.md",
+    "Misc/Inner Circle.md",
+    "1.Places/Buildings and Landmarks/Violet Church.md",
+    "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Timeline.md",
     "2.Supernatural and Natural Fundamentals/Cosmology and Time.md",
     "1.People/PCs/Pearl.md",
-    "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
-    "Misc/Inner Circle.md",
-    "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Voral Dynasty.md",
-    "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Timeline.md",
     "Untitled",
     "4.Rand Docs for messing arround/Untitled 2.md",
     "1.People/Gods/Tel'Voric.md",
-    "1.Places/Cities and Settlements/Fort Raynault.md",
     "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
     "4.Rand Docs for messing arround/marge things.md",
     "4.Rand Docs for messing arround/thoughts on goblin city etc.md",
@@ -284,8 +287,6 @@
     "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
     "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
     "0.Sessions and Planning/C.04/Myths/The Infection.md",
-    "0.Sessions and Planning/C.04/Myths/The Elf.md",
-    "0.Sessions and Planning/C.04/Myths/The Mine.md",
     "1.People/Gods/Tel'voric's Visual Design.pdf",
     "0.Sessions and Planning/OS.01/OS.1 Notability Planning.pdf",
     "0.Sessions and Planning/C.04/C.04 Notability Arc 1-2 Planning.pdf",
