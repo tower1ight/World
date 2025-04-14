@@ -19,5 +19,8 @@ Gender is not just a process, but it is a particular type of process, “a set o
 If you think you will get 
 I have linked below a few articles and videos that I found quite interesting. These may be of little help 
 
-
+**Who's Afraid of Gender?**
+A more broad and contextual explanation of Judith Butler  
 https://www.youtube.com/watch?v=QVilpxowsUQ 
+
+The Witch Trials of J.K. Rowling | ContraPoints
