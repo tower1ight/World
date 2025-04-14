@@ -73,8 +73,10 @@ Sessions
 		- Meet the rest of your expedition at a point in the woods outside of the forest 
 		- Kill as many as you can
 		- What provisions are they given:
-			- health potions, consider the starvation you put them through
-	- 
+			- health potions, consider the starvation you put them throug
+- **Skill challenge** Medium difficulty (5 successes required)
+		- Success, and Failure determines the presence of a pursuer
+		- 
 - Off on the journey (45 min)
 	- Gopher like you pop up and make your way onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
 	- Suppriesed by other party members
