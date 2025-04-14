@@ -66,7 +66,7 @@ Sessions
 ## ACT I
 - reaction, they know the mission (15 min)
 	- in media res watching the generals arival: ==An energy of nervous anticipation pervades the crowd, Soldiers stand at attention in a line down the main road compensating for months of long and eventless patrol, practically gidy with the prospect of new leadership, someone to point them towards violence, many of their eyes slide over you== 
-	- one of pearls cohort wispers in her ear that everything is ready
+	- one of pearls cohort wispers in her ear, conspicuously gesturing at a group
 		- 
 	- Give a goal breakdown
 		- Context: At the begining of the teloric invasion a thousands of soliders were baited by goblins into the veil (battlefield marked on the map), after years of assuming that they were dead, Teloric Soliders have been spotted watching the scholars work from within the forest,
