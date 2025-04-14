@@ -38,4 +38,4 @@ Attached in the email
 Makes a good case for removing any regulations on gender affirming care
 https://www.youtube.com/watch?v=v1eWIshUzr8
 
-
+Trans Women Manifesto
