@@ -14,12 +14,21 @@ My personal perspective on gender, stems largely from citations and arguments of
 
 Butler has collapsed the sex/gender distinction in order to argue that there is no sex that is not always already gender. All bodies are gendered from the beginning of their social existence (and there is no existence that is not social), which means that there is no “natural body” that pre-exists its cultural inscription. This seems to point towards the conclusion that gender is not something one is, it is something one does, an act, or more precisely, a sequence of acts, a verb rather than a noun, a “doing” rather than a “being” (GT: 25). Butler elaborates this idea in the first chapter of Gender Trouble:
 
-*"Gender is the repeated stylization of the body, a set of repeated acts within a highly rigid regulatory frame that congeal over time to produce the appearance of substance, of a natural sort of being. A political genealogy of gender ontologies, if it i successful, will deconstruct the substantive
-appearance of gender into its constitutive
-acts and locate and account for those acts
-within the compulsory frames set by the var-
-ious forces that police the social appearance
-of gender.
+*"Gender is the repeated stylization of the body, a set of repeated acts within a highly rigid regulatory frame that congeal over time to produce the appearance of substance, of a natural sort of being. A political genealogy of gender ontologies, if it is successful, will deconstruct the substantive appearance of gender into its constitutive acts and locate and account for those acts within the compulsory frames set by the various forces that police the social appearance of gender. 
+
+Gender is not just a process, but it is a par-
+ticular type of process, “a set of repeated acts
+within a highly rigid regulatory frame” as
+Butler puts it. I have italicized that last phrase
+in order to stress that, as with the wardrobe
+analogy that I introduce later in this chapter,
+Butler is not suggesting that the subject is free
+to choose which gender she or he is going
+to enact. “The script,” if you like, is always
+already determined within this regulatory
+frame, and the subject has a limited number of
+“costumes” from which to make a constrained
+choice of gender style.
 
 A short description of my personal understanding is as follows: For the large majority of my life I have been semi comfortable living as a boy/man that expresses more femininity than most boys/men. For the past five years that has really shifted, as I grew up I felt something closing in on who I was and what my future looked like, how I would be socially permitted to look and dress, What my relationship to the women in my life would look like, even if I kept this femininity to my identity as a man I would still be required to fill masculine social roles that I wanted literally nothing to do with. In short that picture of who I would end up becoming sat in the back of my head, creating indescribably hopelessness, and pervading every thought of the future. With the added context of what it felt like to dress as a woman, the occasional dream where I had a woman's body, and the femininity I was already performing in my daily life, It became very clear that if it were possible to become a woman, I would like to. If this is all sounding very dramatic ... yes, I am aware. 
 
