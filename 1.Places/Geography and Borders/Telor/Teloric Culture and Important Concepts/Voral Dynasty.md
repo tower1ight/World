@@ -5,8 +5,11 @@ tags:
 aliases:
   - Voral
   - Gael
+  - Yondal
 ---
-# 
+# Gael
+
+# Aloric
 
 [[draconic mark]]
 [[Tel'Voric]]
