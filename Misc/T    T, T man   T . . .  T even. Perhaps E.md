@@ -30,12 +30,14 @@ https://www.youtube.com/watch?v=EmT0i0xG6zg
 Examines what threat ambiguity poses and how the pursuit of why certain identities exist will ultimately be harmful 
 https://www.youtube.com/watch?v=fadSfCyQCjQ
 
-**Archetypal Transsexuality**
-More on ambiguity
+**Trans Women Manifesto**
+Slightly dated in its language and thinking when it comes to addressing other trans identities how they are discriminated against but this short section in ju
 Attached in the email
 
 **I Emailed My Doctor 133 Times**
 Makes a good case for removing any regulations on gender affirming care
 https://www.youtube.com/watch?v=v1eWIshUzr8
 
-Trans Women Manifesto
+**Archetypal Transsexuality**
+Short and flowery essay that deals with the power in ambiguity 
+Attached in the email
