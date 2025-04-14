@@ -65,7 +65,7 @@ Sessions
 	 - the negotiation
 ## ACT I
 - reaction, they know the mission (15 min)
-	- in media res watching the generals arival: ==An energy of nervous anticipation pervades the crowd, Sircha of [[House Follanel]] lounges in a box at the top of oldiers stand at attention in a line down the main road compensating for months of long and eventless patrol, practically gidy with the prospect of new **military** leadership, many of their eyes slide over you== 
+	- in media res watching the generals arival: An energy of nervous anticipation pervades the crowd, Sircha of [[House Follanel]] lounges in a box at the top of a newly constructed amphitheater. With her customary wry smile she surveys her work. Soldiers, line the main road stand at perfect attention lining the main road compensating for months of long and eventless patrol, practically gidy with the prospect of new **military** leadership, many of their eyes slide over you
 	- one of pearls cohort wispers in her ear, conspicuously gesturing at a group, you see a bulky guy with a q embroidered abo
 		- 
 	- Give a goal breakdown
