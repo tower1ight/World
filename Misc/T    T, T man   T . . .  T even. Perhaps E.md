@@ -4,10 +4,17 @@ Hey, I'm not sure why I've taken so long to just sit down and write this, I thin
 **Do I try to sell you on a worldview?** While this will get closer to understanding my perspective, that perspective would be singular and a lot of the power within this community comes dissimilar people and perspectives bound by similar feelings. 
 **Do I try to hand wave this away?** This is very tempting, but explaining trans people by saying "its complicated", though true, puts walls around concepts you are already familiar with but haven't examined with a trans lens 
 
-Genneral resource page: https://www.reddit.com/r/Trans_Resources/wiki/further_resources/index/#wiki_media_.28_books.2C_movies.2C_series_.29
+Though I am not a reddit user myself a lot of trans women pass information to one another on it and this is a post that I think has a lot of useful things: https://www.reddit.com/r/Trans_Resources/wiki/further_resources/index/#wiki_media_.28_books.2C_movies.2C_series_.29
 
 **Terms**
 So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. That being said, words are practical and communication is very difficult without them. Here is a term glossary: https://transactual.org.uk/glossary/
+
+
+
+
+
+
+
 
 **What I am trying to pursue**
 A short description of my personal understanding is as follows: For the large majority of my life I have been semi comfortable living as a boy/man that expresses more femininity than most boys/men. For the past five years that has really shifted, as I grew up I felt something closing in on who I was and what my future looked like, how I would be socially permitted to look and dress, What my relationship to the women in my life would look like, even if I kept this femininity to my identity as a man I would still be required to fill masculine social roles that I wanted literally nothing to do with. In short that picture of who I would end up becoming sat in the back of my head, creating indescribably hopelessness, and pervading every thought of the future. With the added context of what it felt like to dress as a woman, the occasional dream where I had a woman's body, and the femininity I was already performing in my daily life, It became very clear that if it were possible to become a woman, I would like to. If this is all sounding very dramatic ... yes, I am aware. 
