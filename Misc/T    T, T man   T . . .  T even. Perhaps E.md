@@ -1,16 +1,12 @@
 Hey, I'm not sure why I've taken so long to just sit down and write this, I think a number of reasons can be highlighted but chief among them is an inability to simplify important concepts that have come to mean a lot to me. Additionally I have gained most of my ideas on gender theory from video essayists I enjoy watching, and I cant in good conscious recommend a bunch of three hour youtube videos to anyone with a job. 
 
-**Do I try to explain this thing with terms and definitions?** Well that route feels like cold taxonomy, something that can really only offer shallow information. 
-**Do I try to sell you on a worldview?** While this will get closer to understanding my perspective, that perspective would be singular and a lot of the power within this community comes dissimilar people and perspectives bound by similar feelings. 
-**Do I try to hand wave this away?** This is very tempting, but explaining trans people by saying "its complicated", though true, puts walls around concepts you are already familiar with but haven't examined with a trans lens 
-
 Though I am not a reddit user myself a lot of trans women pass information to one another on it and this is a post that I think has a lot of useful things: https://www.reddit.com/r/Trans_Resources/wiki/further_resources/index/#wiki_media_.28_books.2C_movies.2C_series_.29
 
 **Terms**
 So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. That being said, words are practical and communication is very difficult without them. Here is a term glossary: https://transactual.org.uk/glossary/
 
-**What I am trying to pursue**
-My personal perspective on gender, stems largely from citations and arguments of a controversial and dense book (that admittedly I have not read) called gender trouble by Judith Butler. Their speech is all very heady and philosophical and while I believe it generally is applicable to most questions of gender. Here is an excerpt from an article, "On Judith Butler and Performativity", written by Sara Salih:
+**My **
+My personal perspective on gender theory, stems largely from citations and arguments of a controversial and dense book (that admittedly I have not read) called gender trouble by Judith Butler. Their speech is all very heady and philosophical and while I believe it generally is applicable to most questions of gender. Here is an excerpt from an article, "On Judith Butler and Performativity", written by Sara Salih:
 
 Butler has collapsed the sex/gender distinction in order to argue that there is no sex that is not always already gender. All bodies are gendered from the beginning of their social existence (and there is no existence that is not social), which means that there is no “natural body” that pre-exists its cultural inscription. This seems to point towards the conclusion that gender is not something one is, it is something one does, an act, or more precisely, a sequence of acts, a verb rather than a noun, a “doing” rather than a “being” (GT: 25). Butler elaborates this idea in the first chapter of Gender Trouble:
 
@@ -19,15 +15,10 @@ Butler has collapsed the sex/gender distinction in order to argue that there is 
 Gender is not just a process, but it is a particular type of process, “a set of repeated acts
 *within a highly rigid regulatory frame*” as Butler puts it. I have italicized that last phrase in order to stress that, as with the wardrobe analogy that I introduce later in this chapter, Butler is not suggesting that the subject is free to choose which gender she or he is going to enact. “The script,” if you like, is always already determined within this regulatory frame, and the subject has a limited number of “costumes” from which to make a constrained choice of gender style.
 
+I have linked below a few articles and videos that I found quite interesting. These may be of little help 
 
 
 
-
-
-
-A short description of my personal understanding is as follows: For the large majority of my life I have been semi comfortable living as a boy/man that expresses more femininity than most boys/men. For the past five years that has really shifted, as I grew up I felt something closing in on who I was and what my future looked like, how I would be socially permitted to look and dress, What my relationship to the women in my life would look like, even if I kept this femininity to my identity as a man I would still be required to fill masculine social roles that I wanted literally nothing to do with. In short that picture of who I would end up becoming sat in the back of my head, creating indescribably hopelessness, and pervading every thought of the future. With the added context of what it felt like to dress as a woman, the occasional dream where I had a woman's body, and the femininity I was already performing in my daily life, It became very clear that if it were possible to become a woman, I would like to. If this is all sounding very dramatic ... yes, I am aware. 
-
-My personal perspective on gender, stems largely from citations and arguments of a controversial and dense book (that admittedly I have not read) called gender trouble by Judith Butler. Their speech is all very heady and philosophical and while I believe it generally is applicable to most questions of gender 
 
 **Discrimination, Dogwhistles, and Control** 
 Why do I think discrimination happens: Some may disagree but I largely think its about disgust and control, I think most lgbtq+ discrimination has to do with queer people deviating from dominant cultural norms and  underlying disgust at queer bodies. Feminist literature spends a lot of time talking about how dividing men and women into two solid categories with different traits, skills, and roles, makes both groups easier to control and exploit. Critiques to that rigid picture of gender almost always threaten those systems of culturally accepted exploitation.
