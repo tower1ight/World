@@ -23,4 +23,6 @@ I have linked below a few articles and videos that I found quite interesting. Th
 A more broad and contextual explanation of Judith Butler  
 https://www.youtube.com/watch?v=QVilpxowsUQ 
 
-The Witch Trials of J.K. Rowling | ContraPoints
+**The Witch Trials of J.K. Rowling**
+Details transphobia as a movement as well as how it fits into a larger history of LGBTQ+ bigotry 
+https://www.youtube.com/watch?v=EmT0i0xG6zg
