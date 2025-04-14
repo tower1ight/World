@@ -30,5 +30,12 @@ https://www.youtube.com/watch?v=EmT0i0xG6zg
 Examines what threat ambiguity poses and how the pursuit of why certain identities exist will ultimately be harmful 
 https://www.youtube.com/watch?v=fadSfCyQCjQ
 
-Archetypal Transsexuality 
+**Archetypal Transsexuality**
+More on ambiguity
+Attached in the email
+
+**I Emailed My Doctor 133 Times**
+Makes a good case for removing any regulations on gender affirming care
+https://www.youtube.com/watch?v=v1eWIshUzr8
+
 
