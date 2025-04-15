@@ -31,7 +31,7 @@ Examines what threat ambiguity poses and how the pursuit of why certain identiti
 https://www.youtube.com/watch?v=fadSfCyQCjQ
 
 **Trans Women Manifesto**
-Slightly dated in its language and thinking when it comes to addressing other trans identities how they are discriminated against but this short section in ju
+Slightly dated in its language and thinking when it comes to addressing other trans identities how they are discriminated against but this short section in Julia Serano's book "whipping girl" addressees discrimination faced by tra  
 Attached in the email
 
 **I Emailed My Doctor 133 Times**
