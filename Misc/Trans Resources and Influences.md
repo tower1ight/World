@@ -1,6 +1,8 @@
-Hey, I'm not sure why I've taken so long to just sit down and write this, I think a number of reasons can be highlighted, but chief among them is an inability to simplify important and dense concepts that have come to mean a lot to me. You might notice that I havent really atAdditionally I have gained most of my ideas on gender theory from video essayists I enjoy watching, and I cant in good conscious recommend a bunch of three hour youtube videos to anyone with a job. 
+Hey, I'm not sure why I've taken so long to just sit down and write this, I think a number of reasons can be highlighted, but chief among them is an inability to simplify important and dense concepts that have come to mean a lot to me. 
 
-Though I am not a reddit user myself, a lot of trans people use reddit to store and pass information amongst themselves. This is a post that I think has a lot of useful things. It may be a cop out but I feel that this is probably a more helpful than what I have provided bellow: https://www.reddit.com/r/Trans_Resources/wiki/further_resources/index/#wiki_media_.28_books.2C_movies.2C_series_.29
+Additionally I have gained most of my ideas on gender theory from video essayists I enjoy watching, and I cant in good conscious recommend a bunch of three hour youtube videos to anyone with a job. 
+
+Though I am not a reddit user myself, a lot of trans people use reddit to store and pass information amongst themselves. This is a post that I think has a lot of useful things. It may be a cop out, but I feel that this page is probably the most helpful resource for general trans information https://www.reddit.com/r/Trans_Resources/wiki/further_resources/index/#wiki_media_.28_books.2C_movies.2C_series_.29
 
 **Terms**
 So basically I think the thing thats most important to know is that **trans** is an umbrella term for people who's experience with gender is atypical. For this reason efforts to categorize and boil down the trans term will always work to divide us and leave vulnerable people out to dry. That being said, words are practical and communication is very difficult without them. Here is a term glossary: https://transactual.org.uk/glossary/
