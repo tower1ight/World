@@ -31,7 +31,7 @@ Examines what threat ambiguity poses and how the pursuit of why certain identiti
 https://www.youtube.com/watch?v=fadSfCyQCjQ
 
 **Trans Women Manifesto**
-This short section in Julia Serano's book "whipping girl" addressees discrimination faced by trans women. While slightly dated in its language and thinking when it comes to addressing bigotry toward other trans identities, it does a good job at quickly highlighting a number of import
+This short section in Julia Serano's book "whipping girl" addressees discrimination faced by trans women. While slightly dated in its language and thinking when it comes to addressing bigotry toward other trans identities, this chapter does a good job at quickly highlighting misogyny specific to trans women
 Attached in the email
 
 **I Emailed My Doctor 133 Times**
