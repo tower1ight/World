@@ -13,7 +13,8 @@ Sessions
 		- [ ] Party Token, 
 		- [ ] Tables
 		- [ ] Add Taylor
-	- [ ] Skill challenge provided details
+	- [ ] 
+	- [ ] Skill challenge provided encounters and twists
 	- [ ] Vision details
 	- [ ] Quest details and Text
 	- [ ] Finalize Travel Rules
@@ -97,7 +98,7 @@ Days to prep
 	- in media res watching the generals arival: Pearl, Tal, Poe, and Billiard are remarking on how nice fort raynault looks! An energy of nervous anticipation pervades the crowd, Sircha of [[House Follanel]] lounges in a box at the top of a newly constructed amphitheater. With her customary wry smile she surveys her work. [[Sage Aelon|Aelon's]] spot is empty, unsurprising given her reclusiveness in the past couple months. Soldiers line the main road, standing at perfect attention, compensating for 3 months of walking around with their tails beneath their legs, celebrating a 6th year to an invasion with almost nothing to show for it. They are practically giddy with the prospect of new **military** leadership, many of their eyes slide over you. They need someone to blame don't they!
 	- one of pearls cohort whispers in her ear, conspicuously gesturing at a group stand under the awning of Renta's Hold, Serans inn, you see a bulky tan guy with a q embroidered over his jumpsuit, a severe woman with long black hair wears a similar jumpsuit with a V and leans against the wall, and towering above them is  A Feirbolg in plate
 	- Give a goal breakdown
-		- Context: At the begining of the teloric invasion a thousands of soliders were baited by goblins into the veil (battlefield marked on the map), after years of assuming that they were dead, Teloric Soliders have been spotted watching the scholars work from within the forest,
+		- Context: In the first year of the invasion, thousands of soldiers were baited by goblins into the forest (battlefield marked on the map), after years of assuming that they were dead, Teloric Soliders have been spotted watching the scholars work from within the forest,
 		- Eyes follow the party: Escape fort raylault without anyone noticing
 		- Meet the rest of your expedition at a point in the woods outside of the forest 
 		- Kill as many as you can
