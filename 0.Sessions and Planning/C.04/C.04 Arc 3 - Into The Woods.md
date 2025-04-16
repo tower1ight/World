@@ -117,7 +117,7 @@ Days to prep
 			- disposable: [[Pearl]], [[Taylors Character]], Qball
 			- protected: [[Talot]], [[billiard Ball]], [[Poe the Perfumer]], 
 	- rott beast charges in a gores a redshirt, start your first combat
-- Travel gameplay description
+- Travel gameplay description 
 - Play travel until they alive at the battlefield,
 	- clue at a ridge that peaks above the stalks and allows for an unobstructed veiw of [[{The Woven City}]] and the 
 	- 
