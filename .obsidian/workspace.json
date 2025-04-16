@@ -4,89 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "8a2d829b304c1088",
+        "id": "89283eb93830a7e2",
         "type": "tabs",
         "children": [
           {
-            "id": "b8dc840a35d195b4",
+            "id": "8d9f75fcc4ca3ad1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Places/Buildings and Landmarks/Violet Church.md",
+                "file": "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Violet Church"
-            }
-          },
-          {
-            "id": "3c20aa747653a296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Places/Cities and Settlements/Fort Raynault.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fort Raynault"
-            }
-          },
-          {
-            "id": "e095d4a60d6b442a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3.Rules, Systems, Handouts/Time and Cosmology.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Time and Cosmology"
-            }
-          },
-          {
-            "id": "15e06a337b6ca505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Trans Resources and Influences.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trans Resources and Influences"
-            }
-          },
-          {
-            "id": "490faf6506f0e3dd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8cf11b75651c719b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Places/Cities and Settlements/Fort Raynault.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fort Raynault"
+              "title": "C.04 Arc 3 - Into The Woods"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,11 +193,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "15e06a337b6ca505",
+  "active": "8d9f75fcc4ca3ad1",
   "lastOpenFiles": [
-    "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
     "1.Places/Cities and Settlements/Fort Raynault.md",
     "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
+    "Misc/Trans Resources and Influences.md",
+    "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
     "Misc/Inner Circle.md",
     "1.Places/Buildings and Landmarks/Violet Church.md",
     "1.Places/Geography and Borders/Telor/Teloric Culture and Important Concepts/Timeline.md",
@@ -273,7 +211,6 @@
     "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
     "4.Rand Docs for messing arround/marge things.md",
     "4.Rand Docs for messing arround/thoughts on goblin city etc.md",
-    "Misc/Trans Resources and Influences.md",
     "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
     "Misc/Untitled.md",
     "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
