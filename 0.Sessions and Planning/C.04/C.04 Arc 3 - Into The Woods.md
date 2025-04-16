@@ -11,18 +11,23 @@ Sessions
 	- [ ] Configure VTT (whole night)
 		- [ ] Map
 		- [ ] Party Token, 
-		- [ ] Day Tracker
 		- [ ] Tables
-		- [ ] Adjust raynault
+		- [ ] Add Taylor
 	- [ ] Skill challenge provided details
 	- [ ] Vision details
 	- [ ] Quest details and Text
 	- [ ] Finalize Travel Rules
-	- [ ] Finalize all 
+	- [ ] Finalize all first omens of myths
 - [ ] Wants
+	- [ ] Configure VTT
+		- [ ] Day Tracker
+		- [ ] Adjust raynault
+		- [ ] Figure out music audio
 	- [ ] Name List
+	- [ ] Flesh Out
 - [ ] Later
-	- [ ] Infection symptoms/ timeline 
+	- [ ] Infection symptoms/ timeline
+	- [ ] Finish Myths
 Days to prep
 - tonight 1.5 h
 - tomorrow 1.5
