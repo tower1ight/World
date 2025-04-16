@@ -51,7 +51,7 @@ If the party is able to find shelter or sanctuary, both short and long rests reg
 - **Curses:** You walk in strange teritorry, shifting trees and thick fog leave you confused you are **Blinded**
 - **Ruins:** Forgotten things blend back into xylaan, everything returns to xylaan
 #### Myths
-- Myths represent the movement and change of living world, rarely pertinent to your main objective, they are something to seek out. 
+- Myths represent the movement and change of living world, rarely pertinent to your main objective, they are something to seek out, It is often rewarding to be 
 
 
 
