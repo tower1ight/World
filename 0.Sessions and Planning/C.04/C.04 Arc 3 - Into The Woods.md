@@ -4,7 +4,16 @@ tags:
 aliases:
 ---
 Sessions 
+# Session Prep
 
+## Current
+- [ ] Configure VTT
+Days to prep
+- tonight 1.5 h
+- tomorrow 1.5
+- Thursday 1.5
+- 
+## Past
 ## General questions
  - what do the masks look like? how are they attached 
 - Establish protection for the heros
