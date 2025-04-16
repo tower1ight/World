@@ -38,7 +38,7 @@ Each Day has 3 Phases:
 
 #### Resting, Navigation, Committing to the Second World:
 
-The forest is a dangerous place, a draining place, you are an alien here and an ecosystem you are not adapted for presses on your mind. When resting in the wilderness, the preparation and time required for a long rest will result in the benefits of a short rest. A short rest will allow you to catch your breath, get a lay of the land, do any planning you might need, but it will not provide the benefits of a typical short rest.
+The forest is a dangerous place, a draining place, you are an alien here and an ecosystem you are not adapted to presses on your mind. When resting in the wilderness, the preparation time required for a long rest will result in the benefits of a short rest. A short rest will allow you to catch your breath, get a lay of the land, do any planning you might need, but it will not provide the benefits of a typical short rest.
 
 If the party is able to find shelter or sanctuary they will given the opportunity to take a long rest. Obtaining access to shelter is precious and you are often comes at a cost.
 
