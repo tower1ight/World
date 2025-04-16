@@ -7,7 +7,15 @@ Sessions
 # Session Prep
 
 ## Current
-- [ ] Configure VTT
+- [ ] Needs
+	- [ ] Configure VTT
+	- [ ] Skill challenge provided details
+	- [ ] Vision details
+	- [ ] 
+- [ ] Wants
+	- [ ] Name List
+- [ ] Later
+	- [ ] Infection symptoms/ timeline 
 Days to prep
 - tonight 1.5 h
 - tomorrow 1.5
