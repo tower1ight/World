@@ -43,12 +43,10 @@ The forest is a dangerous place, a draining place, you are an alien here and an 
 If the party is able to find shelter or sanctuary, both short and long rests regain typical. However, access to shelter is precious and often comes at a cost. Finding where it is in the first place requires either stumbling upon it or relying on the help of others. A handful of locations can be learned directly and added to the map but for most things, if you want to get there pull over and ask for directions
 
 # Landmarks and Myths
-Although there are more bespoke locations such as myths and holds, almost all landmarks will fit into the following six categories 
-
 #### Landmarks
-- **Dwellings:** Homes built in the wilderness, possibly a safe refuge if the owners can find a way to trust you (something contingent on your reputation). However, all things come at a cost, leaving without paying your dues harbors ill will, word travels. **Allows for a long rest**
-- **Sanctuaries:**  Home to the seers, these groves are nodes of power in the mycelium
-- **Monuments:** preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]] they might be able to discern stylistic history, what the monument is and has been  technology **provides the benefits of a Long Rest**
+- **Dwellings:** Homes built in the wilderness, possibly a safe refuge if the owners can find a way to trust you (something contingent on your reputation). However, all things come at a cost, leaving without paying your dues harbors ill will, word travels. **Long rest permitted with the blessing of the owner**
+- **Sanctuaries:**  Home to the seers, these groves are nodes of power in the mycelium **Long rest permitted to those who have had an audience with the seer**
+- **Monuments:** preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]], they might be able to discern stylistic history **Permits a Long Rest**
 - **Hazards:** Nothing good can come from this, Xylaan is a violent place and your stumbling has roused something that ought to have stayed asleep
 - **Curses:** You walk in strange teritorry, shifting trees and thick fog leave you confused you are **Blinded**
 - **Ruins:** Forgotten things blend back into xylaan, everything returns to xylaan
