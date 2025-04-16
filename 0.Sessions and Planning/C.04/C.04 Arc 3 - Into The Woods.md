@@ -101,7 +101,7 @@ Days to prep
 		- **Context:** In the first year of the invasion, thousands of soldiers were baited by goblins into the forest, after years of assuming that they were dead, Human soldiers have been spotted watching a research operation at the forest border. Find out whats allowing them to stay alive
 		- **You lot are up to something:** Escape fort raynault without anyone noticing
 		- **Bounty** meet the rest of your expedition at a point in the woods outside of the forest
-		- **Reward:**
+		- **Reward:** 
 		- Kill as many as you can
 		- What provisions are they given:
 			- health potions, consider the starvation you put them throug
