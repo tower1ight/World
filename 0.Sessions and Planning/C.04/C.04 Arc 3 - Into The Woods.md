@@ -100,7 +100,7 @@ Days to prep
 	- In a covert chat with you sage aelon gave you a task 
 		- **Context:** In the first year of the invasion, thousands of soldiers were baited by goblins into the forest, after years of assuming that they were dead, Human soldiers have been spotted watching a research operation at the forest border. 
 		- **You lot are up to something:** Unless you want an escort of soldiers, escape fort Rayault without anyone noticing
-		- **Bounty:** The rest of your part Find out whats allowing them to stay alive, Find out why they are watching 
+		- **Bounty:** The rest of your party will be at the edge of your  Find out whats allowing them to stay alive, Find out why they are watching 
 		- **Reward:** Level up, Social quarters for the rangers (manage an establishment - see strongholds and followers)
 - **Skill challenge** Medium difficulty (5 successes required)
 		- Success, and Failure determines the presence of a pursuer (See Ape)
