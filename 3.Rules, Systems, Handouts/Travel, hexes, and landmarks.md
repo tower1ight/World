@@ -40,7 +40,7 @@ Each Day has 3 Phases:
 
 The forest is a dangerous place, a draining place, you are an alien here and an ecosystem you are not adapted to presses on your mind. When resting in the wilderness, the preparation time required for a long rest will result in the benefits of a short rest. A short rest will allow you to catch your breath, get a lay of the land, do any planning you might need, but it will not provide the benefits of a typical short rest.
 
-If the party is able to find shelter or sanctuary, both short and long rests regain typical. However, access to shelter is precious and often comes at a cost. Finding where it is in the first place requires either stumbling upon it or relying on the help of others. A handful of locations can be learned directly and added to the map but for most things, if you want to get there pull over and ask for directions
+If the party is able to find shelter or sanctuary, both short and long rests regain typical. However, access to shelter is precious and often comes at a cost. Finding where it is in the first place requires either stumbling upon it or relying on the help of others. Impassible barriers occasionally cut hexes off from one another, Roads are  A handful of locations can be learned directly and added to the map but for most things if you want to get there with any speed pull over and ask for directions
 
 # Landmarks and Myths
 #### Landmarks
@@ -50,12 +50,11 @@ If the party is able to find shelter or sanctuary, both short and long rests reg
 - **Hazards:** Nothing good can come from this, Xylaan is a violent place and your stumbling has roused something that ought to have stayed asleep
 - **Curses:** You walk in strange teritorry, shifting trees and thick fog leave you confused you are **Blinded**
 
-| Roll  |                     |
-| ----- | ------------------- |
-| 1     |                     |
-| 2, 3  | Veer                |
-| 4 - 6 | Progress as planned |
-
+| Roll  | Traveling Blind           |
+| ----- | ------------------------- |
+| 1     | Circle Back               |
+| 2, 3  | Veer to the left or right |
+| 4 - 6 | Progress as planned       |
 
 - **Ruins:** Forgotten things blend back into xylaan, everything returns to xylaan
 #### Myths
