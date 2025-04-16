@@ -10,7 +10,7 @@ Each Day has 3 Phases:
 - Afternoon: Noon to Sunset.
 - Night: Sunset to Sunrise.
 
- When ending a phase in a wilderness hex, a roll will made by the GM determining if the party provokes no encounter, makes contact with any landmarks that could be found in the given hex, an stumbles upon an omen or sign of a myth or legend in the area
+ When ending a phase in a wilderness hex, a roll will made by the GM determining if the party provokes no encounter, makes contact with any landmarks that could be found in the given hex, or stumbles upon an omen to something greater.
 
 | D6  | Outcome                                                      |
 | --- | ------------------------------------------------------------ |
@@ -53,7 +53,7 @@ Although there are more bespoke locations such as myths and holds, almost all la
 - **Curses:** You walk in strange teritorry, shifting trees and thick fog leave you confused you are **Blinded**
 - **Ruins:** Forgotten things blend back into xylaan, everything returns to xylaan
 #### Myths
-- Myths represent the growth and change of a living world, rarely directly pertinent to your main objective your prox
+- Myths represent the movement and change of living world, rarely pertinent to your main objective, they are something to seek out. 
 
 
 
