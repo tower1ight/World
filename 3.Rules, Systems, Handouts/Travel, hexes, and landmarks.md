@@ -1,9 +1,8 @@
 
 
-## What are we doing here
-We are soaking up the world
-
-## Rythm, Phases, and Actions
+**What are we doing here**
+Travel in this place is disorienting, difficult, and above all uncertain. I have chosen to avoid 
+# Rythm, Phases, and Actions
 #### Phases
 Each Day has 3 Phases:
 - Morning: Sunrise to Noon.
@@ -17,6 +16,7 @@ Each Day has 3 Phases:
 | 1   | Encounter the next Omen from a<br>random Myth in this Realm. |
 | 2-3 | Encounter the next Omen from the<br>nearest Myth.            |
 | 4-6 | Encounter the Hex’s Landmark.<br>Otherwise all clear.        |
+#### Actions
 #### Day Start
  At the Start of a day a couple things will happen, the GM will roll on a random table for the days weather
 
@@ -42,7 +42,7 @@ The forest is a dangerous place, a draining place, you are an alien here and an 
 
 If the party is able to find shelter or sanctuary they will given the opportunity to take a long rest. Obtaining access to shelter is precious and you are often comes at a cost.
 
-## Landmarks, Myths
+# Landmarks and Myths
 Although there are more bespoke locations such as myths and holds, almost all landmarks will fit into the following six categories 
 
 #### Landmarks
