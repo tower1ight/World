@@ -96,11 +96,11 @@ Days to prep
 ## ACT I
 - reaction, they know the mission (15 min)
 	- in media res watching the generals arival: Pearl, Tal, Poe, and Billiard are remarking on how nice fort raynault looks! An energy of nervous anticipation pervades the crowd, Sircha of [[House Follanel]] lounges in a box at the top of a newly constructed amphitheater. With her customary wry smile she surveys her work. [[Sage Aelon|Aelon's]] spot is empty, unsurprising given her reclusiveness in the past couple months. Soldiers line the main road, standing at perfect attention, compensating for 3 months of walking around with their tails beneath their legs, celebrating a 6th year to an invasion with almost nothing to show for it. They are practically giddy with the prospect of new **military** leadership, many of their eyes slide over you. They need someone to blame don't they!
-	- one of pearls cohort whispers in her ear, conspicuously gesturing at a group stand under the awning of Renta's Hold, Serans inn, you see a bulky tan guy with a q embroidered over his jumpsuit, a severe woman with long black hair wears a similar jumpsuit with a V and leans against the wall, and towering above them is  A Feirbolg in plate
+	- one of pearls cohort whispers in her ear, **Causes a distraction** conspicuously gesturing at a group stand under the awning of Renta's Hold, Serans inn, you see a bulky tan guy with a q embroidered over his jumpsuit, a severe woman with long black hair wears a similar jumpsuit with a V and leans against the wall, and towering above them is  A Feirbolg in plate
 	- In a covert chat with you sage aelon gave you a task 
 		- **Context:** In the first year of the invasion, thousands of soldiers were baited by goblins into the forest, after years of assuming that they were dead, Human soldiers have been spotted watching a research operation at the forest border. Find out whats allowing them to stay alive
 		- **You lot are up to something:** Escape fort raynault without anyone noticing
-		- Meet the rest of your expedition at a point in the woods outside of the forest 
+		- **Bounty** meet the rest of your expedition at a point in the woods outside of the forest 
 		- Kill as many as you can
 		- What provisions are they given:
 			- health potions, consider the starvation you put them throug
