@@ -1,7 +1,7 @@
 
 
 **What are we doing here**
-Travel in this place is disorienting, difficult, and above all uncertain. I have chosen to avoid as much minutia ass possible and any drama gained from running down to your last piece of hardtack relies on a consistent and predictable future. I have chosen to not assign hexes distance values and unless I tell  no ration tracking will be necessary,
+Travel in this place is disorienting, difficult, and above all uncertain. Any drama gained from running down to your last piece of hardtack relies on a consistent and predictable environment. For this reason I have chosen to avoid as much minutia ass possible, I have deliberately avoided giving distance values to hexes and unless I tell you otherwise no ration tracking will be necessary.
 # Rythm, Phases, and Actions
 #### Phases
 Each Day has 3 Phases:
