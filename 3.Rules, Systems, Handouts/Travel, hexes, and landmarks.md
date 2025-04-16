@@ -32,8 +32,8 @@ Each Day has 3 Phases:
 | 8    | Solid      | Dust     |
 | 9    | Dull       | Warmth   |
 | 10   | Faint      | Drizzle  |
-| 11   | Abundant   | Fog      |
-| 12   | Harsh      |          |
+| 11   | Abundant   | Melting  |
+| 12   | Harsh      | Static   |
 
 
 #### Resting, Navigation, Committing to the Second World:
