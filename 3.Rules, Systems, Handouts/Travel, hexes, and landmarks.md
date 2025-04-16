@@ -1,7 +1,7 @@
 
 
 **What are we doing here**
-Travel in this place is disorienting, difficult, and above all uncertain. I have chosen to avoid 
+Travel in this place is disorienting, difficult, and above all uncertain. I have chosen to avoid as much minutia any drama gained from running down to your last piece of hardtack relies on a consistent and predictable future. I have chosen to not factor in
 # Rythm, Phases, and Actions
 #### Phases
 Each Day has 3 Phases:
