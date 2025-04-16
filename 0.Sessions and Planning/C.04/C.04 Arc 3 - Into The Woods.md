@@ -16,7 +16,7 @@ Sessions
 	- [ ] 
 	- [ ] Skill challenge provided encounters and twists
 	- [ ] Vision details
-	- [ ] Quest details and Text
+	- [x] Quest details and Text
 	- [ ] Finalize Travel Rules
 	- [ ] Finalize all first omens of myths
 - [ ] Wants
@@ -103,7 +103,7 @@ Days to prep
 	- **Bounty:** The rest of your party will be at the edge of your  Find out whats allowing them to stay alive, Find out why they are watching 
 	- **Reward:** Level up, Social quarters for the rangers (manage an establishment - see strongholds and followers)
 - **Skill challenge:** Medium difficulty (5 successes required)
-		- Success, and Failure determines the presence of a pursuer (See Ape)
+		- Success, and Failure determines the presence of a pursuer 
 		- Meet a gaurd
 - Off on the journey (45 min)
 	- Gopher like you pop up and make your way onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
@@ -118,8 +118,9 @@ Days to prep
 			- protected: [[Talot]], [[billiard Ball]], [[Poe the Perfumer]], 
 	- rott beast charges in a gores a redshirt, start your first combat
 - Travel gameplay description
-- Play travel untill they arive at the battlefield,
-	- clue at a ridge that peaks above the stalks and alows for an unobstructed veiw of [[{The Woven City}]] and the 
+- Play travel until they alive at the battlefield,
+	- clue at a ridge that peaks above the stalks and allows for an unobstructed veiw of [[{The Woven City}]] and the 
+	- 
 
 ## ACT II
  - Physical location upon which investigation can happen,
