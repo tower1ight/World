@@ -109,7 +109,7 @@ Days to prep
 	- Gopher like you pop up and make your way onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
 	- Suppriesed by other party members
 		- a severe woman with long black hair wears a similar jumpsuit with a V and leans 
-	- See a solider looking in on them, pulls them in to cross the border
+	- Describe the disorientation and Oddness of the 
 	- Vision: looked surveyed by prince dagog
 		- Within the vission the environment warps and the players are brought before [[Prince Dagoag]]
 		- Your mind brings forward the prince 
