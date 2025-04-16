@@ -1,8 +1,8 @@
 
 
 **What are we doing here**
-Travel in this place is disorienting, difficult, and above all uncertain. Any drama gained from running down to your last piece of hardtack relies on a consistent and predictable environment. For this reason I have chosen to avoid as much minutia ass possible, I have deliberately avoided giving distance values to hexes and unless I tell you otherwise no ration tracking will be necessary.
-# Rythm, Phases, and Actions
+Travel in this place is disorienting, difficult, and above all uncertain. Any drama gained from running down to your last piece of hardtack relies on a consistent and predictable environment. For this reason I have chosen to avoid as much minutia as possible. I have deliberately avoided giving distance values to hexes and unless I tell you otherwise no ration tracking will be necessary.
+# Rhythm, Phases, and Actions
 #### Phases
 Each Day has 3 Phases:
 - Morning: Sunrise to Noon.
@@ -40,7 +40,7 @@ Each Day has 3 Phases:
 
 The forest is a dangerous place, a draining place, you are an alien here and an ecosystem you are not adapted to presses on your mind. When resting in the wilderness, the preparation time required for a long rest will result in the benefits of a short rest. A short rest will allow you to catch your breath, get a lay of the land, do any planning you might need, but it will not provide the benefits of a typical short rest.
 
-If the party is able to find shelter or sanctuary they will given the opportunity to take a long rest. Obtaining access to shelter is precious and you are often comes at a cost.
+If the party is able to find shelter or sanctuary, both short and long rests regain typical. Obtaining access to shelter is precious and you are often comes at a cost.
 
 # Landmarks and Myths
 Although there are more bespoke locations such as myths and holds, almost all landmarks will fit into the following six categories 
