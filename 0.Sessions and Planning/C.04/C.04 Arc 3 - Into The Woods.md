@@ -8,10 +8,17 @@ Sessions
 
 ## Current
 - [ ] Needs
-	- [ ] Configure VTT
+	- [ ] Configure VTT (whole night)
+		- [ ] Map
+		- [ ] Party Token, 
+		- [ ] Day Tracker
+		- [ ] Tables
+		- [ ] Adjust raynault
 	- [ ] Skill challenge provided details
 	- [ ] Vision details
-	- [ ] 
+	- [ ] Quest details and Text
+	- [ ] Finalize Travel Rules
+	- [ ] Finalize all 
 - [ ] Wants
 	- [ ] Name List
 - [ ] Later
