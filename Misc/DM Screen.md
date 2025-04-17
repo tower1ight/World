@@ -1,0 +1,3 @@
+# Important NPC
+# Damage Charts
+# 
