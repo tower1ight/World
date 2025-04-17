@@ -40,7 +40,7 @@ Each Day has 3 Phases:
 
 The forest is a dangerous place, a draining place, you are an alien here and an ecosystem you are not adapted to presses on your mind. When resting in the wilderness, the preparation time required for a long rest will result in the benefits of a short rest. A short rest will allow you to catch your breath, get a lay of the land, do any planning you might need, but it will not provide the benefits of a typical short rest.
 
-If the party is able to find shelter or sanctuary, both short and long rests regain typical. However, access to shelter is precious and often comes at a cost. Finding where it is in the first place requires either stumbling upon it or relying on the help of others. Impassible barriers occasionally cut hexes off from one another, Roads can take time to find, A handful of locations can be learned directly and added to the map, however, for most things if you want to get there with any speed pull over and ask for directions.
+If the party is able to find shelter or sanctuary, both short and long rests regain typical. However, access to shelter is precious and often comes at a cost. Finding where it is in the first place requires either stumbling upon it or relying on the help of others. Impassible barriers occasionally cut hexes off from one another, Roads can take time to find, A handful of locations can be learned directly and added to the map, however, for most things if you want to get there with any speed pull over and ask for directions
 
 # Landmarks and Myths
 #### Landmarks
