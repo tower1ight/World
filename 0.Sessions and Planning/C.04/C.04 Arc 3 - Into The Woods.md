@@ -104,11 +104,11 @@ Days to prep
 	- **You lot are up to something:** Unless you want an escort of soldiers, escape fort Rayault without anyone noticing
 	- **Bounty:** The rest of your party will be at the edge of your  Find out whats allowing them to stay alive, Find out why they are watching 
 	- **Reward:** Level up, Social quarters for the rangers (manage an establishment - see strongholds and followers)
-- **Skill challenge:** Medium difficulty (5 successes required)
+- **sk** Medium difficulty (5 successes required)
 		- Success, and Failure determines the presence of a pursuer 
 		- Meet a gaurd
 - **Entry:**
-	- Gopher like you pop up and make your way onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
+	- you step onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
 	- Suppriesed by other party members
 		- a severe woman with long black hair wears a similar jumpsuit with a V and leans 
 	- Describe the disorientation and Oddness of the 
