@@ -118,7 +118,7 @@ Days to prep
 		- Some people marked as useful, others are marked as disposable 
 			- disposable: [[Pearl]], [[Taylors Character]], Qball
 			- protected: [[Talot]], [[billiard Ball]], [[Poe the Perfumer]], 
-	- rott beast charges in a gores a redshirt, start your first combat
+	- rot beast charges in a gores a redshirt, start your first combat
 - Travel gameplay description [[Travel, hexes, and landmarks]]
 - Play travel until they alive at the battlefield,
 	- clue at a ridge that peaks above the stalks and allows for an unobstructed veiw of [[{The Woven City}]] and the 
