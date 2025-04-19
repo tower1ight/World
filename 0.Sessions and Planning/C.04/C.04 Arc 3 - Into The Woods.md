@@ -104,7 +104,10 @@ Days to prep
 	- **You lot are up to something:** Unless you want an escort of soldiers, escape fort Rayault without anyone noticing
 	- **Bounty:** The rest of your party will be at the edge of your  Find out whats allowing them to stay alive, Find out why they are watching 
 	- **Reward:** Level up, Social quarters for the rangers (manage an establishment - see strongholds and followers)
-- **sk** Medium difficulty (5 successes required)
+- **Escape** 
+	- encounter 
+		- dwarv
+	- skill challenge medium difficulty (5 successes required)
 		- Success, and Failure determines the presence of a pursuer 
 		- Meet a gaurd
 - **Entry:**
