@@ -55,14 +55,12 @@
             "id": "984e804decf16dad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Misc/DM Screen.md",
-                "mode": "source",
-                "source": false
+                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "DM Screen"
+              "icon": "lucide-file-text",
+              "title": "Alchemist PC Handout V2"
             }
           },
           {
@@ -266,8 +264,9 @@
   },
   "active": "984e804decf16dad",
   "lastOpenFiles": [
-    "Misc/VTT Blue Sky.md",
+    "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
     "Misc/DM Screen.md",
+    "Misc/VTT Blue Sky.md",
     "Misc/Untitled 1.md",
     "Misc/TO DO.md",
     "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
@@ -293,7 +292,6 @@
     "Misc/Untitled.md",
     "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
     "0.Sessions and Planning/C.04/Myths/The Mindless.md",
-    "1.Places/Geography and Borders/Xylaan/Xylaani Culture and Important Concepts/polyphony.md",
     "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
     "1.People/Gods/Tel'voric's Visual Design.pdf",
     "0.Sessions and Planning/OS.01/OS.1 Notability Planning.pdf",
