@@ -8,15 +8,14 @@ Sessions
 
 ## Current
 - [ ] Needs
+	- [ ] Configure VTT
+		- [ ] S
 	- [ ] Skill challenge provided encounters and twists
 	- [ ] Vision details
 	- [x] Quest details and Text
 
 - [ ] Wants
 	- [ ] Configure VTT
-		- [ ] Day Tracker
-		- [ ] Adjust raynault
-		- [ ] Figure out music audio
 	- [ ] Name List
 	- [ ] Flesh Out
 - [ ] Later
@@ -25,6 +24,9 @@ Sessions
 		- [ ] Party Token, 
 		- [ ] Tables
 		- [ ] Add Taylor 
+		- [ ] Day Tracker
+		- [ ] Adjust raynault
+		- [ ] Figure out music audio
 	- [ ] Infection symptoms/ timeline
 	- [ ] Finish Myths
 	- [ ] Finalize Travel Rules
