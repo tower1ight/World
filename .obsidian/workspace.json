@@ -55,12 +55,14 @@
             "id": "984e804decf16dad",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf"
+                "file": "0.Sessions and Planning/C/Future Xylaan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Alchemist PC Handout V2"
+              "icon": "lucide-file",
+              "title": "Future Xylaan"
             }
           },
           {
@@ -262,8 +264,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "53ac6ced630b4553",
+  "active": "984e804decf16dad",
   "lastOpenFiles": [
+    "0.Sessions and Planning/C/Palace Campaign.md",
+    "0.Sessions and Planning/C/Future Xylaan.md",
+    "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
     "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
     "Misc/DM Screen.md",
     "Misc/VTT Blue Sky.md",
@@ -290,9 +295,6 @@
     "4.Rand Docs for messing arround/marge things.md",
     "4.Rand Docs for messing arround/thoughts on goblin city etc.md",
     "Misc/Untitled.md",
-    "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
-    "0.Sessions and Planning/C.04/Myths/The Mindless.md",
-    "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
     "1.People/Gods/Tel'voric's Visual Design.pdf",
     "0.Sessions and Planning/OS.01/OS.1 Notability Planning.pdf",
     "0.Sessions and Planning/C.04/C.04 Notability Arc 1-2 Planning.pdf",
