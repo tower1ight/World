@@ -8,12 +8,6 @@ Sessions
 
 ## Current
 - [ ] Needs
-	- [ ] Configure VTT (whole night)
-		- [ ] Map
-		- [ ] Party Token, 
-		- [ ] Tables
-		- [ ] Add Taylor
-	- [ ] 
 	- [ ] Skill challenge provided encounters and twists
 	- [ ] Vision details
 	- [x] Quest details and Text
@@ -26,6 +20,11 @@ Sessions
 	- [ ] Name List
 	- [ ] Flesh Out
 - [ ] Later
+	- [ ] Configure VTT (whole night)
+		- [ ] Map
+		- [ ] Party Token, 
+		- [ ] Tables
+		- [ ] Add Taylor 
 	- [ ] Infection symptoms/ timeline
 	- [ ] Finish Myths
 	- [ ] Finalize Travel Rules
