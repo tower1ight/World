@@ -106,6 +106,9 @@ Days to prep
 	- **You lot are up to something:** Unless you want an escort of soldiers, escape fort Rayault without anyone noticing
 	- **Bounty:** The rest of your party will be at the edge of your  Find out whats allowing them to stay alive, Find out why they are watching 
 	- **Reward:** Level up, Social quarters for the rangers (manage an establishment - see strongholds and followers)
+- Basic stealth background!
+	- There is a known tunnel system, 
+	- there are stables just outside the 
 - **Escape** 
 	-  enter the sewer
 	-  meet deko 
