@@ -112,6 +112,7 @@ Days to prep
 	- undead encounter
 		- this is a result of the years of emaciated bodies 
 		- a door rattles as you footsteps approach 
+			- incorporeal
 	- flee, maybe a skill challenge 
 - give options walking out the door is a difficult skill challenge 
 	- encounter non social?
