@@ -110,10 +110,11 @@ Days to prep
 	- You and your team had discussed a a path through the tunnel system bellow fort raynault
 	- Slip into the rentas hold **stealth encounter**
 	- Description tone and atmosphere  
-		- temperature drops, thick dam  kqerkekekekejep air covers carved walls
+		- temperature drops, thick air condenses on  carved walls
 		- Few of you are familiar with this place so you are diligently
-	-  You see a figure small figuure with rigid posture eet deko 
+	- You see a figure small figuure with rigid posture eet deko 
 	- Undead signals (make this an unavop)
+		- You are a
 		- this is a result of the years of emaciated bodies 
 		- a door rattles as you footsteps approach 
 			- incorporeal
