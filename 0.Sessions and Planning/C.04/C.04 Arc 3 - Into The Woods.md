@@ -10,6 +10,8 @@ Sessions
 - [ ] Needs
 	- [ ] Configure VTT
 		- [ ] Set up Battle scene
+		- [ ] add talyor
+		- [ ] 
 	- [ ] Skill challenge provided encounters and twists
 	- [ ] Vision details
 	- [x] Quest details and Text
@@ -105,7 +107,7 @@ Days to prep
 	- **Bounty:** The rest of your party will be at the edge of your  Find out whats allowing them to stay alive, Find out why they are watching 
 	- **Reward:** Level up, Social quarters for the rangers (manage an establishment - see strongholds and followers)
 - **Escape** 
-- 
+	- 
 - give options walking out the door is a difficult skill challenge 
 	- encounter non social?
 		- dwarves, undead, guards
