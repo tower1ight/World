@@ -110,7 +110,7 @@ Days to prep
 	- You and your team had discussed a a path through the tunnel system bellow fort raynault
 	- Slip into the rentas hold **stealth encounter**
 	- Description tone and atmosphere  
-		- temperature drops, thick dam  p air covers carved walls
+		- temperature drops, thick dam  kqerkekekekejep air covers carved walls
 		- Some people have told pearl of    
 	-  meet deko 
 	- Undead signals (make this an unavop)
