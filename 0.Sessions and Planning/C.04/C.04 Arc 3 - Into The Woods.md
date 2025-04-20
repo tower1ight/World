@@ -115,9 +115,10 @@ Days to prep
 			- this map shows 
 				- an entrance from rentas hold 
 				- a highlighted path to the left that leads to a large chamber titled **Cavern**
-				- The cavern is abutted by two chambers 
-					- one titled olivers stores **hands off
+				- The cavern is abutted by two chambers and has a highlighted path leaving
+					- one titled olivers stores **hands off**
 					- the other labeled **hidden door orange rock: focalist? Unknown function** 
+						- within you find a number of wheel barrows 
 				- 
 
 	- You see a figure small figuure with rigid posture eet deko 
