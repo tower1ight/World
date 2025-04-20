@@ -180,31 +180,7 @@ organize silent guards, you get a meeting with a beurocrat
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Nonsense Dump
 
 	- 
 - describe mechanics, give handout and rules] 20 min 
@@ -227,35 +203,6 @@ go find these soliders, they are in this direction and you get this reward,
 WHAT do they theoretically get, money? freedom? better acomodations, autonomy, acess to their old lives, ownership? comfort?
 
 go track down big bad guys and bring em home 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -336,14 +283,6 @@ Its gor
 
 
 
-
-
-
-
-
-
-
-
 Remnants of the Giant folk exist in the forest, but will be threatened by the arrival of dagoags army, 
 
 town and all that entails
@@ -352,20 +291,11 @@ Discovery of the Plan and the army, cause they hold a crusade banner, the milita
 
 
 
-BEeeee
-bxzzxzzzzz
-
-dsfklsflmfg
-slkfgmlsfgmn
-
-
-eeeek a bear
-
-
-
-we commiting
-
 # Appendices
 ## Retainers
 Wellesley
 ![[Retainer Wellesley.png]]
+
+
+
+lklk
