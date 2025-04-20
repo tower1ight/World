@@ -111,7 +111,11 @@ Days to prep
 	- Slip into the rentas hold **stealth encounter**
 	- Description tone and atmosphere  
 		- temperature drops, thick air condenses on  carved walls
-		- Few of you are familiar with this place so you are diligently
+		- Few of you are familiar with this place so you are diligently following a map 
+			- this map shows 
+				- an entrance from rentas hold 
+		
+
 	- You see a figure small figuure with rigid posture eet deko 
 	- Undead signals (make this an unavop)
 		- You are almost out but you are slightly perplexed by your map, its reading forward on a smooth wall
