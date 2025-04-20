@@ -111,9 +111,9 @@ Days to prep
 	- Slip into the rentas hold **stealth encounter**
 	- Natative
 		- temperature drops, thick damp air covers carved walls
-		- Some people have told pearl of 
+		- Some people have told pearl of    
 	-  meet deko 
-	- undead encounter
+	- Undead signals (make this an unavop)
 		- this is a result of the years of emaciated bodies 
 		- a door rattles as you footsteps approach 
 			- incorporeal
