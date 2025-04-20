@@ -114,8 +114,8 @@ Days to prep
 		- Few of you are familiar with this place so you are diligently following a map 
 			- this map shows 
 				- an entrance from rentas hold 
-					- with a highlighted path to the left that reads **CaverN**
-					- and an unhighlightedf
+				- a highlighted path to the left that leads to a large chamber tittle**Cavern**
+				- A caven with 
 				- 
 
 	- You see a figure small figuure with rigid posture eet deko 
