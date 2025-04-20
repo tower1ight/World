@@ -109,7 +109,7 @@ Days to prep
 - **Escape** 
 	- You and your team had discussed a a path through the tunnel system bellow fort raynault
 	- Slip into the rentas hold **stealth encounter**
-	- Description tone and atmosphere  
+	- Description `tone and atmosphere  
 		- temperature drops, thick dam  kqerkekekekejep air covers carved walls
 		- Some people have told pearl of    
 	-  meet deko 
