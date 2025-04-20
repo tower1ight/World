@@ -114,7 +114,8 @@ Days to prep
 		- Few of you are familiar with this place so you are diligently
 	- You see a figure small figuure with rigid posture eet deko 
 	- Undead signals (make this an unavop)
-		- You are a
+		- You are almost out but you are slightly perplexed by your map, its reading forward on a smooth wall
+			- tremor sense will reveal that the dwarves have blocked off this path so that they can cont
 		- this is a result of the years of emaciated bodies 
 		- a door rattles as you footsteps approach 
 			- incorporeal
