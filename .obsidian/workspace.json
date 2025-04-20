@@ -4,8 +4,31 @@
     "type": "split",
     "children": [
       {
+        "id": "eb03c3ee28823c60",
+        "type": "tabs",
+        "dimension": 10.683760683760683,
+        "children": [
+          {
+            "id": "178fde90833364b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of C.04 Arc 3 - Into The Woods"
+            }
+          }
+        ]
+      },
+      {
         "id": "89283eb93830a7e2",
         "type": "tabs",
+        "dimension": 89.31623931623932,
         "children": [
           {
             "id": "8d9f75fcc4ca3ad1",
@@ -167,21 +190,6 @@
             }
           },
           {
-            "id": "178fde90833364b0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Misc/Letter to Patricia.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Letter to Patricia"
-            }
-          },
-          {
             "id": "9f0bd24836e3fa89",
             "type": "leaf",
             "state": {
@@ -202,11 +210,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +230,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "31c9e605cdf6d37a",
+  "active": "178fde90833364b0",
   "lastOpenFiles": [
     "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
