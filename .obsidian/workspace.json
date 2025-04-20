@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
+                "file": "0.Sessions and Planning/C.04/C.04 Rules and Consistency.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C.04 Arc 3 - Into The Woods"
+              "title": "Outline of C.04 Rules and Consistency"
             }
           }
         ]
@@ -80,12 +80,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Rand Docs for messing arround/marge things.md",
+                "file": "0.Sessions and Planning/C.04/C.04 Rules and Consistency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "marge things"
+              "title": "C.04 Rules and Consistency"
             }
           },
           {
@@ -116,7 +116,8 @@
               "title": "C.04 Arc 2 - The Great Arsonist Hunt"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1fba045acc8e4ed9",
@@ -273,9 +273,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8d9f75fcc4ca3ad1",
+  "active": "f1a1ab61f9a8742a",
   "lastOpenFiles": [
+    "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
+    "2.Supernatural and Natural Fundamentals/psionics.md",
+    "2.Supernatural and Natural Fundamentals/Prismatic Wall.md",
     "4.Rand Docs for messing arround/marge things.md",
+    "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
     "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
     "4.Rand Docs for messing arround/intro monologue.md",
@@ -283,7 +287,6 @@
     "Images/Retainer Wellesley.png",
     "Images/Retainer Wellesley.png.~tmp",
     "Images",
-    "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
     "4.Rand Docs for messing arround/Ranger thoughts.md",
     "Misc/DM Screen.md",
     "Misc/Inner Circle.md",
@@ -303,10 +306,7 @@
     "1.People/PCs/Poe the Perfumer.md",
     "0.Sessions and Planning/C.04/C.04 Rules and Consistency.md",
     "0.Sessions and Planning/C.00/Palace Campaign.md",
-    "0.Sessions and Planning/C.00/Future Xylaan.md",
     "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
-    "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
-    "0.Sessions and Planning/C.04/C.04 Steady State World.md",
     "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
     "1.People/Gods/Tel'voric's Visual Design.pdf",
     "0.Sessions and Planning/OS.01/OS.1 Notability Planning.pdf",
