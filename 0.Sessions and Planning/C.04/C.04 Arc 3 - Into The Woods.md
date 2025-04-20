@@ -97,7 +97,7 @@ Days to prep
  - Important NPCs
  - the pieces of info 
 	 - the negotiation
-## ACT I
+ ## ACT I
 - **They know the mission:** General Yenora's procession
 	- in media res watching the generals arrival: Pearl, Tal, Poe, and Billiard are remarking on how nice fort raynault looks! An energy of nervous anticipation pervades the crowd, Sircha of [[House Follanel]] lounges in a box at the top of a newly constructed amphitheater. She is inoring an aid in medical garb shouting with exasperation and surveys her work with her customary wry smile. [[Sage Aelon|Aelon's]] spot is empty, unsurprising given her reclusiveness in the past couple months. Soldiers line the main road, standing at perfect attention, compensating for 3 months of slinking around with their tails beneath their legs, celebrating a 6th year to an invasion with almost nothing to show for it. They are practically giddy with the prospect of new **military** leadership, many of their eyes slide over you. They need someone to blame don't they!
 	- one of pearls cohort whispers in her ear conspicuously gesturing at a group stand under the awning of Renta's Hold, Sezans inn, you see vanel, a lean human woman with shiny black hair in the rangers jumpsuit scowling at one of the soldiers 
@@ -109,8 +109,8 @@ Days to prep
 - **Escape** 
 	- You and your team had discussed a a path through the tunnel system bellow fort raynault
 	- Slip into the rentas hold **stealth encounter**
-	- Natative
-		- temperature drops, thick damp air covers carved walls
+	- Description tone and atmosphere  
+		- temperature drops, thick dam  p air covers carved walls
 		- Some people have told pearl of    
 	-  meet deko 
 	- Undead signals (make this an unavop)
