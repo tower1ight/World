@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dago",
+                "query": "`",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,7 +222,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8d9f75fcc4ca3ad1",
+  "active": "31c9e605cdf6d37a",
   "lastOpenFiles": [
     "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
