@@ -117,7 +117,7 @@ Days to prep
 				- a highlighted path to the left that leads to a large chamber titled **Cavern**
 				- The cavern is abutted by two chambers 
 					- one titled olivers stores **hands off
-					- One tittled 
+					- the other labeled 
 				- 
 
 	- You see a figure small figuure with rigid posture eet deko 
