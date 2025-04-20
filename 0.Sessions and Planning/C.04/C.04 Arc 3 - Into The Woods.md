@@ -111,7 +111,7 @@ Days to prep
 	- Slip into the rentas hold **stealth encounter**
 	- Description tone and atmosphere  
 		- temperature drops, thick dam  kqerkekekekejep air covers carved walls
-		- Few of you are fa
+		- Few of you are familiar with this place so you are diligently
 	-  You see a figure small figuure with rigid posture eet deko 
 	- Undead signals (make this an unavop)
 		- this is a result of the years of emaciated bodies 
