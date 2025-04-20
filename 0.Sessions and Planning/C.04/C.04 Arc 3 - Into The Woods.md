@@ -100,14 +100,15 @@ Days to prep
 ## ACT I
 - **They know the mission:** General Yenora's procession
 	- in media res watching the generals arrival: Pearl, Tal, Poe, and Billiard are remarking on how nice fort raynault looks! An energy of nervous anticipation pervades the crowd, Sircha of [[House Follanel]] lounges in a box at the top of a newly constructed amphitheater. She is inoring an aid in medical garb shouting with exasperation and surveys her work with her customary wry smile. [[Sage Aelon|Aelon's]] spot is empty, unsurprising given her reclusiveness in the past couple months. Soldiers line the main road, standing at perfect attention, compensating for 3 months of slinking around with their tails beneath their legs, celebrating a 6th year to an invasion with almost nothing to show for it. They are practically giddy with the prospect of new **military** leadership, many of their eyes slide over you. They need someone to blame don't they!
-	- one of pearls cohort whispers in her ear conspicuously gesturing at a group stand under the awning of Renta's Hold, Sezans inn, you see vanessa, a lean human woman with shiny black hair in the rangers jumpsuit scowling at one of the soldiers 
+	- one of pearls cohort whispers in her ear conspicuously gesturing at a group stand under the awning of Renta's Hold, Sezans inn, you see vanel, a lean human woman with shiny black hair in the rangers jumpsuit scowling at one of the soldiers 
 - **The Task:** In a clandestine meeting with Bill, Pearl, Poe, and Tal sage aelon gave you a mission
 	- **Context:** In the first year of the invasion, thousands of soldiers were baited by goblins into the forest, after years of assuming that they were dead, Human soldiers have been spotted watching a research operation at the forest border. 
 	- **You lot are up to something:** Unless you want an escort of soldiers, escape fort Rayault without anyone noticing
 	- **Bounty:** The rest of your party will be at the edge of your  Find out whats allowing them to stay alive, Find out why they are watching 
 	- **Reward:** Level up, Social quarters for the rangers (manage an establishment - see strongholds and followers)
 - **Escape** 
-	- You and your team had discussed a a path through the tunnel system bellow Xylaan
+	- You and your team had discussed a a path through the tunnel system bellow fort raynault
+- 
 	-  enter the sewer
 	-  meet deko 
 	- undead encounter
