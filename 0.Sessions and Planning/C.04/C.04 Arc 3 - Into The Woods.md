@@ -110,7 +110,8 @@ Days to prep
 	-  enter the sewer
 	-  meet deko 
 	- undead encounter
-		- thry are 
+		- this is a result of the years of emaciated bodies 
+		- a door rattles as you footsteps approach 
 	- flee, maybe a skill challenge 
 - give options walking out the door is a difficult skill challenge 
 	- encounter non social?
