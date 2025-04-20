@@ -121,7 +121,7 @@ Days to prep
 	- Description tone and atmosphere  
 		- temperature drops, thick air condenses on  carved walls and drips in to tamped down earth
 		- scratches, skitters resonate through the walls, is something mooving a head of you or is there a procession of people just moving above you, hair at the back of your neck stands on edge
-	- creeping throuhgYou see a figure small figure with rigid posture meet deko 
+	- creeping through the dark you You see a figure small figure with rigid posture meet deko 
 	- Undead signals (make this an unavop)
 		- You are almost out but you are slightly perplexed by your map, its reading forward on a smooth wall
 			- tremor sense will reveal that the dwarves have blocked off this path so that they can cont
