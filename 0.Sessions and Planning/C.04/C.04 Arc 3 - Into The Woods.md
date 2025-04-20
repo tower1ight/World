@@ -114,8 +114,10 @@ Days to prep
 		- Few of you are familiar with this place so you are diligently following a map 
 			- this map shows 
 				- an entrance from rentas hold 
-				- a highlighted path to the left that leads to a large chamber tittle**Cavern**
-				- A caven with 
+				- a highlighted path to the left that leads to a large chamber titled **Cavern**
+				- The cavern is abutted by two chambers 
+					- one titled olivers stores **hands off
+					- One tittled 
 				- 
 
 	- You see a figure small figuure with rigid posture eet deko 
