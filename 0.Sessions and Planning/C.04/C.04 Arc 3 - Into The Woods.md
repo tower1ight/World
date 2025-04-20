@@ -108,8 +108,7 @@ Days to prep
 	- **Reward:** Level up, Social quarters for the rangers (manage an establishment - see strongholds and followers)
 - **Escape** 
 	- You and your team had discussed a a path through the tunnel system bellow fort raynault
-- 
-	-  enter the sewer
+	- Slip into the rentas hold 
 	-  meet deko 
 	- undead encounter
 		- this is a result of the years of emaciated bodies 
