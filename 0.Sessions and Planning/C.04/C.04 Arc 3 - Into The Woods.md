@@ -108,6 +108,7 @@ Days to prep
 	- **Reward:** Level up, Social quarters for the rangers (manage an establishment - see strongholds and followers)
 - **Escape** 
 	- You and your team had discussed a a path through the tunnel system bellow fort raynault
+		- You have p
 	- Slip into the rentas hold **stealth encounter**
 	- Description tone and atmosphere  
 		- temperature drops, thick air condenses on  carved walls and drips in to tamped down earth
@@ -117,11 +118,11 @@ Days to prep
 				- a highlighted path to the left that leads to a large chamber titled **Cavern**
 				- The cavern is abutted by two chambers and has a highlighted path leaving
 					- one titled olivers stores **hands off**
-					- the other labeled **hidden door orange rock: focalist? Unknown function** 
-						- within you find a number of wheel barrows 
-				- 
+					- the other labeled **hidden door orange rock: focalist? Unknown function**
+				- The highlighted path out of the cavern reads 
+	
 
-	- You see a figure small figuure with rigid posture eet deko 
+	- You see a figure small figuure with rigid posture meet deko 
 	- Undead signals (make this an unavop)
 		- You are almost out but you are slightly perplexed by your map, its reading forward on a smooth wall
 			- tremor sense will reveal that the dwarves have blocked off this path so that they can cont
