@@ -98,7 +98,7 @@ Days to prep
  - the pieces of info 
 	 - the negotiation
 ## ACT I
-- reaction, they know the mission (15 min)
+- **They know the mission:** General Yenora
 	- in media res watching the generals arival: Pearl, Tal, Poe, and Billiard are remarking on how nice fort raynault looks! An energy of nervous anticipation pervades the crowd, Sircha of [[House Follanel]] lounges in a box at the top of a newly constructed amphitheater. With her customary wry smile she surveys her work. [[Sage Aelon|Aelon's]] spot is empty, unsurprising given her reclusiveness in the past couple months. Soldiers line the main road, standing at perfect attention, compensating for 3 months of walking around with their tails beneath their legs, celebrating a 6th year to an invasion with almost nothing to show for it. They are practically giddy with the prospect of new **military** leadership, many of their eyes slide over you. They need someone to blame don't they!
 	- one of pearls cohort whispers in her ear, **Causes a distraction** conspicuously gesturing at a group stand under the awning of Renta's Hold, Serans inn, you see a bulky tan guy with a q embroidered over his jumpsuit, against the wall, and towering above them is  A Feirbolg in plate
 - **The Task:** In a clandestine meeting with Bill, Pearl, Poe, and Tal sage aelon gave you a mission
@@ -107,14 +107,13 @@ Days to prep
 	- **Bounty:** The rest of your party will be at the edge of your  Find out whats allowing them to stay alive, Find out why they are watching 
 	- **Reward:** Level up, Social quarters for the rangers (manage an establishment - see strongholds and followers)
 - **Escape** 
-	- 
+	- enter the sewer 
 - give options walking out the door is a difficult skill challenge 
 	- encounter non social?
 		- dwarves, undead, guards
 		- 
-	- skill challenge medium difficulty (5 successes required)
-		- Success, and Failure determines the presence of a pursuer 
-		- Meet a gaurd
+	- Undead encounter 
+			-
 - **Entry:**
 	- you step onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
 	- Suppriesed by other party members
