@@ -110,11 +110,13 @@ Days to prep
 	- You and your team had discussed a a path through the tunnel system bellow fort raynault
 	- Slip into the rentas hold **stealth encounter**
 	- Description tone and atmosphere  
-		- temperature drops, thick air condenses on  carved walls
+		- temperature drops, thick air condenses on  carved walls and drips in to tamped down earth
 		- Few of you are familiar with this place so you are diligently following a map 
 			- this map shows 
 				- an entrance from rentas hold 
-		
+					- with a highlighted path to the left that reads **CaverN**
+					- and an unhighlightedf
+				- 
 
 	- You see a figure small figuure with rigid posture eet deko 
 	- Undead signals (make this an unavop)
