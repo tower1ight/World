@@ -1,0 +1,334 @@
+{
+  "main": {
+    "id": "442f71960d0575be",
+    "type": "split",
+    "children": [
+      {
+        "id": "89283eb93830a7e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9b0a82861d722cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Sessions and Planning/C.04/C.04 Rules and Consistency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C.04 Rules and Consistency"
+            }
+          },
+          {
+            "id": "5c6a0b1b886f75d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Travel, hexes, and landmarks"
+            }
+          },
+          {
+            "id": "f36db6bfd71ecd47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manuscript Planning and Details"
+            }
+          },
+          {
+            "id": "52dce310ff4608ae",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "2b61f8a4904f5307",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/vault-stats.json",
+                "bFile": ".obsidian/vault-stats.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: vault-stats.json"
+            }
+          },
+          {
+            "id": "7bef8b2f758fcff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manuscript Planning and Details"
+            }
+          },
+          {
+            "id": "903e71f1193089a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C.04 Arc 3 - Into The Woods 1"
+            }
+          },
+          {
+            "id": "e6d2c51ae9663cd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C.04 Arc 3 - Into The Woods 1"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3272c6b319c6a914",
+    "type": "split",
+    "children": [
+      {
+        "id": "041ff4fe94daecd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53ac6ced630b4553",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "31c9e605cdf6d37a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d8d9a6ca2a7d0785",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1fba045acc8e4ed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "476bc7af347f2c22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a76bc931779d5ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0.Sessions and Planning/OS.01/OS.1 Planning Notes.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OS.1 Planning Notes"
+            }
+          },
+          {
+            "id": "76068126f4b512d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7a16c91b757ee638",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "178fde90833364b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Misc/Letter to Patricia.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Letter to Patricia"
+            }
+          },
+          {
+            "id": "9f0bd24836e3fa89",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "be0bc8849c11eccf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "e6d2c51ae9663cd0",
+  "lastOpenFiles": [
+    "3.Rules, Systems, Handouts/Non specific C.04 PC handout.md",
+    "conflict-files-obsidian-git.md",
+    "Misc/C.04 Arc 3 - Into The Woods.md",
+    "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods 1.md",
+    "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
+    "3.Rules, Systems, Handouts/Manuscript Planning and Details.md",
+    "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
+    "Images/Retainer Wellesley.png",
+    "3.Rules, Systems, Handouts/VTT Map Ledger.md",
+    "Images",
+    "0.Sessions and Planning/C. Unkown/Palace Campaign.md",
+    "0.Sessions and Planning/C. Unkown/Future Xylaan.md",
+    "0.Sessions and Planning/C. Unkown",
+    "Misc/VTT Blue Sky.md",
+    "0.Sessions and Planning/C.04/C.04 Rules and Consistency.md",
+    "Misc/TO DO.md",
+    "3.Rules, Systems, Handouts/Travel, hexes, and landmarks.md",
+    "0.Sessions and Planning/C/Future Xylaan.md",
+    "0.Sessions and Planning/C.00/Palace Campaign.md",
+    "0.Sessions and Planning/C.00/Future Xylaan.md",
+    "0.Sessions and Planning/C.00",
+    "0.Sessions and Planning/C/Palace Campaign.md",
+    "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
+    "3.Rules, Systems, Handouts/Alchemist PC Handout.md",
+    "Misc/DM Screen.md",
+    "Misc/Untitled 1.md",
+    "0.Sessions and Planning/C.04/C.04 Arc 2 - The Great Arsonist Hunt.md",
+    "Untitled",
+    "0.Sessions and Planning/C.04/C.04 Steady State World.md",
+    "1.Places/Cities and Settlements/Fort Raynault.md",
+    "Misc/Trans Resources and Influences.md",
+    "Misc/Inner Circle.md",
+    "1.Places/Buildings and Landmarks/Violet Church.md",
+    "1.People/Gods/Tel'voric's Visual Design.pdf",
+    "0.Sessions and Planning/OS.01/OS.1 Notability Planning.pdf",
+    "0.Sessions and Planning/C.04/C.04 Notability Arc 1-2 Planning.pdf",
+    "0.Sessions and Planning/C.04/C.04 Notability Campaign Planning.pdf",
+    "Misc/Weather Table.png"
+  ]
+}
