@@ -17,8 +17,7 @@ Sessions
 	- [ ] Skill challenge provided encounters and twists
 	- [ ] Vision details
 	- [x] Quest details and Text
-	- [ ] Finalize Travel Rules
-	- [ ] Finalize all first omens of myths
+
 - [ ] Wants
 	- [ ] Configure VTT
 		- [ ] Day Tracker
@@ -29,6 +28,8 @@ Sessions
 - [ ] Later
 	- [ ] Infection symptoms/ timeline
 	- [ ] Finish Myths
+	- [ ] Finalize Travel Rules
+	- [ ] Finalize all first omens of myths
 Days to prep
 - tonight 1.5 h
 - tomorrow 1.5
