@@ -8,10 +8,24 @@ Sessions
 
 ## Current
 - [ ] Needs
+	- [ ] Configure VTT
+		- [ ] Set up Battle scene
+		- [ ] add talyor
+		- [ ] 
+	- [ ] Skill challenge provided encounters and twists
+	- [ ] Vision details
+	- [x] Quest details and Text
+
+- [ ] Wants
+	- [ ] Configure VTT
+	- [ ] Name List
+	- [ ] Flesh Out
+- [ ] Later
 	- [ ] Configure VTT (whole night)
 		- [ ] Map
 		- [ ] Party Token, 
 		- [ ] Tables
+<<<<<<< HEAD
 		- [ ] Add Taylor
 	- [ ] 
 	- [ ] Skill challenge provided encounters and twists
@@ -20,12 +34,12 @@ Sessions
 
 - [ ] Wants
 	- [ ] Configure VTT
+=======
+		- [ ] Add Taylor 
+>>>>>>> origin/main
 		- [ ] Day Tracker
 		- [ ] Adjust raynault
 		- [ ] Figure out music audio
-	- [ ] Name List
-	- [ ] Flesh Out
-- [ ] Later
 	- [ ] Infection symptoms/ timeline
 	- [ ] Finish Myths
 	- [ ] Finalize Travel Rules
@@ -51,7 +65,7 @@ Days to prep
 		- Incredible hunger, insatiable
 	- Integration
 		- See the 
-## Set tone
+  ## Set tone
 - Hostile, Arid, bursting with life
 - watched, things react to your action
 
@@ -94,20 +108,46 @@ Days to prep
  - Important NPCs
  - the pieces of info 
 	 - the negotiation
-## ACT I
-- reaction, they know the mission (15 min)
-	- in media res watching the generals arival: Pearl, Tal, Poe, and Billiard are remarking on how nice fort raynault looks! An energy of nervous anticipation pervades the crowd, Sircha of [[House Follanel]] lounges in a box at the top of a newly constructed amphitheater. With her customary wry smile she surveys her work. [[Sage Aelon|Aelon's]] spot is empty, unsurprising given her reclusiveness in the past couple months. Soldiers line the main road, standing at perfect attention, compensating for 3 months of walking around with their tails beneath their legs, celebrating a 6th year to an invasion with almost nothing to show for it. They are practically giddy with the prospect of new **military** leadership, many of their eyes slide over you. They need someone to blame don't they!
-	- one of pearls cohort whispers in her ear, **Causes a distraction** conspicuously gesturing at a group stand under the awning of Renta's Hold, Serans inn, you see a bulky tan guy with a q embroidered over his jumpsuit, against the wall, and towering above them is  A Feirbolg in plate
+ ## ACT I
+- **They know the mission:** General Yenora's procession
+	- in media res watching the generals arrival: Pearl, Tal, Poe, and Billiard are remarking on how nice fort raynault looks! An energy of nervous anticipation pervades the crowd, Sircha of [[House Follanel]] lounges in a box at the top of a newly constructed amphitheater. She is inoring an aid in medical garb shouting with exasperation and surveys her work with her customary wry smile. [[Sage Aelon|Aelon's]] spot is empty, unsurprising given her reclusiveness in the past couple months. Soldiers line the main road, standing at perfect attention, compensating for 3 months of slinking around with their tails beneath their legs, celebrating a 6th year to an invasion with almost nothing to show for it. They are practically giddy with the prospect of new **military** leadership, many of their eyes slide over you. They need someone to blame don't they!
+	- one of pearls cohort whispers in her ear conspicuously gesturing at a group stand under the awning of Renta's Hold, Sezans inn, you see vanel, a lean human woman with shiny black hair in the rangers jumpsuit scowling at one of the soldiers 
 - **The Task:** In a clandestine meeting with Bill, Pearl, Poe, and Tal sage aelon gave you a mission
 	- **Context:** In the first year of the invasion, thousands of soldiers were baited by goblins into the forest, after years of assuming that they were dead, Human soldiers have been spotted watching a research operation at the forest border. 
 	- **You lot are up to something:** Unless you want an escort of soldiers, escape fort Rayault without anyone noticing
 	- **Bounty:** The rest of your party will be at the edge of your  Find out whats allowing them to stay alive, Find out why they are watching 
 	- **Reward:** Level up, Social quarters for the rangers (manage an establishment - see strongholds and followers)
-- **Skill challenge:** Medium difficulty (5 successes required)
-		- Success, and Failure determines the presence of a pursuer 
-		- Meet a gaurd
-- Off on the journey (45 min)
-	- Gopher like you pop up and make your way onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
+- **Escape** 
+	- You and your team had discussed a a path through the tunnel system bellow fort raynault
+		- You have positioned yourself close to an entrance in the bars storeroom, a poorly kept secret 
+		- Few of you are familiar with this place so you are diligently following a map 
+			- this map shows 
+				- an entrance from rentas hold 
+				- a highlighted path to the left that leads to a large chamber titled **Cavern**
+				- The cavern is abutted by two chambers and has a highlighted path leaving
+					- one titled olivers stores **hands off**
+					- the other labeled **hidden door orange rock: focalist? Unknown function**
+				- The highlighted path out of the cavern reads **OUT**
+	- Slip into the rentas hold **stealth encounter**
+	- Description tone and atmosphere  
+		- temperature drops, thick air condenses on  carved walls and drips in to tamped down earth
+		- scratches, skitters resonate through the walls, is something mooving a head of you or is there a procession of people just moving above you, hair at the back of your neck stands on edge
+	- creeping through`mm the dark you You see a figure small figure with rigid posture meet deko 
+	- Undead signals (make this an unavop)
+		- You are almost out but you are slightly perplexed by your map, its reading forward on a smooth wall
+			- tremor sense will reveal that the dwarves have blocked off this path so that they can cont
+		- this is a result of the years of emaciated bodies 
+		- a door rattles as you footsteps approach 
+			- incorporeal
+	- flee, maybe a skill challenge 
+- give options walking out the door is a difficult skill challenge 
+	- encounter non social?
+		- dwarves, undead, guards
+		- 
+	- Undead encounter 
+			-
+- **Entry:**
+	- you step onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
 	- Suppriesed by other party members
 		- a severe woman with long black hair wears a similar jumpsuit with a V and leans 
 	- Describe the disorientation and Oddness of the 
@@ -117,7 +157,7 @@ Days to prep
 		- Some people marked as useful, others are marked as disposable 
 			- disposable: [[Pearl]], [[Taylors Character]], Qball
 			- protected: [[Talot]], [[billiard Ball]], [[Poe the Perfumer]], 
-	- rott beast charges in a gores a redshirt, start your first combat
+	- rot beast charges in a gores a redshirt, start your first combat
 - Travel gameplay description [[Travel, hexes, and landmarks]]
 - Play travel until they alive at the battlefield,
 	- clue at a ridge that peaks above the stalks and allows for an unobstructed veiw of [[{The Woven City}]] and the 
@@ -166,31 +206,7 @@ organize silent guards, you get a meeting with a beurocrat
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Nonsense Dump
 
 	- 
 - describe mechanics, give handout and rules] 20 min 
@@ -213,35 +229,6 @@ go find these soliders, they are in this direction and you get this reward,
 WHAT do they theoretically get, money? freedom? better acomodations, autonomy, acess to their old lives, ownership? comfort?
 
 go track down big bad guys and bring em home 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -322,14 +309,6 @@ Its gor
 
 
 
-
-
-
-
-
-
-
-
 Remnants of the Giant folk exist in the forest, but will be threatened by the arrival of dagoags army, 
 
 town and all that entails
@@ -338,15 +317,11 @@ Discovery of the Plan and the army, cause they hold a crusade banner, the milita
 
 
 
-BEeeee
-bxzzxzzzzz
-
-dsfklsflmfg
-slkfgmlsfgmn
-
-
-eeeek a bear
+# Appendices
+## Retainers
+Parsley 
+![[Retainer Wellesley.png]]
 
 
 
-we commiting
+lklk
