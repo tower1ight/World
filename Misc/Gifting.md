@@ -10,4 +10,4 @@ my mother
 - Ideas
 	- cooks illustrated 
 	- jewelry
-	- 
+	- go to the boston antique market
