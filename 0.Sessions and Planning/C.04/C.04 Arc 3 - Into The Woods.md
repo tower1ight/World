@@ -3,7 +3,7 @@ tags:
   - C04
 aliases:
 ---
-Sessions 
+
 # Session Prep
 
 ## Current
@@ -25,18 +25,7 @@ Sessions
 		- [ ] Map
 		- [ ] Party Token, 
 		- [ ] Tables
-<<<<<<< HEAD
-		- [ ] Add Taylor
-	- [ ] 
-	- [ ] Skill challenge provided encounters and twists
-	- [ ] Vision details
-	- [x] Quest details and Text
-
-- [ ] Wants
-	- [ ] Configure VTT
-=======
 		- [ ] Add Taylor 
->>>>>>> origin/main
 		- [ ] Day Tracker
 		- [ ] Adjust raynault
 		- [ ] Figure out music audio
@@ -319,9 +308,11 @@ Discovery of the Plan and the army, cause they hold a crusade banner, the milita
 
 # Appendices
 ## Retainers
-Parsley 
+Wellesley
 ![[Retainer Wellesley.png]]
 
 
 
 lklk
+
+
