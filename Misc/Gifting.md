@@ -11,3 +11,5 @@ my mother
 	- cooks illustrated 
 	- jewelry
 	- go to the boston antique market
+	- pott for plants
+	- 
