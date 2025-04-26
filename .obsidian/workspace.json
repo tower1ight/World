@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Sessions and Planning/C.04/Session/C.04.06.md",
+                "file": "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C.04.06"
+              "title": "Outline of C.04 Planning and outline"
             }
           }
         ]
@@ -122,12 +122,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Sessions and Planning/C.04/Session/C.04.06.md",
+                "file": "0.Sessions and Planning/C.04/C.04 Planning and outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C.04.06"
+              "title": "C.04 Planning and outline"
             }
           }
         ],
@@ -289,7 +289,9 @@
   },
   "active": "f8a4f9843cf52f24",
   "lastOpenFiles": [
+    "0.Sessions and Planning/C.04/C.04 Campaign Pitch.md",
     "0.Sessions and Planning/C.04/C.04 Arc 3 - Into The Woods.md",
+    "0.Sessions and Planning/C.04/Session/C.04.06.md",
     "0.Sessions and Planning/C.04/C.04 Rules and Consistency.md",
     "1.Places/Geography and Borders/Xylaan/Xylanni Ecology.md",
     "2.Supernatural and Natural Fundamentals/psionics.md",
@@ -318,8 +320,6 @@
     "4.Rand Docs for messing arround/Aelon before her meeting with pearl.md",
     "4.Rand Docs for messing arround/thoughts on goblin city etc.md",
     "4.Rand Docs for messing arround/Untitled 2.md",
-    "1.People/PCs/Poe the Perfumer.md",
-    "0.Sessions and Planning/C.00/Palace Campaign.md",
     "3.Rules, Systems, Handouts/Alchemist PC Handout V2.pdf",
     "3.Rules, Systems, Handouts/Time and Cosmology.pdf",
     "1.People/Gods/Tel'voric's Visual Design.pdf",
