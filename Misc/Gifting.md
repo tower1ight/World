@@ -1,0 +1,15 @@
+my mother 
+- Relms
+	- gardening
+	- cooking 
+	- the beach 
+	- books 
+	- her dogs 
+	- sunflowers 
+	- music 
+- Ideas
+	- cooks illustrated 
+	- jewelry
+	- go to the boston antique market
+	- pott for plants
+	- 
