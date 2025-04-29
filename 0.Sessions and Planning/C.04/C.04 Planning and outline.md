@@ -86,12 +86,12 @@ Progressing personal stories
  Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] kept by the [[The Entangled|Seers]]. Most will contain a seer bent and contorted around the node at all times, many important nodes will have one or more seers who have chosen to embed themselves into the [[mycelium]]. The design of individual temples can vary but most have some form of material documentation of [[Xylaan]] and its worship or history.
  
  - Bountiful Seer:
-	 - Enter a large tepee like structure 
-	 - Stalk fiber sits around the room in large 
+	 
 	 - Flours speckle its body
 	 - Asks you to excise the face and and plant it in a specific hex 
  - Stalk Seer
-	 - Pop 
+	 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
+	 - Stalk fiber sits around the room in large 
 	 - wistopher the bold germed up
  - Rotten Seer
  - Carved Seer
