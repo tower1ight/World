@@ -11,11 +11,11 @@ Progressing personal stories
 
 
  # Adventures
- ## [[C.04 Arc 1 - Introduction]]: showing up, fire, goblins, and friendly fire
+## [[C.04 Arc 1 - Introduction]]: showing up, fire, goblins, and friendly fire
 
- ## [[C.04 Arc 2 - The Great Arsonist Hunt]]: Hunt, tunnels, COL, lizards coup
+## [[C.04 Arc 2 - The Great Arsonist Hunt]]: Hunt, tunnels, COL, lizards coup
 
- ## [[C.04 Arc 3 - Into The Woods]]
+## [[C.04 Arc 3 - Into The Woods]]
  **Core ideas and themes**: 
 
  
@@ -47,7 +47,7 @@ Progressing personal stories
 - [[{Vacuole Stronghold}]] (Hold)
 
  ## Myths:
- - [[The Sync]]
+ - [[The Eye]]
  - [[The Mindless]]
  - [[The Infection]]
  - [[The Mine]]
@@ -91,7 +91,7 @@ Progressing personal stories
 	 - Asks you to excise the face and and plant it in a specific hex 
  - Stalk Seer
 	 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
-	 - Stalk fiber sits around the room in large 
+	 - Stalk fiber sits around the room in large piles being woven by acolytes, 
 	 - wistopher the bold germed up
  - Rotten Seer
  - Carved Seer
