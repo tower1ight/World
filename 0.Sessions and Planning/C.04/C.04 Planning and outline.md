@@ -87,8 +87,7 @@ Progressing personal stories
  - Bountiful Seer:
 	 - Tapestries depicting the on the fey and the birth of [[Xylaan]] are strewn throughout the temple
 	 - Flours speckle its body
-  	 - Asks you to excize the face and and plant it in  a specific hex 
-      
+	 - Asks you to excize the face and and plant it in a specific hex 
  - Stalk Seer
 	 -  wistopher the bold germed up
  - Rotten Seer
