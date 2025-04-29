@@ -79,7 +79,7 @@ Progressing personal stories
 	 - diplomacy,  violence, or failure possinle
 		 - boost to goblin public opinon
  - **Ritual to the hags**
-	 - collect 
+	 - collect a sacrifice
 
 ### Sanctuaries 
  Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] kept by the [[The Entangled|Seers]]. Most will contain a seer bent and contorted around the node at all times, many important nodes will have one or more seers who have chosen to embed themselves into the [[mycelium]]. The design of individual temples can vary but most have some form of material documentation of [[Xylaan]] and its worship or history.
@@ -124,22 +124,14 @@ Progressing personal stories
 
 ### Ruins
 Ruins commonly provide helpful context or questions about xylaan, as well as a relic 
- - **Crashed Ship**
+ - **Crashed Ship** 
 	 - containing [[Seraphs|seraphine]] tech just a few decades outdated
 	 - notes from bigby's journal
 	 - Dense forest 
-Sugar current above the tree line
-Skiffs - ships run on sugar currents 
-God dies - sugar layer dissipates
-Node - ruin 
-Sugar Ship crash landed - lost ruin - pc’s don’t know it’s a ship 
-Puzzles - mystery 
-
-Upon walking through the forest, a claw-like formation of rock and moss appears to be jutting from the surface of the earth, almost curving back in upon itself in a sharp point. 
-- Upon examine one of the walls of this formation, a small hole can be found, peering in, after a second to allow the eye to adjust to the dark, shows the faint outlines of walls, barrels and some kind of structure inside this formation. 
-- If one were to examine the point at the top of the formation, *they’d find a metal tip of the channeling funnel of this machine*, yet they would only see it as a shining bit of silver, gleaming after being clean of moss and time. 
-
-Entering the structure requires breaking through the outer wall, which could be done delicately or with brute force. (Dex/Str) 
+	 - Upon walking through the forest, a claw-like formation of rock and moss appears to be jutting from the surface of the earth, almost curving back in upon itself in a sharp point. 
+	 - Upon examine one of the walls of this formation, a small hole can be found, peering in, after a second to allow the eye to adjust to the dark, shows the faint outlines of walls, barrels and some kind of structure inside this formation. 
+	 - if one were to examine the point at the top of the formation, *they’d find a metal tip of the channeling funnel of this machine*, yet they would only see it as a shining bit of silver, gleaming after being clean of moss and time. 
+	 - Entering the structure requires breaking through the outer wall, which could be done delicately or with brute force. (Dex/Str) 
 *Breaking in may wake up whatever lies inside.*
 
 ###### **Rooms of Interest.**
