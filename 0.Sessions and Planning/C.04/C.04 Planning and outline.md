@@ -10,17 +10,16 @@ Progressing personal stories
 - julia - Connection with Xylaan spy for entangled? whispers to her about potential
 
 
- # Adventures
+# Adventures
 ## [[C.04 Arc 1 - Introduction]]: showing up, fire, goblins, and friendly fire
 
 ## [[C.04 Arc 2 - The Great Arsonist Hunt]]: Hunt, tunnels, COL, lizards coup
 
-## [[C.04 Arc 3 - Into The Woods]]
- **Core ideas and themes**: 
+## [[C.04 Arc 3 - Into The Woods]]: Entry, Arcadian mind control, Party proxy
 
  
- # Book I Planning 
-  ## Outline 
+# Book I Planning 
+## Outline 
  - Introduction (1 session) [[C.04 Arc 1 - Introduction]]
 	 - Prompts: goblin theft cultist docs  
  - [[Fort Raynault]] adventure [[C.04 Arc 2 - The Great Arsonist Hunt]]
@@ -39,35 +38,35 @@ Progressing personal stories
 
 
  
- # Map and Travel
-  ## Seat of Power and Holds
+# Map and Travel
+## Seat of Power and Holds
 - [[{Goblin City}]] (Seat of Power)
 - [[Fort Raynault]] (Hold)
 - [[{disconnected city}]] (Hold)
 - [[{Vacuole Stronghold}]] (Hold)
 
- ## Myths:
+## Myths:
  - [[The Eye]]
  - [[The Mindless]]
  - [[The Infection]]
  - [[The Mine]]
  - [[The Elf]]
 
+## Landmarks
+
+| Dwellings             | Sanctuaries    | Monuments     |
+| --------------------- | -------------- | ------------- |
+| Gristleleak's Orchard |                | Masacre       |
+| here kity kity        |                | Alchemist lab |
+| Ritual t              |                | A new Court   |
+| **Hazards**           | **Curses**     | **Ruins**     |
+| ankheg                | Static Bird    | Ship          |
+| Arcadian Scouts       | Smoke          | Old pool      |
+| Fire                  | hypnotic cloud | Alchemist Lab |
+|                       |                |               |
 
 
-| Dwellings       | Sanctuaries    | Monuments     |
-| --------------- | -------------- | ------------- |
-| City outskirts  |                | Masacre       |
-| here kity kity  |                | Alchemist lab |
-|                 |                | A new Court   |
-| **Hazards**     | **Curses**     | **Ruins**     |
-| ankheg          | Static Bird    | Ship          |
-| Arcadian Scouts | Smoke          | Old pool      |
-| Fire            | hypnotic cloud | Alchemist Lab |
-|                 |                |               |
-
-
-### Dwellings 
+#### Dwellings 
  Dwellings should be representative of local customs, artistic and architectural trends
  - **Gristleak's Orchard**: mold farm and textile maker 
 	 - The air is thick humid, you feel energized walking through a feild of elevated chambers, slightly opaqe and with small leaks forming at the seals where airflow is directed and the membrane is stressed from years of wear. they send you on a fetch quest to get chamber sealant, a weaving mill has goblins creating scafolding for [[mold]] to fill in the gaps,
