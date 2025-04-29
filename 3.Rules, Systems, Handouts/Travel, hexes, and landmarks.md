@@ -49,7 +49,7 @@ If the party is able to find shelter or sanctuary, both short and long rests reg
 - **Monuments:** preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]], they might be able to discern stylistic history **Permits a Long Rest**
 - **Hazards:** Nothing good can come from this, Xylaan is a violent place and your stumbling has roused something that ought to have stayed asleep
 - **Curses:** You walk in strange teritorry, shifting trees and thick fog leave you confused you are **Blinded**
-- **Ruins:** Physical remnants of history, places long ago forgot
+- **Ruins:** Physical remnants of history, places or practices long ago forgotten, everything returns to xylaan
 
 | Roll  | Traveling Blind           |
 | ----- | ------------------------- |
@@ -57,7 +57,6 @@ If the party is able to find shelter or sanctuary, both short and long rests reg
 | 2, 3  | Veer to the left or right |
 | 4 - 6 | Progress as planned       |
 
-- **Ruins:** Forgotten things blend back into xylaan, everything returns to xylaan
 #### Myths
 - Myths represent the movement and change of living world, rarely pertinent to your main objective, they are something to seek out 
 
