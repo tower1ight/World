@@ -18,7 +18,7 @@ Progressing personal stories
 ## [[C.04 Arc 3 - Into The Woods]]: Entry, Arcadian mind control, Party proxy
 
  
-# Book I Planning 
+# Planning 
 ## Outline 
  - Introduction (1 session) [[C.04 Arc 1 - Introduction]]
 	 - Prompts: goblin theft cultist docs  
@@ -53,18 +53,6 @@ Progressing personal stories
  - [[The Elf]]
 
 ## Landmarks
-
-| Dwellings             | Sanctuaries    | Monuments     |
-| --------------------- | -------------- | ------------- |
-| Gristleleak's Orchard |                | Masacre       |
-| here kity kity        |                | Alchemist lab |
-| Ritual to the mothers |                | A new Court   |
-| **Hazards**           | **Curses**     | **Ruins**     |
-| ankheg                | Static Bird    | Ship          |
-| Arcadian Scouts       | Smoke          | Old pool      |
-| Fire                  | hypnotic cloud | Alchemist Lab |
-|                       |                |               |
-
 
 #### Dwellings 
  Dwellings should be representative of local customs, artistic and architectural trends
@@ -142,8 +130,8 @@ Ruins commonly provide helpful context or questions about xylaan, as well as a r
 	 - a bountiful grove
 	 - A community within the lake bed
 	 - flower market 
- -  **Alchemist research station:**
-	 - lots of tech 
+ -  **Tannian research station:**
+	 - lots of tech, info that the tann
 
 
 
