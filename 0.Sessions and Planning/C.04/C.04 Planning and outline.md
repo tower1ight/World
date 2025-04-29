@@ -58,7 +58,7 @@ Progressing personal stories
 | --------------------- | -------------- | ------------- |
 | Gristleleak's Orchard |                | Masacre       |
 | here kity kity        |                | Alchemist lab |
-| Ritual t              |                | A new Court   |
+| Ritual to the mothers |                | A new Court   |
 | **Hazards**           | **Curses**     | **Ruins**     |
 | ankheg                | Static Bird    | Ship          |
 | Arcadian Scouts       | Smoke          | Old pool      |
@@ -77,28 +77,30 @@ Progressing personal stories
 	 - house gaurd cat convinced by another cat to leave
 	 - diplomacy,  violence, or failure possinle
 		 - boost to goblin public opinon
- - **Ritual to the hags**
+ - **Ritual to the mothers**
 	 - collect a sacrifice
 	 - 
 
-### Sanctuaries 
+#### Sanctuaries 
  Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] kept by the [[The Entangled|Seers]]. Most will contain a seer bent and contorted around the node at all times, many important nodes will have one or more seers who have chosen to embed themselves into the [[mycelium]]. The design of individual temples can vary but most have some form of material documentation of [[Xylaan]] and its worship or history.
  
- - Bountiful Seer:
+ - **Bountiful Seer:**
 	 
 	 - Flours speckle its body
 	 - Asks you to excise the face and and plant it in a specific hex 
- - Stalk Seer
+ - **Stalk Seer:**
 	 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
 	 - Stalk fiber sits around the room in large piles being woven by acolytes, 
 	 - wistopher the bold germed up
- - Rotten Seer
- - Carved Seer
+ - **Rotten Seer:**
+ - **Carved Seer:**
 
 ### Monument
  Monuments are preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]] they might be able to discern stylistic history, what the monument is and has been 
- - **Leaving the garden** massacre of remaining alchemists, and deserters caught, a wyvern with iredecent black scales hovers about: Alchemists had lines, a shield wall and standard ww, but a flaming arrow strakes a flag with a single black scale. still attempting to keep discipline, kobolds have dissolved into their fighting squadrons attempting to reform the original structure. but five behemoth spiders cross the ridge, all of them stark white, clad in spotless mold-silver armor, the lead carrying a huge gilded command platform king glubliet standing at its head cape billowing in the wind, your breath catches as they barrel towards them, cutting them off and smashing these little islands apart. routed now, their retreat becomes a dash, trying to flee barbed legs and crooked arrows zipping in every direction. 
- - **A New Court** 
+ - **Leaving the garden:** 
+	 - massacre of remaining alchemists, and deserters caught, a wyvern with iredecent black scales hovers about: 
+	 - Alchemists had lines, a shield wall and standard ww, but a flaming arrow strakes a flag with a single black scale. still attempting to keep discipline, kobolds have dissolved into their fighting squadrons attempting to reform the original structure. but five behemoth spiders cross the ridge, all of them stark white, clad in spotless mold-silver armor, the lead carrying a huge gilded command platform king glubliet standing at its head cape billowing in the wind, your breath catches as they barrel towards them, cutting them off and smashing these little islands apart. routed now, their retreat becomes a dash, trying to flee barbed legs and crooked arrows zipping in every direction. 
+ - **A New Court:**
 	 - development of the grove, a goblin settlement
  - **Sealed from the world** Ocean veiw off a cliff as the wind picks up and boats crushed against a storm maybe
 

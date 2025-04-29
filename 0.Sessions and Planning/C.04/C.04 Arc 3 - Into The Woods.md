@@ -6,11 +6,11 @@ aliases:
 
 # Session Prep
 
-## Current
+#### Current
 - [ ] Needs
 	- [ ] Configure VTT
 		- [ ] Set up Battle scene
-		- [ ] add talyor
+		- [x] add talyor
 		- [ ] 
 	- [ ] Skill challenge provided encounters and twists
 	- [ ] Vision details
@@ -38,8 +38,8 @@ Days to prep
 - tomorrow 1.5
 - Thursday 1.5
 - 
-## Past
-## General questions
+#### Past
+#### General questions
  - what do the masks look like? how are they attached 
 - Establish protection for the heros
 	- vission? Arcadia wants the players to kill the 
