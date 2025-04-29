@@ -69,7 +69,7 @@ Progressing personal stories
 
  ### Dwellings 
  Dwellings should be representative of local customs, artistic and architectural trends
- - **City outskirts**: mold farm and textile maker 
+ - **Gristleak's Orchard**: mold farm and textile maker 
 	 - The air is thick humid, you feel energized walking through a feild of elevated chambers, slightly opaqe and with small leaks forming at the seals where airflow is directed and the membrane is stressed from years of wear. they send you on a fetch quest to get chamber sealant, a weaving mill has goblins creating scafolding for [[mold]] to fill in the gaps,
 	 - Busshels of mold have been stolen and they need to be returned 
 	 - Abandoned when the party first visits but is occupied upon their return 
@@ -87,7 +87,7 @@ Progressing personal stories
  - Bountiful Seer:
 	 - Tapestries depicting the on the fey and the birth of [[Xylaan]] are strewn throughout the temple
 	 - Flours speckle its body
-  	 - Asks you to take it up and plant it somewhere else 
+  	 - Asks you to excize the face and and plant it in  a specific hex 
       
  - Stalk Seer
 	 -  wistopher the bold germed up
