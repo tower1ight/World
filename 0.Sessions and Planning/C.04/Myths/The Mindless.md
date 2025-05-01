@@ -6,8 +6,11 @@ aliases:
 
 Ok what do we know about these fucks
 - they watchin
-- they are part of an old battle 
+- they are part of an old battle\
+Whats to know
+- Arcadian Mind Control
 - 
+- Signs of Infection (optional detail reward)
 
 
 
