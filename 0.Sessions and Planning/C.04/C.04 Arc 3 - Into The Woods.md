@@ -50,18 +50,19 @@ aliases:
 ## Set tone
 - Hostile, Arid, bursting with life
 - watched, things react to your action
+- Polyphony
 ## Travel 
 - This is Important! They are learning
 - Do 
 ## Germ 
-- Mask 
-	- perfect seal on the face
-- sickness will set if at any point the player breaths air: two phases
-	- looking phase
-		- Incredible hunger, insatiable
-- Tracker 
+
+|     |     |
+| --- | --- |
+|     |     |
+
 ## Arcadia's Partial Favor
-- 
+- People haloed are met with fear, anger, or deference 
+- People often get whipped into a frenzy 
 
 
 | *yellow Stalk*                                                                                                                                                                                                                                                                       |
