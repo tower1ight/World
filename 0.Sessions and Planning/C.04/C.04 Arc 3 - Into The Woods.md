@@ -10,30 +10,26 @@ aliases:
 - [ ] Needs
 	- [ ] Configure VTT
 		- [ ] Set up Battle scene
+		- [ ] 
 	- [ ] Organize map
-	- [ ] 
 	- [ ] Infection Tracker and Mechanic
 	- [ ] Area: Battlefeild
 		- [ ] Heard
-		- [ ] Battlefield and Dead Unconsumed
+		- [ ] Battlefield and Dead Unconsumed, pools
 		- [ ] Body mound and the Ghost
-		- [ ] 
 	- [ ] Villain
-	- [ ] Story Close
+	- [ ] Story Close and 
+	- [ ] Mindless Myths
+	- [ ] 
 
 - [ ] Wants
 	- [ ] Configure VTT
+		- [ ] new audio
+		- [ ] 
 	- [ ] Name List
 	- [ ] Flesh Out
 - [ ] Later
 	- [ ] Configure VTT (whole night)
-		- [ ] Map
-		- [ ] Party Token, 
-		- [ ] Tables
-		- [ ] Add Taylor 
-		- [ ] Day Tracker
-		- [ ] Adjust raynault
-		- [ ] Figure out music audio
 	- [ ] Infection symptoms/ timeline
 	- [ ] Finish Myths
 	- [ ] Finalize Travel Rules
