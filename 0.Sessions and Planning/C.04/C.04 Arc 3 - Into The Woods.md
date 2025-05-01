@@ -8,6 +8,7 @@ aliases:
 
 #### Current
 - [ ] Needs
+	- [ ] Recap
 	- [ ] Configure VTT
 		- [ ] Set up Battle scene
 	- [ ] Finalize Travel Myths
@@ -20,7 +21,7 @@ aliases:
 	- [ ] Villain
 	- [ ] Story Close
 	- [ ] Mindless Myths
-	- [ ] Recap
+	
 
 - [ ] Wants
 	- [ ] Configure VTT
@@ -34,30 +35,29 @@ aliases:
 	- [ ] Finish Myths
 	- [ ] Finalize Travel Rules
 	- [ ] Finalize all first omens of myths
-Days to prep
-- tonight 1.5 h
-- tomorrow 1.5
-- Thursday 1.5
-- 
-#### Past
+
+
 #### General questions
  - what do the masks look like? how are they attached 
 - Establish protection for the heros
 	- vission? Arcadia wants the players to kill the 
 	- The locals see them as an extension of arcadias will, as though a security camera is walking through the door, treat them with guest friendship
 - 
-# Plates a spining
+# Plates a spinning
+## Set tone
+- Hostile, Arid, bursting with life
+- watched, things react to your action
+## Travel 
+- This is Important! They are learning
+- Do 
 ## Germ 
 - Mask 
 	- perfect seal on the face
 - sickness will set if at any point the player breaths air: two phases
 	- looking phase
 		- Incredible hunger, insatiable
-	- Integration
-		- See the 
-## Set tone
-- Hostile, Arid, bursting with life
-- watched, things react to your action
+- Tracker 
+
 
 | *yellow Stalk*                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
