@@ -10,11 +10,13 @@ aliases:
 - [ ] Needs
 	- [ ] Configure VTT
 		- [ ] Set up Battle scene
-		- [x] add talyor
+	- [ ] Organize map
+	- [ ] 
+	- [ ] Infection Tracker and Mechanic
+	- [ ] Area: Battlefeild
 		- [ ] 
-	- [ ] Skill challenge provided encounters and twists
-	- [ ] Vision details
-	- [x] Quest details and Text
+	- [ ] Villain
+	- [ ] Story Close
 
 - [ ] Wants
 	- [ ] Configure VTT
