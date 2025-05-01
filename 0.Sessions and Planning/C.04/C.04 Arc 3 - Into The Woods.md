@@ -59,12 +59,13 @@ aliases:
 - Do 
 ## Germ 
 
-|     |                                                             |
-| --- | ----------------------------------------------------------- |
-|     | Starts to hear whispers                                     |
-|     | Begins to feel a deep hunger                                |
-|     | Develops three nodes in a triangle at the base of the skull |
-|     | Hunger worsens - 2d6 damage every phase                     |
+|     |                                                                                                 |
+| --- | ----------------------------------------------------------------------------------------------- |
+|     | Starts to hear whispers (polyphony unlocks for you)                                             |
+|     | Begins to feel a deep hunger                                                                    |
+|     | Develops three nodes in a triangle at the base of the skull (starts to sense through the earth) |
+|     | Hunger worsens - 2d6 damage every phase                                                         |
+|     |                                                                                                 |
 
 ## Arcadia's Partial Favor
 - People haloed are met with fear, anger, or deference 
