@@ -10,7 +10,7 @@ aliases:
 - [ ] Needs
 	- [ ] Configure VTT
 		- [ ] Set up Battle scene
-		- [ ] 
+	- [ ] Finalize Travel Myths
 	- [ ] Organize map
 	- [ ] Infection Tracker and Mechanic
 	- [ ] Area: Battlefeild
@@ -18,16 +18,16 @@ aliases:
 		- [ ] Battlefield and Dead Unconsumed, pools
 		- [ ] Body mound and the Ghost
 	- [ ] Villain
-	- [ ] Story Close and 
+	- [ ] Story Close
 	- [ ] Mindless Myths
-	- [ ] 
+	- [ ] Recap
 
 - [ ] Wants
 	- [ ] Configure VTT
 		- [ ] new audio
 		- [ ] 
 	- [ ] Name List
-	- [ ] Flesh Out
+	- [ ] Flesh Out polotics of the contract
 - [ ] Later
 	- [ ] Configure VTT (whole night)
 	- [ ] Infection symptoms/ timeline
