@@ -11,8 +11,11 @@ aliases:
 	- [ ] Recap
 	- [ ] Configure VTT
 		- [ ] Set up Battle scene
-	- [ ] Finalize Travel Myths
 	- [ ] Organize map
+		- [ ] Tile placement 
+		- [ ] Barriers
+		- [ ] Movement and testing
+	- [ ] Mindless Myths
 	- [ ] Infection Tracker and Mechanic
 	- [ ] Area: Battlefeild
 		- [ ] Heard
@@ -20,7 +23,7 @@ aliases:
 		- [ ] Body mound and the Ghost
 	- [ ] Villain
 	- [ ] Story Close
-	- [ ] Mindless Myths
+
 	
 
 - [ ] Wants
@@ -57,6 +60,8 @@ aliases:
 	- looking phase
 		- Incredible hunger, insatiable
 - Tracker 
+## Arcadia's Partial Favor
+- 
 
 
 | *yellow Stalk*                                                                                                                                                                                                                                                                       |
