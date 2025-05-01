@@ -50,6 +50,7 @@ aliases:
 ## Set tone
 - Hostile, Arid, bursting with life
 - watched, things react to your action
+- Patterns in the sky distort light 
 - Polyphony
 ## Travel 
 - This is Important! They are learning
@@ -59,7 +60,7 @@ aliases:
 |     |                                                             |
 | --- | ----------------------------------------------------------- |
 |     | Starts to hear whispers                                     |
-|     | Begins to hunger                                            |
+|     | Begins to feel a deep and                                   |
 |     | Develops three nodes in a triangle at the base of the skull |
 |     |                                                             |
 
