@@ -14,6 +14,9 @@ aliases:
 	- [ ] 
 	- [ ] Infection Tracker and Mechanic
 	- [ ] Area: Battlefeild
+		- [ ] Heard
+		- [ ] Battlefield and Dead Unconsumed
+		- [ ] Body mound and the Ghost
 		- [ ] 
 	- [ ] Villain
 	- [ ] Story Close
