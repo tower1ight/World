@@ -56,9 +56,12 @@ aliases:
 - Do 
 ## Germ 
 
-|     |     |
-| --- | --- |
-|     |     |
+|     |                                                             |
+| --- | ----------------------------------------------------------- |
+|     | Starts to hear whispers                                     |
+|     | Begins to hunger                                            |
+|     | Develops three nodes in a triangle at the base of the skull |
+|     |                                                             |
 
 ## Arcadia's Partial Favor
 - People haloed are met with fear, anger, or deference 
