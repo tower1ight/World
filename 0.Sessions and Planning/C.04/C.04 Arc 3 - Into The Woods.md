@@ -7,10 +7,7 @@ aliases:
 # Session Prep
 
 #### Things this session
-- Retcon Ma
-
-
-
+- Retcon Masks mannnnnnnn ring with big bubble like in harry potter 
 #### Current
 - [ ] Needs
 	- [ ] Recap
@@ -67,7 +64,7 @@ aliases:
 |     | Starts to hear whispers                                     |
 |     | Begins to feel a deep hunger                                |
 |     | Develops three nodes in a triangle at the base of the skull |
-|     | Hunger worsens -                                            |
+|     | Hunger worsens - 2d6 damage every phase                     |
 
 ## Arcadia's Partial Favor
 - People haloed are met with fear, anger, or deference 
