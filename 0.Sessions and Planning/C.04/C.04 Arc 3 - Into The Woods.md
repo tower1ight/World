@@ -46,7 +46,7 @@ Days to prep
 	- vission? Arcadia wants the players to kill the 
 	- The locals see them as an extension of arcadias will, as though a security camera is walking through the door, treat them with guest friendship
 - 
-# Themes, goals vibes
+# Plates a spining
 ## Germ 
 - Mask 
 	- perfect seal on the face

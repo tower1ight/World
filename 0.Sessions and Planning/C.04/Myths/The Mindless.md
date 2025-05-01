@@ -10,6 +10,7 @@ Ok what do we know about these fucks
 Whats to know
 - Arcadian Mind Control
 - 
+- Pact of non aggression
 - Signs of Infection (optional detail reward)
 
 
