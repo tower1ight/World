@@ -6,6 +6,11 @@ aliases:
 
 # Session Prep
 
+#### Things this session
+- Retcon Ma
+
+
+
 #### Current
 - [ ] Needs
 	- [ ] Recap
@@ -60,9 +65,9 @@ aliases:
 |     |                                                             |
 | --- | ----------------------------------------------------------- |
 |     | Starts to hear whispers                                     |
-|     | Begins to feel a deep and                                   |
+|     | Begins to feel a deep hunger                                |
 |     | Develops three nodes in a triangle at the base of the skull |
-|     |                                                             |
+|     | Hunger worsens -                                            |
 
 ## Arcadia's Partial Favor
 - People haloed are met with fear, anger, or deference 
