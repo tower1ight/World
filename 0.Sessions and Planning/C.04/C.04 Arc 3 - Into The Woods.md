@@ -6,57 +6,72 @@ aliases:
 
 # Session Prep
 
-## Current
+#### Things this session
+- Retcon Masks mannnnnnnn ring with big bubble like in harry potter 
+#### Current
 - [ ] Needs
+	- [ ] Recap
+	- [ ] Retainer Cards 
 	- [ ] Configure VTT
 		- [ ] Set up Battle scene
-		- [ ] add talyor
-		- [ ] 
-	- [ ] Skill challenge provided encounters and twists
-	- [ ] Vision details
-	- [x] Quest details and Text
+	- [ ] Organize map
+		- [ ] Tile placement 
+		- [ ] Barriers
+		- [ ] Movement and testing
+	- [ ] Mindless Myths
+	- [ ] Infection Tracker and Mechanic
+	- [ ] Area: Battlefeild
+		- [ ] Heard
+		- [ ] Battlefield and Dead Unconsumed, pools
+		- [ ] Body mound and the Ghost
+	- [ ] Villain
+	- [ ] Story Close
+
+	
 
 - [ ] Wants
 	- [ ] Configure VTT
+		- [ ] new audio
+		- [ ] 
 	- [ ] Name List
-	- [ ] Flesh Out
+	- [ ] Flesh Out polotics of the contract
 - [ ] Later
 	- [ ] Configure VTT (whole night)
-		- [ ] Map
-		- [ ] Party Token, 
-		- [ ] Tables
-		- [ ] Add Taylor 
-		- [ ] Day Tracker
-		- [ ] Adjust raynault
-		- [ ] Figure out music audio
 	- [ ] Infection symptoms/ timeline
 	- [ ] Finish Myths
 	- [ ] Finalize Travel Rules
 	- [ ] Finalize all first omens of myths
-Days to prep
-- tonight 1.5 h
-- tomorrow 1.5
-- Thursday 1.5
-- 
-## Past
-## General questions
+
+
+#### General questions
  - what do the masks look like? how are they attached 
 - Establish protection for the heros
 	- vission? Arcadia wants the players to kill the 
 	- The locals see them as an extension of arcadias will, as though a security camera is walking through the door, treat them with guest friendship
 - 
-# Themes, goals vibes
-## Germ 
-- Mask 
-	- perfect seal on the face
-- sickness will set if at any point the player breaths air: two phases
-	- looking phase
-		- Incredible hunger, insatiable
-	- Integration
-		- See the 
-  ## Set tone
+# Plates a spinning
+## Set tone
 - Hostile, Arid, bursting with life
 - watched, things react to your action
+- Patterns in the sky distort light 
+- Polyphony
+## Travel 
+- This is Important! They are learning
+- Do 
+## Germ 
+
+| Phase | Symptom                                                                                         |
+| ----- | ----------------------------------------------------------------------------------------------- |
+|       | Starts to hear whispers (polyphony unlocks for you)                                             |
+|       | Begins to feel a deep hunger                                                                    |
+|       | Develops three nodes in a triangle at the base of the skull (starts to sense through the earth) |
+|       | Hunger worsens - 2d6 damage every phase                                                         |
+|       |                                                                                                 |
+
+## Arcadia's Partial Favor
+- People haloed are met with fear, anger, or deference 
+- People often get whipped into a frenzy 
+
 
 | *yellow Stalk*                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

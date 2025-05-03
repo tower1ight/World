@@ -4,11 +4,15 @@ tags:
 aliases:
 ---
 
- # Flavor Text
- Starting at 300o the 403 division 
+Ok what do we know about these fucks
+- they watchin
+- they are part of an old battle\
+Whats to know
+- Arcadian Mind Control
+- 
+- Pact of non aggression
+- Signs of Infection (optional detail reward)
 
-
-![[Pasted image 20240718222820.png]]
 
 
  # Omens
