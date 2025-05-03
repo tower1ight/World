@@ -4,19 +4,21 @@
 Travel in this place is disorienting, difficult, and above all uncertain. Any drama gained from running down to your last piece of hardtack relies on a consistent and predictable environment. For this reason I have chosen to avoid as much minutia as possible. I have deliberately avoided estabilishing distance values to hexes and unless I tell you otherwise no ration tracking will be necessary.
 # Rhythm, Phases, and Actions
 #### Phases
-Each Day has 3 Phases:
+Each day may be divided into 3 Phases:
 - Morning: Sunrise to Noon.
 - Afternoon: Noon to Sunset.
 - Night: Sunset to Sunrise.
 
  When ending a phase in a wilderness hex, a roll will made by the GM determining if the party provokes no encounter, makes contact with any landmarks that could be found in the given hex, or stumbles upon an omen to something greater.
+#### The Wilderness Rule 
+When starting a 
 
 | D6  | Outcome                                                      |
 | --- | ------------------------------------------------------------ |
 | 1   | Encounter the next Omen from a<br>random Myth in this Realm. |
 | 2-3 | Encounter the next Omen from the<br>nearest Myth.            |
 | 4-6 | Encounter the Hex’s Landmark.<br>Otherwise all clear.        |
-#### Actions
+
 #### Day Start
  At the Start of a day a couple things will happen, the GM will roll on a random table for the days weather
 
