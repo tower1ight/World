@@ -11,6 +11,7 @@ aliases:
 #### Current
 - [ ] Needs
 	- [ ] Recap
+	- [ ] Retainer Cards 
 	- [ ] Configure VTT
 		- [ ] Set up Battle scene
 	- [ ] Organize map
