@@ -74,3 +74,7 @@ Barriers are impassible and cost a phase of travel when attempting to traverse t
 
 #### Roads
 Roads enable very fast travel on steed with little cost, where there are roads there are people, and predators.
+Roads are discovered much like landmarks when one is not aware of their presence. However when traveling from one hex to another by road, its presence becomes clear.
+
+#### Travelers
+Many people walk this land 
