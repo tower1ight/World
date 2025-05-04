@@ -29,7 +29,7 @@ Each day may be divided into 3 Phases:
 | 11   | Abundant   | Melting  |
 | 12   | Harsh      | Static   |
 #### The Wilderness Rule 
-When starting a phase if you are not under a roof 
+When ending a phase in **Wilderness**, the following Table
 
 | D6  | Outcome                                                      |
 | --- | ------------------------------------------------------------ |
