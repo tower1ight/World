@@ -49,10 +49,10 @@ If the party is able to find shelter or sanctuary, both short and long rests reg
 #### Landmarks
 - **Dwellings:** Homes built in the wilderness. Manners dictate that hospitality be granted to travelers (something contingent on your reputation). However, all things come at a cost, leaving without paying your dues harbors ill will, word travels. **Long rest permitted with the blessing of the owner**
 - **Sanctuaries:**  Home to the seers, these groves are nodes of power in the mycelium **Long rest permitted to those who have had an audience with the seer**
-- **Monuments:** preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]], they might be able to discern stylistic history **Permits a Long Rest**
-- **Hazards:** Nothing good can come from this, Xylaan is a violent place and your stumbling has roused something that ought to have stayed asleep
+- **Monuments:** Preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]], they might be able to discern stylistic history **Permits a Long Rest**
+- **Hazards:** Nothing good can come from this, the veil is a violent place and your stumbling has roused something that ought to have stayed asleep
 - **Curses:** You walk in strange teritorry, shifting trees and thick fog leave you confused you are **Blinded**
-- **Ruins:** Physical remnants of history, places or practices long ago forgotten, everything returns to xylaan
+- **Ruins:** Physical remnants of history, places or practices long ago forgotten or changed beyond recognition, everything returns to the veil
 
 | Roll  | Traveling Blind           |
 | ----- | ------------------------- |
