@@ -28,8 +28,8 @@ Each day may be divided into 3 Phases:
 | 10   | Faint      | Drizzle  |
 | 11   | Abundant   | Melting  |
 | 12   | Harsh      | Static   |
-#### The Wilderness Rule 
-When ending a phase in **Wilderness**, the following Table
+#### The Wilderness Role 
+When ending a phase in wilderness, the following Table
 
 | D6  | Outcome                                                      |
 | --- | ------------------------------------------------------------ |
