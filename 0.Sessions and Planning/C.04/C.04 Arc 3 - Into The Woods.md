@@ -14,10 +14,10 @@ aliases:
 	- [ ] Retainer Cards 
 	- [ ] Configure VTT
 		- [ ] Set up Battle scene
-	- [ ] Organize map
+	- [x] Organize map
 		- [x] Tile placement 
-		- [ ] Barriers
-		- [ ] Movement and testing
+		- [x] Barriers
+		- [x] Movement and testing
 	- [ ] Mindless Myths
 	- [ ] Infection Tracker and Mechanic
 	- [ ] Area: Battlefeild
