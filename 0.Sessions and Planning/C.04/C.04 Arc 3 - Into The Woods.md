@@ -146,7 +146,7 @@ aliases:
 	- flee, maybe a skill challenge 
 - give options walking out the door is a difficult skill challenge 
 	- encounter non social?
-		- dwarves, undead, guards
+		- dwarves, undead, guards gourmand
 		- 
 	- Undead encounter 
 			-
