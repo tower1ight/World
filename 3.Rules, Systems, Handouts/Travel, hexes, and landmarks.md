@@ -47,7 +47,7 @@ If the party is able to find shelter or sanctuary, both short and long rests reg
 
 # Landmarks and Myths
 #### Landmarks
-- **Dwellings:** Homes built in the wilderness, possibly a safe refuge if the owners can find a way to trust you (something contingent on your reputation). However, all things come at a cost, leaving without paying your dues harbors ill will, word travels. **Long rest permitted with the blessing of the owner**
+- **Dwellings:** Homes built in the wilderness. Manners dictate that hospitality be granted to travelers (something contingent on your reputation). However, all things come at a cost, leaving without paying your dues harbors ill will, word travels. **Long rest permitted with the blessing of the owner**
 - **Sanctuaries:**  Home to the seers, these groves are nodes of power in the mycelium **Long rest permitted to those who have had an audience with the seer**
 - **Monuments:** preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]], they might be able to discern stylistic history **Permits a Long Rest**
 - **Hazards:** Nothing good can come from this, Xylaan is a violent place and your stumbling has roused something that ought to have stayed asleep
