@@ -69,4 +69,8 @@ If the party is able to find shelter or sanctuary, both short and long rests reg
 - Myths represent the movement and change of living world, rarely pertinent to your main objective, they are something to seek out 
 - Omens of this change will find you
 
+#### Barriers
+Barriers are impassible and cost a phase of travel when attempting to traverse through them. Locals often know of their location, some know how to subvert them.
 
+#### Roads
+Roads enable very fast travel on steed with little cost, where there are roads there are people, and predators.
