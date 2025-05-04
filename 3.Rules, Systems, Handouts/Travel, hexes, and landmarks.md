@@ -10,14 +10,6 @@ Each day may be divided into 3 Phases:
 - Night: Sunset to Sunrise.
 
  When ending a phase in a wilderness hex, a roll will made by the GM determining if the party provokes no encounter, makes contact with any landmarks that could be found in the given hex, or stumbles upon an omen to something greater.
-#### The Wilderness Rule 
-When starting a phase in the wild y
-
-| D6  | Outcome                                                      |
-| --- | ------------------------------------------------------------ |
-| 1   | Encounter the next Omen from a<br>random Myth in this Realm. |
-| 2-3 | Encounter the next Omen from the<br>nearest Myth.            |
-| 4-6 | Encounter the Hex’s Landmark.<br>Otherwise all clear.        |
 
 #### Day Start
  At the Start of a day a couple things will happen, the GM will roll on a random table for the days weather
@@ -36,8 +28,14 @@ When starting a phase in the wild y
 | 10   | Faint      | Drizzle  |
 | 11   | Abundant   | Melting  |
 | 12   | Harsh      | Static   |
+#### The Wilderness Rule 
+When starting a phase if you are not under a roof 
 
-
+| D6  | Outcome                                                      |
+| --- | ------------------------------------------------------------ |
+| 1   | Encounter the next Omen from a<br>random Myth in this Realm. |
+| 2-3 | Encounter the next Omen from the<br>nearest Myth.            |
+| 4-6 | Encounter the Hex’s Landmark.<br>Otherwise all clear.        |
 #### Resting, Navigation, Committing to the Second World:
 
 The forest is a dangerous place, a draining place, you are an alien here and an ecosystem you are not adapted to presses on your mind. When resting in the wilderness, the preparation time required for a long rest will result in the benefits of a short rest. A short rest will allow you to catch your breath, get a lay of the land, do any planning you might need, but it will not provide the benefits of a typical short rest.
