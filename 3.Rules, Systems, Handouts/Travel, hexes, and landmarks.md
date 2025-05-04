@@ -11,7 +11,7 @@ Each day may be divided into 3 Phases:
 
  When ending a phase in a wilderness hex, a roll will made by the GM determining if the party provokes no encounter, makes contact with any landmarks that could be found in the given hex, or stumbles upon an omen to something greater.
 #### The Wilderness Rule 
-When starting a 
+When starting a phase in the wild y
 
 | D6  | Outcome                                                      |
 | --- | ------------------------------------------------------------ |
