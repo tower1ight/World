@@ -12,8 +12,8 @@ aliases:
 - [ ] Needs
 	- [ ] Recap
 	- [ ] Retainer Cards 
-	- [ ] Configure VTT
-		- [ ] Set up Battle scene
+	- [x] Configure VTT
+		- [x] Set up Battle scene
 	- [x] Organize map
 		- [x] Tile placement 
 		- [x] Barriers
