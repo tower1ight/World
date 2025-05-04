@@ -67,6 +67,6 @@ If the party is able to find shelter or sanctuary, both short and long rests reg
 
 #### Myths
 - Myths represent the movement and change of living world, rarely pertinent to your main objective, they are something to seek out 
-
+- Omens of this change will find you
 
 
