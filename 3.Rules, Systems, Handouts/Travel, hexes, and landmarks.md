@@ -47,8 +47,8 @@ Travel consumes a whole phase of the day and uses one of three methods
 The forest is a dangerous place, a draining place, you are an alien here and an ecosystem you are not adapted to presses in on your mind. 
 
 When resting in the wilderness:
-A Phase or eight hourwill result in the benefits of a short rest. 
-An hour of short rest will allow you to catch your breath, get a lay of the land, do any planning you might need, but it will not provide the benefits of a typical short rest.
+A Phase or or any chunk of eight hours spent resting will result in the benefits of a short rest. 
+An hour spent resting short rest will allow you to catch your breath, get a lay of the land, do any planning you might need, but it will not provide the benefits of a typical short rest.
 
 If the party is able to find shelter or sanctuary, both short and long rests regain typical. However, access to shelter is precious and often comes at a cost. Finding where it is in the first place requires either stumbling upon it or relying on the help of others. Impassible barriers occasionally cut hexes off from one another, Roads can take time to find, A handful of locations can be learned directly and added to the map, however, for most things if you want to get there with any speed pull over and ask for directions
 
