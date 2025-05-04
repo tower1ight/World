@@ -1,7 +1,7 @@
 
 
 **What are we doing here**
-Travel in this place is disorienting, difficult, and above all uncertain. Any drama gained from running down to your last piece of hardtack relies on a consistent and predictable environment. For this reason I have chosen to avoid as much minutia as possible. I have deliberately avoided estabilishing distance values to hexes and unless I tell you otherwise no ration tracking will be necessary.
+Travel in this place is disorienting, difficult, and above all uncertain. Any drama gained from running down to your last piece of hardtack relies on a consistent and predictable environment. For this reason I have chosen to avoid as much minutia as possible. I have deliberately avoided establishing distance values to hexes and unless I tell you otherwise no ration tracking will be necessary.
 # Rhythm, Phases, and Actions
 #### Phases
 Each day may be divided into 3 Phases:
@@ -36,8 +36,9 @@ When ending a phase in **Wilderness**, the following Table
 | 1   | Encounter the next Omen from a<br>random Myth in this Realm. |
 | 2-3 | Encounter the next Omen from the<br>nearest Myth.            |
 | 4-6 | Encounter the Hex’s Landmark.<br>Otherwise all clear.        |
+
 #### Travel
-Traveling one hex on foot can take 
+Traveling one hex typically happens on foot and will use up the duration of one phase 
 #### Resting, Navigation, Committing to the Second World:
 
 The forest is a dangerous place, a draining place, you are an alien here and an ecosystem you are not adapted to presses on your mind. When resting in the wilderness, the preparation time required for a long rest will result in the benefits of a short rest. A short rest will allow you to catch your breath, get a lay of the land, do any planning you might need, but it will not provide the benefits of a typical short rest.
