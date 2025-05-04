@@ -46,8 +46,7 @@ Travel consumes a whole phase of the day and uses one of three methods
 
 The forest is a dangerous place, a draining place, you are an alien here and an ecosystem you are not adapted to presses in on your mind. 
 
-When resting in the wilderness:
-A Phase or or any chunk of eight hours spent resting will result in the benefits of a short rest. Whereas an hour spent resting short rest will allow you to catch your breath, get a lay of the land, do any planning you might need, but it will not provide the benefits of a typical short rest.
+**When resting in the wilderness:** A Phase or or any chunk of eight hours spent resting will result in the benefits of a short rest. Whereas an hour spent resting short rest will allow you to catch your breath, get a lay of the land, do any planning you might need, but it will not provide the benefits of a typical short rest.
 
 If the party is able to find shelter or sanctuary, both short and long rests regain typical. However, access to shelter is precious and often comes at a cost. Finding where it is in the first place requires either stumbling upon it or relying on the help of others. Impassible barriers occasionally cut hexes off from one another, Roads can take time to find, A handful of locations can be learned directly and added to the map, however, for most things if you want to get there with any speed pull over and ask for directions
 
@@ -57,7 +56,7 @@ If the party is able to find shelter or sanctuary, both short and long rests reg
 - **Sanctuaries:**  Home to the seers, these groves are nodes of power in the mycelium **Long rest permitted to those who have had an audience with the seer**
 - **Monuments:** Preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]], they might be able to discern stylistic history **Permits a Long Rest**
 - **Hazards:** Nothing good can come from this, the veil is a violent place and your stumbling has roused something that ought to have stayed asleep
-- **Curses:** You walk in strange teritorry, shifting trees and thick fog leave you confused you are **Blinded**
+- **Curses:** You walk in strange territory, shifting trees and thick fog leave you confused you are **Blinded**
 - **Ruins:** Physical remnants of history, places or practices long ago forgotten or changed beyond recognition, everything returns to the veil
 
 | Roll  | Traveling Blind           |
