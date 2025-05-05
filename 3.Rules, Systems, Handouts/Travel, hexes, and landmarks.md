@@ -12,7 +12,9 @@ Each day may be divided into 3 Phases:
  When ending a phase in a wilderness hex, a roll will made by the GM determining if the party provokes no encounter, makes contact with any landmarks that could be found in the given hex, or stumbles upon an omen to something greater.
 
 #### Day Start
- At the Start of a day a couple things will happen, the GM will roll on a random table for the days weather
+At the Start of a day a couple things will happen.
+1st. The GM will roll on a random table for the days weather.
+2nd. The GM will define NPC movement and trajectory, and trigger any non landmark/ myth based event
 
 | 2D12 | Descriptor | Element  |
 | :--- | :--------- | :------- |
@@ -69,4 +71,12 @@ If the party is able to find shelter or sanctuary, both short and long rests reg
 - Myths represent the movement and change of living world, rarely pertinent to your main objective, they are something to seek out 
 - Omens of this change will find you
 
+#### Barriers
+Barriers are impassible and cost a phase of travel when attempting to traverse through them. Locals often know of their location, some know how to subvert them.
 
+#### Roads
+Roads enable very fast travel on steed with little cost, where there are roads there are people, and predators.
+Roads are discovered much like landmarks when one is not aware of their presence. However when traveling from one hex to another by road, its presence becomes clear.
+
+#### Travelers
+Many people walk this land, when you move so do they.

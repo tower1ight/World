@@ -12,12 +12,12 @@ aliases:
 - [ ] Needs
 	- [ ] Recap
 	- [ ] Retainer Cards 
-	- [ ] Configure VTT
-		- [ ] Set up Battle scene
-	- [ ] Organize map
+	- [x] Configure VTT
+		- [x] Set up Battle scene
+	- [x] Organize map
 		- [x] Tile placement 
-		- [ ] Barriers
-		- [ ] Movement and testing
+		- [x] Barriers
+		- [x] Movement and testing
 	- [ ] Mindless Myths
 	- [ ] Infection Tracker and Mechanic
 	- [ ] Area: Battlefeild
@@ -146,7 +146,7 @@ aliases:
 	- flee, maybe a skill challenge 
 - give options walking out the door is a difficult skill challenge 
 	- encounter non social?
-		- dwarves, undead, guards
+		- dwarves, undead, guards gourmand
 		- 
 	- Undead encounter 
 			-
