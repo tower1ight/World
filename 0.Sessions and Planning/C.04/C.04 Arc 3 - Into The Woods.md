@@ -15,7 +15,7 @@ aliases:
 	- [ ] Configure VTT
 		- [ ] Set up Battle scene
 	- [ ] Organize map
-		- [ ] Tile placement 
+		- [x] Tile placement 
 		- [ ] Barriers
 		- [ ] Movement and testing
 	- [ ] Mindless Myths
