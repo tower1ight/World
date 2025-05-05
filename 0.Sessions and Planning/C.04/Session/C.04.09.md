@@ -13,10 +13,13 @@ Date: 2025-
 | ----------------- | ------------ | --------- | ---------- | ---------- |
 |                   |              |           |            |             |
 
-   # Recap
-   - Fight with rotbeasts
-	   - Qball, Parsley, and Bill contrast a nasty case of forest rot, which is quickly set right by the holy h
-	   - 
-
-   # Impressions
+# Recap
+- Fight with rotbeasts
+	- Qball, Parsley, and Bill contrast a nasty case of forest rot, which is quickly set right by the holy hands of deko 
+	- Heard a whistle calling the rotbeast away from your combat, which you quickly brought down
+	- 
+# Retcons and things to note
+- Mechanical issues forgotten by rotbeast encounter
+	- 
+# Impressions
    - 
