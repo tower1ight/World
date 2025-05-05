@@ -14,7 +14,9 @@ Date: 2025-
 |                   |              |           |            |             |
 
    # Recap
-   - 
+   - Fight with rotbeasts
+	   - Qball, Parsley, and Bill contrast a nasty case of forest rot, which is quickly set right by the holy h
+	   - 
 
    # Impressions
    - 
