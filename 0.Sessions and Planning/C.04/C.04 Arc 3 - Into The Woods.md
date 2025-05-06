@@ -11,15 +11,9 @@ aliases:
 #### Current
 - [ ] Needs
 	- [ ] Recap
-	- [ ] Retainer Cards 
-	- [x] Configure VTT
-		- [x] Set up Battle scene
-	- [x] Organize map
-		- [x] Tile placement 
-		- [x] Barriers
-		- [x] Movement and testing
 	- [ ] Mindless Myths
 	- [ ] Infection Tracker and Mechanic
+	- [ ] Establish batt
 	- [ ] Area: Battlefeild
 		- [ ] Heard
 		- [ ] Battlefield and Dead Unconsumed, pools
