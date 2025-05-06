@@ -10,15 +10,15 @@ aliases:
 
 How are  we framing this this is a digital landscape 
 
- # Omens
-1. Dream of the earth, see worms, see 
- 3.
+# Omens
+1. Dream of the earth, see faceted worms, see shimmering grass curl and ripple, moving in concert with the mist above, See a fissure open and an iris before you, its pupil hungrily darting too and frow
+2. 
  4.
  5.
  6.
  
- # Cast
- Encounter with the hart
+# Cast
+The many 
 
 
 |     |    Tittle     |          |
