@@ -11,8 +11,7 @@ aliases:
 How are  we framing this this is a digital landscape 
 
  # Omens
- 1. omen triggered by eating the fruit
- 2.
+1. Dream of the earth, see worms, see 
  3.
  4.
  5.
