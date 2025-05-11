@@ -179,11 +179,12 @@ aliases:
 		 -  
 	 - 
  - Contact the ghost
- - 
+ - travel, seek the seer, 
  
  
 ## ACT III
 
+- The town 
 - Whose at play
 	- goblin mayor
 	- mindless and comander kael 
