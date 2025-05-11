@@ -190,7 +190,9 @@ aliases:
 
 - Is it problematic that the goblins have mind control?
 slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
-This conflict 
+
+This conflicts directly with their authoritarianism 
+feudalism does not tack onto this 
 
 give them an opt in functionality, influence is ww
 
