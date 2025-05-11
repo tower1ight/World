@@ -184,7 +184,9 @@ aliases:
  
 ## ACT III
 
-- The town 
+- The town
+- baricade up
+- Is it problematic that the goblins have 
 - Whose at play
 	- goblin mayor
 	- mindless and comander kael 
