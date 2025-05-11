@@ -188,7 +188,13 @@ aliases:
  
 ## ACT III
 
-[[Goblin]] strength, you are an outsider, not well coordinated, vicious, 
+- Whose at play
+	- goblin mayor
+	- mindless and comander kael 
+	- goblin wyrm toungue
+- The search,
+- 
+
 
 organize silent guards, you get a meeting with a beurocrat 
 - they already knew but they cannot budge the soliders are puppets of the goblins, and they would break a fey pact if they interfere
