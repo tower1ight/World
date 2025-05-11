@@ -169,6 +169,7 @@ aliases:
 		 - pools 
 		 - heard 
 		 - Mounded corpses and the dead general
+		 - Goblins surveillance 
  - suspense, run a lot of enclosed details before they go in
 	 - what the players know: the [[Goblin]] lure them on a march into unknown teritory 
 		 - banner stolen in a previous goblin victory 
@@ -205,6 +206,7 @@ organize silent guards, you get a meeting with a beurocrat
 - treasure:
 	- enough sugars to survive a couple months 
 
+The mindless are doing something nefarious and not 
 
 
 # Nonsense Dump
