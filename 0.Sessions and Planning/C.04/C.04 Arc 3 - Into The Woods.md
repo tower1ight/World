@@ -189,7 +189,7 @@ aliases:
 
 
 - Is it problematic that the goblins have mind control?
-slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them work aa
+slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian 
 
 - Whose at play
 	- goblin mayor
