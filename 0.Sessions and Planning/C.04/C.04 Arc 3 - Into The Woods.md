@@ -178,12 +178,8 @@ aliases:
 		 -  Banner held within [[{The Woven City}]]
 		 -  
 	 - 
- - what have the goblins done, 
-			 - stripped them of weapons, valuables,
-			 - what can u tell, 
-		 - meet an npc leader of the military that needs to be killed 
- - travel section
- - look in on staging ground 
+ - Contact the ghost
+ - 
  
  
 ## ACT III
@@ -192,7 +188,7 @@ aliases:
 	- goblin mayor
 	- mindless and comander kael 
 	- goblin wyrm toungue
-- The search,
+- The wander
 - 
 
 
