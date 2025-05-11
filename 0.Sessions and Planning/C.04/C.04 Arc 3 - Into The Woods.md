@@ -206,7 +206,7 @@ organize silent guards, you get a meeting with a beurocrat
 - treasure:
 	- enough sugars to survive a couple months 
 
-The mindless are doing something nefarious and not 
+The mindless are doing something nefarious, atempting to provoke aggression 
 
 
 # Nonsense Dump
