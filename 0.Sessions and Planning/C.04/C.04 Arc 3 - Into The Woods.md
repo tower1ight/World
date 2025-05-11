@@ -186,7 +186,12 @@ aliases:
 
 - The town
 - baricade up
-- Is it problematic that the goblins have 
+
+
+- Is it problematic that the goblins have mind control?
+slave race xxxxxxxxxx
+inter
+
 - Whose at play
 	- goblin mayor
 	- mindless and comander kael 
