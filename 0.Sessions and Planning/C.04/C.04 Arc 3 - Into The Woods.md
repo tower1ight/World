@@ -183,7 +183,7 @@ aliases:
 			 - what can u tell, 
 		 - meet an npc leader of the military that needs to be killed 
  - travel section
- - Get to the staging ground?
+ - look in on staging ground 
  
  
 ## ACT III
