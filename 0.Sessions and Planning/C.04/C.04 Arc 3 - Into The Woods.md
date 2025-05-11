@@ -193,7 +193,7 @@ slave race: really really bad. maybe full stop. but maybe ic could be complicate
 
 This conflicts directly with their authoritarianism 
 feudalism does not tack onto this, 
-they have systems of oppression but they are post influence slavery, 
+they have systems of oppression but they are post influence slavery, They ho
 
 give them an opt in functionality, influence is ww
 
