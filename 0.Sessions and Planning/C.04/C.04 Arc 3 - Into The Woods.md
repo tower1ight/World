@@ -163,9 +163,12 @@ aliases:
 
 ## ACT II
  - Physical location upon which investigation can happen,
- - ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
+ - **Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
 	 - original battlefeild is overtaken by fungas plant and animal alike, sugar pools digesting the 
-		 - has a rotbeast heard, flies swarm, grubs writhe, massive grass 
+	 - Points of. interest
+		 - pools 
+		 - heard 
+		 - Mounded corpses and the dead general
  - suspense, run a lot of enclosed details before they go in
 	 - what the players know: the [[Goblin]] lure them on a march into unknown teritory 
 		 - banner stolen in a previous goblin victory 
