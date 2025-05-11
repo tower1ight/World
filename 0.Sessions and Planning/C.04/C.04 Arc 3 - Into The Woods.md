@@ -192,8 +192,8 @@ aliases:
 slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
 
 This conflicts directly with their authoritarianism 
-feudalism does not tack onto this 
-
+feudalism does not tack onto this, 
+they have systems of opression but they are post 
 give them an opt in functionality, influence is ww
 
 - Whose at play
