@@ -166,7 +166,7 @@ aliases:
 
 ## ACT II
  - **Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
- - Points of Interest and possible encounters
+ - **POI:** Encounters, detective work and such
 	 - Rotbeast heard
 	 - Ponds: Mummified corpses sit in pools 
 	 - Treasure burried?]
@@ -174,7 +174,12 @@ aliases:
 	 - Goblins try to subdue some of you
 		 - will try to subdue those without arcadias boon
 	 - Points of. interest
- - suspense, run a lot of enclosed details before they go in
+ - **The Ghost**
+	 - Conscious stored in library tech
+	 - Fills you in on the nature of their march
+		 - the disorientation
+		 - filthy goblins
+	 - If you can best his spectre he will give 
 	 - what the players know: the [[Goblin]] lure them on a march into unknown teritory 
 		 - banner stolen in a previous goblin victory 
 		 - human figures looking in on arcadia 
