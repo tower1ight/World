@@ -179,15 +179,10 @@ aliases:
 	 - Fills you in on the nature of their march
 		 - the disorientation
 		 - filthy goblins
-	 - If you can best his spectre he will give 
-	 - what the players know: the [[Goblin]] lure them on a march into unknown teritory 
-		 - banner stolen in a previous goblin victory 
-		 - human figures looking in on arcadia 
-	 - what they dont:
-		 -  Banner held within [[{The Woven City}]]
-		 -  
-	 - 
- - Contact the ghost
+	 - If you can best his specter he will give you what you need to know,
+	 - Goblins have the ability to create a short psionic link
+		 - displays the immediate surroundings of his former body
+ - Goblins and the 
  - travel, seek the seer, 
  
  
