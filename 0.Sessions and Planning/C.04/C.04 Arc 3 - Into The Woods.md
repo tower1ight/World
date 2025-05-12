@@ -63,7 +63,7 @@ aliases:
 | ----- | ----------------------------------------------------------------------------------------------- |
 | 1     | Starts to hear whispers (polyphony unlocks for you)                                             |
 | 3     | Begins to feel a deep hunger                                                                    |
-|       | Develops three nodes in a triangle at the base of the skull (starts to sense through the earth) |
+| 5     | Develops three nodes in a triangle at the base of the skull (starts to sense through the earth) |
 |       | Hunger worsens - 2d6 damage every phase                                                         |
 |       |                                                                                                 |
 
@@ -143,11 +143,11 @@ aliases:
 		- a door rattles as you footsteps approach 
 			- incorporeal
 	- flee, maybe a skill challenge 
-- give options walking out the door is a difficult skill challenge 
-	- encounter non social?
-		- dwarves, undead, guards gourmand
+	- give options walking out the door is a difficult skill challenge 
+		- encounter non social?
+			- dwarves, undead, guards gourmand
 		- 
-	- Undead encounter 
+		- Undead encounter 
 			-
 - **Entry:**
 	- you step onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
@@ -167,14 +167,12 @@ aliases:
 	- 
 
 ## ACT II
- - Physical location upon which investigation can happen,
  - **Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
+ - Points of Interest and possible encounters
+	 - Rotbeast heard
+	 - Pond
 	 - original battlefeild is overtaken by fungas plant and animal alike, sugar pools digesting the 
 	 - Points of. interest
-		 - pools 
-		 - heard 
-		 - Mounded corpses and the dead general
-		 - Goblins surveillance 
  - suspense, run a lot of enclosed details before they go in
 	 - what the players know: the [[Goblin]] lure them on a march into unknown teritory 
 		 - banner stolen in a previous goblin victory 
