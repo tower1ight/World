@@ -195,7 +195,7 @@ This conflicts directly with their authoritarianism
 feudalism does not tack onto this, 
 they have systems of oppression but they are post influence slavery, 
 
-Influencing does happen and people do fall victim to it, but unless its been disc 
+Influencing does happen and people do fall victim to it, but unsolicited {connection} is frowned upon, violation of the social contract 
 
 give them an opt in functionality, influence is ww
 
