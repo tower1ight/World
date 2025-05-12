@@ -7,21 +7,18 @@ aliases:
 # Session Prep
 
 #### Things this session
-- Retcon Masks mannnnnnnn ring with big bubble like in harry potter 
+- Forest Rot Correction
 #### Current
 - [ ] Needs
-	- [ ] Recap
+	- [x] Recap
 	- [ ] Mindless Myths
 	- [ ] Infection Tracker and Mechanic
-	- [ ] Establish batt
 	- [ ] Area: Battlefeild
 		- [ ] Heard
 		- [ ] Battlefield and Dead Unconsumed, pools
 		- [ ] Body mound and the Ghost
 	- [ ] Villain
 	- [ ] Story Close
-
-	
 
 - [ ] Wants
 	- [ ] Configure VTT
@@ -31,7 +28,6 @@ aliases:
 	- [ ] Flesh Out polotics of the contract
 - [ ] Later
 	- [ ] Configure VTT (whole night)
-	- [ ] Infection symptoms/ timeline
 	- [ ] Finish Myths
 	- [ ] Finalize Travel Rules
 	- [ ] Finalize all first omens of myths
@@ -170,7 +166,7 @@ aliases:
  - **Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
  - Points of Interest and possible encounters
 	 - Rotbeast heard
-	 - Pond
+	 - Ponds: Mummified corpses sit in pools 
 	 - original battlefeild is overtaken by fungas plant and animal alike, sugar pools digesting the 
 	 - Points of. interest
  - suspense, run a lot of enclosed details before they go in

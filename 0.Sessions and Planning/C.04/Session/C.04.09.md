@@ -6,7 +6,7 @@ aliases:
 ---
 ARC: [[C.04 Arc 3 - Into The Woods]]
 Prev: [[C.04.08]]
-Post: 
+Post: [[C.04.10]]
 Date: 2025-
 
 | Affiliations | Locations | Major NPCs | Minor NPCs |  Enemies   | 
