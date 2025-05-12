@@ -177,7 +177,8 @@ aliases:
 	 - Points of. interest
  -  **Goblins watching:**
 	 - Introduce themselves, they have identified that you arent soliders, they dont like you but they think they can use you
-	 - They Task you
+	 - They Task you with slaughtering them, suggest you see the mound of bodies 
+	 - Seek out the seers if further info required
  - **The Ghost**
 	 - Conscious stored in library tech
 	 - Fills you in on the nature of their march
@@ -186,7 +187,7 @@ aliases:
 	 - If you can best his specter he will give you what you need to know,
 	 - Goblins have the ability to create a short psionic link
 		 - displays the immediate surroundings of his former body
- - travel, seek the seer, 
+ - **travel, seek the seer, 
  
  
 ## ACT III
