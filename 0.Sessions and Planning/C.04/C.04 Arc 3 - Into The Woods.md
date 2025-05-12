@@ -8,6 +8,7 @@ aliases:
 
 #### Things this session
 - Forest Rot Correction
+- weather correction
 #### Current
 - [ ] Needs
 	- [x] Recap
@@ -19,6 +20,7 @@ aliases:
 		- [ ] Body mound and the Ghost
 	- [ ] Villain
 	- [ ] Story Close
+	- [ ] figure out xp leveling
 
 - [ ] Wants
 	- [ ] Configure VTT
@@ -29,7 +31,7 @@ aliases:
 - [ ] Later
 	- [ ] Configure VTT (whole night)
 	- [ ] Finish Myths
-	- [ ] Finalize Travel Rules
+	- [x] Finalize Travel Rules
 	- [ ] Finalize all first omens of myths
 
 
@@ -167,7 +169,10 @@ aliases:
  - Points of Interest and possible encounters
 	 - Rotbeast heard
 	 - Ponds: Mummified corpses sit in pools 
-	 - original battlefeild is overtaken by fungas plant and animal alike, sugar pools digesting the 
+	 - Treasure burried?]
+	 - specter encounter
+	 - Goblins try to subdue some of you
+		 - will try to subdue those without arcadias boon
 	 - Points of. interest
  - suspense, run a lot of enclosed details before they go in
 	 - what the players know: the [[Goblin]] lure them on a march into unknown teritory 
