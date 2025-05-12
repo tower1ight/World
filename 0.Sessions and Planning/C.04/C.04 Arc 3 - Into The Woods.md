@@ -44,7 +44,8 @@ aliases:
 	- This conflicts directly with their authoritarianism 
 	- feudalism does not tack onto this, 
 	- they have systems of oppression but maybe they are post influence slavery, 
-	- Independence and social norms regarding {connection}
+	- Independence and social norms regarding {connection
+- WHy dont the goblins know where they are 
 
 # Plates a spinning
 ## Set tone
@@ -174,6 +175,9 @@ aliases:
 	 - Goblins try to subdue some of you
 		 - will try to subdue those without arcadias boon
 	 - Points of. interest
+ -  **Goblins watching:**
+	 - Introduce themselves, they have identified that you arent soliders, they dont like you but they think they can use you
+	 - They Task you
  - **The Ghost**
 	 - Conscious stored in library tech
 	 - Fills you in on the nature of their march
@@ -182,13 +186,12 @@ aliases:
 	 - If you can best his specter he will give you what you need to know,
 	 - Goblins have the ability to create a short psionic link
 		 - displays the immediate surroundings of his former body
- - Goblins and the 
  - travel, seek the seer, 
  
  
 ## ACT III
 
-- The town
+- **A Town**
 - baricade up
 
 
