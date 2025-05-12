@@ -42,7 +42,12 @@ aliases:
 - Establish protection for the heros
 	- vission? Arcadia wants the players to kill the 
 	- The locals see them as an extension of arcadias will, as though a security camera is walking through the door, treat them with guest friendship
-- 
+- Is it problematic that the goblins have mind control? slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
+	- This conflicts directly with their authoritarianism 
+	- feudalism does not tack onto this, 
+	- they have systems of oppression but maybe they are post influence slavery, 
+	- Independence and social norms regarding {connection}
+
 # Plates a spinning
 ## Set tone
 - Hostile, Arid, bursting with life
@@ -56,8 +61,8 @@ aliases:
 
 | Phase | Symptom                                                                                         |
 | ----- | ----------------------------------------------------------------------------------------------- |
-|       | Starts to hear whispers (polyphony unlocks for you)                                             |
-|       | Begins to feel a deep hunger                                                                    |
+| 1     | Starts to hear whispers (polyphony unlocks for you)                                             |
+| 3     | Begins to feel a deep hunger                                                                    |
 |       | Develops three nodes in a triangle at the base of the skull (starts to sense through the earth) |
 |       | Hunger worsens - 2d6 damage every phase                                                         |
 |       |                                                                                                 |
@@ -188,8 +193,7 @@ aliases:
 - baricade up
 
 
-- Is it problematic that the goblins have mind control?
-slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
+- Is it problematic that the goblins have mind control? slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
 
 This conflicts directly with their authoritarianism 
 feudalism does not tack onto this, 
