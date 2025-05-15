@@ -13,24 +13,23 @@ aliases:
 - [ ] Needs
 	- [x] Recap
 	- [ ] Mindless Myths
+	- [ ] Current battlefeild
+		- [ ] think of something devilish
+		- [ ] make a map
+		- [ ] Adapt soliders, more HP, some fey magic 
 	- [ ] Infection Tracker and Mechanic
-	- [ ] Area: Battlefeild
-		- [ ] Heard
-		- [ ] Battlefield and Dead Unconsumed, pools
-		- [ ] Body mound and the Ghost
-	- [ ] Villain
-	- [ ] Story Close
 	- [ ] figure out xp leveling
 
 - [ ] Wants
 	- [ ] Configure VTT
 		- [ ] new audio
-		- [ ] 
 	- [ ] Name List
 	- [ ] Flesh Out polotics of the contract
+	- [ ] answer beas queries 
 - [ ] Later
 	- [ ] Configure VTT (whole night)
 	- [ ] Finish Myths
+	- [ ] Comander Kael
 	- [x] Finalize Travel Rules
 	- [ ] Finalize all first omens of myths
 
@@ -162,8 +161,12 @@ aliases:
 	- rot beast charges in a gores a redshirt, start your first combat
 - Travel gameplay description [[Travel, hexes, and landmarks]]
 - Play travel until they alive at the battlefield,
+	- players encounter a group of soliders connected to the burned farm
+		- they see goblins collaborating with soliders
+			- seagreen tint to their armor
+			- Feudal 
 	- clue at a ridge that peaks above the stalks and allows for an unobstructed veiw of [[{The Woven City}]] and the 
-	- 
+
 
 ## ACT II
  - **Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
