@@ -121,7 +121,8 @@ aliases:
 			- soliders trying to gaurd ,them 
 		- Puzzle
 		- Reward: 
-			- info on collaboration between swamp goblins and the mindless: orders
+			- info on collaboration between swamp goblins and the mindless: orders to atack nearby homes piint, not includes a p3eice of infor on avoiding the stalk seer
+			- 
 		- Steaks
 	- Mechanics
 		- 1x goblin curse spitter, 3x Glamoured human Brawler, 3x goblin assassin, optional rot beast if engaged

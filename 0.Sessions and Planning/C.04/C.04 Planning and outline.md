@@ -79,7 +79,7 @@ Progressing personal stories
  - **Stalk Seer:**
 	 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
 	 - Stalk fiber sits around the room in large piles being woven by acolytes, 
-	 - wistopher the bold germed up
+	 - stqalk seer sits on a mat nots in the stalk open and 
  - **Rotten Seer:**
  - **Carved Seer:**
 
