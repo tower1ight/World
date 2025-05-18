@@ -109,7 +109,7 @@ aliases:
  - Important NPCs
  - the pieces of info 
 	 - the negotiation
- ## ACT I
+## ACT I
 - **They know the mission:** General Yenora's procession
 	- in media res watching the generals arrival: Pearl, Tal, Poe, and Billiard are remarking on how nice fort raynault looks! An energy of nervous anticipation pervades the crowd, Sircha of [[House Follanel]] lounges in a box at the top of a newly constructed amphitheater. She is inoring an aid in medical garb shouting with exasperation and surveys her work with her customary wry smile. [[Sage Aelon|Aelon's]] spot is empty, unsurprising given her reclusiveness in the past couple months. Soldiers line the main road, standing at perfect attention, compensating for 3 months of slinking around with their tails beneath their legs, celebrating a 6th year to an invasion with almost nothing to show for it. They are practically giddy with the prospect of new **military** leadership, many of their eyes slide over you. They need someone to blame don't they!
 	- one of pearls cohort whispers in her ear conspicuously gesturing at a group stand under the awning of Renta's Hold, Sezans inn, you see vanel, a lean human woman with shiny black hair in the rangers jumpsuit scowling at one of the soldiers 
@@ -147,7 +147,6 @@ aliases:
 		- 
 		- Undead encounter 
 		==pu know this could be didificult ofr it couold be liberating but i cant read the words im. typing right now, i dont hazve my glasses and im too hungober.. Sin seafoam mold leathers  the assasins weild wickeddly sharp needle like blades, 
-- -
 - **Entry:**
 	- you step onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
 	- Suppriesed by other party members
@@ -166,7 +165,8 @@ aliases:
 		- they see goblins collaborating with soliders
 			- seagreen tint to their armor
 			- Feudal 
-	- clue at a ridge that peaks above the stalks and allows for an unobstructed veiw of [[{The Woven City}]] and the 
+	- clue at a ridge that peaks above the stalks and allows for an unobstructed veiw of [[{The Woven City}]] and the  
+
 
 
 ## ACT II
