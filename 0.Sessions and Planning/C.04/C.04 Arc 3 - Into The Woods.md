@@ -23,7 +23,7 @@ aliases:
 - [ ] Wants
 	- [ ] Configure VTT
 		- [ ] new audio
-	- [ ] Name List
+	- [ ] Name Li
 	- [ ] Flesh Out polotics of the contract
 	- [ ] answer beas queries 
 - [ ] Later
@@ -119,10 +119,11 @@ aliases:
 		- Atmosphere
 		- Narrative
 		- Puzzle
-		- Reward
+		- Reward: 
+			- info on collaboration between swamp goblins and the mindless 
 		- Steaks
 	- Mechanics
-		- 1x goblin curse spitter, QAdapted to hahuman brutes
+		- 1x goblin curse spitter, 3x Glamoured human Brawler, 3x goblin assassin, optional rot beast if engaged
 
 
 ## ACT II
