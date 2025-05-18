@@ -81,7 +81,7 @@ Progressing personal stories
 	 - Stalk fiber sits around the room in large piles being woven by acolytes, 
 	 - stqalk seer sits on a mat nots in the stalk open and reveal eyes 
 		 - it can telepathically communicate w/ u 
-		 - what can iot see: can see through these stalk knotws 
+		 - what can iot see: can see through these stalk knot 
  - **Rotten Seer:**
  - **Carved Seer:**
 
