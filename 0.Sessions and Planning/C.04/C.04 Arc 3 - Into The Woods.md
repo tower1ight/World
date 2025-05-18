@@ -116,8 +116,8 @@ aliases:
 - Battle at the camp (CR 9 difficulty standard high)
 	- Parameters
 		- Terrain
-		- Atmosphere
-		- Narrative
+		- Atmosphere: dusk, 
+		- Narrative:
 		- Puzzle
 		- Reward: 
 			- info on collaboration between swamp goblins and the mindless: orders
