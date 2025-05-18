@@ -113,12 +113,16 @@ aliases:
 			- seagreen tint to their armor
 			- Feudal 
 	- clue at a ridge that peaks above the stalks and allows for an unobstructed veiw of [[{The Woven City}]] and the  
-- Battle at the camp
-	- Terain
-	- AAmophere
-	- Narative
-	- Puzzle
-	- Re
+- Battle at the camp (CR 9 difficulty standard high)
+	- Parameters
+		- Terrain
+		- Atmosphere
+		- Narrative
+		- Puzzle
+		- Reward
+		- Steaks
+	- Mechanics
+		- 1x goblin curse spitter, QAdapted to hahuman brutes
 
 
 ## ACT II
