@@ -146,7 +146,7 @@ aliases:
 			- dwarves, undead, guards gourmand
 		- 
 		- Undead encounter 
-			-
+		== ypu know this could be didific	-
 - **Entry:**
 	- you step onto the staging ground, follanel harvesting equipment scatters the area and research station poe knows, usually bustling with focalist busy bodies lays splayed before, projects begrudgingly abandoned, most notably an entire 50ft stalk sample supported on itside and split in two, revealing a hollow center, hard membrane lining the outside and a slightly softer one on the inside, the two seperated by a smelly gel
 	- Suppriesed by other party members
