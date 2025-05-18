@@ -79,7 +79,9 @@ Progressing personal stories
  - **Stalk Seer:**
 	 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
 	 - Stalk fiber sits around the room in large piles being woven by acolytes, 
-	 - stqalk seer sits on a mat nots in the stalk open and 
+	 - stqalk seer sits on a mat nots in the stalk open and reveal eyes 
+		 - it can telepathically communicate w/ u 
+		 - what can iot see: can see through these stalk knotws 
  - **Rotten Seer:**
  - **Carved Seer:**
 
