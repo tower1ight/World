@@ -3,7 +3,7 @@ tags:
   - C04
 aliases:
 ---
-
+[[C.04.08]], [[C.04.09]]
 # Session Prep
 
 #### Things this session
