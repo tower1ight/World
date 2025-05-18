@@ -15,8 +15,8 @@ aliases:
 	- [ ] Mindless Myths
 	- [ ] Current battlefeild
 		- [ ] think of something devilish
-		- [ ] make a map
-		- [ ] Adapt soliders, more HP, some fey magic 
+		- [x] make a map
+		- [x] Adapt soliders, more HP, some fey magic 
 	- [ ] Infection Tracker and Mechanic
 	- [ ] figure out xp leveling
 
@@ -45,60 +45,6 @@ aliases:
 	- they have systems of oppression but maybe they are post influence slavery, 
 	- Independence and social norms regarding {connection
 - WHy dont the goblins know where they are 
-
-# Plates a spinning
-## Set tone
-- Hostile, Arid, bursting with life
-- watched, things react to your action
-- Patterns in the sky distort light 
-- Polyphony
-## Travel 
-- This is Important! They are learning
-- Do 
-## Germ 
-
-| Phase | Symptom                                                                                         |
-| ----- | ----------------------------------------------------------------------------------------------- |
-| 1     | Starts to hear whispers (polyphony unlocks for you)                                             |
-| 3     | Begins to feel a deep hunger                                                                    |
-| 5     | Develops three nodes in a triangle at the base of the skull (starts to sense through the earth) |
-|       | Hunger worsens - 2d6 damage every phase                                                         |
-|       |                                                                                                 |
-
-## Arcadia's Partial Favor
-- People haloed are met with fear, anger, or deference 
-- People often get whipped into a frenzy 
-
-
-| *yellow Stalk*                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike                                                |
-| **[[mold]]**                                                                                                                                                                                                                                                                         |
-| — HIgher up develops whisps of thin thread that catch on to others<br>— Sticky,                                                                                                                                                                                                      |
-| **fruit bearing vine**                                                                                                                                                                                                                                                               |
-| — Parasitic grape like vine, grows from floor<br>— spherical berries with a point at the end, semi transparent skin<br>— bright red gel at the center, tastes sweet with a slight spice and a sinus sting like cardamom<br>— Film like leaves that acts like a husk around the fruit |
-| **Critter**                                                                                                                                                                                                                                                                          |
-| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike                                                |
-| **Grape lizard**                                                                                                                                                                                                                                                                     |
-| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike                                                |
-| **Bug Swarm**                                                                                                                                                                                                                                                                        |
-| —                                                                                                                                                                                                                                                                                    |
-
-
-| Yellow Grass                                                                            | Tree Island                                         | Planes    | Fey Touched  |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------ |
-| Yellow Stalk<br>short tuftgrass<br>Mold<br>Fruit bearing vine<br>Critter<br>Grape snake | Arid tree<br>berry bush<br>critter<br>Fruit Bat<br> | Floor Oak |              |
-|                                                                                         | Critter                                             |           |              |
-| **Green Grass**                                                                         | **Meadow**                                          | **Lake**  |              |
-| Stalks<br>floor moss<br>big hipo crunch                                                 | flowers                                             |           |              |
-| floor moss                                                                              |                                                     |           |              |
-| **White Grass**                                                                         | **Crags**                                           | **Swamp** | **Infected** |
-| Stalks<br>Mold (white variant)                                                          | Lichen                                              |           |              |
-| Skitterlings                                                                            |                                                     |           |              |
- ## Core puzzle 
- - what became of the soldiers 
- - What Are they
- - Wh
 
 
 
@@ -159,14 +105,20 @@ aliases:
 			- disposable: [[Pearl]], [[Taylors Character]], Qball
 			- protected: [[Talot]], [[billiard Ball]], [[Poe the Perfumer]], 
 	- rot beast charges in a gores a redshirt, start your first combat
-- Travel gameplay description [[Travel, hexes, and landmarks]]
+- Travel gameplay description 
+	- [[Travel, hexes, and landmarks]]
 - Play travel until they alive at the battlefield,
 	- players encounter a group of soliders connected to the burned farm
 		- they see goblins collaborating with soliders
 			- seagreen tint to their armor
 			- Feudal 
 	- clue at a ridge that peaks above the stalks and allows for an unobstructed veiw of [[{The Woven City}]] and the  
-
+- Battle at the camp
+	- Terain
+	- AAmophere
+	- Narative
+	- Puzzle
+	- Re
 
 
 ## ACT II
@@ -235,6 +187,60 @@ organize silent guards, you get a meeting with a beurocrat
 	- enough sugars to survive a couple months 
 
 The mindless are doing something nefarious, atempting to provoke aggression 
+
+# Plates a spinning
+## Set tone
+- Hostile, Arid, bursting with life
+- watched, things react to your action
+- Patterns in the sky distort light 
+- Polyphony
+## Travel 
+- This is Important! They are learning
+- Do 
+## Germ 
+
+| Phase | Symptom                                                                                         |
+| ----- | ----------------------------------------------------------------------------------------------- |
+| 1     | Starts to hear whispers (polyphony unlocks for you)                                             |
+| 3     | Begins to feel a deep hunger                                                                    |
+| 5     | Develops three nodes in a triangle at the base of the skull (starts to sense through the earth) |
+|       | Hunger worsens - 2d6 damage every phase                                                         |
+|       |                                                                                                 |
+
+## Arcadia's Partial Favor
+- People haloed are met with fear, anger, or deference 
+- People often get whipped into a frenzy 
+
+
+| *yellow Stalk*                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike                                                |
+| **[[mold]]**                                                                                                                                                                                                                                                                         |
+| — HIgher up develops whisps of thin thread that catch on to others<br>— Sticky,                                                                                                                                                                                                      |
+| **fruit bearing vine**                                                                                                                                                                                                                                                               |
+| — Parasitic grape like vine, grows from floor<br>— spherical berries with a point at the end, semi transparent skin<br>— bright red gel at the center, tastes sweet with a slight spice and a sinus sting like cardamom<br>— Film like leaves that acts like a husk around the fruit |
+| **Critter**                                                                                                                                                                                                                                                                          |
+| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike                                                |
+| **Grape lizard**                                                                                                                                                                                                                                                                     |
+| — Octagonal scalloped cylinders that reach rigid into the sky, for dwindling mist layer<br>— aprox 5 feet in diameter and evenly spaced about 20 - 30 feet away<br>— home to many creatures, respectful residents and parasites alike                                                |
+| **Bug Swarm**                                                                                                                                                                                                                                                                        |
+| —                                                                                                                                                                                                                                                                                    |
+
+
+| Yellow Grass                                                                            | Tree Island                                         | Planes    | Fey Touched  |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------ |
+| Yellow Stalk<br>short tuftgrass<br>Mold<br>Fruit bearing vine<br>Critter<br>Grape snake | Arid tree<br>berry bush<br>critter<br>Fruit Bat<br> | Floor Oak |              |
+|                                                                                         | Critter                                             |           |              |
+| **Green Grass**                                                                         | **Meadow**                                          | **Lake**  |              |
+| Stalks<br>floor moss<br>big hipo crunch                                                 | flowers                                             |           |              |
+| floor moss                                                                              |                                                     |           |              |
+| **White Grass**                                                                         | **Crags**                                           | **Swamp** | **Infected** |
+| Stalks<br>Mold (white variant)                                                          | Lichen                                              |           |              |
+| Skitterlings                                                                            |                                                     |           |              |
+ ## Core puzzle 
+ - what became of the soldiers 
+ - What Are they
+ - Wh
 
 
 # Nonsense Dump
