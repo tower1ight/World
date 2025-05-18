@@ -13,8 +13,8 @@ aliases:
 - [ ] Needs
 	- [x] Recap
 	- [ ] Mindless Myths
-	- [ ] Current battlefeild
-		- [ ] think of something devilish
+	- [x] Current battlefeild
+		- [x] think of something devilish
 		- [x] make a map
 		- [x] Adapt soliders, more HP, some fey magic 
 	- [ ] Infection Tracker and Mechanic
