@@ -4,7 +4,7 @@ aliases:
 ---
 ARC: [[C.04 Arc 3 - Into The Woods]]
 Prev: [[C.04.09]]
-Post:
+Post:[[C.04.11]]
 Date:
 
 | Affiliations | Locations | Major NPCs | Minor NPCs |  Enemies   | 
@@ -20,4 +20,5 @@ Date:
 
    # Impressions
    - comabt went loooooong,
-   - once again I feel that a mo0re narated combat would have been better, telegraphing the moment with the rotbeast was great, do more of that 
+   - once again I feel that a mo0re narated combat would have been better, telegraphing the moment with the rotbeast was great, do more of that, mini objectives
+   - 
