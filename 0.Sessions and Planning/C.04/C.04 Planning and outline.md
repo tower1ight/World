@@ -9,6 +9,10 @@ Progressing personal stories
 - Bill - Connection with the wild
 - julia - Connection with Xylaan spy for entangled? whispers to her about potential
 
+# Sessions
+[[C.04.01]], [[C.04.02]], [[C.04.03]], 
+[[C.04.04]], [[C.04.05]], [[C.04.06]], 
+[[0.Sessions and Planning/C.04/Session/C.04.07|C.04.07]], 
 
 # Adventures
 ## [[C.04 Arc 1 - Introduction]]: showing up, fire, goblins, and friendly fire
