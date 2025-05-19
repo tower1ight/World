@@ -1,7 +1,7 @@
 Hello,
 My name is Sam (she her) {trans flag}, I am a 25 and I work as an analytical chemist. I am very interested in the Attic Bedroom you have listed.
 
-While I have never participated in a line in coop, In college I worked as a head cook for a dining coop and trulely loved and cherished the 
+While I have never participated in a live in coop, In college I worked as a head cook for a dining coop and truly loved and cherished the experience of building wi
 
 
 About me!
