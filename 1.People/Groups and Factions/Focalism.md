@@ -2,7 +2,7 @@
 tags: Focalism, 
 alias: focalist
 ---
-x:[[Tel'Voric]]
+ n x:[[Tel'Voric]]
 
 - [[#Focus in Focalism|Focus in Focalism]]
 - [[#Personal Significance:|Personal Significance:]]
