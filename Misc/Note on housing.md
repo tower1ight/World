@@ -7,4 +7,6 @@ Move in September 1st
 
 
 
-Some things I love to cook, read, and write, some fiction, mostly things for tabletop roleplaying games.
+About me!
+I love to cook, read, draw, sew (on the newer side of this hobby) and write, some fiction, mostly things for tabletop roleplaying games. When it comes to what I am like as a roommate, I like to 
+Im looking forward to meeting you 
