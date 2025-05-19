@@ -1,2 +1,2 @@
 Hello,
-My name is sam (she her) {trans flag}
+My name is sam (she her) {trans flag}, I am a 25 and I work as an analytical chemist. I love to write some fiction, mostly things for tabletop roleplaying games, read, and pl. I am looking for a bedroom for the start of the pttember cycle and 
