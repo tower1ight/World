@@ -12,7 +12,8 @@ Progressing personal stories
 # Sessions
 [[C.04.01]], [[C.04.02]], [[C.04.03]], 
 [[C.04.04]], [[C.04.05]], [[C.04.06]], 
-[[0.Sessions and Planning/C.04/Session/C.04.07|C.04.07]], 
+[[0.Sessions and Planning/C.04/Session/C.04.07|C.04.07]], [[C.04.08]], [[C.04.09]]
+[[C.04.10]],
 
 # Adventures
 ## [[C.04 Arc 1 - Introduction]]: showing up, fire, goblins, and friendly fire
@@ -44,7 +45,7 @@ Progressing personal stories
  
 # Map and Travel
 ## Seat of Power and Holds
-- [[{Goblin City}]] (Seat of Power)
+- [[{The Woven City}]] (Seat of Power)
 - [[Fort Raynault]] (Hold)
 - [[{disconnected city}]] (Hold)
 - [[{Vacuole Stronghold}]] (Hold)
