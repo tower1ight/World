@@ -13,7 +13,7 @@ aliases:
 
   # Omens
 # I: A seasson
-  A patch of fall and 
+  Passing from one hex to the next you see the {describe sections of the}
  1. Dream of the Elf , Hear the Elf sing 
  2. Stars Visible in daylight point towards the [[Prism]]
  3. 
