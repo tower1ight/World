@@ -13,7 +13,7 @@ aliases:
 
   # Omens
 # I: A seasson
-  Passing from one hex to the next you see the **describe facets of the current season (prob like summer)** A chilling wind drifts through the stalks and ripples loose fabric in your clothes **whatever weather evedct is happening stops abruptly but without almost as though **
+  Passing from one hex to the next you see the **describe facets of the current season (prob like summer)** A chilling wind drifts through the stalks and ripples loose fabric in your clothes **whatever weather is happening stops abruptly but without almost as though it had always been that way**. stalk plants have started to whither, 
  1. Dream of the Elf , Hear the Elf sing 
  2. Stars Visible in daylight point towards the [[Prism]]
  3. 
