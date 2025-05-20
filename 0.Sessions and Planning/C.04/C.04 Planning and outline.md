@@ -68,10 +68,10 @@ Progressing personal stories
  - **Here kitty kitty**
 	 - Here kitty kitty (book of challenges)
 	 - house gaurd cat convinced by another cat to leave
-	 - diplomacy,  violence, or failure possinle
+	 - diplomacy, violence, or failure possinle
 		 - boost to goblin public opinon
  - **Ritual to the mothers**
-	 - collect a sacrifice
+	 - 
 	 - 
 
 #### Sanctuaries 
