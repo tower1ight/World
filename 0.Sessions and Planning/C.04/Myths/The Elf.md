@@ -12,13 +12,13 @@ aliases:
 
 
   # Omens
- 1. A patch of seasonal change, soft music, 
-	 1. 
- 2. Dream of the Elf , Hear the Elf sing 
- 3. Stars Visible in daylight point towards the [[Prism]]
- 4. 
- 5. Goblin followers and sycophants lounge in clearing, all saw the elf in dreams and have found the remnants of his glade, can easily become hostile
- 6. Find the elf in his glade, attempts to pull something from your mind about the prism, offers a duel for your life 
+# I: A seasson
+  A patch of fall and 
+ 1. Dream of the Elf , Hear the Elf sing 
+ 2. Stars Visible in daylight point towards the [[Prism]]
+ 3. 
+ 4. Goblin followers and sycophants lounge in clearing, all saw the elf in dreams and have found the remnants of his glade, can easily become hostile
+ 5. Find the elf in his glade, attempts to pull something from your mind about the prism, offers a duel for your life 
 	 1. pull a courtly scion from beas document, someone decadent someone haughty
 
  
