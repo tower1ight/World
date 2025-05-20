@@ -13,6 +13,7 @@ aliases:
 
   # Omens
  1. A patch of seasonal change, soft music, 
+	 1. 
  2. Dream of the Elf , Hear the Elf sing 
  3. Stars Visible in daylight point towards the [[Prism]]
  4. 

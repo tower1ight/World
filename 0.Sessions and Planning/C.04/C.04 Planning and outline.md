@@ -87,7 +87,7 @@ Progressing personal stories
 	 - stqalk seer sits on a mat nots in the stalk open and reveal eyes 
 		 - it can telepathically communicate w/ u 
 		 - what can iot see: can see through these stalk knot 
-	 - " the eyes, the eyse, mine swell and weeep, something is comming"
+	 - " the eyes, the eyse, mine swell and weeep, "
  - **Rotten Seer:**
  - **Carved Seer:**
 
