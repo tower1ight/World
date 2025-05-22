@@ -66,12 +66,8 @@ Progressing personal stories
 	 - Busshels of mold have been stolen and they need to be returned 
 	 - Abandoned when the party first visits but is occupied upon their return 
  - **Here kitty kitty**
-	 - Here kitty kitty (book of challenges)
-	 - house gaurd cat convinced by another cat to leave
-	 - diplomacy, violence, or failure possinle
-		 - boost to goblin public opinon
  - **Ritual to the mothers**
-	 - 
+	 - you see one of the domed structures you have come to know as coblinsmoke billows from a very small hut carved out of the body of a stalk, 
 	 - 
 
 #### Sanctuaries 
