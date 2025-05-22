@@ -83,7 +83,7 @@ Progressing personal stories
 	 
 	 - Flours speckle its body
 	 - Asks you to excise the face and and plant it in a specific hex 
- - **Stalk Seer:**
+ - **[[Stalk Seer:**
 	 - Resides in the [[{The Woven City}]]
 	 - Knighted 
 		 - 
@@ -95,7 +95,7 @@ Progressing personal stories
 	 - " the eyes, the eyse, mine swell and weeep, "
 	 - 
  - **Rotten Seer:**
- - **Carved Seer:**
+ - **[[The Carved Seer]]:**
 	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
 	 - Sees the outcome of battles in their own healing wounds.
 	 - Wants to drive the land toward climactic war that will bring peace. 
