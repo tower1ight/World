@@ -82,7 +82,16 @@ Progressing personal stories
  - **[[The Bountiful Seer]]!:**
 	 - Flours speckle its body
 	 - Asks you to excise the face and and plant it in a specific hex 
- - **[[The Stalk Seer]]:**
+ - **[[The Stalk Seer]]:** ![[The Stalk Seer]]
+	 - Resides in the [[{The Woven City}]]
+	 - Knighted 
+	 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
+	 - Stalk fiber sits around the room in large piles being woven by acolytes, 
+	 - stalk seer sits on a mat nots in the stalk open and reveal eyes 
+		 - it can telepathically communicate w/ u 
+		 - what can iot see: can see through these stalk knot 
+	 - " the eyes, the eyse, mine swell and weeep, "
+	 - 
  - **Rotten Seer:**
  - **[[The Carved Seer]]:**
 	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
