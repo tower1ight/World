@@ -102,7 +102,7 @@ Progressing personal stories
 		 - Nastiness
 		 - Larceny
 		 - Belligerence
-		 - 
+		 - Sadism
 
 ### Monument
  Monuments are preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]] they might be able to discern stylistic history, what the monument is and has been 
