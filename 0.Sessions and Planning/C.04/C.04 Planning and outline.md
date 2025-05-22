@@ -66,11 +66,14 @@ Progressing personal stories
 	 - Busshels of mold have been stolen and they need to be returned 
 	 - Abandoned when the party first visits but is occupied upon their return 
  - **Here kitty kitty**
- - **Ritual to the mothers**
+ - **Ritual to the mothers:** 
 	 - you see one of the domed structures you have come to know as a goblin home smoke billows from a very small hut carved out of the body of a stalk, 
 	 - house
-		 - inside house, jared things, big wooden place. 
-			 - old 
+		 - inside house, pickled things, big wooden place. 
+		 - A portrait of a slug
+			 - old floors, have zseen many libations 
+		 - 
+		 - 
 
 #### Sanctuaries 
  Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] kept by the [[The Entangled|Seers]]. Most will contain a seer bent and contorted around the node at all times, many important nodes will have one or more seers who have chosen to embed themselves into the [[mycelium]]. The design of individual temples can vary but most have some form of material documentation of [[Xylaan]] and its worship or history.
