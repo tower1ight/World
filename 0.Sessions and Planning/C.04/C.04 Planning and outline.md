@@ -99,7 +99,9 @@ Progressing personal stories
  - {ndfsndfkjns}
 	 - Resides in {{the woven city}}
 	 - Knighted
-		 - Treachery
+		 - Nastiness
+		 - Larceny
+		 - 
 		 - 
 
 ### Monument
