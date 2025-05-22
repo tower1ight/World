@@ -73,7 +73,7 @@ Progressing personal stories
 		 - A portrait of a slug-like creature decked in leather chords and a wispy shall, their eyestalks look rather dry and old,
 			 - old floors, have zseen many libations 
 		 - three or four guests 
-			 -  
+			 -  one of the goblins kights
 		 - 
 
 #### Sanctuaries 
@@ -96,7 +96,11 @@ Progressing personal stories
 	 - 
  - **Rotten Seer:**
  - **Carved Seer:**
- - 
+ - {ndfsndfkjns}
+	 - Resides in {{the woven city}}
+	 - Knighted
+		 - Treachery
+		 - 
 
 ### Monument
  Monuments are preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]] they might be able to discern stylistic history, what the monument is and has been 

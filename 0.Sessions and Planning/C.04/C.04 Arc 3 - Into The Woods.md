@@ -13,7 +13,8 @@ aliases:
 - [ ] Needs
 	- [x] Recap
 	- [ ] Mindless Myths
-	- [ ] Decide What their currency is 
+	- [ ] Decide What their currency is!!!!!!!!!!!!
+	- [ ] what are u emulating with the goblins 
 	- [ ] Infection Tracker and Mechanic
 	- [ ] figure out xp leveling
 
