@@ -79,21 +79,10 @@ Progressing personal stories
 #### Sanctuaries 
  Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] kept by the [[The Entangled|Seers]]. Most will contain a seer bent and contorted around the node at all times, many important nodes will have one or more seers who have chosen to embed themselves into the [[mycelium]]. The design of individual temples can vary but most have some form of material documentation of [[Xylaan]] and its worship or history.
  
- - **Bountiful Seer:**
-	 
+ - **[[The Bountiful Seer]]!:**
 	 - Flours speckle its body
 	 - Asks you to excise the face and and plant it in a specific hex 
- - **[[Stalk Seer:**
-	 - Resides in the [[{The Woven City}]]
-	 - Knighted 
-		 - 
-	 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
-	 - Stalk fiber sits around the room in large piles being woven by acolytes, 
-	 - stalk seer sits on a mat nots in the stalk open and reveal eyes 
-		 - it can telepathically communicate w/ u 
-		 - what can iot see: can see through these stalk knot 
-	 - " the eyes, the eyse, mine swell and weeep, "
-	 - 
+ - **[[The Stalk Seer]]:**
  - **Rotten Seer:**
  - **[[The Carved Seer]]:**
 	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
