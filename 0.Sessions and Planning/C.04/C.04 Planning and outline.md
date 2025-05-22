@@ -67,7 +67,7 @@ Progressing personal stories
 	 - Abandoned when the party first visits but is occupied upon their return 
  - **Here kitty kitty**
  - **Ritual to the mothers**
-	 - you see one of the domed structures you have come to know as coblinsmoke billows from a very small hut carved out of the body of a stalk, 
+	 - you see one of the domed structures you have come to know as a goblin home smoke billows from a very small hut carved out of the body of a stalk, 
 	 - 
 
 #### Sanctuaries 
