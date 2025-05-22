@@ -73,7 +73,7 @@ Progressing personal stories
 		 - A portrait of a slug-like creature decked in leather chords and a wispy shall, their eyestalks look rather dry and old,
 			 - old floors, have zseen many libations 
 		 - three or four guests 
-			 -  one of the goblins kights beigerance sits on stool eyes lowered 
+			 -  one of the goblins kights beigerance sits on stool eyes lowered    
 		 - 
 
 #### Sanctuaries 
@@ -96,6 +96,7 @@ Progressing personal stories
 	 - 
  - **Rotten Seer:**
  - **Carved Seer:**
+	 - ![[Pasted image 20250522190030.png]]
  - {ndfsndfkjns}
 	 - Resides in {{the woven city}}
 	 - Knighted
