@@ -123,7 +123,9 @@ Progressing personal stories
 	 - its just smoke floating over the stalkfeid, billowing marble drifts, holding shape
 	 - **blinded** (A number of Hex's will have the fire hazard with acelerated chance of finding it)
  - **Hypnotic Cloud:**
- - blood in your ears, your ears thuds and you are drifting , sudenlyu nausous by the perveived eleavation change   
+ - blood in your ears, your ears thuds and you are drifting , sudenlyu nausous by the perveived eleavation change 
+ - my fucking back hurts ahhhhhhhhhhhhjdjkhdfshjksdfkjlhjkldfjkhlsdffklhjasdfjklghsdfk
+ - green and red, 
 
 
 ### Ruins
