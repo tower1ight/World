@@ -73,6 +73,7 @@ Progressing personal stories
 		 - A portrait of a slug-like creature decked in leather chords and a wispy shall, their eyestalks look rather dry and old,
 			 - old floors, have zseen many libations 
 		 - three or four guests 
+			 -  
 		 - 
 
 #### Sanctuaries 
@@ -83,12 +84,14 @@ Progressing personal stories
 	 - Flours speckle its body
 	 - Asks you to excise the face and and plant it in a specific hex 
  - **Stalk Seer:**
+	 - Resides in the [[{The Woven City}]]
 	 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
 	 - Stalk fiber sits around the room in large piles being woven by acolytes, 
-	 - stqalk seer sits on a mat nots in the stalk open and reveal eyes 
+	 - stalk seer sits on a mat nots in the stalk open and reveal eyes 
 		 - it can telepathically communicate w/ u 
 		 - what can iot see: can see through these stalk knot 
 	 - " the eyes, the eyse, mine swell and weeep, "
+	 - 
  - **Rotten Seer:**
  - **Carved Seer:**
 
