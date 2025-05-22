@@ -70,7 +70,7 @@ Progressing personal stories
 	 - you see one of the domed structures you have come to know as a goblin home smoke billows from a very small hut carved out of the body of a stalk, 
 	 - house
 		 - inside house, pickled things, big wooden place. 
-		 - A portrait of a slug
+		 - A portrait of a slug-like creature bedecked with leather chords and a whispy shall, their eyestalks are 
 			 - old floors, have zseen many libations 
 		 - 
 		 - 
