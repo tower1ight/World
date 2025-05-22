@@ -101,7 +101,7 @@ Progressing personal stories
 	 - Knighted
 		 - Nastiness
 		 - Larceny
-		 - 
+		 - Belligerence
 		 - 
 
 ### Monument
