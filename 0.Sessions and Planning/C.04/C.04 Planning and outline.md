@@ -96,7 +96,10 @@ Progressing personal stories
 	 - 
  - **Rotten Seer:**
  - **Carved Seer:**
-	 - ![[Pasted image 20250522190030.png]]
+	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
+	 - Sees the outcome of battles in their own healing wounds.
+	 - Wants to drive the land toward climactic war that will bring peace. 
+	 - Knighted the willow knight 
  - {ndfsndfkjns}
 	 - Resides in {{the woven city}}
 	 - Knighted
