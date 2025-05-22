@@ -120,6 +120,7 @@ Progressing personal stories
 	 - Bone-stalker, spots you, and pursues you, making very infrequent ranged attacks, waits untill your next predicament to attack
  - **Smoke:**
 	 - You breath in and pick up the distinct smell of acrid smoke and you look up to find the sun with a much darker red then typicall. It glares back at you and you realize looking directly at it that you are being slowly enveloped by thick ashfall, soot clinging to your coats. 
+	 - its just smoke floating over the stalkfeidld, 
 	 - **blinded** (A number of Hex's will have the fire hazard with acelerated chance of finding it)
  - **Hypnotic Cloud:**
 
