@@ -99,7 +99,7 @@ Progressing personal stories
  - {ndfsndfkjns}
 	 - Resides in {{the woven city}}
 	 - Knighted
-		 - Nastiness
+		 - Nastiness Knight 
 		 - Larceny
 		 - Belligerence
 		 - Sadism 
