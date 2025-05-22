@@ -73,7 +73,7 @@ Progressing personal stories
 		 - A portrait of a slug-like creature decked in leather chords and a wispy shall, their eyestalks look rather dry and old,
 			 - old floors, have zseen many libations 
 		 - three or four guests 
-			 -  one of the goblins kights
+			 -  one of the goblins kights beigerance sits on stool eyes lowered 
 		 - 
 
 #### Sanctuaries 
