@@ -13,10 +13,7 @@ aliases:
 - [ ] Needs
 	- [x] Recap
 	- [ ] Mindless Myths
-	- [x] Current battlefeild
-		- [x] think of something devilish
-		- [x] make a map
-		- [x] Adapt soliders, more HP, some fey magic 
+	- [ ] Decide What their currency is 
 	- [ ] Infection Tracker and Mechanic
 	- [ ] figure out xp leveling
 
