@@ -85,6 +85,8 @@ Progressing personal stories
 	 - Asks you to excise the face and and plant it in a specific hex 
  - **Stalk Seer:**
 	 - Resides in the [[{The Woven City}]]
+	 - Knighted 
+		 - 
 	 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
 	 - Stalk fiber sits around the room in large piles being woven by acolytes, 
 	 - stalk seer sits on a mat nots in the stalk open and reveal eyes 
@@ -94,6 +96,7 @@ Progressing personal stories
 	 - 
  - **Rotten Seer:**
  - **Carved Seer:**
+ - 
 
 ### Monument
  Monuments are preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]] they might be able to discern stylistic history, what the monument is and has been 
