@@ -125,7 +125,7 @@ Progressing personal stories
  - **Hypnotic Cloud:**
  - blood in your ears, your ears thuds and you are drifting , sudenlyu nausous by the perveived eleavation change 
  - my fucking back hurts ahhhhhhhhhhhhjdjkhdfshjksdfkjlhjkldfjkhlsdffklhjasdfjklghsdfk
- - green and red, 
+ - green and red,  th
 
 
 ### Ruins
