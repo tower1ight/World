@@ -31,7 +31,8 @@
   "enabled_templates_hotkeys": [
     "3.Templates/Note Template.md",
     "3.Templates/Session Notes.md",
-    "3.Templates/NPC.md"
+    "3.Templates/NPC.md",
+    "3.Templates/Location.md"
   ],
   "startup_templates": [
     ""
