@@ -81,6 +81,7 @@ Progressing personal stories
  
  - **[[The Bountiful Seer]]!:**
 	 - Flowers speckle its body
+	 - Acolytes entrie bodies are 
 	 - Asks you to excise the face and and plant it in a specific hex 
  - **[[The Stalk Seer]]:**
 	 - Resides in the [[{The Woven City}]]
