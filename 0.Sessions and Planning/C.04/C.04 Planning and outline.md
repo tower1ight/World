@@ -137,7 +137,8 @@ Progressing personal stories
 	 - its just smoke floating over the stalkfeid, billowing marble drifts, holding shape
 	 - **blinded** (A number of Hex's will have the fire hazard with acelerated chance of finding it)
  - **Hypnotic Cloud:**
-	 - blood in your ears, your ears thuds and you are drifting , suddenly nauseous by a perceived elevation change and a strange twist to your vision. Your mind is swelling and 
+	 - blood in your ears, your ears thuds and you are drifting , suddenly nauseous by a perceived elevation change and a strange twist to your vision. Your mind is swelling, make a con save, 
+	 - On a failure fall prone, 
 
 ### Ruins
 Ruins commonly provide helpful context or questions about xylaan, as well as a relic 
