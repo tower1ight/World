@@ -119,9 +119,8 @@ Progressing personal stories
 ### Hazards 
  Xylaan fights your every step. Hazzards are an opportunity for you to engage with the violence and beauty of the world around you, highlight a species in each 
  - **Anckeg:**
+	 - Get inspired by the area, ankhegs are hunters, why do they hunt here
 	 - you fight an ankheg
- - **Arcadian scouts:**
-	 - party of goblins with an few arcadians
  - **Fire:**
 	 - Fleeing heards of animals, enter a skill challenge, 
 	 - weather determines the success of the skill challenge 
@@ -138,10 +137,7 @@ Progressing personal stories
 	 - its just smoke floating over the stalkfeid, billowing marble drifts, holding shape
 	 - **blinded** (A number of Hex's will have the fire hazard with acelerated chance of finding it)
  - **Hypnotic Cloud:**
- - blood in your ears, your ears thuds and you are drifting , sudenlyu nausous by the perveived eleavation change 
- - my fucking back hurts ahhhhhhhhhhhhjdjkhdfshjksdfkjlhjkldfjkhlsdffklhjasdfjklghsdfk
- - green and red,  th
-
+	 - blood in your ears, your ears thuds and you are drifting , suddenly nauseous by a perceived elevation change and a strange twist to your vision. Your mind is swelling and 
 
 ### Ruins
 Ruins commonly provide helpful context or questions about xylaan, as well as a relic 
