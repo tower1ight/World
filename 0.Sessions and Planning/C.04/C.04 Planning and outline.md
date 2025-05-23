@@ -80,9 +80,8 @@ Progressing personal stories
  Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] kept by the [[The Entangled|Seers]]. Most will contain a seer bent and contorted around the node at all times, many important nodes will have one or more seers who have chosen to embed themselves into the [[mycelium]]. The design of individual temples can vary but most have some form of material documentation of [[Xylaan]] and its worship or history.
  
  - **[[The Bountiful Seer]]!:**
-	 - hedges line a 
-	 - Acolytes entire bodies are covered with clower and clover, like big puffballs
-	 - 
+	 - A mountain of 
+	 - Acolytes entire bodies are covered with flowers and clover, like Pomeranian Monkey
 	 - Asks you to excise the face and and plant it in a specific hex 
  - **[[The Stalk Seer]]:**
 	 - Resides in the [[{The Woven City}]]
