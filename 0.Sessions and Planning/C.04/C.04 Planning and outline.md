@@ -87,11 +87,9 @@ Progressing personal stories
 	 - Knighted 
 	 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
 	 - Stalk fiber sits around the room in large piles being woven by acolytes, 
-	 - stalk seer sits on a mat nots in the stalk open and reveal eyes 
+	 - stalk seer sits on a mat nots in the stalk open and reveal eyes, much more down to earth in this way
 		 - it can telepathically communicate w/ u 
 		 - It can see through eyes in the stalks, but it cannot see the past or the future
-	 - " the eyes, the eyse, mine swell and weeep, "
-	 - 
  - **Rotten Seer:**
  - **[[The Carved Seer]]:**
 	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
