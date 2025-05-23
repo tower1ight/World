@@ -130,7 +130,7 @@ Progressing personal stories
 ### Curses 
  Curses often take the form of physical and mental distortion
  - **Bone Stalker**: 
-	 - Distortion crackles in your mind, the familiar fuzz youve grown accustomed to, followed by a long squak you haven't yet hear, looking up you lock eyes with a large sleek light brown bird with a long neck and a tall jagged beak , the size of a medium sized dog it perches on a thick branch and gives a you a long stare, It lets out another squawk and this time you feel a wave of psionic energy, go go go and the forest erupts, hundreds of brown shaped zip past you, flutting in every direction and the static intensifies, You feel one of them give out an exploratory clip of its beak at you, the static is building faster growing and growing until you cant see,  squeezing your eyelids against the pressure inside your head. and then suddenly its gone, the trees clear and whatever flock that was is gone. but you look around, hopelessly turned around and the forests shadows and shapes look different, you cant identify any landmarks **blinded** - 
+	 - Distortion crackles in your mind, the familiar fuzz youve grown accustomed to, followed by a long squak you haven't yet hear, looking up you lock eyes with a large sleek light brown bird with a long neck and a tall jagged beak, the size of a large dog, and ornamented with many skulls it perches on a thick branch and gives a you a long stare, It lets out another squawk and this time you feel a wave of psionic energy, go go go and the forest erupts, hundreds of brown shaps zip past you, fluttering in every direction and the static intensifies, You feel one of them give out an exploratory clip of its beak at you, the static is building faster growing and growing until you cant see,  squeezing your eyelids against the pressure inside your head. and then suddenly its gone, the trees clear and whatever flock that was is gone. but you look around, hopelessly turned around and the forests shadows and shapes look different, you cant identify any landmarks **blinded** - 
 	 - Bone-stalker, spots you, and pursues you, making very infrequent ranged attacks, waits untill your next predicament to attack
  - **Smoke:**
 	 - You breath in and pick up the distinct smell of acrid smoke and you look up to find the sun with a much darker red then typicall. It glares back at you and you realize looking directly at it that you are being slowly enveloped by thick ashfall, soot clinging to your coats. 
@@ -138,8 +138,6 @@ Progressing personal stories
 	 - **blinded** (A number of Hex's will have the fire hazard with acelerated chance of finding it)
  - **Hypnotic Cloud:**
 	 - blood in your ears, your ears thuds and you are drifting , suddenly nauseous by a perceived elevation change and a strange twist to your vision. Your mind is swelling, make a con save, 
-	 - On a failure fall prone, 
-
 ### Ruins
 Ruins commonly provide helpful context or questions about xylaan, as well as a relic 
  - **Crashed Ship:** 
