@@ -13,6 +13,7 @@ aliases:
 - [ ] Needs
 	- [x] Recap
 	- [ ] Mindless Myths
+	- [ ] write a running a goblin peripheral
 	- [ ] Decide What their currency is!!!!!!!!!!!!
 	- [ ] what are u emulating with the goblins 
 	- [ ] Infection Tracker and Mechanic
