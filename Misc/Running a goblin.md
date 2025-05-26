@@ -30,6 +30,11 @@ mucus
 larva
 pimpke 
 gristle
+fable
+pansy
+thistle
+rowan
+grim
 
 Sufix
 leak
@@ -38,4 +43,8 @@ smear
 gash
 gut
 witch
-
+fire
+wort
+tounge
+herb
+pus
