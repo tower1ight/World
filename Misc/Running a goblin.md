@@ -35,6 +35,11 @@ pansy
 thistle
 rowan
 grim
+gaze
+gnarl
+bramble
+fizzle
+gloom
 
 Sufix
 leak
@@ -48,3 +53,12 @@ wort
 tounge
 herb
 pus
+slurp
+gob
+moss
+foor
+hand
+toe
+thumb
+nose 
+belly
