@@ -1,11 +1,12 @@
 ---
 tags:
   - C04
+  - Session
 aliases:
 ---
 ARC: [[C.04 Arc 3 - Into The Woods]]
 Prev: [[C.04.09]]
-Post:[[C.04.11]]
+Post: [[C.04.11]]
 Date:
 
 | Affiliations | Locations | Major NPCs | Minor NPCs | Enemies    |
