@@ -3,7 +3,8 @@ tags:
   - C04
 aliases:
 ---
-e[[C.04.08]], [[C.04.09]]
+e[[C.04.08]], [[C.04.09]], [[C.04.10]]
+
 # Session Prep
 
 #### Things this session
@@ -157,8 +158,6 @@ e[[C.04.08]], [[C.04.09]]
 
 - **A Town**
 - baricade up
-
-
 - Is it problematic that the goblins have mind control? slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
 
 This conflicts directly with their authoritarianism 
