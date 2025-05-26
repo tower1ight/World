@@ -40,6 +40,10 @@ gnarl
 bramble
 fizzle
 gloom
+wretch
+bog
+nibble
+mug
 
 Sufix
 leak
@@ -62,3 +66,5 @@ toe
 thumb
 nose 
 belly
+muck
+wretch
