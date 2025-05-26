@@ -1,11 +1,9 @@
 ---
-tags: []
+tags:
+  - NPC
 aliases:
 ---
+Queen of the feywild 
 
- # what is it
-
-The greatest of all archfey, of hag lineage with
-
-has taken special interst int [[Pearl]]
+one of pe
 
