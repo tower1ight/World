@@ -7,9 +7,9 @@ Prev: [[C.04.09]]
 Post:[[C.04.11]]
 Date:
 
-| Affiliations | Locations | Major NPCs | Minor NPCs |  Enemies   | 
-| ----------------- | ------------ | --------- | ---------- | ---------- |
-|                   |              |           |            |             |
+| Affiliations | Locations | Major NPCs | Minor NPCs | Enemies    |
+| ------------ | --------- | ---------- | ---------- | ---------- |
+|              |           |            |            | [[Goblin]] |
 
    # Recap
    - they had a big figh it lasted a whiklll'

@@ -2,6 +2,8 @@
 tags: 
 aliases:
   - Goblin Court
+  - Goblins
+  - Goblin's
 ---
 
  # Factions
