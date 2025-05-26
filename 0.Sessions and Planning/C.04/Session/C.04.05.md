@@ -4,9 +4,9 @@ tags:
   - Session
 aliases:
 ---
- ARC: 
-Prev:
-Post:
+ARC: [[C.04 Arc 2 - The Great Arsonist Hunt]]
+Prev: [[C.04.04]]
+Post: [[c.04.06]]
 Date:
 
 | Affiliations | Locations | Major NPCs | Minor NPCs | Enemies |     |

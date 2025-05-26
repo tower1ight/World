@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - C04
 aliases:
 ---
 ARC: [[C.04 Arc 3 - Into The Woods]]
