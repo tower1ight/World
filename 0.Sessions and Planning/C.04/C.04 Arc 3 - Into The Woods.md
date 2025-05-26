@@ -132,6 +132,7 @@ e[[C.04.08]], [[C.04.09]]
  - **POI:** Encounters, detective work and such
 	 - Rotbeast heard
 	 - Ponds: Mummified corpses sit in pools 
+		 - 
 	 - Treasure burried?]
 	 - specter encounter
 	 - Goblins try to subdue some of you
