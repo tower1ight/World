@@ -20,10 +20,22 @@ Goblins are impulsive fickle creatures, driven by base desires, they see that as
 | Slurptongue  | Moldywhisk  | Gontongue    |     |
 | Glimmergrim  | Snickergaze | Grumblefoot  |     |
 | Fizzlegob    | Rumblenose  | Grumblegaze  |     |
-root
+prefix
 phlem 
 glimmer
 thistle
 pus
-jizz
 fester
+mucus
+larva
+pimpke 
+gristle
+
+Sufix
+leak
+spew
+smear
+gash
+gut
+witch
+
