@@ -133,7 +133,7 @@ e[[C.04.08]], [[C.04.09]]
 	 - Rotbeast heard
 	 - Ponds: Mummified corpses sit in pools 
 		 - 
-	 - Treasure burried?]
+	 - Treasure burried?
 	 - specter encounter
 	 - Goblins try to subdue some of you
 		 - will try to subdue those without arcadias boon
