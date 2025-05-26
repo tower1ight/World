@@ -5,5 +5,5 @@ aliases:
 ---
 Queen of the feywild 
 
-one of pe
+one of [[Pearl]] many guides and parental figures 
 
