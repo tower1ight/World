@@ -8,8 +8,10 @@ e[[C.04.08]], [[C.04.09]], [[C.04.10]]
 # Session Prep
 
 #### Things this session
-This is really our first travel session, what do i want, I want good presentation, which means outlining the local area in greater detail
-	-
+This is really our first travel session, what do i want, I want good presentation, which means 
+- outlining the local area in greater detail
+- creating a better soundscape 
+- nailing the unknowable 
 
 
 
