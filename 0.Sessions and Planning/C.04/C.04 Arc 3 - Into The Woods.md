@@ -8,12 +8,16 @@ e[[C.04.08]], [[C.04.09]], [[C.04.10]]
 # Session Prep
 
 #### Things this session
-- Forest Rot Correction
-- weather correction
+This is really our first travel session, what do i want, I want good presentation, which means outlining the local area in greater detail
+	-
+
+
+
 #### Current
 - [ ] Needs
 	- [x] Recap
 	- [ ] Mindless Myths
+	- [ ] post battle scene 
 	- [ ] write a running a goblin peripheral
 	- [ ] Decide What their currency is!!!!!!!!!!!!
 	- [ ] what are u emulating with the goblins 
