@@ -12,7 +12,12 @@ Divisions in the goblin court
 
 # Culture
 #### **Impulse**
-The goblins 
+The goblins [[polyphony|polypsionic]] language
+- allows one to share their emotions
+- works to both unify them from moment to moment, focusing them in on their immediate task as well as making them incredibly fickle, changing their motivations on a dime
+
+#### Distractible Builders
+Highly capable and fast, goblins believe in IMPLEMENTATION 
 #### **Anarchy:** *No Gods No Kings*
 
 
