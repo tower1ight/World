@@ -15,8 +15,6 @@ spoils and ill gotten gains
 
 
 
- 
-
 
  # Work in concert with xylaan
  goblin are largely used as a disposable force of workers capable of autonomous manufacturing and importing important good to most of xylaan : mining and precious metals, mold creation (textiles, tool), arcane component gathering
@@ -27,7 +25,7 @@ spoils and ill gotten gains
 
 
  ### culture
- - split into three large groups each with a different political situation and 
+ - split into Four large groups each with a different political situation and 
  - ventilation is key, they use something like big pressure cookers with heated steam that circulates around the city, dry stalks
  - large industry surrounding mold production: Can be programed and infused in a variety of ways to produce different effects of the substance
 	 - Sand and mineral infustion for most building materials 
