@@ -101,11 +101,10 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 		 - it can telepathically communicate w/ u 
 		 - It can see through eyes in the stalks, but it cannot see the past or the future
  - **Rotten Seer:**
- - **[[The Carved Seer]]:**
+ - **[[The Carved Seer]]:** [[The Willow knight]]
 	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
 	 - Sees the outcome of battles in their own healing wounds.
 	 - Wants to drive the land toward climactic war that will bring peace. 
-	 - Knighted [[The Willow knight]] 
  - The 
 	 - Resides in {{the woven city}}
 	 - Knighted
