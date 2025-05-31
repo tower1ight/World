@@ -83,11 +83,14 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 	 - Sanctuary 
 		 - A long house, like the flipped hull of a ship rendered in a latice interwoven with vines, small purple flowers dot the vines
 		 - the latice is reinforced [[mold]]
-		 - Adepts cover the complex, tending to the vines sculpting them, from affar they blend in, looking like mites 
+		 - Acolytes cover the complex, tending to the vines sculpting them, from affar they blend in, looking like mites 
+	 - Acolytes 
+		 - Acolytes entire bodies are covered with flowers and clover, like Pomeranian Monkeys, they nurture the 
+		 - As you approach you may encounter an acolyte planting 
 	 - Seer
-		 - A mound of masks, locked in a rictus smile carved into dried green stalks, covered in the 
-	 - Acolytes entire bodies are covered with flowers and clover, like Pomeranian Monkeys, they nurture the 
-	 - Asks you to excise the face and and plant it in a specific hex 
+		 - A mound of masks, locked in a rictus smile carved into dried green stalks, covered in the
+		 - Can only see moments of extreme positive emotion
+	 - The Seer asks you to excise the working mask from the network and and plant it in a specific hex 
  - **[[The Stalk Seer]]:**
 	 - Resides in the [[{The Woven City}]]
 	 - Knighted 
