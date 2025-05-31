@@ -79,9 +79,10 @@ Progressing personal stories
 #### Sanctuaries 
  Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] kept by the [[The Entangled|Seers]]. Most will contain a seer bent and contorted around the node at all times, many important nodes will have one or more seers who have chosen to embed themselves into the [[mycelium]]. The design of individual temples can vary but most have some form of material documentation of [[Xylaan]] and its worship or history.
  
- - **[[The Bountiful Seer]]!:**
-	 - A mound of masks carved into dried green stalks, libations, 
-	 - Acolytes entire bodies are covered with flowers and clover, like Pomeranian Monkey
+ - **[[The Bountiful Seer]]:** The Sun Knight
+	 - Sanctua
+	 - A mound of masks, locked in a rictus smile carved into dried green stalks, covered in the 
+	 - Acolytes entire bodies are covered with flowers and clover, like Pomeranian Monkeys, they nurture the 
 	 - Asks you to excise the face and and plant it in a specific hex 
  - **[[The Stalk Seer]]:**
 	 - Resides in the [[{The Woven City}]]
