@@ -31,9 +31,9 @@ spoils and ill gotten gains
 	 - Sand and mineral infustion for most building materials 
 	 - Metal infused pastic like material, grown in molds, better smiths use enchantments for enhanced properties
 	 - hypha grown in strings woven into something like linen 
-	 - grown in thin sheets to create a thicker fabric that can serve a wide variety of purposes, lauded for insulation properties and 
+	 - grown in thin sheets to create a thicker fabric that can serve a wide variety of purposes, lauded for insulation properties
 	 - Living material, often for clothes, decore, or functional building material
-	 - grown in sheets for a starch, often shreaded into something like rice, delecacy grown in pig blood
+	 - grown in sheets for a starch, often shreaded into something like rice, delicacy grown in pig blood
 - death and bodies
 	- go in the ground
 	- many people choose important places
