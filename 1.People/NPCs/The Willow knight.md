@@ -3,4 +3,6 @@ tags:
   - NPC
 aliases:
 ---
-[[the ca]]
+[[The Carved Seer]]
+
+Guards the northern Pass 
