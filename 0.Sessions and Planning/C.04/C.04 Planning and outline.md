@@ -86,7 +86,8 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 		 - Acolytes cover the complex, tending to the vines sculpting them, from affar they blend in, looking like mites 
 	 - Acolytes 
 		 - Acolytes entire bodies are covered with flowers and clover, like Pomeranian Monkeys, they nurture the 
-		 - As you approach you may encounter an acolyte planting 
+		 - As you approach you may encounter an acolyte planting seeds in the surrounding area
+		 - If treated with kindness they will wordlessly place a seed in your hand
 	 - Seer
 		 - A mound of masks, locked in a rictus smile carved into dried green stalks, covered in the
 		 - Can only see moments of extreme positive emotion
