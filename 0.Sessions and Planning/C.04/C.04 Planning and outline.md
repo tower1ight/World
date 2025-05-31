@@ -73,7 +73,7 @@ Progressing personal stories
 		 - A portrait of a slug-like creature decked in leather chords and a wispy shall, their eyestalks look rather dry and old,
 			 - old floors, have zseen many libations 
 		 - three or four guests 
-			 -  one of the goblins kights beigerance sits on stool eyes lowered    
+			 -  one of the goblins kights,  [[Sir Beligerant]] sits on stool eyes lowered    
 		 - 
 
 #### Sanctuaries 
@@ -105,7 +105,7 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
 	 - Sees the outcome of battles in their own healing wounds.
 	 - Wants to drive the land toward climactic war that will bring peace. 
- - The Gilded Seer: 
+ - [[The Gilded Seer]]: 
 	 - Resides in [[{The Woven City}]]
 	 - Knighted
 		 - Nastiness Knight 
