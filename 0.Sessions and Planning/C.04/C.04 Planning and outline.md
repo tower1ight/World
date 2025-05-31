@@ -92,10 +92,12 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 		 - A mound of masks, locked in a rictus smile carved into dried green stalks, covered in the
 		 - Can only see moments of extreme positive emotion
  - **[[The Stalk Seer]]:**
-	 - Knighted 
-	 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
-	 - Stalk fiber sits around the room in large piles being woven by acolytes, 
-	 - stalk seer sits on a mat nots in the stalk open and reveal eyes, much more down to earth in this way
+	 - Sanctuary
+		 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
+		 - Stalk fiber sits around the room in large piles being woven by acolytes, 
+	 - Acolytes
+	 - Seer
+		 - stalk seer sits on a mat nots in the stalk open and reveal eyes, much more down to earth in this way
 		 - it can telepathically communicate w/ u 
 		 - It can see through eyes in the stalks, but it cannot see the past or the future
  - **Rotten Seer:**
@@ -104,7 +106,7 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 	 - Sees the outcome of battles in their own healing wounds.
 	 - Wants to drive the land toward climactic war that will bring peace. 
 	 - Knighted [[The Willow knight]] 
- - {ndfsndfkjns}
+ - The 
 	 - Resides in {{the woven city}}
 	 - Knighted
 		 - Nastiness Knight 
