@@ -9,9 +9,12 @@ aliases:
 # Factions, 
 Divisions in the goblin court
 
-What are the goblin virtues 
-trickery
-spoils and ill gotten gains
+
+# Culture
+#### **Impulse**
+The goblins 
+#### **Anarchy:** *No Gods No Kings*
+
 
 
 
