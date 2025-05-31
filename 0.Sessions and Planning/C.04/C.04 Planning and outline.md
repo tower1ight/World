@@ -91,7 +91,7 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 	 - Seer
 		 - A mound of masks, locked in a rictus smile carved into dried green stalks, covered in the
 		 - Can only see moments of extreme positive emotion
-	 - The Seer asks you to excise the working mask from the network and and plant it in a specific hex 
+	 -
  - **[[The Stalk Seer]]:**
 	 - Resides in the [[{The Woven City}]]
 	 - Knighted 
