@@ -81,7 +81,9 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
  
  - **[[The Bountiful Seer]]:** The Sun Knight
 	 - Sanctuary 
-		 - A long house, like the flipped hull of a ship rendered in a latice interwoven with vines, small purp
+		 - A long house, like the flipped hull of a ship rendered in a latice interwoven with vines, small purple flowers dot the vines
+		 - the latice is reinforced [[mold]]
+		 - Adepts cover the complex, creating a 
 	 - A mound of masks, locked in a rictus smile carved into dried green stalks, covered in the 
 	 - Acolytes entire bodies are covered with flowers and clover, like Pomeranian Monkeys, they nurture the 
 	 - Asks you to excise the face and and plant it in a specific hex 
