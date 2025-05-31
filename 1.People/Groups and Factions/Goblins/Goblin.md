@@ -18,6 +18,8 @@ The goblins [[polyphony|polypsionic]] language
 
 #### Distractible Builders
 Highly capable and fast, goblins believe in IMPLEMENTATION 
+Responsible for 
+- Iterating on the original [[Tannian]] [[mold]] design
 #### **Anarchy:** *No Gods No Kings*
 
 
