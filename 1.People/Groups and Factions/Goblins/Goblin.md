@@ -7,6 +7,7 @@ aliases:
 ---
 
  # Factions
+Trickster Court 
 
  # Work in concert with xylaan
  goblin are largely used as a disposable force of workers capable of autonomous manufacturing and importing important good to most of xylaan : mining and precious metals, mold creation (textiles, tool), arcane component gathering

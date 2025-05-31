@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-
+Coblin
 Largest [[Goblin|goblin]] settlement/city 
 
 recent mass immigration

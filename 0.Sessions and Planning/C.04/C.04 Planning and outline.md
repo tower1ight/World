@@ -45,7 +45,7 @@ Progressing personal stories
  
 # Map and Travel
 ## Seat of Power and Holds
-- [[{The Woven City}]] (Seat of Power)
+- [[Seat of Trickery]] (Seat of Power)
 - [[Fort Raynault]] (Hold)
 - [[{disconnected city}]] (Hold)
 - [[{Vacuole Stronghold}]] (Hold)
@@ -106,7 +106,7 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 	 - Sees the outcome of battles in their own healing wounds.
 	 - Wants to drive the land toward climactic war that will bring peace. 
  - [[The Gilded Seer]]: 
-	 - Resides in [[{The Woven City}]]
+	 - Resides in [[Seat of Trickery]]
 	 - Knighted
 		 - Nastiness Knight 
 		 - Larceny
