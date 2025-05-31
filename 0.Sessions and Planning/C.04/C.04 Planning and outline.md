@@ -105,8 +105,8 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
 	 - Sees the outcome of battles in their own healing wounds.
 	 - Wants to drive the land toward climactic war that will bring peace. 
- - The 
-	 - Resides in {{the woven city}}
+ - The Gilded Seer: 
+	 - Resides in [[{The Woven City}]]
 	 - Knighted
 		 - Nastiness Knight 
 		 - Larceny
