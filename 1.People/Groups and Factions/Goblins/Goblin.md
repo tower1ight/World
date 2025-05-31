@@ -8,8 +8,8 @@ aliases:
 
 # Factions, 
 Divisions in the goblin court
-Trickster Court
-Court of Builders 
+
+What are the goblin virtues 
 
  
 
