@@ -10,6 +10,10 @@ aliases:
 Divisions in the goblin court
 
 What are the goblin virtues 
+trickery
+spoils and ill gotten gains
+
+
 
  
 
