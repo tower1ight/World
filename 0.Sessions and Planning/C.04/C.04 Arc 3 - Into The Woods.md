@@ -32,6 +32,7 @@ This is really our first travel session, what do i want, I want good presentatio
 	- [ ] Name Li
 	- [ ] Flesh Out polotics of the contract
 	- [ ] answer beas queries 
+	- [ ] psionic 
 - [ ] Later
 	- [ ] Configure VTT (whole night)
 	- [ ] Finish Myths
