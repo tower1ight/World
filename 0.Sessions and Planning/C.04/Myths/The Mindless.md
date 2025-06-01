@@ -27,7 +27,8 @@ Whats to know
 	 2. rotbeast has empty saddlebags full of collorful stains, and the pits of local stone fruit that grow on surrounding bushes
  4. In a lightening thicket, you see a a few light wafty columns of chimney smoke coming about a mile off, much closer you hear lots scuffling, more like people dancing than someone creeping up on you.
 	 1. If you investigate you find about 20 goblins gleefully stomping about, forming a tight hoard, before you can do anything to hide or interupt, you see one spot you and in cascade they become alerted one by one and make eye contact. The air seizes and tension sits heavy over the group, one of them shouts "it was dead, it was dead, it was dead!!!!!" another "no contract has been broken" a third "MERCY"
-	 2. Any response will send the goblins fleeing 
+	 2. Any response will send the goblins fleeing, allowing you to inspect the body
+	 3. signs of the closest hazard 
  5. An empty, remarkably human camp, animal carcasses litter the ground, chunks of meat and viscera have been torn from each body, lumber and felled trees are strewn across the entire area, a path points forward directing your attention towards a series of boats by the lake 
  Hey 
 

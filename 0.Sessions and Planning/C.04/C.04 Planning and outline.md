@@ -156,9 +156,7 @@ Ruins commonly provide helpful context or questions about xylaan, as well as a r
 	 - if one were to examine the point at the top of the formation, *they’d find a metal tip of the channeling funnel of this machine*, yet they would only see it as a shining bit of silver, gleaming after being clean of moss and time. 
 	 - Entering the structure requires breaking through the outer wall, which could be done delicately or with brute force. (Dex/Str) 
  - **Old vacuole pool:**
-	 - a bountiful grove
-	 - A community within the lake bed
-	 - flower market 
+	 - You come across a long dry riverbead, f
  -  **Tannian research station:**
 	 - lots of tech, info that the tann
 
