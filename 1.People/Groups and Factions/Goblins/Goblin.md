@@ -20,6 +20,8 @@ The goblins [[polyphony|polypsionic]] language
 Highly capable and fast, goblins believe in IMPLEMENTATION 
 Responsible for 
 - Iterating on the original [[Tannian]] [[mold]] design
+- A great deal of manufactured goods, weapons, food, clothes 
+- 
 #### **Anarchy:** *No Gods No Kings*
 
 
