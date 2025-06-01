@@ -158,7 +158,9 @@ Ruins commonly provide helpful context or questions about xylaan, as well as a r
  - **Old vacuole pool:**
 	 - You come across a long dry riverbed, large hydrangea like flower bushes snake along its center 
 	 - you follow as it slopes down, the riverbank growing higher and hisher as you make your way into a basin, recessed into the ground about 50 feet, striations become visible on this bank and there is a clear division on the walls about 20 feet from the top where everything below a certian level is absolutely teaming with life, vines, moss, grasses, and most prominently, flowers.  
-	 - A set of goblin structures form a circle and a filmy dome like pavilion 
+	 - A set of goblin structures form a circle and a filmy dome like pavilion billows in the wind above them
+	 - Flower market
+		 - sells exotic seeds, flowers, and bed starters 
  -  **Tannian research station:**
 	 - lots of tech, info that the tann
 
