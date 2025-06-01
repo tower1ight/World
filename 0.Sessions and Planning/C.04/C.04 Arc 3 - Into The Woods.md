@@ -30,9 +30,8 @@ This is really our first travel session, what do i want, I want good presentatio
 	- [ ] Configure VTT
 		- [ ] new audio
 	- [ ] Name Li
-	- [ ] Flesh Out polotics of the contract
 	- [ ] answer beas queries 
-	- [ ] psionic 
+	- [ ] psionic table
 - [ ] Later
 	- [ ] Configure VTT (whole night)
 	- [ ] Finish Myths
