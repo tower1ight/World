@@ -139,7 +139,9 @@ This is really our first travel session, what do i want, I want good presentatio
 	 - large moose like creature
 	 - solo encounter
  - puzzle or rp
+	 - meet the goblins, gain acess to the area 
  - trick or setback
+	 - rot beast encounter
  - climax battle or conflict
  - reward revalation plot twist
  
