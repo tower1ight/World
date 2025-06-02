@@ -141,6 +141,7 @@ This is really our first travel session, what do i want, I want good presentatio
  - puzzle or rp
 	 - meet the goblins, gain acess to the area 
  - trick or setback
+	 - commander kaels visage somehow prompts the rot beast heard
 	 - rot beast encounter
  - climax battle or conflict
  - reward revalation plot twist
