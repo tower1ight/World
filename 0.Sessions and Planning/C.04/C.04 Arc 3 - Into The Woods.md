@@ -141,6 +141,8 @@ This is really our first travel session, what do i want, I want good presentatio
 	 - solo encounter
  - puzzle or rp
 	 - meet the goblins, gain acess to the area 
+	 - if questioned say they were told to let you see 
+	 - they are hungry to fight you 
  - trick or setback
 	 - [[Commander Kael]]'s visage prompts the rot beast heard
 	 - rot beast encounter
