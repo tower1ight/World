@@ -135,8 +135,10 @@ This is really our first travel session, what do i want, I want good presentatio
 
 
 ## ACT II
- - Entrance
- - puzzzle or rp
+ - Entrance, guardian 
+	 - large moose like creature
+	 - solo encounter
+ - puzzle or rp
  - trick or setback
  - climax battle or conflict
  - reward revalation plot twist
