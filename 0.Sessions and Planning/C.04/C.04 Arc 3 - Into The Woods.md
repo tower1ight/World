@@ -150,7 +150,7 @@ This is really our first travel session, what do i want, I want good presentatio
  - climax battle or conflict 
 	 - the ghost and his gooey guys
  - Consciousness 
-	 - Commander kael, 93rd devision 
+	 - Commander kael, 1st division, Glory to the queen
 	 - Lets you see through his eyes
 	 - asks you to kill him 
 	 - Can tell you about the possession
