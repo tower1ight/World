@@ -138,7 +138,8 @@ This is really our first travel session, what do i want, I want good presentatio
  - Entrance, guardian 
 	 - **Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
 
-	 - solo encounter
+ - solo encounter
+	 - An apparition of his guysw
  - puzzle or rp
 	 - meet the goblins, gain acess to the area 
 	 - if questioned say they were told to let you see 
@@ -148,8 +149,9 @@ This is really our first travel session, what do i want, I want good presentatio
 	 - rot beast encounter
  - climax battle or conflict 
 	 - the ghost and his gooey guys
- - reward revalation plot twist
-	 - Lets you see through the eyes of a 
+ - Consciousness 
+	 - Lets you see through his eyes
+	 - asks you to kill him 
  
 
  - **POI:** Encounters, detective work and such
