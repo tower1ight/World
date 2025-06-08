@@ -19,6 +19,7 @@ This is really our first travel session, what do i want, I want good presentatio
 - [ ] Needs
 	- [x] Recap
 	- [ ] Mindless Myths
+	- [ ] stalk seer
 	- [ ] post battle scene 
 	- [ ] write a running a goblin peripheral
 	- [ ] Decide What their currency is!!!!!!!!!!!!
@@ -132,7 +133,12 @@ This is really our first travel session, what do i want, I want good presentatio
 		- Steaks
 	- Mechanics
 		- 1x goblin curse spitter, 3x Glamoured human Brawler, 3x goblin assassin, optional rot beast if engaged
-	- kkkjjj
+	- The Camp
+		- a little map detailing nearby locations 
+		- 
+		- Goblin body
+			- goblin under armor shift 
+			- 
 
 
 ## ACT II
