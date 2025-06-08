@@ -132,6 +132,7 @@ This is really our first travel session, what do i want, I want good presentatio
 		- Steaks
 	- Mechanics
 		- 1x goblin curse spitter, 3x Glamoured human Brawler, 3x goblin assassin, optional rot beast if engaged
+	- kkkjjj
 
 
 ## ACT II
