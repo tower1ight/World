@@ -146,7 +146,7 @@ This is really our first travel session, what do i want, I want good presentatio
 			- a little map detailing nearby locations 
 			- a note in goblin about avoiding the stalk seer, burning the dwelling and a number of smaller single home places 
 			- 
-
+ohhh im sleeep
 
 ## ACT II
  - Entrance, guardian 

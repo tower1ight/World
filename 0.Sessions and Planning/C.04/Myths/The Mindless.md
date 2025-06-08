@@ -13,7 +13,7 @@ Whats to know
 - Pact of non aggression
 - Signs of Infection (optional detail reward)
 
-
+i think that i found god ,
 
  # Omens
  1. Evidence of the first march: 
