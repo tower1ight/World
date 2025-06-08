@@ -20,6 +20,7 @@ This is really our first travel session, what do i want, I want good presentatio
 	- [x] Recap
 	- [ ] Mindless Myths
 	- [ ] stalk seer
+	- [ ] dwelling 
 	- [ ] post battle scene 
 	- [ ] write a running a goblin peripheral
 	- [ ] Decide What their currency is!!!!!!!!!!!!
@@ -134,11 +135,14 @@ This is really our first travel session, what do i want, I want good presentatio
 	- Mechanics
 		- 1x goblin curse spitter, 3x Glamoured human Brawler, 3x goblin assassin, optional rot beast if engaged
 	- The Camp
-		- a little map detailing nearby locations 
-		- 
+		- stuff
+			- oil 
+			- bedrolls
+			- fruit
+				- tal 
 		- Goblin body
 			- goblin under armor shift 
-			- 
+			- a little map detailing nearby locations 
 
 
 ## ACT II
