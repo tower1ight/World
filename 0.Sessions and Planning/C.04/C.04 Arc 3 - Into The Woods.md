@@ -24,8 +24,8 @@ This is really our first travel session, what do i want, I want good presentatio
 	- [ ] post battle scene 
 	- [ ] write a running a goblin peripheral
 	- [ ] Decide What their currency is!!!!!!!!!!!!
-	- [ ] what are u emulating with the goblins 
 	- [ ] Infection Tracker and Mechanic
+	- [ ] ambient travel music 
 	- [ ] figure out xp leveling
 
 - [ ] Wants
