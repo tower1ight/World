@@ -139,10 +139,11 @@ This is really our first travel session, what do i want, I want good presentatio
 			- oil 
 			- bedrolls
 			- fruit
-				- tal 
+				- tal hungry tal wants to eat that fruit
 		- Goblin body
 			- goblin under armor shift 
 			- a little map detailing nearby locations 
+			- a note in goblin about avoiding the stalk seer, burning the dwelling and a number of smaller single home places 
 
 
 ## ACT II
