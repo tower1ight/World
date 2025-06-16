@@ -27,7 +27,7 @@ Responsible for
 - 
 #### **Anarchy?:** 
 
- # Work in concert with xylaan
+Work in concert with xylaan
  goblin are largely used as a disposable force of workers capable of autonomous manufacturing and importing important good to most of xylaan : mining and precious metals, mold creation (textiles, tool), arcane component gathering
  - Green: The most subjugated and exploited goblin community, their relationship and proximity to the arcadian court and their role producing luxury goods, dyes, and fine textiles, 
 	 - nobility 
@@ -35,7 +35,7 @@ Responsible for
  - White: left with the least level of communication this group is discipated and barely organganized 
 
 
- ### culture
+#### culture
  - split into Four large groups each with a different political situation and 
  - ventilation is key, they use something like big pressure cookers with heated steam that circulates around the city, dry stalks
  - large industry surrounding mold production: Can be programed and infused in a variety of ways to produce different effects of the substance
@@ -49,9 +49,8 @@ Responsible for
 	- go in the ground
 	- many people choose important places
 	- sometimes thats impossible 
-
-
- ### built environemnt 
+#### Geography
+- 
  - white
  - yellow
 	 - city built aroound three palaces from three eras of goblin history, all built as takes on Persian hanging gardens 
@@ -70,7 +69,7 @@ History
 - falling out of favor in court
 - immigration to xylaan {named figure}
 - cut off
-- warfare and small scale building projects, raiding of the [[Tannia]]
+- warfare and small scale building projects, raiding of the [[Tannia]] and 
 - xylaan reaches chapparal
 - partisan migration event to live near places with mycelium
 - creation of language 

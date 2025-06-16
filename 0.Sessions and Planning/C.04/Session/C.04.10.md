@@ -11,7 +11,7 @@ Date:
 
 | Affiliations | Locations | Major NPCs | Minor NPCs | Enemies    |
 | ------------ | --------- | ---------- | ---------- | ---------- |
-|              |           |            |            | [[Goblin]] |
+|              |           |            |            | [[Goblins]] |
 
    # Recap
    - they had a big figh it lasted a whiklll'

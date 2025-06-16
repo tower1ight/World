@@ -19,6 +19,7 @@ This is really our first travel session, what do i want, I want good presentatio
 - [ ] Needs
 	- [x] Recap
 	- [ ] Mindless Myths
+	- [ ] Iron out the pact
 	- [ ] stalk seer
 	- [ ] dwelling 
 	- [ ] post battle scene 

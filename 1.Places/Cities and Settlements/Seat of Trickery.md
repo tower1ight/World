@@ -6,7 +6,7 @@ aliases:
 ---
 
 Coblin
-Largest [[Goblin|goblin]] settlement/city 
+Largest [[Goblins|goblin]] settlement/city 
 
 recent mass immigration
 the city ist growing to accomodate and 

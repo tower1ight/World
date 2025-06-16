@@ -7,6 +7,8 @@ aliases:
   - alchemist
   - alchemists
   - kobolds
+  - Tannian
+  - Tanian's
 ---
 
 
