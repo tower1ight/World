@@ -37,16 +37,9 @@ Work in concert with xylaan
 	- [[{Sepratist Goblins}]]
 	- [[{Theives Court}]]
 #### Geography
-- 
- - white
- - yellow
-	 - city built aroound three palaces from three eras of goblin history, all built as takes on Persian hanging gardens 
-	 - city built around its mold farming, processing 
-	 - Districts: acropolis, new palace, city expansion, artisan, factory yard, stalk feilds,
- - green
- - 
+-  - 
 
- - ventilation is key, they use something like big pressure cookers with heated steam that circulates around the city, dry stalks
+ -
  - large industry surrounding mold production: Can be programed and infused in a variety of ways to produce different effects of the substance
 	 - Sand and mineral infustion for most building materials 
 	 - Metal infused pastic like material, grown in molds, better smiths use enchantments for enhanced properties
