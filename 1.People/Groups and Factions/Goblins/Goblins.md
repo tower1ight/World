@@ -11,10 +11,11 @@ Divisions in the goblin court
 
 
 # Culture
-#### **Impulse**
+#### Impulse
 The goblins [[polyphony|polypsionic]] language
 - allows one to share their emotions
 - works to both unify them from moment to moment, focusing them in on their immediate task as well as making them incredibly fickle, changing their motivations on a dime
+- There is a painful histo
 
 #### Distractible Builders
 Highly capable and fast, goblins believe in IMPLEMENTATION 
@@ -24,9 +25,7 @@ Responsible for
 - Raw materials
 - Sanctuaries 
 - pipes resource transport 
-- 
-#### **Anarchy?:** 
-
+#### Anarchy?:
 Work in concert with xylaan
  goblin are largely used as a disposable force of workers capable of autonomous manufacturing and importing important good to most of xylaan : mining and precious metals, mold creation (textiles, tool), arcane component gathering
  - Green: The most subjugated and exploited goblin community, their relationship and proximity to the arcadian court and their role producing luxury goods, dyes, and fine textiles, 
@@ -34,9 +33,11 @@ Work in concert with xylaan
  - Yellow: manages a lot of the building projects and raw materials exports
  - White: left with the least level of communication this group is discipated and barely organganized 
 
-
-#### culture
- - split into Four large groups each with a different political situation and 
+# Census
+ - split into Four large groups
+	 - [[{Populist Goblins}]]
+	 - [[{Collaborator and Coerced Goblins}]]
+	 - 
  - ventilation is key, they use something like big pressure cookers with heated steam that circulates around the city, dry stalks
  - large industry surrounding mold production: Can be programed and infused in a variety of ways to produce different effects of the substance
 	 - Sand and mineral infustion for most building materials 
