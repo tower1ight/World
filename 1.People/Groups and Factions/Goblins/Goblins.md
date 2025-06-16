@@ -16,7 +16,7 @@ Divisions in the goblin court
 The goblins [[polyphony|polypsionic]] language
 - allows one to share their emotions
 - works to both unify them from moment to moment, focusing them in on their immediate task as well as making them incredibly fickle, changing their motivations on a dime
-- There is a painful history here, goblins have honor, if difficult to fully grasp, centuries with cruel customs and uses of impulse leave this to be 
+- There is a painful history here, goblins have honor, if difficult to fully grasp, centuries with cruel customs and uses of impulse leave its use to be complex, You may only share impulse of people in a similar position of power or status, breaches of this unspoken contract will be met with violence from all witnessing goblins
 
 #### Distractible Builders
 Highly capable and fast, goblins believe in IMPLEMENTATION 
