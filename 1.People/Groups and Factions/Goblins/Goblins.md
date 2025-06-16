@@ -36,7 +36,7 @@ Work in concert with xylaan
 
 # Census
 - split into Four large groups
-	 - [[{Populist Goblins}]]
+- [[{Populist Goblins}]]
 	 - [[{Collaborator and Coerced Goblins}]]
  - 
  - ventilation is key, they use something like big pressure cookers with heated steam that circulates around the city, dry stalks

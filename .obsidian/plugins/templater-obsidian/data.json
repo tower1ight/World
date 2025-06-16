@@ -32,7 +32,8 @@
     "3.Templates/Note Template.md",
     "3.Templates/Session Notes.md",
     "3.Templates/NPC.md",
-    "3.Templates/Location.md"
+    "3.Templates/Location.md",
+    "3.Templates/Faction.md"
   ],
   "startup_templates": [
     ""

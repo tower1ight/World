@@ -1,6 +1,6 @@
 ---
 tags:
-  - faction
+  - Location
 aliases:
 ---
-<% await tp.file.move("/1.People/Groups and Factions/" + tp.file.title)%>
+<% await tp.file.move("/1.Places/" + tp.file.title)%>
