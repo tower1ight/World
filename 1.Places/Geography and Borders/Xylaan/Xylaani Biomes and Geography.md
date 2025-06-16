@@ -23,7 +23,7 @@ aliases:
   - Description: The chaparral region is defined by a dry climate and distance from xylaan's heart, a valley between the foothills of xylaan's Northern mountain range and the tallons, this region receives a proportionally small amount of connection to the network or the sugar layer.
   - brittle and colorful, thin tall grass stretches throughout the biome, population spikes around large groves of brushlike trees that assemble around streams and the base of mountains
   - Important locations
-	  - [[Seat of Trickery]]
+	  - [[{the Woven City}]]
 	  - City settlement by the lake
 	  - Mine 
   - Important 

@@ -7,10 +7,6 @@ aliases:
   - Impulse
 ---
 
-# Factions, 
-Divisions in the goblin court
-
-
 # Culture
 #### Impulse
 The goblins [[polyphony|polypsionic]] language
@@ -35,12 +31,21 @@ Work in concert with xylaan
  - White: left with the least level of communication this group is discipated and barely organganized 
 
 # Census
-- split into Four large groups
-	- [[{Populist Goblins}]]
+- Currently split into four large groups
+	- [[{Populist Goblins}]] Largely associated with central [[Xylaani Biomes and Geography|Chaparral]] and [[wover]]
 	- [[{Collaborator and Coerced Goblins}]]
 	- [[{Sepratist Goblins}]]
 	- [[{Theives Court}]]
+#### Geography
 - 
+ - white
+ - yellow
+	 - city built aroound three palaces from three eras of goblin history, all built as takes on Persian hanging gardens 
+	 - city built around its mold farming, processing 
+	 - Districts: acropolis, new palace, city expansion, artisan, factory yard, stalk feilds,
+ - green
+ - 
+
  - ventilation is key, they use something like big pressure cookers with heated steam that circulates around the city, dry stalks
  - large industry surrounding mold production: Can be programed and infused in a variety of ways to produce different effects of the substance
 	 - Sand and mineral infustion for most building materials 
@@ -53,15 +58,7 @@ Work in concert with xylaan
 	- go in the ground
 	- many people choose important places
 	- sometimes thats impossible 
-#### Geography
-- 
- - white
- - yellow
-	 - city built aroound three palaces from three eras of goblin history, all built as takes on Persian hanging gardens 
-	 - city built around its mold farming, processing 
-	 - Districts: acropolis, new palace, city expansion, artisan, factory yard, stalk feilds,
- - green
- - 
+
 
  ### Projects
  - Pipes and material transport

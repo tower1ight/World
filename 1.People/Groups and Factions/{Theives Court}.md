@@ -1,0 +1,6 @@
+---
+tags:
+  - faction
+aliases:
+---
+[[Goblins]]

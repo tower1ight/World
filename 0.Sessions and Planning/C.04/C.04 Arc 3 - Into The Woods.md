@@ -121,7 +121,7 @@ This is really our first travel session, what do i want, I want good presentatio
 		- they see goblins collaborating with soliders
 			- seagreen tint to their armor
 			- Feudal 
-	- clue at a ridge that peaks above the stalks and allows for an unobstructed veiw of [[Seat of Trickery]] and the  
+	- clue at a ridge that peaks above the stalks and allows for an unobstructed veiw of [[{the Woven City}]] and the  
 - Battle at the camp (CR 9 difficulty standard high)
 	- Parameters
 		- Terrain
