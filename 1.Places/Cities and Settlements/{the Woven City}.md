@@ -26,7 +26,7 @@ new neighborhood being built to facilitate mycelial atrophy refugees
 
 Eras
 #### ERA I
-- [[Tannia|Tannian]]s build this warfare, squabbles and partisan immigration into the court when the 
+- [[Tannia|Tannian]]s build this, they make a city to their neads worthy of  warfare, squabbles and partisan immigration into the court when the 
 - 2. the era of the builder
 	- resource project, sanctum project, waste project
 - 3, populist movement
