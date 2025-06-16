@@ -36,9 +36,11 @@ Work in concert with xylaan
 
 # Census
 - split into Four large groups
-- [[{Populist Goblins}]]
-	 - [[{Collaborator and Coerced Goblins}]]
- - 
+	- [[{Populist Goblins}]]
+	- [[{Collaborator and Coerced Goblins}]]
+	- [[{Sepratist Goblins}]]
+	- [[{Theives Court}]]
+- 
  - ventilation is key, they use something like big pressure cookers with heated steam that circulates around the city, dry stalks
  - large industry surrounding mold production: Can be programed and infused in a variety of ways to produce different effects of the substance
 	 - Sand and mineral infustion for most building materials 

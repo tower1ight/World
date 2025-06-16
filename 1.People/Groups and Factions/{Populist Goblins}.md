@@ -3,3 +3,4 @@ tags:
   - faction
 aliases:
 ---
+[[Goblins]]
