@@ -32,8 +32,8 @@ Work in concert with xylaan
 
 # Census
 - Currently split into four large groups
-	- [[{Populist Goblins}]] Largely associated with central [[Xylaani Biomes and Geography|Chaparral]] and [[wover]]
-	- [[{Collaborator and Coerced Goblins}]]
+	- [[{Populist Goblins}]] Largely associated with central [[Xylaani Biomes and Geography|Chaparral]] and [[{the Woven City}]]
+	- [[{Collaborator and Coerced Goblins}]] Largely associated with [[Arcadian Court|Arcadian]] occupied territory and [[{LakeTown}]]
 	- [[{Sepratist Goblins}]]
 	- [[{Theives Court}]]
 #### Geography
