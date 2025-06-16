@@ -25,11 +25,7 @@ Responsible for
 - Sanctuaries 
 - pipes resource transport 
 - 
-#### **Anarchy:** *No Gods No Kings*
-
-
-
-
+#### **Anarchy?:** 
 
  # Work in concert with xylaan
  goblin are largely used as a disposable force of workers capable of autonomous manufacturing and importing important good to most of xylaan : mining and precious metals, mold creation (textiles, tool), arcane component gathering
@@ -74,7 +70,7 @@ History
 - falling out of favor in court
 - immigration to xylaan {named figure}
 - cut off
-- warfare and small scale building projects
+- warfare and small scale building projects, raiding of the [[Tannia]]
 - xylaan reaches chapparal
 - partisan migration event to live near places with mycelium
 - creation of language 
