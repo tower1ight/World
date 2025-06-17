@@ -110,4 +110,6 @@ Threaten violence,
 Distract from the point at hand 
 Say something witty
 
-Well in that case we rip them to shreds, 
+
+Well in that case we rip them to shreds,  we fill our baths with their warm blood, soap ourselves with their belly fat
+Not so simple though, we may find ours is the fat doing the soaping, voiding the pact will see us loose the seers
