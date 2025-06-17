@@ -89,9 +89,9 @@ big fans and straws syphon sugar and
 "what if we just gave it a quarter twist and a support pillar"
 fucking dick, who said that 
 Right now tell me who fuckking said that, 
-no support piullar and its busted, hell snap like a ricer at sundown
+no support piullar and its busted, hell snap like a ricer at sunup
 Quiet all of you, ill rip your fucking spines out 
-Who ever
+
 
 
 
