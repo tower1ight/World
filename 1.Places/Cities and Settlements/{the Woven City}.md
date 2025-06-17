@@ -31,3 +31,6 @@ Eras
 	- resource project, sanctum project, waste project
 - 3, populist movement
 	- organization on building a grand palace, efforts are not going tremendously 
+
+
+
