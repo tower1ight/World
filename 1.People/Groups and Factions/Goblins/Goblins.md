@@ -127,9 +127,13 @@ so theyve been neutreal, theyve been keeping our network open, can you imagine t
 
 They cant keep us out, no fucking way, [[The Gilded Seer|Dandy]] is not going to lock us out .. 
 
-This is true, I persist, our splendor 
+D: This is true, I persist, our splendor 
 
 yes, our mother fucking splendor 
+
+As though no trumped up seer has ever had stones for eyes and met a sorry end
+
+I dont p
 
 
 
