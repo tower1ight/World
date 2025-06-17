@@ -85,7 +85,11 @@ big fans and straws syphon sugar and
 
 "Nonsense, I {programed} it to hold that weight, he doesnt like it? Good, he'll fix it not my problem"
 "likely story, fucking guys not gonna do it, you know hell just burry it"
-*buuurp* fucks bussier than a shit biscut and hald the price, that work will "
+*buuurp* fucks bussier than a shit biscut and hald the price, that work will go to waste"
+"what if we just gave it a quarter twist and a support pillar"
+fucking dick, who said that 
+Right now tell me who fuckking said that, 
+no support piullar and it s 
 
 
 
