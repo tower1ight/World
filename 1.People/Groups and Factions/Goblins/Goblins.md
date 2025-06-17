@@ -84,7 +84,9 @@ big fans and straws syphon sugar and
 
 
 "Nonsense, I {programed} it to hold that weight, he doesnt like it? Good, he'll fix it not my problem"
-"likely sto"
+"likely story, fucking guys not gonna do it, you know hell just burry it"
+*buuurp* fucks bussier than a shit biscut and hald the price, that work will "
+
 
 
  
