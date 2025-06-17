@@ -94,10 +94,16 @@ Quiet all of you, ill rip your fucking spines out
 
 this sucks I literally quit
 
+Snaggle tooth
 
-Fucking cunt 
+How do they refer to humans: those tall fucks
+
+Bird beak
+Feather fuck
 
 
+
+ass brgade is at again, said they arent workin till they get 
 
 
 
