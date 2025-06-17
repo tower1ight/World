@@ -83,5 +83,11 @@ big fans and straws syphon sugar and
 
 
 
-"Nonsense, I {programed} it to work this way,  this mold just to spend double the time to break it down and do it this way anyway" 
+"Nonsense, I {programed} it to hold that weight, he doesnt like it? Good, he'll fix it not my problem"
+"likely sto"
+
+
+ 
+
+this mold just to spend double the time to break it down and do it this way anyway" 
 "Now ususally id be on oboards "
