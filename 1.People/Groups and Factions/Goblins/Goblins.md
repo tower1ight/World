@@ -125,6 +125,11 @@ Point being we loose the seers, so fucking what
 
 so theyve been neutreal, theyve been keeping our network open, can you imagine that shit, shit would shut down I am telling, not suggesting 
 
-They cant keep us o
+They cant keep us out, no fucking way, [[The Gilded Seer|Dandy]] is not going to lock us out .. 
+
+This is true, I persist, our splendor 
+
+yes, our mother fucking splendor 
+
 
 
