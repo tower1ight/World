@@ -97,17 +97,17 @@ this sucks I literally quit
 Snaggle tooth
 
 How do they refer to humans: those tall fucks
-
 Bird beak
 Feather fuck
-
-
-
 ass brgade is at again, said they arent workin till they get 
 
 
-
- 
-
 this mold just to spend double the time to break it down and do it this way anyway" 
 "Now ususally id be on oboards "
+
+
+Threaten violence,
+Distract from the point at hand 
+Say something witty
+
+Well in that case we rip them to shreds, 
