@@ -112,7 +112,19 @@ Say something witty
 
 
 Well in that case we rip them to shreds,  we fill our baths with their warm blood, soap ourselves with their belly fat
+
 Not so simple though, we may find ours is the fat doing the soaping if we strike too early, voiding the pact will see us loose the seers, 
+
 So be it, I say we leave them to their leaves, for years they haven't mustered a peep about port seizing, those viney fucks will die before leaving their nodes, the builder themself couldn't convince them to lift a finger
+
 they could come back you know
-the next time you offfer up xylaans return as a discussion point I will throw you out of this fucking t
+
+the next time you offfer up xylaans return as a discussion point I will throw you out of this fucking tower
+
+Point being we loose the seers, so fucking what
+
+so theyve been neutreal, theyve been keeping our network open, can you imagine that shit, shit would shut down I am telling, not suggesting 
+
+They cant keep us o
+
+
