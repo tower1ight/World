@@ -112,4 +112,5 @@ Say something witty
 
 
 Well in that case we rip them to shreds,  we fill our baths with their warm blood, soap ourselves with their belly fat
-Not so simple though, we may find ours is the fat doing the soaping, voiding the pact will see us loose the seers
+Not so simple though, we may find ours is the fat doing the soaping if we strike too early, voiding the pact will see us loose the seers, 
+So be it, I say we leave them to their leaves, for years they haven't mustered a peep about port seizing, those viney fucks will leave their nodes i
