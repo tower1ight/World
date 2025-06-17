@@ -129,9 +129,9 @@ G:They cant keep us out, no fucking way, [[The Gilded Seer|Dandy]] is not going 
 
 D: This is true, I persist, our splendor 
 
-R:
+R: Dandy what do you see
 
-G: yes, our mother fucking splendor 
+G: Fuckface, dial it in, but yes, our mother fucking splendor 
 
 T: As though no trumped up seer has ever had stones for eyes and met a sorry end
 
@@ -139,6 +139,7 @@ D: Stones I have not
 
 T:Yeah yeah well fucking see 
 
+R: ...
 
 
 
