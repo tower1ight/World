@@ -83,4 +83,5 @@ big fans and straws syphon sugar and
 
 
 
-"Listen I am not "
+"Nonsense, I {programed} it to work this way,  this mold just to spend double the time to break it down and do it this way anyway" 
+"Now ususally id be on oboards "
