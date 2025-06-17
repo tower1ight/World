@@ -111,29 +111,34 @@ Distract from the point at hand
 Say something witty
 
 
-Well in that case we rip them to shreds,  we fill our baths with their warm blood, soap ourselves with their belly fat
+G:Well in that case we rip them to shreds,  we fill our baths with their warm blood, soap ourselves with their belly fat
 
-Not so simple though, we may find ours is the fat doing the soaping if we strike too early, voiding the pact will see us loose the seers, 
+T: Not so simple though, we may find ours is the fat doing the soaping if we strike too early, voiding the pact will see us loose the seers, 
 
-So be it, I say we leave them to their leaves, for years they haven't mustered a peep about port seizing, those viney fucks will die before leaving their nodes, the builder themself couldn't convince them to lift a finger
+G: So be it, I say we leave them to their leaves, for years they haven't mustered a peep about port seizing, those viney fucks will die before leaving their nodes, the builder themself couldn't convince them to lift a finger
 
-they could come back you know
+R: You know I dont think its out of the realm of
 
-the next time you offfer up xylaans return as a discussion point I will throw you out of this fucking tower
+T: the next time you offfer up xylaans return as a discussion point I will throw you out of this fucking tower
 
-Point being we loose the seers, so fucking what
+G: Point being we loose the seers, so fucking what
 
-so theyve been neutreal, theyve been keeping our network open, can you imagine that shit, shit would shut down I am telling, not suggesting 
+T:so theyve been neutreal, theyve been keeping our network open, can you imagine that shit, shit would shut down I am telling, not suggesting 
 
-They cant keep us out, no fucking way, [[The Gilded Seer|Dandy]] is not going to lock us out .. 
+G:They cant keep us out, no fucking way, [[The Gilded Seer|Dandy]] is not going to lock us out .. 
 
 D: This is true, I persist, our splendor 
 
-yes, our mother fucking splendor 
+R:
 
-As though no trumped up seer has ever had stones for eyes and met a sorry end
+G: yes, our mother fucking splendor 
 
-I dont p
+T: As though no trumped up seer has ever had stones for eyes and met a sorry end
+
+D: Stones I have not
+
+T:Yeah yeah well fucking see 
+
 
 
 
