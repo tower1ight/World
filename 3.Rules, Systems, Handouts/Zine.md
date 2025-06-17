@@ -4,6 +4,14 @@ tags:
 aliases:
 ---
 
-What are the bounds of this document, rules and Ideas for this as a campaign setting\
+What are the bounds of this document, rules and Ideas for this as a campaign setting
+Campaign Map
+Xylaan
+Scenarios
+- Exploorers
 
-#### Goblin Pag
+#### Goblins
+#### Kobolds
+#### Arcadia
+#### Seers
+#### Seraphs
