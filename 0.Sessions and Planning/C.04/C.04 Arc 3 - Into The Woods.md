@@ -156,7 +156,9 @@ ohhh im sleeep
  - solo encounter
 	 - An apparition of his guys
  - puzzle or rp
-	 - meet the goblins, gain acess to the area 
+	 - meet the goblins, gain access to the area 
+		 - Fizzle leak 
+		 - Bogtongue
 	 - if questioned say they were told to let you see 
 	 - they are hungry to fight you 
  - trick or setback
