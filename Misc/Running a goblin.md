@@ -2,7 +2,7 @@
 Goblins are impulsive fickle creatures, driven by base desires, they see that as honesty, worthy of more respect than propriety. Spit on the ground 
 
 
-| BENIGN ANNOYANCE: Taps pen on teeth, drums fingers when waiting, flicks Zippo open and closed, minor situational catchphrase, etc.                                                                                              |     |
+| BENIGN ANNOYANCE:                                                                                                                                                                                                               |     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | SLIGHTLY GROSS BEHAVIOR: Adjusts themselves constantly, loudly shares the status of their digestion as part of regular conversation, picks<br>nose or scabs, talks about their fetishes in great detail unprompted, etc.        |     |
 | HOBBY: Sports, playing chess or a similar game or collecting something like coins or stamps; uses specialized language in casual conversation,<br>talks about their hobby a lot, has a logo related to it on their gear.        |     |
