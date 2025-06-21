@@ -9,14 +9,14 @@ Goblins are impulsive fickle creatures, driven by base desires, they see that as
 | ACTOR: Clearly playing for an audience, bravado elaborate signals of goblin virtues, Makes a show out of picking their nose                                                                                                     |
 | CREEP: Believes sexuality is modelable with game theory (uses a lot of innuendo & jargon, touches others unprompted).                                                                                                           |
 | NARCISSIST: Belittles others and believes they are responsible for all successes, was undermined by others in all failures.                                                                                                     |
-| Sycophant - Worm : Working ‘beneath’ a specific and named individual, works better if they aren't renowned                                                                                                                      |
+| Sycophant - Worm : Working ‘beneath’ a specific and named individual, works better if they aren't renowned, will casually bring up their masters virtues                                                                        |
 | CONSPIRACY THEORIST: Believes a cabal is responsible for everything, tries to recruit. May have fringe beliefs about health and wellness.                                                                                       |
-| RECOVERING ADDICT: Judgmental, tense, particular language use, wants others to also give up their vices.                                                                                                                        |
-| RELIGIOUS: Zeal, singing, witnessing, testifying, pamphlets.                                                                                                                                                                    |
+| CAUTIOUS: Cowardly and meek, will seize advantages and show strength only when likely to win                                                                                                                                    |
+| RELIGIOUS: Populist, Beset by enemies and enlightened by the power of collective action                                                                                                                                         |
 | PYROMANIAC: Loves fire & starting fires; must do so on failed Panic Check.                                                                                                                                                      |
 | NIHILIST: Everything is hopeless and they know it. Hopeless situations do not trigger a Panic Check. Disadvantage when rolling a Panic Check.                                                                                   |
 | BEAST: Self-described Apex Predator, insatiable bloodlust, excellent at roughing it, mocks others for crying.                                                                                                                   |
-| SURVIVOR’S GUILT: Final survivor from their planet, family, village, military company, first ship. Feels horrible about it, constantly seeks to<br>maintain their comrades’ memory, also kind of wants to die.                  |
+| SURVIVOR’S GUILT:                                                                                                                                                                                                               |
 | GENIUS: One Skill they are perfect at, they cannot explain why their answer is right but their answer is always right. They otherwise have [-] at<br>all Skills unless there is cross pollination with their area of expertise. |
 
 
