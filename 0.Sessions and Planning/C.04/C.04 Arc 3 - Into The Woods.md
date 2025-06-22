@@ -148,8 +148,8 @@ This is really our first travel session, what do i want, I want good presentatio
 		- Soliders things
 			- Oil, an uncommon spark thrower
 		- Goblin body assassin
-			- A note in sylvan: 
-			- Some rough goblin translations on the note
+			- A note in sylvan: Some rough goblin translations on the note
+			- Check in on the mindless, ensure they are supplied for their task
 			- 
 
 ## ACT II
