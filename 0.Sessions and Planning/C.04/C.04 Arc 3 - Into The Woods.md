@@ -158,7 +158,7 @@ This is really our first travel session, what do i want, I want good presentatio
  - solo encounter
 	 - An apparition of his guys CR 8
 	 - asks if they are friend or foe, if they are friend they are told to get outa
-	 - A wraith (will flee the scene if they are loosing)
+	 - A wraith sgt March (will flee the scene if they are loosing)
 	 - 3 other shadows
  - puzzle or rp
 	 - meet the goblins, gain access to the area 
