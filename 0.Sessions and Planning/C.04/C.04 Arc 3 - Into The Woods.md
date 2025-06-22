@@ -257,13 +257,15 @@ The mindless are doing something nefarious, atempting to provoke aggression
 - This is Important! They are learning
 - Do 
 ## Germ 
+when you fail a save or a check 
 
 | Phase | Symptom                                                                                         |
 | ----- | ----------------------------------------------------------------------------------------------- |
 | 1     | Starts to hear whispers (polyphony unlocks for you)                                             |
-| 3     | Begins to feel a deep hunger                                                                    |
-| 5     | Develops three nodes in a triangle at the base of the skull (starts to sense through the earth) |
-|       | Hunger worsens - 2d6 damage every phase                                                         |
+| 2     | Begins to feel a deep hunger                                                                    |
+| 3     | Develops three nodes in a triangle at the base of the skull (starts to sense through the earth) |
+| 4     | Hunger worsens - 2d6 damage every phase                                                         |
+|       |                                                                                                 |
 |       |                                                                                                 |
 
 ## Arcadia's Partial Favor
