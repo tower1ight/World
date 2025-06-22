@@ -99,10 +99,10 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 	 - Acolytes
 		 - Bodies resemble large stick insects, 4 sets of arms and large mandibles
 	 - Seer
-		 - stalk seer sends out a psychic feeling of warmth and welcome
-		 - it can telepathically communicate w/ u 
+		 - stalk seer sends out a psychic feeling of warmth and welcome, it can telepathically communicate w/ u 
 		 - It can see through eyes in the stalks, but it cannot see the past or the future
-		 - Something is awakens, and swallow me whole, mind and flesh
+		 - knows your goal, will project an image
+		 - Something is awakens, and will soon try to swallow me whole, mind and flesh
 		 - 
  - **Rotten Seer:**
  - **[[The Carved Seer]]:** [[The Willow knight]]
