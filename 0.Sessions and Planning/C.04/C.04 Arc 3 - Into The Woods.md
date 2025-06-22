@@ -21,8 +21,7 @@ This is really our first travel session, what do i want, I want good presentatio
 	- [ ] stalk seer
 	- [ ] dwelling 
 	- [ ] post battle scene 
-	- [ ] write a running a goblin peripheral
-	- [ ] Decide What their currency is!!!!!!!!!!!!, split, divesting from the network new metal infused metal chips
+	- [x] Decide What their currency is!!!!!!!!!!!!, split, divesting from the network new metal infused metal chips
 	- [ ] Infection Tracker and Mechanic
 	- [ ] ambient travel music 
 	- [ ] figure out xp leveling
@@ -31,6 +30,7 @@ This is really our first travel session, what do i want, I want good presentatio
 	- [ ] Configure VTT
 		- [ ] new audio
 	- [ ] Name Li
+	- [ ]  write a running a goblin peripheral
 	- [ ] answer beas queries 
 	- [ ] psionic table
 - [ ] Later
