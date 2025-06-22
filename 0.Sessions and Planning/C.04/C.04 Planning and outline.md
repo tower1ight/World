@@ -62,9 +62,7 @@ Progressing personal stories
 #### Dwellings 
  Dwellings should be representative of local customs, artistic and architectural trends 
  - **Gristleak's Orchard**: mold farm and textile maker 
-	 - The air is thick humid, you feel energized walking through a feild of elevated chambers, slightly opaqe and with small leaks forming at the seals where airflow is directed and the membrane is stressed from years of wear. they send you on a fetch quest to get chamber sealant, a weaving mill has goblins creating scafolding for [[mold]] to fill in the gaps,
-	 - Busshels of mold have been stolen and they need to be returned 
-	 - Abandoned when the party first visits but is occupied upon their return 
+	 - The air is thick humid, you feel energized walking through a feild of stalks, as you walk deeper into the forest 
  - **Here kitty kitty**
  - **Ritual to the mothers:** 
 	 - you see one of the domed structures you have come to know as a goblin home smoke billows from a very small hut carved out of the body of a stalk, 
