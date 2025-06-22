@@ -4,6 +4,7 @@ aliases:
 ---
  what are we up too, white skull goblins have taken over the mine and know that th
  woven city should make. a diplomatic arrangement, instead will try to frocibly take this outpost 
+# fey mine??? how do they avoid iron thats l;ike a whole thing 
  
  # Flavor Text
  
