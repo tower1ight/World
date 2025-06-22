@@ -62,8 +62,10 @@ Progressing personal stories
 #### Dwellings 
  Dwellings should be representative of local customs, artistic and architectural trends 
  - **Gristleak's Orchard**: mold farm and textile maker 
-	 - The air is thick humid, you feel energized walking through a field of stalks, as you walk you see that three sets of identical small ropes or lines hang from the stalks  at 5 s
-	 - tall gets the strongest urge to put her mouth to the orifices on the side of whatever tube this is 
+	 - The air is thick humid, you feel energized walking through a field of stalks, as you walk you see that three sets of identical small ropes or lines hang from the stalks  at 5 ft, 10 ft, and 15ft. 
+		 - tall gets the strongest urge to put her mouth to the orifices on the side of whatever tube this is
+		 - investigating will let you see scorch marks above the lines
+	 - following the lines you find yoursdelf at a large domed structure si a tank of brown liquid that is  connected to them 
  - **Here kitty kitty**
  - **Ritual to the mothers:** 
 	 - you see one of the domed structures you have come to know as a goblin home smoke billows from a very small hut carved out of the body of a stalk, 
