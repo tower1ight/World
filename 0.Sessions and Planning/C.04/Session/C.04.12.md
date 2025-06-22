@@ -14,6 +14,10 @@ Post:
 # Retcons and Clarifications 
 
 # Recap
+   - Searched the camp
+	   - found ratty 
+	   - found a note in sylv
+	   - found a spark thrower
    - 
 # Impressions
    - 
