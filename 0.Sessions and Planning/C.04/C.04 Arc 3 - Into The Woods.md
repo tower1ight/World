@@ -18,14 +18,11 @@ This is really our first travel session, what do i want, I want good presentatio
 #### Current
 - [ ] Needs
 	- [x] Recap
-	- [ ] Run an encounterr 
-	- [ ] Mindless Myths
-	- [ ] Iron out the pact
 	- [ ] stalk seer
 	- [ ] dwelling 
 	- [ ] post battle scene 
 	- [ ] write a running a goblin peripheral
-	- [ ] Decide What their currency is!!!!!!!!!!!!
+	- [ ] Decide What their currency is!!!!!!!!!!!!, split, divesting from the network new metal infused metal chips
 	- [ ] Infection Tracker and Mechanic
 	- [ ] ambient travel music 
 	- [ ] figure out xp leveling
