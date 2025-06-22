@@ -157,6 +157,7 @@ This is really our first travel session, what do i want, I want good presentatio
 
  - solo encounter
 	 - An apparition of his guys CR 8
+	 - A wraith (will flee the scene if they a)
  - puzzle or rp
 	 - meet the goblins, gain access to the area 
 		 - Fizzle leak 
