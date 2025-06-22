@@ -103,8 +103,9 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 		 - It can see through eyes in the stalks, but it cannot see the past or the future
 		 - Will offer you a place to stay but isnt inclined to grant you information unless it is paid heavily in return (Generally helpful but requires a trade of information)
 			 -  knows your goal, will project an image of the soldiers trying to find you
-			 - tells you that you wont get far with that mask, lands a jab against deko
-			 - extends a level of trust to tall, 
+			 - tells you that you wont get far with that mask, lands a jab against deko for this reason extends a level of trust to tall, 
+			 - will explain that the goblins aren't united 
+			 - will tell you that answers lie in the past, find your lost refuse, see the battlefield with your eyes
  - **Rotten Seer:**
  - **[[The Carved Seer]]:** [[The Willow knight]]
 	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
