@@ -60,7 +60,7 @@ Progressing personal stories
 ## Landmarks
 
 #### Dwellings 
- Dwellings should be representative of local customs, artistic and architectural trends
+ Dwellings should be representative of local customs, artistic and architectural trends 
  - **Gristleak's Orchard**: mold farm and textile maker 
 	 - The air is thick humid, you feel energized walking through a feild of elevated chambers, slightly opaqe and with small leaks forming at the seals where airflow is directed and the membrane is stressed from years of wear. they send you on a fetch quest to get chamber sealant, a weaving mill has goblins creating scafolding for [[mold]] to fill in the gaps,
 	 - Busshels of mold have been stolen and they need to be returned 
@@ -94,13 +94,15 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 		 - Wants Praise and elaborate celebrations will prompt compliments
  - **[[The Stalk Seer]]:**
 	 - Sanctuary
-		 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, 
-		 - Stalk fiber sits around the room in large piles being woven by acolytes, 
+		 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, all built with respect to an enormous stalk
+		 - Stalk fiber sits around the room in large piles being woven by acolytes,  
 	 - Acolytes
+		 - Bodies resemble large stick insects, 4 sets of arms and large mandibles
 	 - Seer
 		 - stalk seer sits on a mat nots in the stalk open and reveal eyes, much more down to earth in this way
 		 - it can telepathically communicate w/ u 
 		 - It can see through eyes in the stalks, but it cannot see the past or the future
+		 - Something is awakens
  - **Rotten Seer:**
  - **[[The Carved Seer]]:** [[The Willow knight]]
 	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
