@@ -75,10 +75,14 @@ History
 - Temple Project
 - used to put down alchemist secession and remaining alchemist  
 - Xylaan goes out for cigies
-- Separatist movement begins to get traction
+- Separatist movement begins to get traction\
+
+#### Systems and Hierarchy
+Populist goblins divesting from network based currecny 
+
  
- 
- 
+# Nonsense and Creative Space
+
 big fans and straws syphon sugar and 
 
 
