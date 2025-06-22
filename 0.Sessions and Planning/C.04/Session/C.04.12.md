@@ -22,9 +22,10 @@ Post:
 	   - did not respond to normal stimulus, touching proding etc
 	   - speaking sylvan seemed to still it
    - Returned to the research lab 
+	   - foun
 	   - traded findings
 	   - they attempted to detain you
 	   - you fled, failed to outrun them
-	   - 
+	   - the fight was uneven and the pursuers made the choice to stay and lick their wounds, they will be following you 
 # Impressions
    - 
