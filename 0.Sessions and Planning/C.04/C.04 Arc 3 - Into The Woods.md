@@ -147,6 +147,7 @@ This is really our first travel session, what do i want, I want good presentatio
 	- Aftermath 
 		- Soliders things
 			- Oil, an uncommon spark thrower
+			- You see thises boddies more clearly, ragged , almost ferral with the
 		- Goblin body assassin
 			- A note in sylvan: Some rough goblin translations on the note
 			- Check in on the mindless, ensure they are supplied for their task
