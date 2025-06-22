@@ -12,7 +12,7 @@ Prev: [[C.04.10]]
 Post: [[C.04.12]]
 
 # Retcons and Clarifications 
-- ok so tall the ring of mind sheilding did not have the effect i was talking about
+- ok so tall the ring of mind shielding did not have the effect i was talking about
 # Recap
    - big fight
 

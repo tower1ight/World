@@ -151,7 +151,7 @@ This is really our first travel session, what do i want, I want good presentatio
 		- Goblin body assassin
 			- A note in sylvan: Some rough goblin translations on the note
 			- Check in on the mindless, ensure they are supplied for their task
-			- steer clear of the stalk seer, deco would be a able to pin point where these coordinates are 
+			- steer clear of the stalk seer, deco would be a able to pin point where these coordinates are w
 			- 
 
 ## ACT II
@@ -161,7 +161,7 @@ This is really our first travel session, what do i want, I want good presentatio
  - solo encounter
 	 - An apparition of his guys CR 8
 	 - asks if they are friend or foe, if they are friend they are told to get outa
-	 - A wraith sgt March (will flee the scene if they are loosing)
+	 - A halfling wraith sgt March drapped inb (will flee the scene if they are loosing)
 	 - 3 other shadows
  - puzzle or rp
 	 - meet the goblins, gain access to the area 
@@ -175,7 +175,7 @@ This is really our first travel session, what do i want, I want good presentatio
  - climax battle or conflict 
 	 - the ghost and his gooey guys
  - Consciousness 
-	 - Commander kael, 1st division, Glory to the queen
+	 - [[Commander Kael]], 1st division, Glory to the queen
 	 - Lets you see through his eyes
 	 - asks you to kill him 
 	 - Can tell you about the possession
