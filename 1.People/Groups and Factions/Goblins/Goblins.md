@@ -37,29 +37,18 @@ Work in concert with xylaan
 	- [[{Sepratist Goblins}]]
 	- [[{Theives Court}]]
 #### Geography
--  - 
-
- -
- - large industry surrounding mold production: Can be programed and infused in a variety of ways to produce different effects of the substance
-	 - Sand and mineral infustion for most building materials 
-	 - Metal infused pastic like material, grown in molds, better smiths use enchantments for enhanced properties
-	 - hypha grown in strings woven into something like linen 
-	 - grown in thin sheets to create a thicker fabric that can serve a wide variety of purposes, lauded for insulation properties
-	 - Living material, often for clothes, decore, or functional building material
-	 - grown in sheets for a starch, often shreaded into something like rice, delicacy grown in pig blood
+ 
 - death and bodies
 	- go in the ground
 	- many people choose important places
 	- sometimes thats impossible 
 
 
- ### Projects
+#### Projects
  - Pipes and material transport
  - waste transport
  - sanctuary project
- - 
-
-History
+#### History
 - falling out of favor in court
 - immigration to xylaan {named figure}
 - cut off
@@ -77,8 +66,18 @@ History
 - Xylaan goes out for cigies
 - Separatist movement begins to get traction\
 
-#### Systems and Hierarchy
-Populist goblins divesting from network based currecny 
+#### Industry
+- large industry surrounding mold production: Can be programed and infused in a variety of ways to produce different effects of the substance
+	 - Sand and mineral infustion for most building materials 
+	 - Metal infused pastic like material, grown in molds, better smiths use enchantments for enhanced properties
+	 - hypha grown in strings woven into something like linen 
+	 - grown in thin sheets to create a thicker fabric that can serve a wide variety of purposes, lauded for insulation properties
+	 - Living material, often for clothes, decore, or functional building material
+	 - grown in sheets for a starch, often shreaded into something like rice, delicacy grown in pig blood
+# Systems and Hierarchys
+#### Currency and Commerce 
+Populist goblins divesting from network based currency
+bbugb
 
  
 # Nonsense and Creative Space
