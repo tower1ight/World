@@ -10,6 +10,9 @@ Campaign: [[C.04 Planning and outline]]
 ARC: [[C.04 Arc 3 - Into The Woods]]
 Prev: [[C.04.10]]
 Post: [[C.04.12]]
+
+# Retcons and Clarifications 
+- ok so tall the ring of mind sheilding did not have the effect i was talking about
 # Recap
    - big fight
 
