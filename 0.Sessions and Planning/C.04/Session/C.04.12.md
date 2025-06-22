@@ -30,6 +30,9 @@ Post:
 # Impressions
    - pretty good, investigation went smoothly, 
    - the myth did not get as much attention as i thought it would
-
+	   - didnt say they were entering a dream
+   - Quick thinking putting in your pursuers bravo
 # Things to Prep
 - PC retainer rules
+- rules for restrqaining'
+- exhastion rules for not sleeping durring travel
