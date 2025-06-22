@@ -147,10 +147,11 @@ This is really our first travel session, what do i want, I want good presentatio
 	- Aftermath 
 		- Soliders things
 			- Oil, an uncommon spark thrower
-			- You see thises boddies more clearly, ragged , almost ferral with the
+			- You see these bodies more clearly, ragged , almost wild with disrepair close has been stitched with dried sinew and clearly used and washed again and again and again
 		- Goblin body assassin
 			- A note in sylvan: Some rough goblin translations on the note
 			- Check in on the mindless, ensure they are supplied for their task
+			- steer clear of the stalk seer, deco would be a able to pin point where these coordinates are 
 			- 
 
 ## ACT II
