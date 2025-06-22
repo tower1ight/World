@@ -18,6 +18,7 @@ This is really our first travel session, what do i want, I want good presentatio
 #### Current
 - [ ] Needs
 	- [x] Recap
+	- [ ] Run an encounterr 
 	- [ ] Mindless Myths
 	- [ ] Iron out the pact
 	- [ ] stalk seer
