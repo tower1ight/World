@@ -120,7 +120,7 @@ This is really our first travel session, what do i want, I want good presentatio
 			- seagreen tint to their armor
 			- Feudal 
 	- clue at a ridge that peaks above the stalks and allows for an unobstructed veiw of [[{the Woven City}]] and the  
-- **Battle at the camp (CR 9 difficulty standard high)
+- **Battle at the Camp** (CR 9 difficulty standard high)
 	- Parameters
 		- Terrain
 		- Atmosphere: dusk, sppoky 
@@ -144,8 +144,10 @@ This is really our first travel session, what do i want, I want good presentatio
 			- salted fish
 			- a little map detailing nearby locations 
 			- a note in goblin about avoiding the stalk seer, burning the dwelling and a number of smaller single home places 
-			- 
-ohhh im sleeep
+	- Aftermath 
+		- Soliders things
+			- Oil, an uncommon spark thrower
+		- Goblin body
 
 ## ACT II
  - Entrance, guardian 

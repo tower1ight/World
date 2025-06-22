@@ -76,7 +76,7 @@ Work in concert with xylaan
 	 - grown in sheets for a starch, often shreaded into something like rice, delicacy grown in pig blood
 # Systems and Hierarchys
 #### Currency and Commerce 
-Populist goblins divesting from network based currency
+Populist goblins: divesting from network based currency, they have dev3eloped as crystalized mold coil: one side has a smooth edge, another has a pic
 bbugb
 
  
