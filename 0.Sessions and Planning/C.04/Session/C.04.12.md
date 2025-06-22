@@ -16,8 +16,15 @@ Post:
 # Recap
    - Searched the camp
 	   - found ratty 
-	   - found a note in sylv
+	   - found a note in sylvan on the goblins
 	   - found a spark thrower
-   - 
+   - Carried the unconscious solider away
+	   - did not respond to normal stimulus, touching proding etc
+	   - speaking sylvan seemed to still it
+   - Returned to the research lab 
+	   - traded findings
+	   - they attempted to detain you
+	   - you fled, failed to outrun them
+	   - 
 # Impressions
    - 
