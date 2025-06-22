@@ -99,10 +99,11 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 	 - Acolytes
 		 - Bodies resemble large stick insects, 4 sets of arms and large mandibles
 	 - Seer
-		 - stalk seer sits on a mat nots in the stalk open and reveal eyes, much more down to earth in this way
+		 - stalk seer sends out a physicic 
 		 - it can telepathically communicate w/ u 
 		 - It can see through eyes in the stalks, but it cannot see the past or the future
-		 - Something is awakens
+		 - Something is awakens, and swallow me whole, mind and flesh
+		 - 
  - **Rotten Seer:**
  - **[[The Carved Seer]]:** [[The Willow knight]]
 	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
