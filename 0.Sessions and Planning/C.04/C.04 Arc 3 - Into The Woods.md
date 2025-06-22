@@ -147,9 +147,10 @@ This is really our first travel session, what do i want, I want good presentatio
 	- Aftermath 
 		- Soliders things
 			- Oil, an uncommon spark thrower
-			- 
 		- Goblin body assassin
-		- 
+			- A note in sylvan: 
+			- Some rough goblin translations on the note
+			- 
 
 ## ACT II
  - Entrance, guardian 
