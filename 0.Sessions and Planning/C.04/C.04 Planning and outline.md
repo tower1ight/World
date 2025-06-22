@@ -101,12 +101,10 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 	 - Seer
 		 - stalk seer sends out a psychic feeling of warmth and welcome, it can telepathically communicate w/ u 
 		 - It can see through eyes in the stalks, but it cannot see the past or the future
-		 - Will offer you a place to stay but isnt inclined to grant you information unless it is granted What info will it offer (Generally helpful but requires a trade of information)
-			 -  
-			 - knows your goal, will project an image of the soldiers trying to find you
-		 - tells you that you wont get far with that mask,
-		 - extends a level of trust to tall, 
-		 - Something is awakens, and will soon try to swallow me whole, mind and flesh
+		 - Will offer you a place to stay but isnt inclined to grant you information unless it is paid heavily in return (Generally helpful but requires a trade of information)
+			 -  knows your goal, will project an image of the soldiers trying to find you
+			 - tells you that you wont get far with that mask, lands a jab against deko
+			 - extends a level of trust to tall, 
  - **Rotten Seer:**
  - **[[The Carved Seer]]:** [[The Willow knight]]
 	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
