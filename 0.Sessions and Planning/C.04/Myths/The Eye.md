@@ -13,7 +13,7 @@ How are  we framing this this is a digital landscape
 # Omens
 1. Dream of the earth, see faceted worms, see shimmering grass curl and ripple, moving in concert with the mist above, See a fissure open and an iris before you, that grass becoming eyelashes, a pupil hungrily darting
 2. ksdfksd
-3. A swarm of Birds 
+3. A swarm of Birds forms the shape of an eye
 4. a group Acolytes
  4.
  5.
