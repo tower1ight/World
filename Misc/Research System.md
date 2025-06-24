@@ -11,6 +11,7 @@ Add ons
 | Bonus | Grants           |
 | ----- | ---------------- |
 | 50    | Research Station |
+|       |                  |
 
 Are you in a research station: +10
 
