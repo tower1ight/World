@@ -212,7 +212,7 @@ This is really our first travel session, what do i want, I want good presentatio
 - **A Town**
 	- Village sized, around 300 Goblins
 	- A minor village on a small creek
-	- 
+		- Mainly grows and trains warspiders 
 	- 
 - baricade up
 - Is it problematic that the goblins have mind control? slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
