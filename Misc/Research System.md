@@ -15,8 +15,9 @@ Add ons
 | 20    | Spoken to someone with intimate knowledge |
 | 40    | Exchanged research with a peer            |
 | 10    | Low Funding                               |
-| 15    | Neutral Funding                           |
-| 20    | Extensive Funding                         |
-| 1 pD  | Time                                      |
+| 25    | Neutral Funding                           |
+| 50    | Extensive Funding                         |
+| 1     | Bonus add per day                         |
 
 
+Potential projects to find out in the wild
