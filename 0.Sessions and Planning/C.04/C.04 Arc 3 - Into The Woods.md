@@ -154,7 +154,7 @@ This is really our first travel session, what do i want, I want good presentatio
 			- steer clear of the stalk seer, deco would be a able to pin point where these coordinates are w
 			- 
 
- ## ACT II
+## ACT II
  - Entrance, guardian 
 	 - **Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
 
@@ -213,7 +213,13 @@ This is really our first travel session, what do i want, I want good presentatio
 	- Village sized, around 300 Goblins
 	- A minor village on a small creek
 		- Mainly grows and trains warspiders 
-	- 
+	- Who is at play 
+		- mayor
+		- [[Commander Kael]]
+		- wyrmtongue
+	- What are the verbs
+		- Defend the town 
+		- Descilate
 - baricade up
 - Is it problematic that the goblins have mind control? slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
 
