@@ -12,6 +12,7 @@ Add ons
 | ----- | ---------------- |
 | 50    | Research Station |
 |       |                  |
+| w     |                  |
 
-Are you in a research station: +10
+Are you in a research station: 
 
