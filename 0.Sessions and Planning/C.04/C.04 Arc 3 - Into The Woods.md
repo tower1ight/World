@@ -213,13 +213,13 @@ This is really our first travel session, what do i want, I want good presentatio
 	- Village sized, around 300 Goblins
 	- A minor village on a small creek
 		- Mainly grows and trains warspiders 
-	- Who is at play 
-		- mayor
-		- [[Commander Kael]]
-		- wyrmtongue
-	- What are the verbs
-		- Defend the town 
-		- Descilate
+- Who is at play 
+	- mayor
+	- [[Commander Kael]]
+	- wyrmtongue
+- What are the verbs
+	- Defend the town
+	- Prevent a war 
 - baricade up
 - Is it problematic that the goblins have mind control? slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
 
