@@ -10,15 +10,14 @@ Add ons
 
 | Bonus | Grants                                    |
 | ----- | ----------------------------------------- |
-|       | At Research Station                       |
-|       | Spoken to someone with passing knowledge  |
-|       | Spoken to someone with intimate knowledge |
-|       | Ex                                        |
-|       | Low Funding                               |
-|       | Neutral Funding                           |
-|       | Extensive Funding                         |
-|       | Time                                      |
-|       |                                           |
+| 30    | In a research station                     |
+| 10    | Spoken to someone with passing knowledge  |
+| 20    | Spoken to someone with intimate knowledge |
+| 40    | Exchanged research with a peer            |
+| 10    | Low Funding                               |
+| 15    | Neutral Funding                           |
+| 20    | Extensive Funding                         |
+| 1 pD  | Time                                      |
 
 Are you in a research station: 
 
