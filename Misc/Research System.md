@@ -10,7 +10,7 @@ Add ons
 
 | Bonus | Grants                                    |
 | ----- | ----------------------------------------- |
-| 30    | In a research station                     |
+| 50    | In a research station                     |
 | 10    | Spoken to someone with passing knowledge  |
 | 20    | Spoken to someone with intimate knowledge |
 | 40    | Exchanged research with a peer            |
@@ -19,5 +19,4 @@ Add ons
 | 20    | Extensive Funding                         |
 | 1 pD  | Time                                      |
 
-Are you in a research station: 
 
