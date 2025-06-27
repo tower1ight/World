@@ -219,7 +219,8 @@ This is really our first travel session, what do i want, I want good presentatio
 	- wyrmtongue
 - What are the verbs
 	- Defend the town
-	- Prevent a war 
+	- Defuse a Bomb
+	- prevent a massacre 
 - baricade up
 - Is it problematic that the goblins have mind control? slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
 
