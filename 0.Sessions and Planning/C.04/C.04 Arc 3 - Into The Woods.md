@@ -28,7 +28,7 @@ This is really our first travel session, what do i want, I want good presentatio
 
 - [ ] Wants
 	- [ ] Configure VTT
-		- [ ] new audio
+		- [ ] new aud io
 	- [ ] Name Li
 	- [ ]  write a running a goblin peripheral
 	- [ ] answer beas queries 
