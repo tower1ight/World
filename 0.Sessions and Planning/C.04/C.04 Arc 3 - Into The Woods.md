@@ -25,6 +25,7 @@ This is really our first travel session, what do i want, I want good presentatio
 	- [ ] Infection Tracker and Mechanic
 	- [ ] ambient travel music 
 	- [ ] figure out xp leveling
+	- [ ] make the journals vissible 
 
 - [ ] Wants
 	- [ ] Configure VTT
