@@ -26,6 +26,7 @@ This is really our first travel session, what do i want, I want good presentatio
 	- [ ] ambient travel music 
 	- [ ] figure out xp leveling
 	- [ ] make the journals vissible 
+	- [ ] describe the aura and how people react to it
 
 - [ ] Wants
 	- [ ] Configure VTT
