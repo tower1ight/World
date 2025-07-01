@@ -78,6 +78,16 @@ Progressing personal stories
 			 -  one of the goblins kights,  [[Sir Beligerant]] sits on stool eyes lowered    
 		 - 
 
+### Monument
+ Monuments are preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]] they might be able to discern stylistic history, what the monument is and has been 
+ - **Leaving the garden:** 
+	 - massacre of remaining alchemists, and deserters caught, a wyvern with iredecent black scales hovers about: 
+	 - Alchemists had lines, a shield wall and standard ww, but a flaming arrow strakes a flag with a single black scale. still attempting to keep discipline, kobolds have dissolved into their fighting squadrons attempting to reform the original structure. but five behemoth spiders cross the ridge, all of them stark white, clad in spotless mold-silver armor, the lead carrying a huge gilded command platform king glubliet standing at its head cape billowing in the wind, your breath catches as they barrel towards them, cutting them off and smashing these little islands apart. routed now, their retreat becomes a dash, trying to flee barbed legs and crooked arrows zipping in every direction. 
+ - **A New Court:**
+	 - development of the grove, a goblin settlement
+ - **Sealed from the world:** 
+	 - Ocean veiw off a cliff as the wind picks up and boats crushed against a storm maybe
+
 #### Sanctuaries 
 Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] kept by the [[The Entangled|Seers]]. Most will contain a seer bent and contorted around the node at all times, many important nodes will have one or more seers who have chosen to embed themselves into the [[mycelium]]. The design of individual temples can vary but most have some form of material documentation of [[Xylaan]] and its worship or history.
  
@@ -120,16 +130,6 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 		 - Larceny
 		 - Belligerence
 		 - Sadism 
-
-### Monument
- Monuments are preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]] they might be able to discern stylistic history, what the monument is and has been 
- - **Leaving the garden:** 
-	 - massacre of remaining alchemists, and deserters caught, a wyvern with iredecent black scales hovers about: 
-	 - Alchemists had lines, a shield wall and standard ww, but a flaming arrow strakes a flag with a single black scale. still attempting to keep discipline, kobolds have dissolved into their fighting squadrons attempting to reform the original structure. but five behemoth spiders cross the ridge, all of them stark white, clad in spotless mold-silver armor, the lead carrying a huge gilded command platform king glubliet standing at its head cape billowing in the wind, your breath catches as they barrel towards them, cutting them off and smashing these little islands apart. routed now, their retreat becomes a dash, trying to flee barbed legs and crooked arrows zipping in every direction. 
- - **A New Court:**
-	 - development of the grove, a goblin settlement
- - **Sealed from the world:** 
-	 - Ocean veiw off a cliff as the wind picks up and boats crushed against a storm maybe
 
 ### Hazards 
  Xylaan fights your every step. Hazzards are an opportunity for you to engage with the violence and beauty of the world around you, highlight a species in each 
