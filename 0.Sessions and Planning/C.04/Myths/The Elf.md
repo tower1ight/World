@@ -20,7 +20,7 @@ aliases:
  4. Goblin and adepts dance clearing  in clearing, all saw the elf in dreams and have found the remnants of his glade, can easily become hostile
  5. Find the elf in his glade, attempts to pull something from your mind about the prism, offers a duel for your life 
 	 1. pull a courtly scion from beas document, someone decadent someone haughty
-   2. will polymorph on impropriety
+	 2. will polymorph on impropriety
 
 part of their soul pool is syphoned from the feywild
 
