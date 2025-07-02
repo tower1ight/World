@@ -19,8 +19,9 @@ Add ons
 | 10    | Spoken to someone with passing knowledge  |
 | 20    | Spoken to someone with intimate knowledge |
 | 40    | Exchanged research with a peer            |
-| 10    | Low Funding                               |
-| 25    | Neutral Funding                           |
+| -20   | No Funding                                |
+| 0     | Low Funding                               |
+|       | Neutral Funding                           |
 | 50    | Extensive Funding                         |
 | 1     | Bonus add per day                         |
 
