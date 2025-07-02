@@ -3,6 +3,8 @@ tags: []
 aliases:
 ---
 
+# Fantasy 
+- 
 # System
 D100 roll under, add up%
 
