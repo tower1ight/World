@@ -4,8 +4,11 @@ aliases:
 ---
 
 # Fantasy 
-- 
-# System
+- Independent research
+- Self Funded? Institutional partner? Indentured Servitude?
+- **Auxiliary:** 
+
+# Research Rolls
 D100 roll under, add up%
 
 Add ons
