@@ -15,7 +15,7 @@ aliases:
 # I: A seasson
   Passing from one hex to the next you see the **describe facets of the current season (prob like summer)** A chilling wind drifts through the stalks and ripples loose fabric in your clothes **whatever weather is happening stops abruptly but without almost as though it had always been that way**. stalk plants have started to whither, and loose seeds fill the air, and fall is upon you, you hear a clear voice singing in elvish 
  1. Dream of the Elf , Hear the Elf sing 
- 2. Stars Visible in daylight point towards the [[Prism]]
+ 2. Stars Visible in daylight point towards the [[Prism]], they you you an impression a feeling, almost like direction, 
  3. 
  4. Goblin followers and sycophants lounge in clearing, all saw the elf in dreams and have found the remnants of his glade, can easily become hostile
  5. Find the elf in his glade, attempts to pull something from your mind about the prism, offers a duel for your life 
