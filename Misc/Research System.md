@@ -10,7 +10,9 @@ aliases:
 
 # Rolls
 This system works best when research is a collaboration
-- Create Hypothesis
+**Project:**
+**Hypotheses:**
+**Roll:**
 
 Add ons
 
