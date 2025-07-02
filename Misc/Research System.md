@@ -9,21 +9,22 @@ aliases:
 - **Auxiliary:** We aren't playing a game about research, and more often than not research is something only one of your players will make a cornerstone of their character, this should be something light and the timeline of an  
 
 # Rolls
-This system works best when research is a colaboration
+This system works best when research is a collaboration
+- Create Hypothesis
 
 Add ons
 
 | Bonus | Grants                                    |
 | ----- | ----------------------------------------- |
-| 50    | In a research station                     |
+| 30    | In a research station                     |
 | 10    | Spoken to someone with passing knowledge  |
 | 20    | Spoken to someone with intimate knowledge |
-| 40    | Exchanged research with a peer            |
+| 30    | Exchanged research with a peer            |
 | -20   | No Funding                                |
 | 0     | Low Funding                               |
-|       | Neutral Funding                           |
-| 50    | Extensive Funding                         |
-| 1     | Bonus add per day                         |
+| 20    | Neutral Funding                           |
+| 30    | Extensive Funding                         |
+| 5     | Bonus add per Failed Roll                 |
 
 # Results
 #### Player
