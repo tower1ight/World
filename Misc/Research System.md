@@ -5,8 +5,8 @@ aliases:
 
 # Fantasy 
 - Independent research
-- Self Funded? Institutional partner? Indentured Servitude?
-- **Auxiliary:** 
+- **:** Self Funded? Institutional partner? Indentured Servitude?
+- **Auxiliary:** We aren't playing a game about research, and more often than not research is something only one of your players will make a cornerstone of their character 
 
 # Research Rolls
 D100 roll under, add up%
