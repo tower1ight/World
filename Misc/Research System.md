@@ -4,9 +4,9 @@ aliases:
 ---
 
 # Fantasy 
-- Independent research
-- **:** Self Funded? Institutional partner? Indentured Servitude?
-- **Auxiliary:** We aren't playing a game about research, and more often than not research is something only one of your players will make a cornerstone of their character 
+- **Scientific:** 
+- **Impactful:** Self Funded? Institutional partner? Indentured Servitude? This re
+- **Auxiliary:** We aren't playing a game about research, and more often than not research is something only one of your players will make a cornerstone of their character, this should be something light and the timeline of an  
 
 # Research Rolls
 D100 roll under, add up%
@@ -24,5 +24,3 @@ Add ons
 | 50    | Extensive Funding                         |
 | 1     | Bonus add per day                         |
 
-
-Potential projects to find out in the wild
