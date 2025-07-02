@@ -4,8 +4,8 @@ aliases:
 ---
 
 # Fantasy 
-- **Scientific:** 
-- **Impactful:** Self Funded? Institutional partner? Indentured Servitude? This re
+- **Scientific:** This research system is one interested in the production of knowledge over , there are many wonderful methods of creating personal projects and 
+- **Impactful:** Self Funded? Institutional partner? Indentured Servitude? This system imagines a player in the context of broader systems of research 
 - **Auxiliary:** We aren't playing a game about research, and more often than not research is something only one of your players will make a cornerstone of their character, this should be something light and the timeline of an  
 
 # Research Rolls
