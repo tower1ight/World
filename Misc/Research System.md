@@ -10,11 +10,10 @@ aliases:
 
 # Rolls
 This system works best when research is a collaboration
+
 **Project:**
 **Hypotheses:**
 **Roll:**
-
-Add ons
 
 | Bonus | Grants                                    |
 | ----- | ----------------------------------------- |
