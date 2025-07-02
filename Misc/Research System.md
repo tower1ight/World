@@ -5,11 +5,11 @@ aliases:
 
 # Fantasy 
 - **Scientific:** This research system is one interested in the production of knowledge rather than tools or advantages. As such it is best geared for chara  
-- **Impactful:** Self Funded? Institutional partner? Indentured Servitude? This system imagines a player in the context of broader systems of research 
+- **Impactful:** Self Funded? Institutional partner? Indentured Servitude? This system imagines a player in the context of a broader ecosystem of research 
 - **Auxiliary:** We aren't playing a game about research, and more often than not research is something only one of your players will make a cornerstone of their character, this should be something light and the timeline of an  
 
 # Rolls
-Ideally this system is one 
+This system works best when research is a colaboration
 
 Add ons
 
@@ -25,4 +25,7 @@ Add ons
 | 1     | Bonus add per day                         |
 
 # Results
+#### Player
+#### Partner
+#### World 
 
