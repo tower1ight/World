@@ -13,7 +13,7 @@ This system works best when research is a collaboration between the gm and the p
 
 **Project:**
 **Component Questions:**
-- Property study
+- Property
 - Environment 
 - Application 
 **Roll:**
