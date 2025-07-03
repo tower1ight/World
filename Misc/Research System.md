@@ -12,8 +12,10 @@ aliases:
 This system works best when research is a collaboration between the gm and the player
 
 **Project:**
-**Hypotheses:**
-- 
+**Component Questions:**
+- Property study
+- Environment 
+- Application 
 **Roll:**
 
 | Bonus | Grants                                                        |
