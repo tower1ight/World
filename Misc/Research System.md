@@ -9,23 +9,24 @@ aliases:
 - **Auxiliary:** We aren't playing game about research, if we were this would have a larger wordcount. If I'm doing my job correctly this system is short to explain, and easy to perform by the player. 
 
 # Rolls
-This system works best when research is a collaboration
+This system works best when research is a collaboration between the gm and the player
 
 **Project:**
 **Hypotheses:**
+- 
 **Roll:**
 
-| Bonus | Grants                                    |
-| ----- | ----------------------------------------- |
-| 30    | In a research station                     |
-| 10    | Spoken to someone with passing knowledge  |
-| 20    | Spoken to someone with intimate knowledge |
-| 30    | Exchanged research with a peer            |
-| -20   | No Funding                                |
-| 0     | Low Funding                               |
-| 20    | Neutral Funding                           |
-| 30    | Extensive Funding                         |
-| 5     | Bonus add per Failed Roll                 |
+| Bonus | Grants                                                        |
+| ----- | ------------------------------------------------------------- |
+| 30    | In a research station                                         |
+| 10    | Gained useful information from someone with passing knowledge |
+| 20    | Spoken to someone with intimate knowledge                     |
+| 30    | Exchanged research with a peer                                |
+| -20   | No Funding                                                    |
+| 0     | Low Funding                                                   |
+| 20    | Neutral Funding                                               |
+| 30    | Extensive Funding                                             |
+| 5     | Bonus add per Failed Roll                                     |
 
 # Results
 #### Player
