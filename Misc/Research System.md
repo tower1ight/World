@@ -3,10 +3,9 @@ tags: []
 aliases:
 ---
 
-# Fantasy 
-- **Scientific:** This research system is one interested in the production of knowledge rather than tools or advantages. As such it is best geared for characters interesting in field research\
-- 
-- **Impactful:** This system imagines a player in the context of a broader ecosystem of research, one organized by larger and more powerful entities than the players 
+# What is this
+- **Scientific:** This research system is one interested in the production of knowledge rather than mechanical tools or advantages. As such it is best geared for characters interesting in field research
+- **Contracted:** This system imagines a player in the context of a broader ecosystem of research, one organized by larger and more powerful entities than the players, completed projects
 - **Auxiliary:** We aren't playing a game about research, and more often than not research is something only one of your players will make a cornerstone of their character, this should be something light and the timeline of an  
 
 # Rolls
