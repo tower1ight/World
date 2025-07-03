@@ -3,10 +3,10 @@ tags: []
 aliases:
 ---
 
-# What is this
+# What are we doing here
 - **Scientific:** This research system is one interested in the production of knowledge rather than mechanical tools or advantages. As such it is best geared for characters interesting in field research
 - **Contracted:** This system imagines a player in the context of a broader ecosystem of research, one organized by larger and more powerful entities than the players, completed projects
-- **Auxiliary:** We aren't playing a game about research, and more often than not research is something only one of your players will make a cornerstone of their character, this should be something light and the timeline of an  
+- **Auxiliary:** We aren't playing game about research, if we were this would have a larger wordcount. If I'm doing my job correctly this system is short to explain, and easy to perform by the player. This does h
 
 # Rolls
 This system works best when research is a collaboration
