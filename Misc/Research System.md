@@ -4,10 +4,10 @@ aliases:
 ---
 
 # What are we doing here
-- **Ecological:** This is something made for a game with anecological focus, one where travel, chance encounters, and loot tables are emphasized
-- **Scientific:** This research system is one interested in the production of knowledge rather than mechanical tools or advantages. As such it is best geared for characters interesting in field research
+- **Ecological:** This is something made for a game with an ecological focus, one where travel and interfacing with nature is emphasized
+- **Scientific:** This research system is one interested in the production of knowledge rather than mechanical tools or advantages. As such it is best geared for characters opting in or independently interesting in field research as an aspect of their character
 - **Contracted:** This system imagines a player in the context of a broader ecosystem of research, one organized by larger and more powerful entities than the players, projects require funding and funding does not come without justification. Completed projects and the discoveries they bring should make their way into the fabric of the world, people will build off of them.
-- **Auxiliary:** We aren't playing game about research, if we were this would have a larger wordcount. If I'm doing my job correctly this system is short to explain, and easy to perform by the player. 
+- **Auxiliary:** This isnt a game abou, if we were this would have a larger wordcount. If I'm doing my job correctly this system is short to explain, and easy to perform by the player. 
 
 # Rolls
 This system works best when research is a collaboration between the gm and the player
