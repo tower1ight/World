@@ -14,9 +14,7 @@ This system works best when research is a collaboration between the gm and the p
 
 **Project:**
 **Grants:**
-- Property
-- Environment 
-- Application 
+Hex System? 
 **Roll:**
 
 | Bonus | Grants                                                        |
