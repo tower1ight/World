@@ -22,7 +22,7 @@ Post:
 - 
 
 # Recap
-- omenencounter the marks of the soliders expedition
+- omen: encounter the marks of the soldiers expedition
 
 # Impressions
    - 
