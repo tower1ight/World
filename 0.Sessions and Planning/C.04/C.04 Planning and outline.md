@@ -106,9 +106,9 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 		 - Wants Praise and elaborate celebrations will prompt compliments
  - **[[The Stalk Seer]]:**
 	 - Sanctuary
-		 - A sun dappled clearing holding the only built structure you've seen in this place 
+		 - A sun dappled clearing holding the only built structure you've seen in this place, You can smell something like fermentation comming piles of plant debris beside the building. Something stick like removes itself from the face of the hut another from a pile, they see
 		 - Enter a grand structure of stalks bent hutlike into curved shapes in sequence, all built with respect to an enormous stalk
-		 - You can smell something like fermentation comming
+	
 		 - Stalk fiber sits around the room in large piles being woven by acolytes,  
 	 - Acolytes
 		 - Bodies resemble large stick insects, 4 sets of arms and large mandibles
