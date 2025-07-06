@@ -67,6 +67,12 @@ Progressing personal stories
 		 - investigating will let you see scorch marks above the lines
 	 - following the lines you find yoursdelf at a large domed structure with several offset structures
 		 - a tank of brown liquid that is connected to them with a lattice work of  
+	 - Gristleleak:
+		 - BENIGN ANNOYANCE: Taps pen on teeth, drumws fingers when waiting, flicks Zippo open and closed, minor situational catchphrase, etc.
+		 - owner of the place
+	 - Nettlegrin
+		 - herbalist and mold grower
+		 - suspicipous of yopu 
  - **Here kitty kitty**
  - **Ritual to the mothers:** 
 	 - you see one of the domed structures you have come to know as a goblin home smoke billows from a very small hut carved out of the body of a stalk, 
