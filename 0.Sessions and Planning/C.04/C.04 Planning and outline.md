@@ -66,7 +66,7 @@ Progressing personal stories
 		 - tall gets the strongest urge to put her mouth to the orifices on the side of whatever tube this is
 		 - investigating will let you see scorch marks above the lines
 	 - following the lines you find yoursdelf at a large domed structure with several offset structures
-		 - a tank of brown liquid that is  connected to them 
+		 - a tank of brown liquid that is connected to them with a lattice work of  
  - **Here kitty kitty**
  - **Ritual to the mothers:** 
 	 - you see one of the domed structures you have come to know as a goblin home smoke billows from a very small hut carved out of the body of a stalk, 
