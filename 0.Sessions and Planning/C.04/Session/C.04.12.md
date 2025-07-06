@@ -17,6 +17,8 @@ Post: [[C.04.13]]
 
 
 its the fantasy equivalent of Monday and the 40th day of this month
+xp
+- 
 
    - Searched the camp
 	   - found ratty 
