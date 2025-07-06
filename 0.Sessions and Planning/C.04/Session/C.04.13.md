@@ -19,9 +19,10 @@ Post:
 # Retcons and Clarifications 
 - 
 # Things that might come up
+- 
 
 # Recap
-   - 
+- omenencounter the marks of the soliders expedition
 
 # Impressions
    - 
