@@ -14,6 +14,9 @@ Post:
 # Retcons and Clarifications 
 
 # Recap
+
+its the fantasy equivalent of Monday and the 40th day of this month
+
    - Searched the camp
 	   - found ratty 
 	   - found a note in sylvan on the goblins
