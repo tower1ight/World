@@ -11,16 +11,15 @@ ARC: [[C.04 Arc 3 - Into The Woods]]
 Prev: 
 Post:
 
+[[C.04 Planning and outline#s]]
 
 
 
 
 # Retcons and Clarifications 
+- 
+# Things that might come up
 
-
-
-
-# Things 
 # Recap
    - 
 
