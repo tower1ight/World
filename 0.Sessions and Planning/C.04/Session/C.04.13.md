@@ -35,6 +35,9 @@ Post:
 - the stalk seer 
 	- saw the stalk seer, shared moments of your past, "inocuous" moments of home
 	- salk seer accepted payment and told you to finish your task, to hunt down the mindless, that they are "moving" and that you would find answers at the battlefield
-	- upon prompting poe took off their mask aand began the process o
+	- upon prompting poe took off their mask aand began the process of changing 
 # Impressions
-   - 
+- really good session
+- omens were pretty condensed but lots of good stuff
+- poe taking off their mask went really well, i nailed the description
+- 
