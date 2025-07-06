@@ -23,7 +23,16 @@ Post:
 
 # Recap
 - omen: encounter the marks of the soldiers expedition
-	- Tall 
-
+	- Tall has a nam flashback
+	- you feel a sense of foreboding
+- The surgery convo
+	- Node on tall discovered
+	- surgery was threatened
+	- 
+- Omen: the Uzumaki rock 
+	- Bill gets lost in it
+	- violence wins
+- the stalk seer 
+	- 
 # Impressions
    - 
