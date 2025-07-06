@@ -23,6 +23,7 @@ Post:
 
 # Recap
 - omen: encounter the marks of the soldiers expedition
+	- Tall 
 
 # Impressions
    - 
