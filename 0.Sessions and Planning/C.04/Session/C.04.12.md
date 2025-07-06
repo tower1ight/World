@@ -20,7 +20,7 @@ its the fantasy equivalent of Monday and the 40th day of this month
 xp
 - 100 for the session
 - 100 for the frist omen of the eyye
-- 220 for the fight 
+- 220 for the fight   lksdj klpasdkkk 
 
    - Searched the camp
 	   - found ratty 
