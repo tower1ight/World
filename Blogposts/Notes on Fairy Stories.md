@@ -7,5 +7,6 @@ Though far from an expert ive found myself writing about the fey for ttrpgs for 
 
 # The Good People 
 - fariy stories happen to people, the fey are conceptual, they hold the weight of imagination 
-- Fairy
+- Fairy stories are fables, tales with a strong sense of right and wrong, that reason does not come from the faries themselves, it comes from god the narator
+- 
 
