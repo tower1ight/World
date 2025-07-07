@@ -7,7 +7,8 @@ Though far from an expert ive found myself writing about the fey for ttrpgs for 
 
 # The Good People 
 - fariy stories happen to people, the fey are conceptual, they hold the weight of imagination 
-	- If you run them like people 
+	- When writing fey NPCs take care to write a few rules and non negotiables, 
+	- What kind of deference and etiquette do they expect, 
 - Fairy stories are fables, tales with a strong sense of right and wrong, this is not to be confused with morality, morality is arguable, fairy stories are often dogmatic stories about what is done and what is not done. that judgement does not come from the faries themselves, it comes from god the narator
 - 
 
