@@ -19,7 +19,11 @@ Hex System: Generalized catagory building blocks
 - core hex to perimeter for more specialized knowledge 
 - physiology, Behavior, 
 To Butcher
+- increasing value to parts and peices
 To Banter
+- Intuit 
+- Observe
+- Speak
 To 
 - 
 **Roll:**
