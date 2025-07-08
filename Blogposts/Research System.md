@@ -22,7 +22,7 @@ To Butcher (physiology)
 - increasing value to parts and peices
 To Banter (Behavior)
 - Intuit 
-- Observe
+- Understand
 - Speak
 To Environment 
 - 
