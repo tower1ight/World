@@ -15,17 +15,7 @@ This system works best when research is a collaboration between the gm and the p
 
 **Project:**
 **Grants:**
-Hex System: Generalized catagory building blocks
-- move from the inside to the out 
-- physiology, Behavior, 
-To Butcher (physiology)
-- increasing value to parts and peices
-To Banter (Behavior)
-- Intuit 
-- Understand
-- Speak
-To Environment 
-- 
+- Each empty hex represents a potential question
 **Roll:**
 
 | Bonus | Grants                                                        |
