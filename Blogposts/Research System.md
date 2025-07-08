@@ -18,13 +18,13 @@ This system works best when research is a collaboration between the gm and the p
 Hex System: Generalized catagory building blocks
 - core hex to perimeter for more specialized knowledge 
 - physiology, Behavior, 
-To Butcher
+To Butcher (physiology)
 - increasing value to parts and peices
-To Banter
+To Banter (Behavior)
 - Intuit 
 - Observe
 - Speak
-To 
+To Environment 
 - 
 **Roll:**
 
