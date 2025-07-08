@@ -14,7 +14,9 @@ aliases:
 This system works best when research is a collaboration between the gm and the player
 
 **Project:**
-- Each project starts when a player 
+- A research project starts when a player expresses their interest and expresses the kind of inquiry they are making
+- Biologi
+- Phenomena:
 **Grants:**
 - Each empty hex prompts a question, a player sets off sets off to answer, so long as the powers that be permit it 
 - Answers will be forthcoming with successful research rolls
