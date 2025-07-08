@@ -15,7 +15,8 @@ This system works best when research is a collaboration between the gm and the p
 
 **Project:**
 **Grants:**
-- Each empty hex represents a potential question
+- Each empty hex prompts a question, a player sets off sets off to answer, so long as the powers that be permit it 
+- Answers will be forthcoming with successful research rolls
 **Roll:**
 
 | Bonus | Grants                                                        |
