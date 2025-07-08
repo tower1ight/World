@@ -14,6 +14,7 @@ aliases:
 This system works best when research is a collaboration between the gm and the player
 
 **Project:**
+- Each project starts when a player 
 **Grants:**
 - Each empty hex prompts a question, a player sets off sets off to answer, so long as the powers that be permit it 
 - Answers will be forthcoming with successful research rolls
@@ -24,12 +25,11 @@ This system works best when research is a collaboration between the gm and the p
 | 30    | In a research station                                         |
 | 10    | Gained useful information from someone with passing knowledge |
 | 20    | Spoken to someone with intimate knowledge                     |
-| 30    | Exchanged research with a peer                                |
 | -20   | No Funding                                                    |
 | 0     | Low Funding                                                   |
 | 20    | Neutral Funding                                               |
 | 30    | Extensive Funding                                             |
-| 5     | Bonus add per Failed Roll                                     |
+| 5     | Bonus per Failed Roll on a given project                      |
 
 # Results
 #### Player
