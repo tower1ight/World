@@ -6,7 +6,7 @@ aliases:
 Though far from an expert ive found myself writing about the fey for ttrpgs for some time now. I could be looking in the wrong places but as far as I can tell most official books fail to give useful direction on adventure structure when it comes to residents of Faerie. 
 
 # The Good People 
-- They have minimal respect for reason and less respect for morality, the carnal a
+- have minimal respect for reason and less respect for morality, "their cheif ocupations are feasting, fighting, and making lo"
 - fariy stories happen to people, the fey are conceptual, prickly and sensitive creatures, people do their best to not provoke them 
 	- When writing fey NPCs take care to write a core things  
 	- What kind of deference and etiquette do they expect,
