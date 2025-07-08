@@ -16,7 +16,7 @@ This system works best when research is a collaboration between the gm and the p
 **Project:**
 **Grants:**
 Hex System: Generalized catagory building blocks
-- core hex to perimeter for more specialized knowledge 
+- move from the inside to the out 
 - physiology, Behavior, 
 To Butcher (physiology)
 - increasing value to parts and peices
