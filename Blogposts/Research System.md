@@ -14,8 +14,8 @@ aliases:
 This system works best when research is a collaboration between the gm and the player
 
 **Project:**
-- A research project starts when a player expresses their interest and expresses the kind of inquiry they are making
-- Biologi
+- A research project starts when a player expresses their interest and what shape their final research will take, prompting three core facets of their inquiries
+- Species Study: physiological, behavioral, 
 - Phenomena:
 **Grants:**
 - Each empty hex prompts a question, a player sets off sets off to answer, so long as the powers that be permit it 
