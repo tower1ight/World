@@ -13,14 +13,12 @@ aliases:
 # Projects
 This system works best when research is a collaboration between the gm and the player
 
-**Project:**
-- A research project starts when a player expresses their interest and what shape their final research will take, prompting three core facets of their inquiries
+**Project:** A research project starts when a player expresses their interest and what shape their final research will take, prompting three core facets of their inquiries
 - Species Study: physiological, behavioral, 
-- Phenomena:
-**Grants:**
-- Each empty hex prompts a question, a player sets off sets off to answer, so long as the powers that be permit it 
+- Notes on a strange phenomenon: What, When, Why
+**Grants:** Each empty hex prompts a question, a player sets off sets off to answer, so long as the powers that be permit it 
 - Answers will be forthcoming with successful research rolls
-**Roll:**
+**Roll:** When setting down to rest the player ponders the days passings, make a roll to represent any epiphanies or conclusions they ma
 
 | Bonus | Grants                                                        |
 | ----- | ------------------------------------------------------------- |
