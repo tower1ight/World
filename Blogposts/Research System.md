@@ -15,8 +15,12 @@ This system works best when research is a collaboration between the gm and the p
 
 **Project:**
 **Grants:**
-Hex System: Generalized catagory inf
+Hex System: Generalized catagory building blocks
 - core hex to perimeter for more specialized knowledge 
+- physiology, Behavior, 
+To Butcher
+To Banter
+To 
 - 
 **Roll:**
 
