@@ -26,9 +26,9 @@ This system works best when research is a collaboration between the gm and the p
 | 10    | Gained useful information from someone with passing knowledge |
 | 20    | Spoken to someone with intimate knowledge                     |
 | -20   | No Funding                                                    |
-| 0     | Low Funding (50gp)                                            |
-| 20    | Neutral Funding (00gp)                                        |
-| 30    | Extensive Funding (400gp)                                     |
+| 0     | Low Funding (100 gp)                                          |
+| 20    | Neutral Funding (200 gp)                                      |
+| 30    | Extensive Funding (400 gp)                                    |
 | 5     | Bonus per Failed Roll on a given project                      |
 
 # Results
