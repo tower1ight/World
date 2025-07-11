@@ -9,14 +9,17 @@ Everyone is quick to say cities are living and breathing things and change is im
 Large iconic buildings are great ways to represent a cities history, culturally, politically, economically, in the same way new or in progress building projects are tools for communicating the present and future of that city
 ### Bridges and Roads
 ##### Connecting Cities
-##### Dinosaur 
+### Dinosaurs
 career killer, money pit, skyline ruiner. Many have tried to get this over with and finish the damn thing, more have tried to scrap it for parts, somehow it limps forward
 
 
-|     |                                                                                                                                                                                                                                                         |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | **Unskilled Committee:** Organizations and subdivisions build up on the thing like barnacles. Committee president, assistant treasurer, royal builder flex their administrative muscles, they all see this project as the perfect place for a proxy war |
-|     |                                                                                                                                                                                                                                                         |
+|     |                                                                                                                                                                                                                                                                                  |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     | **Unskilled Committee:** Organizations and subdivisions build up on the thing like barnacles. Committee president, assistant treasurer, royal builder flex their administrative muscles, they all see this project as the perfect ground for a proxy wars and power trips        |
+|     | **Brilliant Engineer:** 20 years deep into this, they are the only remnant of the original team. As such it will be their legacy and they tire of their reputation being dragged through the mud.                                                                                |
+|     | **Ambitious:** Despite the project changing stewardship again and again and again, efforts to minimize the scope have failed spectacularly                                                                                                                                       |
+|     | **Cursed:** Its place as metaphorical killer is dwarfed only by its reputation as a literal killer. If a things purpose is defined by its outcomes, than the societal function of this project is to produces catastrophic accidents and chew through workers like a woodchipper |
+|     | **Scavenged:**                                                                                                                                                                                                                                                                   |
 
 
 sto get inertia on this , Bridges take lots of money, time, and math to build
