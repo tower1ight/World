@@ -13,12 +13,15 @@ aliases:
 # Projects
 This system works best when research is a collaboration between the gm and the player
 
-**Project:** A research project starts when a player expresses their interest and what shape their final research will take, prompting three core facets of their inquiries
+**Starting a Project:** A research project starts when a player expresses their interest and what shape their final research will take, prompting three core facets of their inquiries
 - Species Study: physiological, behavioral, ecological
 - Notes on a strange phenomenon: What, When, Why
-**Grants:** Each empty hex prompts a question, a player sets off sets off to answer, so long as the powers that be permit it 
+- Historical Context: 
 
-**Roll:** When setting down to rest the player ponders the days passings, make a roll to represent any epiphanies or conclusions they may come to. If at any point the answer to their query is made clear, no roll is necessary and the player may  
+**Writing Grants:** Each empty hex prompts a question, a player writes the specifics of that question and submits it to the powers that be, if permitted to move forward and set off to find an answer.
+
+**Rolling for Realization:** When setting down to rest the player ponders the days passings, make a roll to represent any epiphanies or conclusions they may come to. If at any point the answer to their query is made clear, no roll is necessary and the player may check that box as complete 
+
 
 | Bonus | Grants                                                        |
 | ----- | ------------------------------------------------------------- |
@@ -29,6 +32,7 @@ This system works best when research is a collaboration between the gm and the p
 | 0     | Low Funding (100 gp)                                          |
 | 20    | Neutral Funding (200 gp)                                      |
 | 30    | Extensive Funding (400 gp)                                    |
+| 15    | Bonus per adjacent completed hex                              |
 | 5     | Bonus per Failed Roll on a given project                      |
 
 # Results
