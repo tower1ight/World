@@ -1,6 +1,13 @@
 ---
-tags: []
+tags:
+  - PC
+  - C04
+  - NPC
+  - Telor
+  - Rangers
+  - HouseFollanel
 aliases:
+  - Poe
 ---
 
  # what is it

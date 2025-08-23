@@ -1,6 +1,6 @@
 ---
 tags:
-  - xylaan
+  - Xylaan
   - C04
 aliases:
 ---

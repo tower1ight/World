@@ -15,7 +15,7 @@ Date:
 
 # Recap
 - Fight with rotbeasts
-	- Qball, Parsley, and Bill contrast a nasty case of forest rot, which is quickly set right by the holy hands of deko 
+	- [[Qball]], [[Parsley]], and Bill contrast a nasty case of forest rot, which is quickly set right by the holy hands of deko 
 	- You heard a whistle calling the rotbeast away from your combat, which you narrowly brought down
 - Poe took some samples and sent a message to a colleague, in the process learning that they were being pursued by a group from fort Raynault 
 - Poe found a bunch of fruit in saddlebags worn by the rotbeasts. Used the tracks to lead you to a camp of the soliders that have been watching you

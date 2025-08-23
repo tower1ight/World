@@ -1,8 +1,8 @@
 ---
 tags:
   - C04
-  - Focalism
   - NPC
+  - VioletChurch
 aliases:
 ---
  

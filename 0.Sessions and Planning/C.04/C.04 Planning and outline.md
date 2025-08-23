@@ -10,36 +10,35 @@ Progressing personal stories
 - julia - Connection with Xylaan spy for entangled? whispers to her about potential
 
 # Sessions
-[[C.04.01]], [[C.04.02]], [[C.04.03]], 
-[[C.04.04]], [[C.04.05]], [[C.04.06]], 
-[[0.Sessions and Planning/C.04/Session/C.04.07|C.04.07]], [[C.04.08]], [[C.04.09]]
+[[C.04.01]], [[C.04.02]],, [[C.04.09]]
 [[C.04.10]],
 
 # Adventures
-## [[C.04 Arc 1 - Introduction]]: showing up, fire, goblins, and friendly fire
+## [[C.04 Arc 1 - Introduction]]: 
 
-## [[C.04 Arc 2 - The Great Arsonist Hunt]]: Hunt, tunnels, COL, lizards coup
+## [[C.04 Arc 2 - The Great Arsonist Hunt]]: 
 
 ## [[C.04 Arc 3 - Into The Woods]]: Entry, Arcadian mind control, Party proxy
 
  
 # Planning 
 ## Outline 
- - Introduction (1 session) [[C.04 Arc 1 - Introduction]]
-	 - Prompts: goblin theft cultist docs  
- - [[Fort Raynault]] adventure [[C.04 Arc 2 - The Great Arsonist Hunt]]
- - Into the woods [[C.04 Arc 3 - Into The Woods]] 
- - Red Hand of Doom 
-	- Village: save townsfolk from a warband
-		- Encounter on the way to town: spys have crossed the river 
-		- Walk into town see everything prepping to defend 
-		- Hersk insists that they stay put while he sends for Captain Soranna as the part are humans 
-	- If you want to stay and rest, bind yourself to a quest 
-	- Follow group back to the goblin city
-- Pt 2: breaking up an aliance
-	- Obtain an audience from the goblin king 
-		- send the crew to break an aliance   
-		- kfkseokwklakdkaklwdlakjdb
+#### [[C.04 Arc 1 - Introduction]] 
+([[C.04.01]], [[C.04.02]],)
+showing up, fire, goblins, and friendly fire
+- Prompts: goblin theft cultist docs 
+#### [[C.04 Arc 2 - The Great Arsonist Hunt]]
+ [[C.04.03]], [[C.04.04]], [[C.04.05]], [[C.04.06]], [[0.Sessions and Planning/C.04/Session/C.04.07|C.04.07]], [[C.04.08]]
+ Hunt, tunnels, COL, lizards coup
+#### [[C.04 Arc 3 - Into The Woods]] 
+[[C.04.09]], [[C.04.10]], [[C.04.11]], [[C.04.12]], [[C.04.13]], [[C.04.14]]
+Entry, Arcadian mind control, Party proxy
+
+ - {{{{ interlude in the  }}}}
+ - the bridge
+ - {{{{ get shit moving interlude }}}}
+ - interlude 
+#### [[0.Sessions and Planning/C.04/C.04 Arc 4 - Crossing|C.04 Arc 4 - Crossing]]
 
 
  
@@ -84,7 +83,7 @@ Progressing personal stories
 			 -  one of the goblins kights,  [[Sir Beligerant]] sits on stool eyes lowered    
 		 - 
 
-### Monument
+### Monuments
  Monuments are preserved moments embedded in the mycelium, visions of the past and the future, conjured as possibilities, if one is a very skilled walking among the likes of [[The Entangled|Seers]] they might be able to discern stylistic history, what the monument is and has been 
  - **Leaving the garden:** 
 	 - massacre of remaining alchemists, and deserters caught, a wyvern with iredecent black scales hovers about: 
@@ -94,7 +93,7 @@ Progressing personal stories
  - **Sealed from the world:** 
 	 - Ocean veiw off a cliff as the wind picks up and boats crushed against a storm maybe
 
-#### Sanctuaries 
+### Sanctuaries 
 Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] kept by the [[The Entangled|Seers]]. Most will contain a seer bent and contorted around the node at all times, many important nodes will have one or more seers who have chosen to embed themselves into the [[mycelium]]. The design of individual temples can vary but most have some form of material documentation of [[Xylaan]] and its worship or history.
  
  - **[[The Bountiful Seer]]:** [[The Sun Knight]]

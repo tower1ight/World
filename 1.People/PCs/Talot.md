@@ -1,6 +1,10 @@
 ---
 tags:
   - PC
+  - HouseFollanel
+  - Telor
+  - C04
+  - Rangers
 aliases:
 ---
 Early Life:

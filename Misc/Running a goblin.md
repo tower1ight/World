@@ -20,24 +20,24 @@ Goblins are impulsive fickle creatures, driven by base desires, they see that as
 |     | GENIUS: One Skill they are perfect at, they cannot explain why their answer is right but their answer is always right. They otherwise have [-] at<br>all Skills unless there is cross pollination with their area of expertise. |
 
 
-|              |             |              |     |
-| ------------ | ----------- | ------------ | --- |
-| Nettlegrin   | Gloomtoe    | Sludgejaw    |     |
-| Snickerwart  | Rumblefoot  | Gobsmudge    |     |
-| fleshbelle   | Golintid    | Nogglebelly  |     |
-| Mosswick     | Grizzlemaw  | Wartnibble   |     |
-| Wretchfang   | Slitherstab | Grumbleclaw  |     |
-| Grumblethorn | Wobblethumb | Snaggletoad  |     |
-| Thistlenose  | Sludgejack  | Fizzlefoot   |     |
-| Slivergnack  | Nibblesnarl | Glimmerbelly |     |
-| gristlnose   | Slurpgrub   | Slimegob     |     |
-| Wretchgnaw   | Thistlejaw  | Snickersnarl |     |
-| Sludgewright | Gobblefist  | Grizzlegrin  |     |
-| Bogbelch     | Slitherjaw  | Slurpnose    |     |
-| Gnarlhect    | Wartbelly   | Thistletide  |     |
-| Slurptongue  | Moldywhisk  | Gontongue    |     |
-| Glimmergrim  | Snickergaze | Grumblefoot  |     |
-| Fizzlegob    | Rumblenose  | Grumblegaze  |     |
+|              |              |              |     |
+| ------------ | ------------ | ------------ | --- |
+| Nettlegrin   | ~~Gloomtoe~~ | Sludgejaw    |     |
+| Snickerwart  | Rumblefoot   | Gobsmudge    |     |
+| fleshbelle   | Golintid     | Nogglebelly  |     |
+| Mosswick     | Grizzlemaw   | Wartnibble   |     |
+| Wretchfang   | Slitherstab  | Grumbleclaw  |     |
+| Grumblethorn | Wobblethumb  | Snaggletoad  |     |
+| Thistlenose  | Sludgejack   | Fizzlefoot   |     |
+| Slivergnack  | Nibblesnarl  | Glimmerbelly |     |
+| gristlnose   | Slurpgrub    | Slimegob     |     |
+| Wretchgnaw   | Thistlejaw   | Snickersnarl |     |
+| Sludgewright | Gobblefist   | Grizzlegrin  |     |
+| Bogbelch     | Slitherjaw   | Slurpnose    |     |
+| Gnarlhect    | Wartbelly    | Thistletide  |     |
+| Slurptongue  | Moldywhisk   | Gontongue    |     |
+| Glimmergrim  | Snickergaze  | Grumblefoot  |     |
+| Fizzlegob    | Rumblenose   | Grumblegaze  |     |
 prefix
 phlem 
 glimmer

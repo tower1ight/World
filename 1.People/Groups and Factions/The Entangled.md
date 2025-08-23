@@ -1,6 +1,9 @@
 ---
 tags:
   - faction
+  - xylaan
+  - Entangled
+  - C04
 aliases:
   - Seers
 ---

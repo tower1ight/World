@@ -17,16 +17,7 @@ This is really our first travel session, what do i want, I want good presentatio
 
 #### Current
 - [ ] Needs
-	- [x] Recap
-	- [ ] stalk seer
-	- [ ] dwelling 
-	- [ ] post battle scene 
-	- [x] Decide What their currency is!!!!!!!!!!!!, split, divesting from the network new metal infused metal chips
-	- [ ] Infection Tracker and Mechanic
-	- [ ] ambient travel music 
-	- [ ] figure out xp leveling
-	- [ ] make the journals vissible 
-	- [ ] describe the aura and how people react to it
+	- [ ] name  the [[{Collaborator and Coerced Goblins}]]
 
 - [ ] Wants
 	- [ ] Configure VTT
@@ -44,7 +35,7 @@ This is really our first travel session, what do i want, I want good presentatio
 
 
 #### General questions
- - what do the masks look like? how are they attached 
+ - what do the masks look like? how are d attached 
 - Establish protection for the heros
 	- vission? Arcadia wants the players to kill the 
 	- The locals see them as an extension of arcadias will, as though a security camera is walking through the door, treat them with guest friendship
@@ -66,7 +57,7 @@ This is really our first travel session, what do i want, I want good presentatio
 	 - the negotiation
 ## ACT I
 - **T hey know the mission:** General Yenora's procession
-	- in media res watching the generals arrival: Pearl, Tal, Poe, and Billiard are remarking on how nice fort raynault looks! An energy of nervous anticipation pervades the crowd, Sircha of [[House Follanel]] lounges in a box at the top of a newly constructed amphitheater. She is inoring an aid in medical garb shouting with exasperation and surveys her work with her customary wry smile. [[Sage Aelon|Aelon's]] spot is empty, unsurprising given her reclusiveness in the past couple months. Soldiers line the main road, standing at perfect attention, compensating for 3 months of slinking around with their tails beneath their legs, celebrating a 6th year to an invasion with almost nothing to show for it. They are practically giddy with the prospect of new **military** leadership, many of their eyes slide over you. They need someone to blame don't they!
+	- in media res watching the generals arrival: [[Pearl]], [[Talot]], [[Poe the Perfumer|Poe]], and Billiard are remarking on how nice fort raynault looks! An energy of nervous anticipation pervades the crowd, [[Sircha]] of [[House Follanel]] lounges in a box at the top of a newly constructed amphitheater. She is inoring an aid in medical garb shouting with exasperation and surveys her work with her customary wry smile. [[Sage Aelon|Aelon's]] spot is empty, unsurprising given her reclusiveness in the past couple months. Soldiers line the main road, standing at perfect attention, compensating for 3 months of slinking around with their tails beneath their legs, celebrating a 6th year to an invasion with almost nothing to show for it. They are practically giddy with the prospect of new **military** leadership, many of their eyes slide over you. They need someone to blame don't they!
 	- one of pearls cohort whispers in her ear conspicuously gesturing at a group stand under the awning of Renta's Hold, Sezans inn, you see vanel, a lean human woman with shiny black hair in the rangers jumpsuit scowling at one of the soldiers 
 - **The Task:** In a clandestine meeting with Bill, Pearl, Poe, and Tal, aelon gave you a mission
 	- **Context:** In the first year of the invasion, thousands of soldiers were baited by goblins into the forest, after years of assuming that they were dead, Human soldiers have been spotted watching a research operation at the forest border. 
@@ -111,7 +102,7 @@ This is really our first travel session, what do i want, I want good presentatio
 		- Within the vission the environment warps and the players are brought before [[Prince Dagoag]]
 		- Your mind brings forward the prince 
 		- Some people marked as useful, others are marked as disposable 
-			- disposable: [[Pearl]], [[Taylors Character]], Qball
+			- disposable: [[Pearl]], [[Deko]], Qball
 			- protected: [[Talot]], [[billiard Ball]], [[Poe the Perfumer]], 
 	- rot beast charges in a gores a redshirt, start your first combat
 - Travel gameplay description 
@@ -157,25 +148,46 @@ This is really our first travel session, what do i want, I want good presentatio
 			- 
 
 ## ACT II
- - Entrance, guardian 
-	 - **Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
+#### Entrance, guardian  
+**Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
 
  - solo encounter
+	 - The temperature drops and you see rippl3es in the air as an apparition fades into transparency 
 	 - An apparition of his guys CR 8
+		 -   A halfling wraith [[sgt March]] water logged and drippping water (will flee the scene if they are loosing)
 	 - asks if they are friend or foe, if they are friend they are told to get outa
-	 - A halfling wraith sgt March water logged and drippping water (will flee the scene if they are loosing)
 	 - 3 other shadows
- - puzzle or rp
-	 - meet the goblins, gain access to the area 
-		 - Fizzle leak 
-		 - Bogtongue
-	 - if questioned say they were told to let you see 
-	 - they are hungry to fight you 
- - trick or setback
-	 - [[Commander Kael]]'s visage prompts the rot beast heard
-	 - rot beast encounter
- - climax battle or conflict 
-	 - the ghost and his gooey guys
+#### Greetings
+- Goblins sit lazily on a rock eating a stalk grape, 
+	- [[Fizzleleak]]: 
+		- small eyes and a perpetually wide grin, fizzle leak is rather small but looks down on you 
+		- ACTOR: Clearly playing for an audience, bravado elaborate signals of goblin virtues, Makes a show out of picking their nose
+		- "PLeasure seeing you *Bows and Spits on the ground*"
+		- holds the translator to his neck with a flourish
+	- [[Bogtongue]]
+		- Wider more brutish goblin 
+			- scowls and scolds some aspect of your performance
+	- [[Gloomtoe]]
+		- Very giggly
+		- speaks very fast and in a high pitch
+		- sticky fingers
+- what are they here for,
+	- They have been asked to give a tight tail and overhear anything kael says
+	- they want to make first contact and have it be friendly, open up the possibility of working together 
+	- **What they tell you** we arent too keen on moving forward and weve been told to let you try your hand at the mound 
+	- **Who told them:** higher ups you know 
+	- **on the other goblins:** lorem ipsum
+	- **whats at the mound:** one of yours, a foolish boy whos spirit and body have been split, he leads the mindless
+	- **the mindless:** had their minds sizzled by the [[xylaan]] to much powert fried them right up 
+	- **Can I show you a trick ive been working on:** Burps a vissible stink ring and spits through it
+#### Stampede
+-  Describe the swaying grass and shallow pools
+- [[Commander Kael]]'s visage prompts the rot beast heard
+	- blond short cropped hair, a well trimmed beard, and a well maintained uniform over toned muscles
+	- a cape signifies his rank as general 
+	- He is confused and asks if you hair from telor
+	- he asks why you dont wear the correct insignias for the teloric army
+- when he learns you arent military he concludes you must have snuck past our lines, whistles and summons a rot beast stampede
  - Consciousness 
 	 - [[Commander Kael]], 1st division, Glory to the queen
 	 - Lets you see through his eyes
@@ -184,6 +196,34 @@ This is really our first travel session, what do i want, I want good presentatio
 	 - Can tell you about a nearby if you are xenophobic enough stash
 	 - 
  
+#### The mound 
+* about a thirty foot mound of bodies
+* That same specter shows itself and is confused at your persistence and why you are seeking him out, requires combat to see if you are worthy 
+* The combat
+	- specter version of [[Commander Kael]], no glamour
+	- his buddy will cast from the back 
+	- shadows will fight and toss bodies from the top of the mound
+- He gives you honors and takes you into the mound where he is housed
+	- he tells you the situation 
+	- What he can give you 
+		- information on his orders
+			- provoke the goblins, everything short of actual violence 
+		- A glimpse through his eyes
+			- Perspective across a camp, something like a seige, ankheg corpse on a spit,
+			- look beyond the camp to see a small town, set into the woods, smooth domed buildings, and goblins sitting in front of them looking dirrectly into your eyes with hate and fear, a large gate entrance has a word in goblin written into it
+		- A stash
+			- enchanted choker with language capabilities
+	- What can you give him
+		- honorable death
+
+
+
+
+
+
+
+
+
 
  - **POI:** Encounters, detective work and such
 	 - Rotbeast heard
@@ -210,6 +250,34 @@ This is really our first travel session, what do i want, I want good presentatio
  
  
 ## ACT III
+#### **Encounter a girl**
+- 
+#### **Encounter Sage Aelon**
+#### **Arival**
+
+farmers 
+- lots 
+doctors 
+builders
+- thing builders
+- odds and ends
+- structural
+- materials
+- reason to town here
+plaza
+textil exchange and markets 
+- hyphweave 
+- stalk ware (matts, construction, textiles)
+
+we have a little sneak theif
+we seed a few misdeeds and town narratives that could lead to murder
+
+
+
+
+
+
+
 
 - **A Town**
 	- Village sized, around 300 Goblins
@@ -259,6 +327,9 @@ organize silent guards, you get a meeting with a beurocrat
 	- enough sugars to survive a couple months 
 
 The mindless are doing something nefarious, atempting to provoke aggression 
+
+
+
 
 # Plates a spinning
 ## Set tone
