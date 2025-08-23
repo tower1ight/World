@@ -3,7 +3,9 @@ tags:
   - Location
   - OS01
 aliases:
+Location Type: Town
 ---
+A long abandoned community [[Worship of the Library]]
 
 | Affiliations            | Location  | Campaign Featured |
 | ----------------------- | --------- | ----------------- |

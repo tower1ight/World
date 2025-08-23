@@ -1,6 +1,11 @@
 ---
-tags: []
+tags:
+  - Location
+  - Telor
+  - C04
+  - OS01
 aliases:
+Location Type: Region or Topology
 ---
 
  # what is it

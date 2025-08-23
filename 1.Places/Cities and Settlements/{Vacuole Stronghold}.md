@@ -1,7 +1,12 @@
 ---
 tags:
   - C04
+  - xylaan
+  - Arcadia
+  - Fey
+  - Location
 aliases:
+Location Type: Hold
 ---
 
 | Affiliations | Location | Campaign Featured |

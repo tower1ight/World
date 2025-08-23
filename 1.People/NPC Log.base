@@ -1,3 +1,6 @@
+properties:
+  note.Appearance:
+    displayName: Appearance
 views:
   - type: table
     name: Table
@@ -7,3 +10,12 @@ views:
     order:
       - file.name
       - tags
+      - Ancestry
+      - Appearance
+    sort:
+      - property: Ancestry
+        direction: ASC
+      - property: Appearance
+        direction: DESC
+      - property: file.links
+        direction: ASC

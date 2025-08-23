@@ -5,6 +5,7 @@ tags:
   - Telor
   - VioletChurch
 aliases:
+Ancestry: Wood Elf
 ---
 
 | Affiliations | Connections | Roles | Campaign Presence |     |

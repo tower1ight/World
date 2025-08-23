@@ -2,7 +2,9 @@
 tags:
   - C04
   - xylaan
+  - Goblin
 aliases:
+Location Type: City
 ---
 
 Coblin

@@ -5,4 +5,6 @@ tags:
   - Rangers
   - Hythriel
 aliases:
+Ancestry: Feirbolg
+Relevance:
 ---

@@ -1,8 +1,14 @@
 ---
 tags:
-  - Template
+  - C04
+  - OS01
+  - COL
+  - Telor
+  - NPC
+  - TeloricMilitary
 aliases:
   - NPC Template
+Ancestry: Warforged
 ---
 
 | Affiliations            | Connections | Roles |

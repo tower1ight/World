@@ -5,4 +5,6 @@ tags:
   - Rangers
   - Retainer
 aliases:
+Ancestry: Human
+Relevance:
 ---

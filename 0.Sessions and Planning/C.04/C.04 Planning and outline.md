@@ -134,7 +134,7 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 	 - Knighted
 		 - Nastiness Knight 
 		 - Larceny
-		 - Belligerence
+		 - [[Sir Beligerant]]
 		 - Sadism 
 
 ### Hazards 

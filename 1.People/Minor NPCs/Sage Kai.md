@@ -4,6 +4,8 @@ tags:
   - NPC
   - VioletChurch
 aliases:
+Ancestry: Human
+Appearance: Old short man, heavy smile lines and a jovial energy
 ---
  
 | Affiliations | Connections                  | Roles | Campaign Presence |     |

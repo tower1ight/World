@@ -1,8 +1,12 @@
 ---
 tags:
-  - Template
+  - COL
+  - NPC
+  - Voral
+  - Telor
 aliases:
   - NPC Template
+Ancestry: Human
 ---
 - resident of the library
 

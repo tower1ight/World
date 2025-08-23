@@ -1,6 +1,7 @@
 ---
-tags: Template
-alias: 
+tags:
+  - science
+alias:
 ---
 
  # what is it

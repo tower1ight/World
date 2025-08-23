@@ -2,7 +2,10 @@
 tags:
   - C04
   - NPC
+  - Telor
+  - HouseFollanel
 aliases:
+Ancestry: Half Elf
 ---
 
 | Affiliations | Connections | Roles | Campaign Presence |     |

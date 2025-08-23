@@ -5,5 +5,6 @@ tags:
   - C04
   - xylaan
 aliases:
+Ancestry: Goblin
 ---
 [[The Gilded Seer]]

@@ -1,6 +1,10 @@
 ---
-tags: OS01
+tags:
+  - OS01
+  - Location
+  - Telor
 alias:
+Location Type: Town
 ---
 
 | Affiliations | Location           | Campaign Featured                |

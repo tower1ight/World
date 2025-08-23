@@ -2,7 +2,9 @@
 tags:
   - Location
   - Telor
+  - Vorvelal
 aliases:
+Location Type: City
 ---
 Grand capital home to 
 [[Teloric Government|The Monarchy]]

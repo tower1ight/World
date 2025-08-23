@@ -1,6 +1,9 @@
 ---
-tags: Location, telor
-alias: 
+tags:
+  - Location
+  - Telor
+alias:
+Location Type: City
 ---
 up: 
 

@@ -8,6 +8,8 @@ tags:
   - HouseFollanel
 aliases:
   - Poe
+Relevance:
+Ancestry: Kenku
 ---
 
  # what is it

@@ -1,7 +1,11 @@
 ---
 tags:
   - C04
+  - Telor
+  - TeloricMilitary
+  - Location
 aliases:
+Location Type: Hold
 ---
 ---
 

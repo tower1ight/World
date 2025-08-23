@@ -1,7 +1,10 @@
 ---
 tags:
   - NPC
+  - Alchemist
+  - C04
 aliases:
+Ancestry: Kobold
 ---
 
  # what is it
