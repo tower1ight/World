@@ -34,6 +34,7 @@ This is really our first travel session, what do i want, I want good presentatio
 	- [x] Finalize Travel Rules
 	- [ ] Finalize all first omens of myths
 
+beeep
 
 #### General questions
  - what do the masks look like? how are d attached 
