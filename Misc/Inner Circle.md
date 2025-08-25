@@ -10,7 +10,7 @@ aliases:
 
  # what is it
 
-[[Tel'Voric]]'s Inner circle of [[The Great Library|Library]] [[stewards]]
+[[Tel'Voric]]'s Inner circle of [[The Great Library|Library]] [[Stewards]]
 
 ## Original  5
 #### Aelor

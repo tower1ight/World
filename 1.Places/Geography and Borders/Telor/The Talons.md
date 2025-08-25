@@ -1,7 +1,19 @@
 ---
-tags: telor, geography
-alias: Talons
+tags:
+  - Location
+  - Telor
+  - C04
+  - OS01
+aliases:
+  - Talons
+Location Type: Sovereign, Region, or Topology
 ---
+
+ # what is it
+
+A geologically young mountain range that sits between [[Telor]] and [[Xylaan]]
+
+Telors two greatest cites [[Allyol]] and [[Vorvelal]] are built into opposite sides, each entirely coincidentally mirrored by the two major [[Tannia|alchemist]] kingdoms
 
 The largest mountain range in [[Urat]]. They are home to very a very deep carven  and a serries of natural and built cave complexes
 They divide [[Telor]] and [[Xylaan]]

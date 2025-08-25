@@ -1,8 +1,9 @@
 ---
 tags:
   - Telor
-  - geography
+  - Location
 aliases:
+Location Type: Sovereign, Region, or Topology
 ---
 
  # what is it

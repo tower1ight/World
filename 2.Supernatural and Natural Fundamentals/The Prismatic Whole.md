@@ -5,7 +5,7 @@ alias:
 ---
 
  # what is it
- The Prismatic Whole, a term coined by an ancient group of wizards known as [[{Prismatic wiz}]], is a name for the body encapsulating all [[soul]] known to exist, it is the summation of every [[bond]] and connection in the known universe. As unkillable and untouchable as entropy it is its inverse, when physical energy is disordered, soul is ordered. Every creation and expenditure of [[soul]] has inefficiency and where physical inefficiency takes the form of vibrational energy, heat, its equal, magical inefficiency naturally binds together, reconnecting with its origin, the prismatic whole.  
+ The Prismatic Whole, a term coined by an ancient group of wizards known as [[The Circle of Eight]], is a name for the body encapsulating all [[soul]] known to exist, it is the summation of every [[bond]] and connection in the known universe. As unkillable and untouchable as entropy it is its inverse, when physical energy is disordered, soul is ordered. Every creation and expenditure of [[soul]] has inefficiency and where physical inefficiency takes the form of vibrational energy, heat, its equal, magical inefficiency naturally binds together, reconnecting with its origin, the prismatic whole.  
  
  When all matter is spread out reaching maximum disorder, soul binds together consolidating with maximum order. This universe is a cyclical one, for there is joy and freedom in being part of that cycle.
  

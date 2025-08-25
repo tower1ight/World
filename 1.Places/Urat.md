@@ -1,5 +1,6 @@
 ---
 tags:
+  - Location
 alias:
 Location Type: Planet
 ---

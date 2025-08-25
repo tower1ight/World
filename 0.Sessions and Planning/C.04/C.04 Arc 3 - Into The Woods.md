@@ -149,7 +149,7 @@ This is really our first travel session, what do i want, I want good presentatio
 			- 
 
 ## ACT II
-#### Entrance, guardian  
+# ### Entrance, guardian  
 **Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
 
  - solo encounter
@@ -178,7 +178,7 @@ This is really our first travel session, what do i want, I want good presentatio
 	- **What they tell you** we arent too keen on moving forward and weve been told to let you try your hand at the mound 
 	- **Who told them:** higher ups you know 
 	- **on the other goblins:** lorem ipsum
-	- **whats at the mound:** one of yours, a foolish boy whos spirit and body have been split, he leads the mindless
+	- **whats at the mound:** one m nof yours, a foolish boy whos spirit and body have been split, he leads the mindless
 	- **the mindless:** had their minds sizzled by the [[xylaan]] to much powert fried them right up 
 	- **Can I show you a trick ive been working on:** Burps a vissible stink ring and spits through it
 #### Stampede

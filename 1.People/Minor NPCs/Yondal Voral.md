@@ -12,7 +12,7 @@ Ancestry: Human
 
 | Affiliations                 | Connections       | Roles                           | Campaign Presence |
 | ---------------------------- | ----------------- | ------------------------------- | ----------------- |
-| [[The Shroud]] | [[Violet Church]] | General of [[Teloric military]] |                   |
+| [[Cult of the Library]] | [[Violet Church]] | General of [[Teloric military]] |                   |
 | [[Voral Dynasty]]            |                   | King of [[Telor]]               |                   |
 | [[Cult of the Library]]                             |                   |                                 |                   |
 

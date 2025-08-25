@@ -3,6 +3,7 @@ tags:
   - xylaan
   - faction
   - C04
+  - Alchemist
 aliases:
   - alchemist
   - alchemists

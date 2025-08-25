@@ -1,6 +1,9 @@
 ---
-tags: Telor
+tags:
+  - Telor
+  - Location
 alias: Teloric, Telor's, Tel, Tels, Tel's
+Location Type: Sovereign, Region, or Topology
 ---
  Up: [[Urat]]
 

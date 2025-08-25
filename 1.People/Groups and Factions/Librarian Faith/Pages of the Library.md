@@ -1,5 +1,7 @@
 ---
-tags: Faction, Library_worship, Religion
+tags:
+  - faction
+  - LibraryWorship
 alias: pages, page
 ---
 up: [[Worship of the Library]]

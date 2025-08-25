@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("event")
+    order:
+      - file.name
+      - Date
+    sort:
+      - property: Date
+        direction: ASC

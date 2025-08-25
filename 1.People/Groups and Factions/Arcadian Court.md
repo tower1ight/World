@@ -2,6 +2,8 @@
 tags:
   - xylaan
   - C04
+  - Arcadia
+  - faction
 aliases:
   - Arcadia
 ---

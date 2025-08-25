@@ -12,12 +12,12 @@ Ancestry: Human
 | Affiliations            | Enemies | connections | Roles                    |
 | ----------------------- | ------- | ----------- | ------------------------ |
 | [[Cult of the Library]] |         |             | Captain of local Militia |
-| [[The Shroud]]                        |         |             |                          |
+| [[Cult of the Library]]                        |         |             |                          |
 
 ---
  # Summary
 - Human woman, age ~ 40s
--  A paladin sworn to [[The Shroud]], she is committed her oath first, [[Mark Nyrelle|Mark]] Second, and [[Gort]] Third
+-  A paladin sworn to [[Cult of the Library]], she is committed her oath first, [[Mark Nyrelle|Mark]] Second, and [[Gort]] Third
 
 
 ---
