@@ -17,5 +17,24 @@ Because hive minds imply the individuality of a single body, physically distinct
 
 in short: there is tension between the human players idea of personhood and an individual of a hive mind's inhuman nature, when playing with hive mind fiction it is the GMs responsibility to facilitate that tension
 
+Here Is a behovioral table you can play with
 
-what is inhuman, 
+|     |                                                                                                                                          |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+|     | Entity doesn't take orders and consensus is hard won, you dont have the right                                                            |
+|     | Entity Is a very critical when making plans with people outside of the mind, Has a hard time wrapping their mind around incomplete plans |
+|     | Entity                                                                                                                                   |
+
+
+
+what is inhuman
+
+Bioessentialism: Conservative or reactionary viewpoints aside, people with any sense know that when it comes to humans construction does not dictate purpose, we understand that while our physical form may influence how others see us (and consequently how we see ourselves), not all is what it seems. We have all, to varying degrees of severity and consequence, been told we belonged somewhere that we just didn't and faced the consequences of either capitulating with or resisting those placements. How you approach this concept with a hive mind is dependent on the tone of your game and on what level you are interested in engaging this theme.
+
+
+
+
+
+of hostility is present between people within or without the hive mind. I personally emphasize this feeling, as I mentioned earlier I see members of the hive as physically predetermined, grown for a distinct purpose, with little room for variation. 
+
+If these character are to be people that can hold up their end of a conversation, Im of a mind that they need individuality 
