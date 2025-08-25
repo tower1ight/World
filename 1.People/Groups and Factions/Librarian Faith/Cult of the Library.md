@@ -2,11 +2,16 @@
 tags:
   - Faction
   - religion
+  - telor
+  - LibraryWorship
+  - COL
 aliases:
   - cultist
   - cultists
   - The_Cult_of_the_Library
   - COL
+  - The Shroud
+  - Order of the Shroud
 ---
 up: [[Worship of the Library]]
 
@@ -30,11 +35,26 @@ Pilgrimage
 	- additionally they have vaults scattered across [[Telor]] that those who have been granted access by the group make journey to
 
 Hierarchy: the basis for the hierarchy is in allowed knowledge, giving certain types of members special and discrete information.
-- Cultist, awareness of its members
--  members of the [[The Shroud]]
+- Cultist, awareness of its m[[Cult of the Library]]ers of the [[The Shroud]]
 - idky
 - idky
 - Potentate
 - Gatestone : Objects said to be deemed worthy of entrance to the library. These objects not only are sentient and are the greatest respoitories of knowledge, have an affinity to the gate and know its location
 	- They act as sponges for the library's and cultist's knowlege, allowing them to syphon off knowledge or memories from an individual if they deam that individual unworthy. 
 - 
+
+| Affiliations         | Connections      | Members                |
+| -------------------- | ---------------- | ---------------------- |
+| [[Teloric military]] | [[Yondal Voral]] | [[Captain Nyrelle]]    |
+|                      |                  | [[General Yenora]]       |
+|                      |                  | [[Major Finn Hershat]] |
+
+---
+ # Summary
+Created under the rule of  [[Yondal Voral]]  this order of paladins are spread far and wide around [[Telor]], often within a [[focal council]] as a militia captain. After the [[The Erasure]] and the formation of the [[Cult of the Library]], cultist teachings became a core tenant 
+
+
+---
+ # Motivation
+- Hide and magic items in cultist stashes
+- execute the will of the library 

@@ -1,6 +1,15 @@
 ---
-tags: []
+tags:
+  - PC
+  - C04
+  - NPC
+  - Telor
+  - Rangers
+  - HouseFollanel
 aliases:
+  - Poe
+Relevance:
+Ancestry: Kenku
 ---
 
  # what is it

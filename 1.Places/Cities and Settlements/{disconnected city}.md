@@ -1,8 +1,9 @@
 ---
 tags:
-  - xylaan
   - C04
+  - Alchemist
 aliases:
+Location Type: City
 ---
 
 | Affiliations | Location | Campaign Featured |

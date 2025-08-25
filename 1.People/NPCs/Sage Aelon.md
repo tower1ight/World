@@ -1,9 +1,11 @@
 ---
 tags:
   - C04
-  - Focalism
   - NPC
+  - Telor
+  - VioletChurch
 aliases:
+Ancestry: Wood Elf
 ---
 
 | Affiliations | Connections | Roles | Campaign Presence |     |

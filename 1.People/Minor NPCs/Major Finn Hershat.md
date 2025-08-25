@@ -2,12 +2,15 @@
 tags:
   - C04
   - NPC
+  - COL
+  - TeloricMilitary
 aliases:
+Ancestry: Human
 ---
 
 | Affiliations                           | Connections | Roles | Campaign Presence |     |
 | -------------------------------------- | ----------- | ----- | ----------------- | --- |
-| [[The Shroud]] |             |       |                   |     |
+| [[Cult of the Library]] |             |       |                   |     |
 
 ---
  # Summary

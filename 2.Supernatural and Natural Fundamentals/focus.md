@@ -1,6 +1,7 @@
 ---
- tags: Focalism, science, 
- alias: focusing, generate, generating 
+tags:
+  - science
+alias: focusing, generate, generating
 ---
  x: [[soul]]
 

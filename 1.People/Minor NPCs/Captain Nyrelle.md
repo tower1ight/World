@@ -1,22 +1,28 @@
 ---
-tags: NPC, OS01
+tags:
+  - NPC
+  - OS01
+  - Telor
+  - COL
 alias: Nyrelle
+Relevance:
+Ancestry: Human
 ---
 
 | Affiliations            | Enemies | connections | Roles                    |
 | ----------------------- | ------- | ----------- | ------------------------ |
 | [[Cult of the Library]] |         |             | Captain of local Militia |
-| [[The Shroud]]                        |         |             |                          |
+| [[Cult of the Library]]                        |         |             |                          |
 
 ---
  # Summary
 - Human woman, age ~ 40s
--  A paladin sworn to [[The Shroud]], she is committed her oath first, [[Mark Nyrelle|Mark]] Second, and [[Gort]] Third
+-  A paladin sworn to [[Cult of the Library]], she is committed her oath first, [[Mark Nyrelle|Mark]] Second, and [[Gort]] Third
 
 
 ---
  Story Involvement
- - She is serving gort as a member of her order, 
+ - She is serving [[Gort]] as a member of her order, 
  - she knows about he book as well as its use and has an operation smuggling people and goods out of gort 
  - the people find out she plays dumb and contacts leaders of her order
  - she accompanies the group as they attempt to bring the book to the violet church notifying the order of their location along the way and they plan for a distraction and a books retrieval, letting them know to imitate bandits 

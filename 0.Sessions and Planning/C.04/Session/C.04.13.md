@@ -8,8 +8,8 @@ aliases:
 # Details
 Campaign: [[C.04 Planning and outline]]
 ARC: [[C.04 Arc 3 - Into The Woods]]
-Prev: 
-Post:
+Prev: [[C.04.12]]
+Post: [[C.04.14]]
 
 [[C.04 Planning and outline#Sanctuaries]]
 
@@ -18,8 +18,11 @@ Post:
 
 # Retcons and Clarifications 
 - 
-# Things that might come up
-- 
+# Things that might come up next session
+- its the fantasy equivalent of Wednesday and the 42th day of this month
+xp
+- 100 for the session
+- 200 the omens
 
 # Recap
 - omen: encounter the marks of the soldiers expedition

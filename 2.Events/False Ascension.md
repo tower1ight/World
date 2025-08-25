@@ -1,6 +1,8 @@
 ---
-tags: Telor, Event
-alias: 
+tags:
+  - Telor
+  - event
+alias:
 ---
 [[Timeline]]
 

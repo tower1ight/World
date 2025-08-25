@@ -1,6 +1,8 @@
 ---
 tags:
   - faction
+  - Telor
+  - HouseFollanel
 aliases:
 ---
 

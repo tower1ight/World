@@ -3,6 +3,7 @@ tags:
   - event
   - xylaan
 aliases:
+time:
 ---
 
  # what is it

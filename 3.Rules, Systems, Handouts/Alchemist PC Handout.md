@@ -36,7 +36,7 @@ Survive
 
 **Nationalism:** These people are deeply committed to their heritage and their peoples collective work, they may disagree on how best to achieve their cultural goals but they are inextricably bound by pride in both their ethnic and national identity.
 
-**Split:** some time after settling in the [[1.Places/Geography and Borders/Telor/The Talons|Talons]], the mountain range sitting between xylaan and the rest of the continent, tannians decided to send a group north through the tallons to create a settlement on the eastern coast. In doing this they hopped to both ensure the survival of their culture in the event that xylaan moved to destroy their new home, and to flank xylaan creating a force of tannian seafarers, capable of sealing xylaan in on the ocean. The two groups are aligned in their goals but in the century since the northeastern settlements founding, contact has been minimal. The seafaring kobolds see betrayal in the southern kobolds acceptance of a secondary network.
+**Split:** some time after settling in the [[The Talons|Talons]], the mountain range sitting between xylaan and the rest of the continent, tannians decided to send a group north through the tallons to create a settlement on the eastern coast. In doing this they hopped to both ensure the survival of their culture in the event that xylaan moved to destroy their new home, and to flank xylaan creating a force of tannian seafarers, capable of sealing xylaan in on the ocean. The two groups are aligned in their goals but in the century since the northeastern settlements founding, contact has been minimal. The seafaring kobolds see betrayal in the southern kobolds acceptance of a secondary network.
 
 
 

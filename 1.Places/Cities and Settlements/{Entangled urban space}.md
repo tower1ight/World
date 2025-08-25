@@ -1,7 +1,9 @@
 ---
 tags:
   - xylaan
+  - Entangled
 aliases:
+Location Type: City
 ---
 
 | Affiliations | Location | Campaign Featured |

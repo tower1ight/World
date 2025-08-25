@@ -1,14 +1,20 @@
 ---
 tags:
-  - Template
+  - C04
+  - OS01
+  - COL
+  - Telor
+  - NPC
+  - TeloricMilitary
 aliases:
   - NPC Template
+Ancestry: Warforged
 ---
 
 | Affiliations            | Connections | Roles |
 | ----------------------- | ----------- | ----- |
 | [[Cult of the Library]] |             |       |
-| [[The Shroud]]                        |             |       |
+| [[Cult of the Library]]                        |             |       |
 
 ---
  # Summary
@@ -18,7 +24,7 @@ aliases:
  Heavily armored, fights with a haliberd.
  
  ## Who are they
- [[The Shroud]] paladin, ruthless pursuer of the [[Cult of the Library]] 's cause
+ [[Cult of the Library]] paladin, ruthless pursuer of the [[Cult of the Library]] 's cause
 
 ---
  # Motivation

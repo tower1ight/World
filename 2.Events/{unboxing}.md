@@ -1,6 +1,8 @@
 ---
 tags:
   - event
+  - Telor
+  - xylaan
 aliases:
 ---
 

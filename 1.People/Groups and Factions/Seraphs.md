@@ -3,6 +3,7 @@ tags:
   - faction
   - xylaan
   - C04
+  - Seraphine
 aliases:
   - Seraph
   - seraphine

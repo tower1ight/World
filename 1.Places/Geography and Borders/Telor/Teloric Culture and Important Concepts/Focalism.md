@@ -1,5 +1,6 @@
 ---
-tags: Focalism, 
+tags:
+  - Focalism
 alias: focalist
 ---
  n x:[[Tel'Voric]]

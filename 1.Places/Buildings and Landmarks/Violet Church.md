@@ -1,6 +1,10 @@
 ---
-tags: Focalism, location, Faction
-alias: 
+tags:
+  - faction
+  - VioletChurch
+  - Telor
+alias:
+Location Type: City
 ---
 up: 
 

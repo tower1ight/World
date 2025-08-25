@@ -1,7 +1,7 @@
 ---
 tags:
   - Tree
-  - xylaan
+  - Xylaan
   - C04
 aliases:
   - spore

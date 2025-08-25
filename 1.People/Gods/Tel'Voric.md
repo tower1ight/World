@@ -1,5 +1,11 @@
 ---
-tags: Focalism, gods, dragons, NPC
+tags:
+  - Dragon
+  - NPC
+  - God
+  - Telor
+  - VioletChurch
+  - Focalism
 alias: Bestower_of_the_Mark, Second_Scale_of_Yilin, deposed_steward_of_The_Great_Library, founder_of_Telor_and_shepard_of_its_people, ancient_amethyst_dragon, Tel'Voric's
 ---
 

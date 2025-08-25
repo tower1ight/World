@@ -1,6 +1,10 @@
 ---
-tags: NPC, Plot, Teloric_Polotics
+tags:
+  - NPC
+  - Telor
+  - VioletChurch
 alias: Queen_Vaginopolis, The_Queen, Marge, Marge's
+Ancestry: Half Elf
 ---
 up: 
 

@@ -1,5 +1,7 @@
 ---
-tags: faction, religion
+tags:
+  - faction
+  - LibraryWorship
 alias: stewards
 ---
 up: [[Worship of the Library]]

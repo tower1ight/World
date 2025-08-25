@@ -1,5 +1,7 @@
 ---
-tags: Telor, faction
-alias: 
+tags:
+  - Telor
+  - faction
+alias:
 ---
 up: [[Allyol]]

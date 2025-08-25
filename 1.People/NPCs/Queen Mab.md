@@ -1,7 +1,10 @@
 ---
 tags:
   - NPC
+  - Fey
+  - C04
 aliases:
+Ancestry: Sylvan
 ---
 Queen of the feywild 
 

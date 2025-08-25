@@ -1,6 +1,10 @@
 ---
-tags: NPC
+tags:
+  - NPC
+  - Telor
+  - Caravanner
 alias: Fitz
+Ancestry: Human
 ---
 
 | Affiliations | Enemies | connections | Roles    | 

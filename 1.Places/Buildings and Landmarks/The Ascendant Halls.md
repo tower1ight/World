@@ -1,4 +1,7 @@
 ---
-tags: Telor, focalism, location
-alias: 
+tags:
+  - Telor
+  - Vorvelal
+alias:
+Location Type: Hold
 ---

@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Location")
+    order:
+      - file.name
+      - Location Type
+    sort:
+      - property: Location Type
+        direction: ASC

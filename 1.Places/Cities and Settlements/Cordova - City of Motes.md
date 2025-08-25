@@ -1,8 +1,10 @@
 ---
 tags:
-  - C04
   - Location
+  - xylaan
+  - Seraphine
 aliases:
+Location Type: City
 ---
 
  # what is it
