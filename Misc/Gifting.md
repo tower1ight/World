@@ -12,4 +12,5 @@ my mother
 	- jewelry
 	- go to the boston antique market
 	- pott for plants
-	- 
+# Dad
+- dog trainer extraordinaire 

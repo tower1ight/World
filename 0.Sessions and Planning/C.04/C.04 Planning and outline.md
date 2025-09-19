@@ -18,7 +18,9 @@ Progressing personal stories
 
 ## [[C.04 Arc 2 - The Great Arsonist Hunt]]: 
 
-## [[C.04 Arc 3 - Into The Woods]]: Entry, Arcadian mind control, Party proxy
+## [[C.04 Arc 3 - Into The Woods]]
+
+: Entry, Arcadian mind control, Party proxy
 
  
 # Planning 

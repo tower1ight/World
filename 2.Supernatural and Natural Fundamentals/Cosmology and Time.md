@@ -22,7 +22,6 @@ wobble of the ring: every 289 ± 1 days
 
 
 
-
  
  
  

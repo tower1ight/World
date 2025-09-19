@@ -9,4 +9,4 @@ aliases:
 Location Type: City
 ---
 [[Goblins]]
-[[{Collaborator and Coerced Goblins}]]
+[[BlueScaleGut Court]]

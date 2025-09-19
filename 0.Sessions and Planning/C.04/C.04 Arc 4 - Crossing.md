@@ -10,7 +10,7 @@ aliases:
 
 #### Current
 - [ ] Needs
-	- [ ] name  the [[{Collaborator and Coerced Goblins}]]
+	- [ ] name  the [[BlueScaleGut Court]]
 
 - [ ] Wants
 	- [ ] Configure VTT
