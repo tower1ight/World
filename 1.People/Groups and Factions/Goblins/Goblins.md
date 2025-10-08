@@ -32,8 +32,13 @@ Work in concert with xylaan
 
 # Census
 - Currently split into four large groups
+<<<<<<< HEAD
 	- [[The Court of Boiled Blood]]: the court of many, Largely associated with central [[Xylaani Biomes and Geography|Chaparral]] and [[{the Woven City}]]
 	- [[The Court of Shimmering Gut]]: the court of fang and scale, Largely associated with [[Arcadian Court|Arcadian]] occupied territory and [[{LakeTown}]]
+=======
+	- [[{Populist Goblins}]]: the court of many, Largely associated with central [[Xylaani Biomes and Geography|Chaparral]] and [[{the Woven City}]]
+	- [[{Collaborator and Coerced Goblins}]]: the court of fang and scale, Largely associated with [[Arcadian Court|Arcadian]] occupied territory and [[{LakeTown}]]
+>>>>>>> origin/main
 	- [[{Sepratist Goblins}]]
 	- [[{Theives Court}]]
 #### Geography

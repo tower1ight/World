@@ -10,7 +10,11 @@ aliases:
 
 #### Current
 - [ ] Needs
+<<<<<<< HEAD
 	- [ ] name  the [[The Court of Shimmering Gut]]
+=======
+	- [ ] name  the [[{Collaborator and Coerced Goblins}]]
+>>>>>>> origin/main
 
 - [ ] Wants
 	- [ ] Configure VTT
