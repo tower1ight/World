@@ -10,7 +10,7 @@ aliases:
 
 #### Current
 - [ ] Needs
-	- [ ] name  the [[BlueScaleGut Court]]
+	- [ ] name  the [[The Court of Shimmering Gut]]
 
 - [ ] Wants
 	- [ ] Configure VTT

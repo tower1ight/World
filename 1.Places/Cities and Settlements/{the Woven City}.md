@@ -3,6 +3,7 @@ tags:
   - C04
   - xylaan
   - Goblin
+  - Location
 aliases:
 Location Type: City
 ---
@@ -36,3 +37,10 @@ Eras
 
 
 
+One of the first goblin settlementsw
+- three palaces representing three ages
+	- old crumble
+	- grand :persian step garden
+	- populist 
+
+Home to [[The Court of Boiled Blood]]

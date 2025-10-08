@@ -18,7 +18,7 @@ This is really our first travel session, what do i want, I want good presentatio
 
 #### Current
 - [ ] Needs
-	- [ ] name  the [[BlueScaleGut Court]]
+	- [ ] name  the [[The Court of Shimmering Gut]]
 
 - [ ] Wants
 	- [ ] Configure VTT
@@ -180,7 +180,7 @@ beeep
 	- **Who told them:** higher ups you know 
 	- **on the other goblins:** lorem ipsum
 	- **whats at the mound:** one m nof yours, a foolish boy whos spirit and body have been split, he leads the mindless
-	- **the mindless:** had their minds sizzled by the [[xylaan]] to much powert fried them right up 
+	- **the mindless:** had their minds sizzled by the [[Xylaan]] to much powert fried them right up 
 	- **Can I show you a trick ive been working on:** Burps a vissible stink ring and spits through it
 #### Stampede
 -  Describe the swaying grass and shallow pools
@@ -248,44 +248,58 @@ beeep
 #### **Encounter a girl**
 - 
 #### **Encounter Sage Aelon**
+- A trick or a trap is in place to protect her 
+- She will tell you anything if you ask it of her 
+	- She wishes to reconstruct the barrier 
+		- This will prevent xylaan from ever returning to its body 
+- She has been stalling for several years balancing on a razors edge, distracting evading, pretending that she earnestly believes in the invasion project
+- what was the sickness, genuine, but she would time after time find ways to destroy their work
+	- keeping the bodies and disposal secret was wasting resources 
+- Whats with the coup]
+	- she needed 
+- Why did she send you
+	- the goblins are being forced to loose their sovereignty  
+	- grumble thorn is worth your trust
 #### **Arival**
+Goblins level blades at you and speak goblin at you, wait for [[Bogbelch]] to show up, ask why you are here.
 
-farmers 
-- lots 
-doctors 
-builders
-- thing builders
-- odds and ends
-- structural
-- materials
-- reason to town here
-plaza
-textil exchange and markets 
-- hyphweave 
-- stalk ware (matts, construction, textiles)
+Their goal is to protect the town, possibly escort this girl home?
+Themes and tensions 
+- [[Arcadian Pact of Nonaggression]]
+	- Refugees are vengeful, not loosing sight of the pact but the urge to violence is powerful
+	- wormtongue 
+- The Towns wellbeing 
+	- the effects of lessened [[mycelium]] functionality
+		- Signal to the city is week and requests for help: many of their curse spitters have been sent to investigate 
+		- new building built for refugees is weak and made from sugar
+	- Resources running thin
+		- Many mouths to feed (no disrupt around this fact)
+		- people are not turning on eachother, they are just hungry and tired
+		-
 
-we have a little sneak theif
-we seed a few misdeeds and town narratives that could lead to murder
-
-
-
-
-
-
-
-
-- **A Town**
-	- Village sized, around 300 Goblins
-	- A minor village on a small creek
+ #### **A Town**
+- Village sized, around 200 Goblins recent addition of like 100 goblins
+- A minor village on a small creek
 		- Mainly grows and trains warspiders 
 - Who is at play 
 	- mayor
 	- [[Commander Kael]]
 	- wyrmtongue
-- What are the verbs
-	- Defend the town
-	- Defuse a Bomb
-	- prevent a massacre 
+- Points of interest
+	- The [[The Mindless]] tent 
+	- wormtongues space for augury 
+	- Workshop
+		- Many of industrious goblins 
+	- [[Bogbelch]]'s command tent?
+		- balancing deescalating and preparing for a charge 
+	- Warspider den 
+		- an orb weaver den in the earth 
+		- Hungry 
+
+
+
+
+
 - baricade up
 - Is it problematic that the goblins have mind control? slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
 
@@ -474,7 +488,7 @@ big armored gar live in the river
 goblin slaves have been been sent to spy and perform small raids to test defenses, so the town is ancy, they have generally heard of the occupation of {{southren goblin city}}
 But little word has left the city since its closed its gates and the couruption of that city government has been an open secret for a long time. the town itself will be a huge strategic advantage should dagogs army take it, as it is well fortified and close enough to the bridge keep any large force from crossing. These people are farmers and hunters and bakers, there is a small gaurd force but only large enough to hold the gates and keep the peace. These people will be reluctant to leave but are possesed of enough fear, that they could be convinced to head to 
 
-The party will eventually need to convince the town to head for [[{Goblin City}]] and abandon their town, [[Prince Dagoag|Dagoag]]'s forces wont move to kill them. However, if the paarty seeks to delay them, the bridge must be destroyed. Other crossings exist but none in the area would support the seige equipment that the Dagoag is planning to use on [[{Goblin City}]]. [[skiffs]] could be used but, in this area skiffs are unreliable, military use of them is unprecedented, and the [[Arcadian Court]] does not possess them in large enough numbers.
+The party will eventually need to convince the town to head for [[{the Woven City}]] and abandon their town, [[Prince Dagoag|Dagoag]]'s forces wont move to kill them. However, if the paarty seeks to delay them, the bridge must be destroyed. Other crossings exist but none in the area would support the seige equipment that the Dagoag is planning to use on [[{the Woven City}]]. [[skiffs]] could be used but, in this area skiffs are unreliable, military use of them is unprecedented, and the [[Arcadian Court]] does not possess them in large enough numbers.
 
 
 

@@ -24,7 +24,7 @@ Responsible for
 - pipes resource transport 
 #### Anarchy?:
 Work in concert with xylaan
- goblin are largely used as a disposable force of workers capable of autonomous manufacturing and importing important good to most of xylaan : mining and precious metals, mold creation (textiles, tool), arcane component gathering
+ goblin are largely used as a disposable force of workers capable of autonomous manufacturing and importing important good to most of xylaan : mining and precious metals, mold creation (textiles, tool), arcane component gathering. might makes right 
  - Green: The most subjugated and exploited goblin community, their relationship and proximity to the arcadian court and their role producing luxury goods, dyes, and fine textiles, 
 	 - nobility 
  - Yellow: manages a lot of the building projects and raw materials exports
@@ -33,7 +33,7 @@ Work in concert with xylaan
 # Census
 - Currently split into four large groups
 	- [[The Court of Boiled Blood]]: the court of many, Largely associated with central [[Xylaani Biomes and Geography|Chaparral]] and [[{the Woven City}]]
-	- [[BlueScaleGut Court]]: the court of fang and scale, Largely associated with [[Arcadian Court|Arcadian]] occupied territory and [[{LakeTown}]]
+	- [[The Court of Shimmering Gut]]: the court of fang and scale, Largely associated with [[Arcadian Court|Arcadian]] occupied territory and [[{LakeTown}]]
 	- [[{Sepratist Goblins}]]
 	- [[{Theives Court}]]
 #### Geography

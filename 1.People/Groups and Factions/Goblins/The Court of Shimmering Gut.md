@@ -4,6 +4,7 @@ tags:
   - xylaan
   - Goblin
 aliases:
+  - Gut Court
 ---
 [[Goblins]]
 peutrid 
@@ -12,6 +13,11 @@ gall
 takoaki 
 rot
 
+
+# Identity 
+- Grisley and 
+
+Augers 
 Knife that Dresses the scale 
 
 BlueGut Court

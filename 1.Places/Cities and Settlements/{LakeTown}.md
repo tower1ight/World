@@ -9,4 +9,4 @@ aliases:
 Location Type: City
 ---
 [[Goblins]]
-[[BlueScaleGut Court]]
+[[The Court of Shimmering Gut]]

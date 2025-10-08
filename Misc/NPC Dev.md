@@ -18,24 +18,24 @@ Goblins are impulsive fickle creatures, driven by base desires, they see that as
 |     | SURVIVOR’S GUILT:                                                                                                                                                                                                               |
 |     | GENIUS: One Skill they are perfect at, they cannot explain why their answer is right but their answer is always right. They otherwise have [-] at<br>all Skills unless there is cross pollination with their area of expertise. |
 
-|              |              |              |     | prefix  | Suffix |
-| ------------ | ------------ | ------------ | --- | ------- | ------ |
-| Nettlegrin   | ~~Gloomtoe~~ | Sludgejaw    |     | phlem   | leak   |
-| Snickerwart  | Rumblefoot   | Gobsmudge    |     | glimmer | spew   |
-| fleshbelle   | Golintid     | Nogglebelly  |     | thistle | gash   |
-| Mosswick     | Grizzlemaw   | Wartnibble   |     | pus     | wort   |
-| Wretchfang   | Slitherstab  | Grumbleclaw  |     | fester  | gob    |
-| Grumblethorn | Wobblethumb  | Snaggletoad  |     | mucus   | thumb  |
-| Thistlenose  | Sludgejack   | Fizzlefoot   |     | larva   | nose   |
-| Slivergnack  | Nibblesnarl  | Glimmerbelly |     | pimpke  | belly  |
-| gristlnose   | Slurpgrub    | Slimegob     |     | gristle | muck   |
-| Wretchgnaw   | Thistlejaw   | Snickersnarl |     | fable   | slurp  |
-| Sludgewright | Gobblefist   | Grizzlegrin  |     | pansy   | nibble |
-| Bogbelch     | Slitherjaw   | Slurpnose    |     | thistle | gut    |
-| Gnarlhect    | Wartbelly    | Thistletide  |     | rowan   | smear  |
-| Slurptongue  | Moldywhisk   | Gontongue    |     | grim    | hand   |
-| Glimmergrim  | Snickergaze  | Grumblefoot  |     | gnarl   | Liver  |
-| Fizzlegob    | Rumblenose   | Grumblegaze  |     | gloom   | mug    |
+|                  |              |              |     | prefix  | Suffix |
+| ---------------- | ------------ | ------------ | --- | ------- | ------ |
+| Nettlegrin       | ~~Gloomtoe~~ | Sludgejaw    |     | phlem   | leak   |
+| Snickerwart      | Rumblefoot   | Gobsmudge    |     | glimmer | spew   |
+| fleshbelle       | Golintid     | Nogglebelly  |     | thistle | gash   |
+| Mosswick         | Grizzlemaw   | Wartnibble   |     | pus     | wort   |
+| Wretchfang       | Slitherstab  | Grumbleclaw  |     | fester  | gob    |
+| ~~Grumblethorn~~ | Wobblethumb  | Snaggletoad  |     | mucus   | thumb  |
+| Thistlenose      | Sludgejack   | Fizzlefoot   |     | larva   | nose   |
+| Slivergnack      | Nibblesnarl  | Glimmerbelly |     | pimpke  | belly  |
+| gristlnose       | Slurpgrub    | Slimegob     |     | gristle | muck   |
+| Wretchgnaw       | Thistlejaw   | Snickersnarl |     | fable   | slurp  |
+| Sludgewright     | Gobblefist   | Grizzlegrin  |     | pansy   | nibble |
+| Bogbelch         | Slitherjaw   | Slurpnose    |     | thistle | gut    |
+| Gnarlhect        | Wartbelly    | Thistletide  |     | rowan   | smear  |
+| Slurptongue      | Moldywhisk   | Gontongue    |     | grim    | hand   |
+| Glimmergrim      | Snickergaze  | Grumblefoot  |     | gnarl   | Liver  |
+| Fizzlegob        | Rumblenose   | Grumblegaze  |     | gloom   | mug    |
 
 # Telor
 # Elven

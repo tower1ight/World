@@ -13,14 +13,14 @@ aliases:
 Location Type: Sovereign, Region, or Topology
 ---
 
- *Its A land of isolation, though you wouldn't know it with the fingerprints they fey cant help but leave, and it's flesh is something else entirely*
+ *A land of isolation, though you wouldn't know it with the fingerprints they fey cant help but leave, and it's flesh is something else entirely*
  — Telvoric
 
-*like everywhere of importance dragons had touched this place before, vermin these little wyrms, everywhere you look sprouting up like tulips! A great forest held [[Tanniaxs]] a great beast that presided over the land with vauge concern, [[Tannia]] called it home and tinkerd for a time, they are of note and I hold them in high regard, but the camera must pan to a grand tree at xylaan's heart, held with high enough regard to bleed into the feywild and providing a unique offer for queen mab, the greatest of archfey at the time in desperate need for an escape from a sticky situation. Pursued by the the [[The Circle of Eight|Eight]] with the particular interest of yours truly, the fey had decided to hide a [[Prism]] that had fallen into their hands. alas we have not always been the bastion of responsibility or and our organizations greatest work in the millennia that we operated had been scattered to the wind, at the whim of every individual that lusted for incalculable power. I, volunteering to find this masterpiece, I found the task more difficult than I could have possibly imagined and I found myself looking i circles, my connections there bore no fruit and entire lifetimes spent with these archfey was apparently not worth the answer to my questions. For decades I wandered, in the end finding my search concluded by this tree before us, its hiding place in the material plane almost as gualing as my inability to take it back.* 
+*like everywhere of importance dragons had touched this place before, vermin these little wyrms, everywhere you look sprouting up like tulips! A great forest held [[Tanniaxs]] a great beast that presided over the land with vauge concern, [[Tannia]] called it home and tinkerd for a time, they wise and generous and I hold them in high regard, but we are talking of xylaan speaking of xylaans history we must shift attention from that dragon to its perch, the grand tree at xylaan's heart. Its size and placement led it to bleed into the feywild and provide a unique opportunity for queen mab, the greatest of archfey at the time in desperate need for an escape from a sticky situation. Pursued by [[The Circle of Eight]] with the particular interest of yours truly, the fey didn't want to part with a powerful artifact of our creation that had fallen into their hands. alas we have not always been the bastion of responsibility or and our organizations greatest work in the millennia had been scattered to the wind, at the whim of every individual that lusted for incalculable power. I, volunteering to find this particular prism, found the task more difficult than I imagined and as is the nature of farie I spent a great deal of time walking in intoxicated circles, my connections there bore no fruit and entire lifetimes spent with these archfey was apparently not worth the answer to my questions. For decades I wandered, in the end found my search concluded by this tree before us, its hiding place in the material plane almost as gauling as my inability to take it back.* 
 
-*Queen mab you see had demonstrated remarkable foresight, acknowledging a skirmish with a separatist sect of her court, and in recent possession of a reality bending artifact she banished both to the material plane before the* [[The Circle of Eight|Eight]] *before we had even realized they were gone. The [[Arcadian Court| Court of Arcadia]] with that aforementioned immense power and new lands entirely sovereign to them had dutifully played the part, staging their rebellion with flourish and zeal. They left and the portal closed behind them with theatrical finality. The goblin court, always eager for influence and unmatched in their nastyness, has a pension for throwing wrenches into grand narratives, they had learned of Arcadias Pact with* [[Queen Mab]] *and stowed away many of their courts most vile and tricksy individuals. Without this digression from the plan I may have overlooked this place for even longer.*
+*Queen mab you see had demonstrated remarkable foresight, acknowledging a skirmish with a separatist sect of her court, and in recent possession of a reality bending artifact she banished both to the material plane before the [[The Circle of Eight|Eight]] had even realized they were gone. The [[Arcadian Court| Court of Arcadia]] with that aforementioned immense power and new lands entirely sovereign to them had dutifully played the part, staging their rebellion with flourish and zeal. They [[Arcadian Secession|Left]] and the portal closed behind them with theatrical finality. However, The goblin court, always eager for influence and unmatched in their nastyness, has a pension for throwing wrenches into grand narratives, they had learned of Arcadias Pact with [[Queen Mab]] and stowed away many of their courts most vile and tricksy individuals. Without this digression from the plan I may have overlooked this place for even longer.*
 
-*When I finally layed my eyes on the tree I knew instantly that we could never restore the sphere, something grander undulated beneath my feet, an organism the capacity and, unbeknownst to me, the inclination for godhood, the prism, trapped in the interdimentional heart of the tree syphoned off [[focus]] from [[The Prismatic Whole]]. Our work had surpassed us and created the most beautiful thing I had ever seen*
+*When I finally layed my eyes on the tree I knew instantly that we could never restore the sphere, something grander undulated beneath my feet, an organism with the capacity and, unbeknownst to me, the inclination for godhood, the prism, trapped in the interdimentional heart of the tree syphoned off [[focus]] from [[The Prismatic Whole]]. Our work had surpassed us and created the most beautiful thing I had ever seen*
 
 — Bigby 2
 
@@ -44,7 +44,7 @@ Geography and Ecology
 	- Major organisms: null, hardy grass
 	- 
 	- 
- ## Reeds:
+## Reeds:
   Similar to something like a chaparral region, marked by foothills stepped in an ocean of tall grass, It should be noted that the [[Ichor]], supported by denser ares of the forest, does not reach the majority of this region. 
 	- Primary sentient residents: Goblinoids, spiders, and 
 	- Notable organisms: Tall grass (three varieties), parasite, bullete (eats grass )
@@ -53,12 +53,12 @@ Geography and Ecology
 		- The weeds 
 		- delecacy to cook and eat the reeds like banboo stakls
 
- #### swaying, 
+#### swaying, 
  above you is a dance, reeds tall enough to reach the mist syphoning uff sugar in big gulps, wroms wriggle in the mud and you look out on a lake, its stiller than one mi8ght imagine, the buffeting wind shielded by the tall grass. atonec a gust
 
 A gust of wind pushed reeds in a dance, their green stalks bending together as though they moved in water, gentely schookling in one ddirectiom, then another. a four legged creature, with a bulbus abomin at its center scates across the muddy water,  light rain begins to move in, leaving dfdelicate drops acrosss the water, an eel moves slowly in the water a central fin snaking back and fort, give the appearance of stillness. and we zoom into its spine folloing its would be shoulder as is takes a deepers dive, sunned enough to be comrfortable. the lakes floor is clouded, movement kicking uop dirt and leaving an almost solid opaque cloud. the ssahelloed creatures obsqueres by the cloud crack their chells atgainst one another, Large shark like tails propel them at remarkabe speeds and air buble forms as the two clash heads again, 
 
- #### Ecology
+#### Ecology
  This area has always had less resouces, farther from the heart of xylaan than most other biomes, sugar trickles out into this ecosystem and the mist layer touches its outer edges, creatures in this place are on the smaller side, mega fauna is less prevalent
  - Goblins
 	 - have domesticated spiders, not native to the area 
@@ -79,13 +79,15 @@ A gust of wind pushed reeds in a dance, their green stalks bending together as t
 
 
 
-- licken peaks: A set of mountains that branch from the [[The Talons|Talons]] and wrap inward. in most palces this mountain range can be divided into three regions, foothills, lichen, and the icy parts. The concentrated sugar found in the [[Ichor]] and feeds lichen, bacteria, and other microorganisms that latch onto the side of the mountain. these die and build on themselves, creating rough structures and supporting a fascinating ecosystem. This lichen is packed with sugars so 
-- desidious
-	- primary sentient: 
-	- Notable organism: dancing lady, Weeping Willow, rot angel, rot beast hears, ginat spiders, very traditional fantasy beasts 
+## Tani Peaks
+[[The Talons|Talons]] and wrap inward. in most palces this mountain range can be divided into three regions, foothills, lichen, and the icy parts. The concentrated sugar found in the [[Ichor]] and feeds lichen, bacteria, and other microorganisms that latch onto the side of the mountain. these die and build on themselves, creating rough structures and supporting a fascinating ecosystem. This lichen is packed with sugars so 
+
+## desidious
+- primary sentient: 
+- Notable organism: dancing lady, Weeping Willow, rot angel, rot beast hears, ginat spiders, very traditional fantasy beasts 
 - jungle: the jungle constitutes one of xylaans largest cities, it sits sollidly in the [[Ichor]] highly vertical. Being created by seraphs and the manufacturing site of almost all xylaani [[skiffs]], much of its traversal is done by flying, beneath 
 - Under jungle:  the [[Ichor]], when combined with the tree density and height of the area, blocks out almost all light under the the jungle creating something of a deadzone, a ecosystem that feeds on seraphim refuse and what energy iit can leach from the mycelium, what is whale fall 
- ## Purelake:
+## Purelake:
   An enormous shallow lake, supports floating lilypads, highest biodiveristy
 	- giant lungfish
 	- stick bug predators
