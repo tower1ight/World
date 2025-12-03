@@ -1,10 +1,9 @@
 ---
 tags:
   - NPC
-  - Goblin
+  - CourtOfShimmeringGut
   - C04
-  - xylaan
 aliases:
 Ancestry: Goblin
+Appearance:
 ---
-Chosen by [[The Gilded Seer]]
