@@ -2,6 +2,7 @@
 tags:
   - event
 aliases:
+  - Nettle's Truce
 Date:
 ---
 

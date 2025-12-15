@@ -18,12 +18,8 @@ This is really our first travel session, what do i want, I want good presentatio
 
 #### Current
 - [ ] Needs
-<<<<<<< HEAD
 	- [ ] name  the [[The Court of Shimmering Gut]]
-=======
 	- [ ] name  the [[{Collaborator and Coerced Goblins}]]
->>>>>>> origin/main
-
 - [ ] Wants
 	- [ ] Configure VTT
 		- [ ] new aud io
@@ -37,8 +33,6 @@ This is really our first travel session, what do i want, I want good presentatio
 	- [ ] Comander Kael
 	- [x] Finalize Travel Rules
 	- [ ] Finalize all first omens of myths
-
-beeep
 
 #### General questions
  - what do the masks look like? how are d attached 
@@ -154,11 +148,8 @@ beeep
 			- 
 
 ## ACT II
-<<<<<<< HEAD
+
 #### Entrance, guardian  
-=======
-# ### Entrance, guardian  
->>>>>>> origin/main
 **Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
 
  - solo encounter
@@ -188,11 +179,8 @@ beeep
 	- **Who told them:** higher ups you know 
 	- **on the other goblins:** lorem ipsum
 	- **whats at the mound:** one m nof yours, a foolish boy whos spirit and body have been split, he leads the mindless
-<<<<<<< HEAD
 	- **the mindless:** had their minds sizzled by the [[Xylaan]] to much powert fried them right up 
-=======
 	- **the mindless:** had their minds sizzled by the [[xylaan]] to much powert fried them right up 
->>>>>>> origin/main
 	- **Can I show you a trick ive been working on:** Burps a vissible stink ring and spits through it
 #### Stampede
 -  Describe the swaying grass and shallow pools
@@ -229,18 +217,6 @@ beeep
 			- enchanted choker with language capabilities
 	- What can you give him
 		- honorable death
-<<<<<<< HEAD
-=======
-
-
-
-
-
-
-
-
-
->>>>>>> origin/main
 
  - **POI:** Encounters, detective work and such
 	 - Rotbeast heard
@@ -269,10 +245,9 @@ beeep
  
  
 ## ACT III
-#### **Encounter a girl**
-- 
-#### **Encounter Sage Aelon**
-<<<<<<< HEAD
+#### Encounter a girl
+- [[Fizzlefoot]]
+#### Encounter [[Sage Aelon]]
 - A trick or a trap is in place to protect her 
 - She will tell you anything if you ask it of her 
 	- She wishes to reconstruct the barrier 
@@ -285,12 +260,54 @@ beeep
 - Why did she send you
 	- the goblins are being forced to loose their sovereignty  
 	- grumble thorn is worth your trust
-#### **Arival**
+#### Arrival
+-  just on a ridge the players see  the scene before them
+- a small town on a river with minor fortifications 
+- they receive a vision with the parameters of the remaining arc
+	- ==in just four days a pact will be broken ==
 Goblins level blades at you and speak goblin at you, wait for [[Bogbelch]] to show up, ask why you are here.
-=======
-#### **Arival**
 
-farmers 
+#### A Town
+
+
+
+
+#### **A Town**
+##### Summary
+The players know that a battle will commence in 4 days when the [[Pact of Nonaggression]] is broken, they will have to prepare, gain as many mechanical advantages as possible 
+
+from this point they have several options ahead of them, recruit a powerful knight, fix whatever is occupying the goblin soldiers, help construct barriers, sabotage the soldiers, spider alliance. they will discover these leads as they explore the town and become acquainted 
+
+| People             |                    |     | People |     |
+| ------------------ | ------------------ | --- | ------ | --- |
+| [[Bogbelch]]       | [[Fizzlefoot]]     |     |        |     |
+| [[Commander Kael]] | [[Nettlegrin]]     |     |        |     |
+| [[Wyrmtongue]]     | [[Sir Beligerant]] |     |        |     |
+|                    |                    |     |        |     |
+
+
+##### Misc Town Details
+- Village sized, around 200 Goblins recent addition of like 100 goblins
+- A minor village on a small creek
+		- Mainly grows and trains warspiders 
+- Who is at play 
+	- mayor
+	- [[Commander Kael]]
+	- [[Wyrmtongue]]
+- Points of interest
+	- [[The Mindless]] tent 
+	- [[Wyrmtongue]] space for augury
+		- nervous about the players 
+		- may mistake those with halos to be on his side
+		- will follow and try to recruit if given the opportunity
+	- Workshop
+		- Many of industrious goblins 
+	- [[Bogbelch]]'s command?
+		- balancing deescalating and preparing for a charge 
+	- Warspider den 
+		- an orb weaver den in the earth 
+		- Hungry 
+- armers 
 - lots 
 doctors 
 builders
@@ -304,8 +321,13 @@ textil exchange and markets
 - hyphweave 
 - stalk ware (matts, construction, textiles)
 
-we have a little sneak theif
-we seed a few misdeeds and town narratives that could lead to murder
+
+
+- its many of its seasoned warriors are working to assist with a node that is atrophying: go help fix the node, 
+- levy forces?
+- A knight has been dispatched: go get him
+- the mindless are clearly build ing boats for the assault 
+- builders need stuff for fixing the walls and ramparts ect
 
 
 
@@ -313,46 +335,19 @@ we seed a few misdeeds and town narratives that could lead to murder
 
 
 
->>>>>>> origin/main
-
-Their goal is to protect the town, possibly escort this girl home?
-Themes and tensions 
-- [[Arcadian Pact of Nonaggression]]
-	- Refugees are vengeful, not loosing sight of the pact but the urge to violence is powerful
-	- wormtongue 
-- The Towns wellbeing 
-	- the effects of lessened [[mycelium]] functionality
-		- Signal to the city is week and requests for help: many of their curse spitters have been sent to investigate 
-		- new building built for refugees is weak and made from sugar
-	- Resources running thin
-		- Many mouths to feed (no disrupt around this fact)
-		- people are not turning on eachother, they are just hungry and tired
-		-
-
- #### **A Town**
-- Village sized, around 200 Goblins recent addition of like 100 goblins
-- A minor village on a small creek
-		- Mainly grows and trains warspiders 
-- Who is at play 
-	- mayor
-	- [[Commander Kael]]
-	- wyrmtongue
-- Points of interest
-	- The [[The Mindless]] tent 
-	- wormtongues space for augury 
-	- Workshop
-		- Many of industrious goblins 
-	- [[Bogbelch]]'s command tent?
-		- balancing deescalating and preparing for a charge 
-	- Warspider den 
-		- an orb weaver den in the earth 
-		- Hungry 
 
 
 
 
 
-- baricade up
+
+
+
+
+
+
+
+
 - Is it problematic that the goblins have mind control? slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
 
 This conflicts directly with their authoritarianism 
@@ -391,6 +386,8 @@ The mindless are doing something nefarious, atempting to provoke aggression
 
 
 
+
+##### WE ARE UNDER FUCKING ATTACK
 
 # Plates a spinning
 ## Set tone
