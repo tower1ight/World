@@ -267,7 +267,7 @@ This is really our first travel session, what do i want, I want good presentatio
 	- ==in just four days a pact will be broken ==
 Goblins level blades at you and speak goblin at you, wait for [[Bogbelch]] to show up, ask why you are here.
 
-
+beep
 
 
 
