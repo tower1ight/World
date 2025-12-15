@@ -247,7 +247,7 @@ This is really our first travel session, what do i want, I want good presentatio
 ## ACT III
 #### Encounter a girl
 - [[Fizzlefoot]]
-#### Encounter Sage Aelon
+#### Encounter [[Sage Aelon]]
 - A trick or a trap is in place to protect her 
 - She will tell you anything if you ask it of her 
 	- She wishes to reconstruct the barrier 
@@ -264,11 +264,19 @@ This is really our first travel session, what do i want, I want good presentatio
 -  just on a ridge the players see  the scene before them
 - a small town on a river with minor fortifications 
 - they receive a vision with the parameters of the remaining arc
-- 
+	- ==in just four days a pact will be broken ==
 Goblins level blades at you and speak goblin at you, wait for [[Bogbelch]] to show up, ask why you are here.
 
-##### A Town
+#### A Town
 
+
+
+
+#### **A Town**
+##### Summary
+The players know that a battle will commence in 4 days when the [[Pact of Nonaggression]] is broken, they will have to prepare, gain as many mechanical advantages as possible 
+
+from this point they have several options ahead of them, recruit a powerful knight, fix whatever is occupying the goblin soldiers, help construct barriers, sabotage the soldiers, spider alliance. they will discover these leads as they explore the town and become acquainted 
 
 | People             |                    |     | People |     |
 | ------------------ | ------------------ | --- | ------ | --- |
@@ -278,27 +286,7 @@ Goblins level blades at you and speak goblin at you, wait for [[Bogbelch]] to sh
 |                    |                    |     |        |     |
 
 
-textil exchange and markets 
-- hyphweave 
-- stalk ware (matts, construction, textiles)
-
-we have a little sneak theif
-we seed a few misdeeds and town narratives that could lead to murder
-Their goal is to protect the town, possibly escort this girl home?
-Themes and tensions 
-- [[Arcadian Pact of Nonaggression]]
-	- Refugees are vengeful, not loosing sight of the pact but the urge to violence is powerful
-	- wormtongue 
-- The Towns wellbeing 
-	- the effects of lessened [[mycelium]] functionality
-		- Signal to the city is week and requests for help: many of their curse spitters have been sent to investigate 
-		- new building built for refugees is weak and made from sugar
-	- Resources running thin
-		- Many mouths to feed (no disrupt around this fact)
-		- people are not turning on eachother, they are just hungry and tired
-		-
-
-#### **A Town**
+##### Misc Town Details
 - Village sized, around 200 Goblins recent addition of like 100 goblins
 - A minor village on a small creek
 		- Mainly grows and trains warspiders 
@@ -308,7 +296,10 @@ Themes and tensions
 	- [[Wyrmtongue]]
 - Points of interest
 	- [[The Mindless]] tent 
-	- [[Wyrmtongue]] space for augury 
+	- [[Wyrmtongue]] space for augury
+		- nervous about the players 
+		- may mistake those with halos to be on his side
+		- will follow and try to recruit if given the opportunity
 	- Workshop
 		- Many of industrious goblins 
 	- [[Bogbelch]]'s command?
@@ -395,6 +386,8 @@ The mindless are doing something nefarious, atempting to provoke aggression
 
 
 
+
+##### WE ARE UNDER FUCKING ATTACK
 
 # Plates a spinning
 ## Set tone
