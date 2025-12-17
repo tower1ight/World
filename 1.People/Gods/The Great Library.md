@@ -1,5 +1,7 @@
 ---
-tags: gods, NPC
+tags:
+  - God
+  - NPC
 alias: Library
 ---
 up: 

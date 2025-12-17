@@ -1,6 +1,8 @@
 ---
-tags: Telor, event
-alias: 
+tags:
+  - Telor
+  - event
+alias:
 ---
 up:  [[Telor]]
 
