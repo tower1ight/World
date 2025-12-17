@@ -15,10 +15,11 @@ aliases:
 
 
 
-|     |          |           |              |     |
-| --- | -------- | --------- | ------------ | --- |
-|     | proud    | social    | magic effect |     |
-|     | filfthy  | political |              |     |
-|     | esoteric | economic  |              |     |
-|     |          | religious |              |     |
-|     | looming  | military  |              |     |
+|                     |          |           |          |
+| ------------------- | -------- | --------- | -------- |
+| Gate/Entrance       | Dread,   | social    | Treasure |
+| Crossroads          | Warm     | political | Trap     |
+| Gathering           | Wild     | economic  | Ecology  |
+| Single use one Door | Sleeping | religious | Magic    |
+|                     | Solemn   | military  | Monster  |
+|                     | Gruesom  |           |          |
