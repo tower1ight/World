@@ -7,7 +7,7 @@ aliases:
   - Gael
   - Yondal
 ---
-# [[Gael]]
+# [[Saint Gael]]
 
 # Aloric
 

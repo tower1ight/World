@@ -1,5 +1,8 @@
 ---
 tags:
+  - faction
+  - C06
+  - Focalism
 aliases:
 ---
 
@@ -8,14 +11,14 @@ aliases:
 [[Tel'Voric]]'s Inner circle of [[The Great Library|Library]] [[Stewards]]
 
 ## Original  5
-#### [[Aelor]]
+#### [[Saint Aelor]]
 - Daughter Gael
-#### Volanor
-#### Ursk
-#### Renta
-#### Nepsis (Forgotten)
+#### [[Saint Volanor]]
+#### [[Saint Ursk]]
+#### [[Saint Renta]]
+#### [[Nepsis]] (Forgotten)
 - 
-[[Anestine]]
+[[Saint Anestine]]
 # Title and Honorary Entries
 #### [[Voral Dynasty|Gael]]
 #### [[Marge Vaginopolis|Marge]]
