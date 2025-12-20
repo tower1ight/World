@@ -8,7 +8,6 @@ aliases:
   - Yondal
 ---
 # [[Saint Gael]]
-
 # Aloric
 
 [[draconic mark]]

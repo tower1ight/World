@@ -17,12 +17,13 @@ aliases:
 | ----- | ------ | ------- | ------ | ----- |
 |       |        |         |        |       |
 
-## Denizens 
-## Traps
-## Treasure
-## The Mound
+#### Denizens 
+#### Traps
+#### Treasure
+#### The Mound
 What can i say yonic, fleshy, rotting, dead, alive! what more do you want motherfucker
-## Concept Garbage Pile 
+
+#### Concept Garbage Pile 
 
 floating ladders
 rubble camelions
@@ -58,13 +59,19 @@ people dont know why they built it there
 | Sounds          |             |
 | Smell and Taste |             |
 
-| NPC I | NPC II | NPC III | NPC IV | NPC V |
-| ----- | ------ | ------- | ------ | ----- |
-|       |        |         |        |       |
-## Traps
-## Treasure
-## Lord
-## Concept Garbage Pile 
+| NPC I       | NPC II | NPC III | NPC IV | NPC V |
+| ----------- | ------ | ------- | ------ | ----- |
+| [[Modrone]] |        |         |        |       |
+#### Traps
+#### Treasure
+#### Glados
+- Keeping the place balanced insert robot mopping blood 
+- What does it want, it's boooooerrred and it has no compassion: observation is so exciting so her traps are like hamster wheels
+- Modrones are the perfect test subjects, beings of law, she can always find new and interesting things to do to them, they feel spiritual pain when made incorrect, this has many avenues of torture
+- Part of her is automatic, part of her is sentient, draw heavily from mothership 
+- What does she like
+	- unpredictability 
+#### Concept Garbage Pile 
 
 
 mail imps
@@ -88,7 +95,8 @@ stockroom and little pharmacy robots aliquoting stuff forever
 |       |        |         |        |       |
 ## Traps
 ## Treasure
-## Lord
+## [[Saint Anestine]] 
+Her sword aloft is killing the creatures and adventurers,
 ## Concept Garbage Pile 
 
 saw traps
