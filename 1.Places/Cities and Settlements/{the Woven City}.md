@@ -3,10 +3,8 @@ tags:
   - C04
   - xylaan
   - Goblin
-<<<<<<< HEAD
   - Location
-=======
->>>>>>> origin/main
+
 aliases:
 Location Type: City
 ---

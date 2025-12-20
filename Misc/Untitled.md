@@ -31,3 +31,38 @@ dramione
 
 She likes the outdoors
 she likes 
+ knitting bowl
+
+
+
+
+
+
+
+
+
+Hi Michael, 
+
+
+I chose these for you for a couple of reasons:
+
+ First and foremost, I think his series has been some of the most refreshing science fiction that I have read in some time. I find myself dwelling on scenes from these books long after I put them down. 
+ 
+Second, I think that this series has some very interesting things to say about the climate crisis (as discussed in the first book's introduction). It says them succinctly and indirectly, keeping dread from swallowing everything else these books are doing. 
+
+Thirdly, they are just plain fun. Thoughtfulness and inspiration are for the birds. I found them to be very exciting, wacky, disorienting reads, and I hope you like them!
+
+love,
+Sam
+
+
+Hi Patricia,
+
+This is perhaps the most used cookbook that I own. (No offense to the wonderful books and magazines youve given me <3 ) It is truly evergreen. I don't think I have made anything out of this book that I didn't fall in love with! 
+
+Some of these are challenging, and almost all of them take some time to put together. But the descriptions are very thoughtfully written, and the photography is as gorgeous as it is instructive. I hope you enjoy.
+
+ I've written some notes on the pages of the recipes I have made. I hope you don't mind! 
+
+Love 
+Sam
