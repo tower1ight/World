@@ -68,9 +68,19 @@ people dont know why they built it there
 - Keeping the place balanced insert robot mopping blood 
 - What does it want, it's boooooerrred and it has no compassion: observation is so exciting so her traps are like hamster wheels
 - Modrones are the perfect test subjects, beings of law, she can always find new and interesting things to do to them, they feel spiritual pain when made incorrect, this has many avenues of torture
-- Part of her is automatic, part of her is sentient, draw heavily from mothership 
-- What does she like
-	- unpredictability 
+- Part of it is automatic, part of it is sentient, draw heavily from mothership 
+
+##### Characteristics 
+- What does it like
+	- good girl affirmations 
+	- Exercising Control
+	- Disobedience
+- What does it dislike 
+	- Unpredictability 
+	- mess 
+	- Indifference, choosing to not engage (Will dispose of a PC if this happens)
+- What does it need
+	- A way out of this place: trying to build a vessel she can fit in
 #### Concept Garbage Pile 
 
 
