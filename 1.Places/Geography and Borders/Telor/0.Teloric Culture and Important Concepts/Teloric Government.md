@@ -1,5 +1,7 @@
 ---
-tags: telor, Teloric_polotics
+tags:
+  - Telor
+  - Teloric_polotics
 aliases:
   - Fashion Houses
   - Noble Houses
@@ -14,7 +16,15 @@ The [[Telor|Teloric]] political system is built on a dense and complicated hiera
 - The chain of bureaucracy throughout the land generally goes from towns> surrounding province> violet church> throne 
 
 
- # Local Government or [[focal council]]
+| [[{Kha}]]                 | [[{Tahold}]]        | [[{Urstone}]]              | [[{Barony IV}]]      | [[{Dukedom V}]]           | [[{Dukedom VI}]] | [[{Dukedom VII}]] |
+| ------------------------- | ------------------- | -------------------------- | -------------------- | ------------------------- | ---------------- | ----------------- |
+| [[House Kahdar]]          | [[House Follanel]]  | [[House Yeitel]]           |                      |                           |                  |                   |
+| Octopus on a black banner | Bear                | lightning splitting a rock | Hawk Spearing a Fish | A Tree Bending in a Storm | A fort           |                   |
+| [[{Duke Gask}]]           | [[{Duke Belouine}]] | [[{Duke Berring}]]         | [[{Duke Nime}]]      | [[{Duke Touloudine}]]     |                  |                   |
+| Textiles                  |                     |                            |                      |                           |                  |                   |
+
+
+# Local Government or [[focal council]]
 (rules have leeway as town population shrinks)
 Generally there are 4 positions of power in a given town, each serve a community role and acts as [[Focalism|focalist]] priests
 -   [[Focal leader]] (Focal): Primary community leader, in charge of creating laws, settling local disputes, organizing civic projects and government funding, ensuring tax collection. Aided by the guide, archivist, and captain in organizing the town. 
@@ -24,7 +34,7 @@ Generally there are 4 positions of power in a given town, each serve a community
 
 All civic work generally is run out of the local [[Focalism|focalist]] church and power dynamics will vary from town to town. 
 
- ## Leader selection and indoctrination
+## Leader selection and indoctrination
 - Because travel is so fast, cheap, and emphasized for the progression of ones craft, civic training is handled both as mentorship under the previous leader and formal training in government organizations
 - When the two scholars deem the timing right they will select five adolescents and send them to the violet church for training.
 - The five will make a pilgrimage to the violet church and train there for several years, a year or so into study they will choose amongst themselves which path is appropriate for each of them (often this choice is influenced by the scholars at the violet church) and continue their studies with concentration on their chosen subject
@@ -36,7 +46,7 @@ All civic work generally is run out of the local [[Focalism|focalist]] church an
 - Before a focal leader and a captain return home they meet at the capital, forming a Focal Pair, and are sent to travel together for a year or so.
 	- Focal pairs from more significant towns will travel abroad, and are often given a larger task or missio
 
- # Nobility
+# Nobility
 - Due to the ease of communication and travel, nobel houses function almost like companies with more codified rules of lineage and family ownership 
 - These houses sponsor and run design collectives, profiting off of the crafts and goods their members make 
 - The most prestigious houses have old ties to the voral dynasty

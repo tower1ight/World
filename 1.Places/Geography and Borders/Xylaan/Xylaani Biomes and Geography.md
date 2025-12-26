@@ -11,7 +11,7 @@ aliases:
 ---
 
  # Biomes
-  ## Forced Grassland
+  ## [[Ghostlands]]
   - Description: Split into two sections by grouping of [[Tannia]]. Grassland that feels simulated Not barren but cultivated, plants grow but without any communication or community
   - Important locations
 	  - [[Fort Raynault]]
@@ -19,7 +19,7 @@ aliases:
   - Important Ideas
 	  - things grow quickly and die quickly
 	  - foreign plants capable of communication outside of [[mycelium]] will thrive and quickly become invasive
-  ## Chaparral
+  ## [[Reeds]]
   - Description: The chaparral region is defined by a dry climate and distance from xylaan's heart, a valley between the foothills of xylaan's Northern mountain range and the tallons, this region receives a proportionally small amount of connection to the network or the sugar layer.
   - brittle and colorful, thin tall grass stretches throughout the biome, population spikes around large groves of brushlike trees that assemble around streams and the base of mountains
   - Important locations

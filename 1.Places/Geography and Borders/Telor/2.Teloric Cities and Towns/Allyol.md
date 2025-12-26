@@ -5,6 +5,7 @@ tags:
 alias:
 Location Type: City
 ---
-up: 
+Region, Sovereign or State: [[Telor]]
+Province: [[{Urstone}]]
 
 home to the [[Dwarves]] and [[Gnomes]] of telor this city is a great hub of technilogical development 

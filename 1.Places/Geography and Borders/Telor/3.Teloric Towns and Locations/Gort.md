@@ -6,6 +6,8 @@ tags:
 alias:
 Location Type: Town
 ---
+Region, Sovereign or State: [[Telor]]
+Province: [[{Urstone}]]
 
 | Affiliations | Location           | Campaign Featured                |
 |:------------:| ------------------ | -------------------------------- |

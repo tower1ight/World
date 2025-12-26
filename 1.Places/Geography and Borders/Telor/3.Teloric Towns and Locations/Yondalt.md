@@ -5,6 +5,9 @@ tags:
 aliases:
 Location Type: Town
 ---
+Region, Sovereign or State: [[Telor]]
+Province: [[{Tahold}]]
+
 A long abandoned community [[Worship of the Library]]
 
 | Affiliations            | Location  | Campaign Featured |

@@ -8,9 +8,10 @@ tags:
 aliases:
 Location Type: City
 ---
+Sovereign or State:
+Province: [[]]
+
 [[Goblins]]
-<<<<<<< HEAD
 [[The Court of Shimmering Gut]]
-=======
 [[{Collaborator and Coerced Goblins}]]
->>>>>>> origin/main
+

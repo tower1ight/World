@@ -3,7 +3,7 @@ tags:
   - C04
 aliases:
 ---
-e[[C.04.08]], [[C.04.09]], [[C.04.10]]
+[[C.04.08]], [[C.04.09]], [[C.04.10]]
 
 [[NPC Log.base]]
 # Session Prep

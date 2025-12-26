@@ -9,9 +9,7 @@ Location Type: Hold
 ---
 ---
 
-| Affiliations | Location | Campaign Featured |
-| ------------ | ------- | ----------- |
-|              |         |             |
+
 
 ---
  # Summary

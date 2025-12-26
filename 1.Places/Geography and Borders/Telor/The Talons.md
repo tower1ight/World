@@ -6,7 +6,7 @@ tags:
   - OS01
 aliases:
   - Talons
-Location Type: Sovereign, Region, or Topology
+Location Type: Feature, Geography, or Topography
 ---
 
  # what is it

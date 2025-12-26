@@ -10,7 +10,7 @@ aliases:
   - IT
   - Xylaan
   - The Forest
-Location Type: Sovereign, Region, or Topology
+Location Type: Sovereign or State
 ---
 
  *A land of isolation, though you wouldn't know it with the fingerprints they fey cant help but leave, and it's flesh is something else entirely*
