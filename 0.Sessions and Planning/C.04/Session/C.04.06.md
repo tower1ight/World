@@ -9,12 +9,10 @@ Prev: [[C.04.05]]
 Post: [[0.Sessions and Planning/C.04/Session/C.04.07|C.04.07]]
 Date:
 
-| Affiliations | Locations              | Major NPCs | Minor NPCs | Enemies |     |
-| ------------ | ---------------------- | ---------- | ---------- | ------- | --- |
-|              | [[The Talons\|Talons]] |            |            |         |     |
-|              |                        |            |            |         |     |
-|              |                        |            |            |         |     |
-  # Planning
+Locations: [[The Talons|Talons]]
+NPCs: 
+Factions: [[Cult of the Library|COL]]
+# Planning
   - cave moodboard
 	  - 
 	  - blue moss
@@ -44,7 +42,7 @@ Date:
 	  - cultist cave section
 	  - 
     
- # Recap
+# Recap
  - The gang entered the cave smelling a sweet aroma of decaying wood and organic material and the feeling of soft earth on a craggy cave floor
  - approaching a cultist body cautiously poe was able to spot something moving in the corpse, bugs quickly aprehened by a create bonfire from pearl
  - upon noticing mucusy threads throughout the ground and footsteps towards the signs of a fight, the group notices the nest of a giant centipede and the appearance of a animated critter, movement toward the nest prompted and attack from a few juvenile giant centipedes. The centipedes and the critter were thoroughly destroyed

@@ -9,10 +9,11 @@ Prev: [[C.04.04]]
 Post: [[C.04.06]]
 Date:
 
-| Affiliations | Locations | Major NPCs | Minor NPCs | Enemies |     |
-| ------------ | --------- | ---------- | ---------- | ------- | --- |
-|              |           |            |            |         |     |
-|              |           |            |            |         |     |
+Locations: [[The Talons|Talons]]
+NPCs: [[Captain Gorhm]]
+Factions: [[Cult of the Library|COL]]
+
+
 
    # Planning
    - Scene Description
@@ -23,12 +24,12 @@ Date:
 	   - list of other hideouts 
 	   - list of orders with a blank space where the letter would be addressed, 
 		   - Ensure [[Major Finn Hershat]] is occupied 
-		   - Eliminate Captain Gorhm and all soldiers that accompanied General raynault
+		   - Eliminate [[Captain Gorhm]] and all soldiers that accompanied General raynault
 		   - Retrieve the following lock boxes from the vault A3, A5, A6, B8, D4, C8,
 		   - Do not open under any circumstances, You don't have the right
 		   - Should you need it use the clairvoyance, dispel magic, and sending scrolls that accompany this message
 		   - Await further instructions at a stash located at *some coordinates*
-		   - a gatestone has graced this message, and has permitted only you to see, ensure yours are the only eyes to receive this blessing
+		   - a [[Cult of the Library#Hierarchy|Gatestone]] has graced this message, and has permitted only you to see, ensure yours are the only eyes to receive this blessing
    - Stolen Magic Items
 	   - Boots of elvenkind
 	   - 3 +1 magic arrows

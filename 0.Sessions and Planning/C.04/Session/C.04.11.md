@@ -4,18 +4,23 @@ tags:
   - Session
 aliases:
 ---
-
-# Details
-Campaign: [[C.04 Planning and outline]]
 ARC: [[C.04 Arc 3 - Into The Woods]]
 Prev: [[C.04.10]]
 Post: [[C.04.12]]
+Date:
 
-# Retcons and Clarifications 
-- ok so tall the ring of mind shielding did not have the effect i was talking about
-# Recap
-   - big fight
+| Affiliations | Locations | Major NPCs | Minor NPCs | Enemies    |
+| ------------ | --------- | ---------- | ---------- | ---------- |
+|              |           |            |            | [[Goblins]] |
 
-# Impressions
-   - toooooooo many people
-   - once again describe whats in ur head 
+   # Recap
+   - they had a big figh it lasted a whiklll'
+   - thjey sucessfully delayed the rotbeast for two turns
+   - there were many invisible goblins
+   - there were many killed soliders
+   - gourmand did a thing with the transforming uinto a rot beasat and locking horns with the other 
+
+   # Impressions
+   - comabt went loooooong,
+   - once again I feel that a mo0re narated combat would have been better, telegraphing the moment with the rotbeast was great, do more of that, mini objectives
+   - 

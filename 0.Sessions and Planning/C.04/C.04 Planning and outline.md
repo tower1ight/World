@@ -10,15 +10,17 @@ Progressing personal stories
 - julia - Connection with Xylaan spy for entangled? whispers to her about potential
 
 # Sessions
-[[C.04.01]], [[C.04.02]],, [[C.04.09]]
-[[C.04.10]],
+[[C.04.01]], [[C.04.02]],, [[C.04.10]]
+[[C.04.11]],
 
 # Adventures
-## [[C.04 Arc 1 - Introduction]]: 
+## [[C.04 Arc 1 - Introduction]]
 
-## [[C.04 Arc 2 - The Great Arsonist Hunt]]: 
+## [[C.04 Arc 2 - The Great Arsonist Hunt]]
 
 ## [[C.04 Arc 3 - Into The Woods]]
+
+## [[C.04 Arc 4 - Crossing]]
 
 : Entry, Arcadian mind control, Party proxy
 
@@ -31,15 +33,10 @@ showing up, fire, goblins, and friendly fire
 - Prompts: goblin theft cultist docs 
 #### [[C.04 Arc 2 - The Great Arsonist Hunt]]
  [[C.04.03]], [[C.04.04]], [[C.04.05]], [[C.04.06]], [[0.Sessions and Planning/C.04/Session/C.04.07|C.04.07]], [[C.04.08]]
- Hunt, tunnels, COL, lizards coup
+ Hunt, tunnels, COL, lizards, and a coup
 #### [[C.04 Arc 3 - Into The Woods]] 
-[[C.04.09]], [[C.04.10]], [[C.04.11]], [[C.04.12]], [[C.04.13]], [[C.04.14]]
+[[C.04.10]], [[C.04.11]], [[C.04.12]], [[C.04.13]], [[C.04.14]], [[C.04.15]]
 Entry, Arcadian mind control, Party proxy
-
- - {{{{ interlude in the  }}}}
- - the bridge
- - {{{{ get shit moving interlude }}}}
- - interlude 
 #### [[0.Sessions and Planning/C.04/C.04 Arc 4 - Crossing|C.04 Arc 4 - Crossing]]
 
 

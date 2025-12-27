@@ -9,9 +9,10 @@ Prev: [[C.04.01]]
 Post:
 Date:
 
-| Affiliations | Locations | Major NPCs | Minor NPCs | Enemies |     |
-| ------------ | --------- | ---------- | ---------- | ------- | --- |
-|              |           |            |            |         |     |
+
+| Affiliations | Locations         | NPCs                                                 | Enemies |     |
+| ------------ | ----------------- | ---------------------------------------------------- | ------- | --- |
+|              | [[Fort Raynault]] | [[Sage Kai]], [[Sage Aelon]], [[Major Finn Hershat]] |         |     |
 
    # Recap
    - note on sage kai: *has the royal seal* : varous formalities and introductions, I  send you this note in the hopes that you are

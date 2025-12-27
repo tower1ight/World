@@ -14,7 +14,7 @@ views:
       - Appearance
     sort:
       - property: Ancestry
-        direction: ASC
+        direction: DESC
       - property: Appearance
         direction: DESC
       - property: file.links

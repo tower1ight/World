@@ -40,7 +40,8 @@ Cant negotiate cant trust anyone else
 they are calling the players in to dispose of them 
 ##### Delivery of The Quest
 They are brought to [[WartBelly]]'s den
-
+she gives you a missive
+enter the forest and go negotiate with this group of giants 
 
 Discovery of the bridge and the plot
 Get the giants on your side

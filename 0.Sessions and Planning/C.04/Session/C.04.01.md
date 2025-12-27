@@ -13,9 +13,9 @@ Prev:
 Post:
 Date:
 
-| Affiliations | Locations | Major NPCs | Minor NPCs |  Enemies   | 
-| ----------------- | ------------ | --------- | ---------- | ---------- |
-|                   |              |           |            |             |
+| Affiliations | Locations         | Major NPCs | Minor NPCs | Enemies     |     |
+| ------------ | ----------------- | ---------- | ---------- | ----------- | --- |
+|              | [[Fort Raynault]] |            |            | [[Goblins]] |     |
 
    # Recap
    - 

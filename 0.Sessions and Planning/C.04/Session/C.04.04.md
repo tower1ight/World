@@ -9,9 +9,13 @@ Prev: [[C.04.03]]
 Post: [[C.04.05]]
 Date:
 
-| Affiliations | Locations | Major NPCs | Minor NPCs |  Enemies   | 
-| ----------------- | ------------ | --------- | ---------- | ---------- |
-|                   |              |           |            |             |
+Locations: [[Fort Raynault]]
+NPCs: [[Whistopher the Bold]], [[Captain Gorhm]]
+Factions: [[Cult of the Library|COL]], [[Tannia|Alchemists]]
+
+| Locations         | Major NPCs              | Enemies                           | Factions                                             |
+| ----------------- | ----------------------- | --------------------------------- | ---------------------------------------------------- |
+| [[Fort Raynault]] | [[Whistopher the Bold]] | [[Cult of the Library\|cultists]] | [[Cult of the Library\|COL]], [[Tannia\|alchemists]] |
 
    # Recap
    - left fort raynalt
