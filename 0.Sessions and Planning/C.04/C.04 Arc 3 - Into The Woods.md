@@ -180,7 +180,7 @@ This is really our first travel session, what do i want, I want good presentatio
 	- **on the other goblins:** lorem ipsum
 	- **whats at the mound:** one m nof yours, a foolish boy whos spirit and body have been split, he leads the mindless
 	- **the mindless:** had their minds sizzled by the [[Xylaan]] to much powert fried them right up 
-	- **the mindless:** had their minds sizzled by the [[xylaan]] to much powert fried them right up 
+	- **the mindless:** had their minds sizzled by the [[Xylaan]] to much powert fried them right up 
 	- **Can I show you a trick ive been working on:** Burps a vissible stink ring and spits through it
 #### Stampede
 -  Describe the swaying grass and shallow pools

@@ -2,9 +2,14 @@
 tags:
   - Location
 aliases:
-Location Type:
+Location Type: Template
 ---
-<% await tp.file.move("/1.Places/" + tp.file.title)%>
+<% await tp.file.move("/1.Places/" + tp.file.title)%>Region, Sovereign, or State:
+Subdivision or Province:
+City: 
 
-Sovereign or State:
-Province:
+---
+##### Description
+
+---
+
