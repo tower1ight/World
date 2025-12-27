@@ -14,7 +14,7 @@ Give the players a repeated senses of completion, complete goals and story lines
 
 #### Current
 - [ ] Needs
-	- [ ] name  the [[{Collaborator and Coerced Goblins}]]
+	- [ ] What is the quest that
 - [ ] Wants
 	- [ ] Configure VTT
 	- [ ] Name Li
@@ -33,12 +33,14 @@ Give the players a repeated senses of completion, complete goals and story lines
 ## RECAP
 ### Act I: Giants in the Mist 
 The players start in their tavern and get pulled into service
-As they go they are tapped on the shoulder, they meet [[WartBelly]]
+As they go they are tapped on the shoulder, They receive intel about something happening
+Some encounter with [[Sage Kai]] inquiring into your trip, he has become aid decamp
+
 Cant negotiate cant trust anyone else 
 they are calling the players in to dispose of them 
 ##### Delivery of The Quest
-They have been buzzed in,
-they need to do a thing
+They are brought to [[WartBelly]]'s den
+
 
 Discovery of the bridge and the plot
 Get the giants on your side
