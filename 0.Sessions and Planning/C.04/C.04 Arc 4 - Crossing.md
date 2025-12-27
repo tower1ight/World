@@ -3,6 +3,10 @@ tags:
   - C04
 aliases:
 ---
+# Goals
+Wrap up this campaign 
+Give the players a repeated senses of completion, complete goals and story lines
+
 
 # Session Prep
 
@@ -10,59 +14,43 @@ aliases:
 
 #### Current
 - [ ] Needs
-<<<<<<< HEAD
-	- [ ] name  the [[The Court of Shimmering Gut]]
-=======
 	- [ ] name  the [[{Collaborator and Coerced Goblins}]]
->>>>>>> origin/main
-
 - [ ] Wants
 	- [ ] Configure VTT
-		- [ ] new aud io
 	- [ ] Name Li
 	- [ ]  write a running a goblin peripheral
 	- [ ] answer beas queries 
 	- [ ] psionic table
 - [ ] Later
 	- [ ] Configure VTT (whole night)
-	- [ ] Finish Myths
-	- [ ] Comander Kael
-	- [x] Finalize Travel Rules
-	- [ ] Finalize all first omens of myths
-
+	
 
 #### General questions
- - what do the masks look like? how are d attached 
-- Establish protection for the heros
-	- vission? Arcadia wants the players to kill the 
-	- The locals see them as an extension of arcadias will, as though a security camera is walking through the door, treat them with guest friendship
-- Is it problematic that the goblins have mind control? slave race: really really bad. maybe full stop. but maybe ic could be complicated, helps them connect, spiritually, emotionally, very Dionysian,
-	- This conflicts directly with their authoritarianism 
-	- feudalism does not tack onto this, 
-	- they have systems of oppression but maybe they are post influence slavery, 
-	- Independence and social norms regarding {connection
-- WHy dont the goblins know where they are 
-
-
-
+ 
 
 
 # Outline
 ## RECAP
- - Important NPCs
- - the pieces of info 
-	 - the negotiation
+### Act I: Giants in the Mist 
+The players start in their tavern and get pulled into service
+As they go they are tapped on the shoulder, they meet [[WartBelly]]
+Cant negotiate cant trust anyone else 
+they are calling the players in to dispose of them 
+##### Delivery of The Quest
+They have been buzzed in,
+they need to do a thing
+
+Discovery of the bridge and the plot
+Get the giants on your side
+get cool giant items 
+## Act II: Killbox
+Success at the bridge dictates what they know, 
 
 
-# Plates a spinning
-## Set tone
-- Hostile, Arid, bursting with life
-- watched, things react to your action
-- Patterns in the sky distort light 
-- Polyphony
-## Travel 
-- This is Important! They are learning
-- Do 
-## Germ 
-when you fail a save or a check 
+make the crossing giant spider hindering, that is the cavelry and 
+
+
+## Act III: The Seige 
+
+
 

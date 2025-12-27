@@ -4,6 +4,7 @@ tags:
   - xylaan
   - Goblin
 aliases:
+  - Blood Court
 ---
 [[Goblins]]
 
