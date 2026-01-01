@@ -29,7 +29,7 @@ Factions: [[Cult of the Library|COL]]
 		   - Do not open under any circumstances, You don't have the right
 		   - Should you need it use the clairvoyance, dispel magic, and sending scrolls that accompany this message
 		   - Await further instructions at a stash located at *some coordinates*
-		   - a [[Cult of the Library#Hierarchy|Gatestone]] has graced this message, and has permitted only you to see, ensure yours are the only eyes to receive this blessing
+		   - a [[Mommet|Gatestone]] has graced this message, and has permitted only you to see, ensure yours are the only eyes to receive this blessing
    - Stolen Magic Items
 	   - Boots of elvenkind
 	   - 3 +1 magic arrows

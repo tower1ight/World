@@ -18,7 +18,7 @@ Location Type: Sovereign or State
 
 *like everywhere of importance dragons had touched this place before, vermin these little wyrms, everywhere you look sprouting up like tulips! A great forest held [[Tanniaxs]] a great beast that presided over the land with vauge concern, [[Tannia]] called it home and tinkerd for a time, they wise and generous and I hold them in high regard, but we are talking of xylaan speaking of xylaans history we must shift attention from that dragon to its perch, the grand tree at xylaan's heart. Its size and placement led it to bleed into the feywild and provide a unique opportunity for queen mab, the greatest of archfey at the time in desperate need for an escape from a sticky situation. Pursued by [[The Circle of Eight]] with the particular interest of yours truly, the fey didn't want to part with a powerful artifact of our creation that had fallen into their hands. alas we have not always been the bastion of responsibility or and our organizations greatest work in the millennia had been scattered to the wind, at the whim of every individual that lusted for incalculable power. I, volunteering to find this particular prism, found the task more difficult than I imagined and as is the nature of farie I spent a great deal of time walking in intoxicated circles, my connections there bore no fruit and entire lifetimes spent with these archfey was apparently not worth the answer to my questions. For decades I wandered, in the end found my search concluded by this tree before us, its hiding place in the material plane almost as gauling as my inability to take it back.* 
 
-*Queen mab you see had demonstrated remarkable foresight, acknowledging a skirmish with a separatist sect of her court, and in recent possession of a reality bending artifact she banished both to the material plane before the [[The Circle of Eight|Eight]] had even realized they were gone. The [[Arcadian Court| Court of Arcadia]] with that aforementioned immense power and new lands entirely sovereign to them had dutifully played the part, staging their rebellion with flourish and zeal. They [[Arcadian Secession|Left]] and the portal closed behind them with theatrical finality. However, The goblin court, always eager for influence and unmatched in their nastyness, has a pension for throwing wrenches into grand narratives, they had learned of Arcadias Pact with [[Queen Mab]] and stowed away many of their courts most vile and tricksy individuals. Without this digression from the plan I may have overlooked this place for even longer.*
+*Queen mab you see had demonstrated remarkable foresight, acknowledging a skirmish with a separatist sect of her court, and in recent possession of a reality bending artifact she banished both to the material plane before the [[The Circle of Eight|Eight]] had even realized they were gone. The [[Arcadian Court| Court of Arcadia]] with that aforementioned immense power and new lands entirely sovereign to them had dutifully played the part, staging their rebellion with flourish and zeal. They [[Arcadian Crossing|Left]] and the portal closed behind them with theatrical finality. However, The goblin court, always eager for influence and unmatched in their nastyness, has a pension for throwing wrenches into grand narratives, they had learned of Arcadias Pact with [[Queen Mab]] and stowed away many of their courts most vile and tricksy individuals. Without this digression from the plan I may have overlooked this place for even longer.*
 
 *When I finally layed my eyes on the tree I knew instantly that we could never restore the sphere, something grander undulated beneath my feet, an organism with the capacity and, unbeknownst to me, the inclination for godhood, the prism, trapped in the interdimentional heart of the tree syphoned off [[focus]] from [[The Prismatic Whole]]. Our work had surpassed us and created the most beautiful thing I had ever seen*
 
@@ -27,15 +27,10 @@ Location Type: Sovereign or State
  up: 
 
 [[Germ]]
-[[{Xylaani orcs}]]
 [[Xylaan]]
-[[good questions]]
 [[symbiotic groups ]]
 [[Xylaani History and Politics]]
-[[Xylaani Biomes and Geography]]
 
-History
-- 
 
 # Geography and Ecology 
 ## [[Ghostlands]]
@@ -50,8 +45,8 @@ History
 ## [[Substrate]]
 ![[Substrate#Description]]
 
-## [[Arcadian Sea]]:
-![[Arcadian Sea#Description]]
+## [[Arcadian Sea]]
+![[1.Places/Xylaan/1.Xylaani Regions/Arcadian Sea#Description]]
 
 ## [[{Crown}]]
 ![[{Crown}#Description]]

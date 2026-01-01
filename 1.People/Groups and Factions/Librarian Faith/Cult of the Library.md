@@ -37,11 +37,11 @@ In many ways the method of a cultist's prayer is the same as a [[Pages of the Li
 
 # Hierarchy: 
 the basis for the hierarchy is in allowed knowledge, giving certain types of members special and discrete information.
-- Cultist, awareness of its m[[Cult of the Library]]ers of the [[The Shroud]]
-- idky
+- Cultist, awareness of its [[Cult of the Library]] members place in [[Order of]]
+- [[idky]]
 - idky
 - Potentate
-- Gatestone : Objects said to be deemed worthy of entrance to the library. These objects not only are sentient and are the greatest respoitories of knowledge, have an affinity to the gate and know its location
+- [[Mommet|Gatestone]] : Objects said to be deemed worthy of entrance to the library. These objects not only are sentient and are the greatest respoitories of knowledge, have an affinity to the gate and know its location
 	- They act as sponges for the library's and cultist's knowlege, allowing them to syphon off knowledge or memories from an individual if they deam that individual unworthy. 
 
 

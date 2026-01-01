@@ -7,6 +7,7 @@ views:
     order:
       - file.name
       - Date
+      - Event Description
     sort:
       - property: Date
         direction: ASC

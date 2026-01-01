@@ -28,7 +28,7 @@ A focalist church is cultural and educational hub for a community,
 
 A single church will serve a town as a library and archive, a schoolhouse, a communal and academic workshop, and government office
 
-Due to the load required from performing this many community needs, in small towns these churches provide housing and work to at least 15 devoted focalist priests and adepts. 
+Due to the load required from performing this many community needs, in medium sized towns these churches provide housing and work to at least 15 devoted focalist priests and adepts. 
 
 In cities, these facilities become massive, sometimes requiring hundreds of people to function. Many large communities employ a system of smaller churches that serve neighborhoods or districts of said community
 

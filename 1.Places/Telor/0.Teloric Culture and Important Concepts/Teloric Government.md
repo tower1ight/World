@@ -16,12 +16,14 @@ The [[Telor|Teloric]] political system is built on a dense and complicated hiera
 - The chain of bureaucracy throughout the land generally goes from towns> surrounding province> violet church> throne 
 
 
-| [[{Kha}]]                 | [[{Tahold}]]        | [[{Urstone}]]              | [[{Barony IV}]]      | [[{Dukedom V}]]           | [[{Dukedom VI}]] | [[{Dukedom VII}]] |
-| ------------------------- | ------------------- | -------------------------- | -------------------- | ------------------------- | ---------------- | ----------------- |
-| [[House Kahdar]]          | [[House Follanel]]  | [[House Yeitel]]           |                      |                           |                  |                   |
-| Octopus on a black banner | Bear                | lightning splitting a rock | Hawk Spearing a Fish | A Tree Bending in a Storm | A fort           |                   |
-| [[{Duke Gask}]]           | [[{Duke Belouine}]] | [[{Duke Berring}]]         | [[{Duke Nime}]]      | [[{Duke Touloudine}]]     |                  |                   |
-| Textiles                  |                     |                            |                      |                           |                  |                   |
+| [[{Kha}]]                                           | [[{Tahold}]]                | [[{Urstone}]]              | [[{Duchy IV}]]       | [[{Duchy V}]]                                             | [[{Duchy VI}]]                                         | [[{Duchy VII}]]      |
+| --------------------------------------------------- | --------------------------- | -------------------------- | -------------------- | --------------------------------------------------------- | ------------------------------------------------------ | -------------------- |
+| [[House Kahdar]]                                    | [[House Follanel]]          | [[House Yeitel]]           |                      |                                                           |                                                        |                      |
+| Octopus on a black banner                           | Bear                        | lightning splitting a rock | Hawk Spearing a Fish | A Tree Bending in a Storm                                 | A fort                                                 |                      |
+| [[{Duke Gask}]]                                     | [[{Duke Belouine}]]         | [[{Duke Berring}]]         | [[{Duke Nime}]]      | [[{Duke Touloudine}]]                                     |                                                        |                      |
+| [[{Tahold}]], [[{Duchy IV}]]                        |                             | Sea and riverlands         | North                | Foothills, river lands<br>[[{Duchy V}]]<br>[[Thronewood]] | south, medeterainian<br>[[{Urstone}]], [[{Duchy VII}]] | Plains and chaparral |
+| Paper, Textiles, Tools and other high value craftes | Lumber, Iron, Raw materials |                            |                      |                                                           |                                                        |                      |
+|                                                     |                             |                            |                      |                                                           |                                                        |                      |
 
 
 # Local Government or [[focal council]]

@@ -3,6 +3,8 @@ tags:
   - C04
 aliases:
 ---
+
+
 # Goals
 Wrap up this campaign 
 Give the players a repeated senses of completion, complete goals and story lines
@@ -11,37 +13,42 @@ Give the players a repeated senses of completion, complete goals and story lines
 # Session Prep
 
 #### Things this session
-
 #### Current
 - [ ] Needs
-	- [ ] What is the quest that
+	- [ ] 
 - [ ] Wants
-	- [ ] Configure VTT
-	- [ ] Name Li
-	- [ ]  write a running a goblin peripheral
-	- [ ] answer beas queries 
-	- [ ] psionic table
+	- [ ] 
 - [ ] Later
-	- [ ] Configure VTT (whole night)
+	- [ ] 
 	
 
-#### General questions
- 
+#### Big to dos
+- [ ] write the missive that wart belly plans to give out
 
 
 # Outline
 ## RECAP
 ### Act I: Giants in the Mist 
-The players start in their tavern and get pulled into service
+##### Opening
+The players start in their tavern, **ask them to describe where they are and what they are doing**
+- they have tals hottie running the bar
+- A couple of the [[Tannia|alchemist]] emissaries 
+- A group of dirty rangers back from a mission, shell shocked, 
+	- Allard
+	- Penny
+	- Benjamin 
+	- 
+- 
+Sage kai walks in and [[Qball]] puts himself infront of you 
 As they go they are tapped on the shoulder, They receive intel about something happening
 Some encounter with [[Sage Kai]] inquiring into your trip, he has become aid decamp
-
-Cant negotiate cant trust anyone else 
-they are calling the players in to dispose of them 
-##### Delivery of The Quest
+##### The Quest
 They are brought to [[WartBelly]]'s den
 she gives you a missive
 enter the forest and go negotiate with this group of giants 
+##### Leaving
+Not barred from going but [[General Yenora]] can be seen watching you out of the battlements if they choose to leave out of the gates 
+
 
 Discovery of the bridge and the plot
 Get the giants on your side

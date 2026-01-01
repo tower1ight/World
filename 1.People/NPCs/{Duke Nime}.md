@@ -5,4 +5,4 @@ aliases:
 Ancestry:
 Appearance:
 ---
-Duke of [[{Barony IV}]]
+Duke of [[{Duchy IV}]]

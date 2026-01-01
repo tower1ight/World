@@ -1,10 +1,223 @@
 {
-  "autoParse": false,
-  "calendars": [],
+  "autoParse": true,
+  "calendars": [
+    {
+      "name": "Teloric",
+      "description": "Teloric Calender",
+      "id": "ID_da78ba3aaaea",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Aelor",
+            "id": "ID_886b2879eb38"
+          },
+          {
+            "type": "day",
+            "name": "Rentor",
+            "id": "ID_5a6b0b0bc9aa"
+          },
+          {
+            "type": "day",
+            "name": "Ursor",
+            "id": "ID_2bb9f9ea183a"
+          },
+          {
+            "type": "day",
+            "name": "Gaelor",
+            "id": "ID_ea4948f8fab9"
+          },
+          {
+            "type": "day",
+            "name": "Maegor",
+            "id": "ID_0838aac9e93a"
+          },
+          {
+            "type": "day",
+            "name": "Volanor",
+            "id": "ID_ab1b68ea6a48"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Bida",
+            "length": 54,
+            "id": "ID_1a09ba2b686b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Bloom Feast",
+            "length": 5,
+            "id": "ID_09286bab698b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Artol",
+            "length": 54,
+            "id": "ID_d9589b8b784a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sida",
+            "length": 54,
+            "id": "ID_3a790908ca5a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Harvest Feast",
+            "length": 7,
+            "id": "ID_98a9682b8b7a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Tion",
+            "length": 54,
+            "id": "ID_082aaa19cbc9",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Ring",
+            "cycle": 114,
+            "offset": 54,
+            "faceColor": "#fff",
+            "shadowColor": "#000",
+            "id": "ID_6a286a7b1ae8"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "id": "ID_69c9980a1a8a",
+            "name": "Leap Dat",
+            "interval": [
+              {
+                "interval": 3,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 1,
+            "offset": 1,
+            "type": "leapday"
+          }
+        ],
+        "eras": [],
+        "padMonths": 1,
+        "padDays": 2,
+        "dayDisplayCallback": "Return"
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_b95a3b2bfa89",
+            "name": "Spring",
+            "type": "Dated",
+            "color": "#4db366",
+            "month": 0,
+            "day": 37,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_7868683aa90b",
+            "name": "Summer",
+            "type": "Dated",
+            "color": "#086d1c",
+            "month": 2,
+            "day": 31,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_8a780aaa3b6a",
+            "name": "Autumn",
+            "type": "Dated",
+            "color": "#9a6a28",
+            "month": 3,
+            "day": 31,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_3a6879882948",
+            "name": "Winter",
+            "type": "Dated",
+            "color": "#8290ba",
+            "month": 5,
+            "day": 15,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 0,
+        "type": "Dated",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 206204704,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 3,
+        "month": 0,
+        "year": 453
+      },
+      "events": [],
+      "categories": [
+        {
+          "id": "ID_99eb5bba4b4b",
+          "color": "#006eff",
+          "name": "Session"
+        },
+        {
+          "id": "ID_3899484b7818",
+          "color": "#ff0000",
+          "name": "Event"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "date",
+      "dateFormat": "D-MMM-Y"
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_da78ba3aaaea",
   "eventPreview": false,
   "exit": {
     "saving": false,
@@ -24,7 +237,7 @@
   "askedToMoveFC": false,
   "askedAboutSync": false,
   "syncBehavior": "Ask",
-  "inlineEventsTag": null,
+  "inlineEventsTag": "date",
   "paths": [
     [
       "/",

@@ -4,6 +4,6 @@ tags:
   - event
 alias:
 ---
-[[Timeline]]
+[[Teloric History Chronology]]
 
 

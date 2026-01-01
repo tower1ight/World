@@ -21,5 +21,5 @@ Subdivision or Province: [[Reeds]]
 
 [[Goblins]]
 [[The Court of Shimmering Gut]]
-[[{Collaborator and Coerced Goblins}]]
+[[The Court of Shimmering Gut]]
 

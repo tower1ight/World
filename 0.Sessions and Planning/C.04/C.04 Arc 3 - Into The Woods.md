@@ -3,9 +3,9 @@ tags:
   - C04
 aliases:
 ---
-[[C.04.08]], [[C.04.10]], [[C.04.11]]
-
+[[C.04.09]], [[C.04.10]], [[C.04.11]], [[C.04.12]], [[C.04.13]], [[C.04.14]]
 [[NPC Log.base]]
+Arc 3 of [[C.04 Planning and outline|C.04]]
 # Session Prep
 
 #### Things this session
@@ -19,7 +19,7 @@ This is really our first travel session, what do i want, I want good presentatio
 #### Current
 - [ ] Needs
 	- [ ] name  the [[The Court of Shimmering Gut]]
-	- [ ] name  the [[{Collaborator and Coerced Goblins}]]
+	- [ ] name  the [[The Court of Shimmering Gut]]
 - [ ] Wants
 	- [ ] Configure VTT
 		- [ ] new aud io
@@ -509,7 +509,7 @@ To call it its own arc is not incorrect but It ideally should be split into four
 The discovery and slowing of the army, Breaking an alliance with the dragon preists of the northern mountains, and the crossing of enemy lines to slay prince dagoag 
 
 
-To halt an army: in this adventure the party will discover a town on the road to the [[Xylaani Biomes and Geography|Purelake]], just ahead of a bridge that spans a treacherous section of river, [[Prince Dagoag|Arch Fey Prince Dagoag]] needs this crossing and thus has been sending knights to scout and secure the area 
+To halt an army: in this adventure the party will discover a town on the road to the [[Arcadian Sea]], just ahead of a bridge that spans a treacherous section of river, [[Prince Dagoag|Arch Fey Prince Dagoag]] needs this crossing and thus has been sending knights to scout and secure the area 
 - 
 Hooks, 
 - signs or rumors of an army building, Slaves taken to the yark 

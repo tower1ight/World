@@ -46,7 +46,7 @@ aliases:
 	  - Line is really blurred between intelligent and unintelligent species
 	  - you are being fucking watched 
 
-  ## [[Arcadian Sea]]
+  ## [[1.Places/Xylaan/1.Xylaani Regions/Arcadian Sea]]
   -
   
   ## [[{Abyssal Dark}]]

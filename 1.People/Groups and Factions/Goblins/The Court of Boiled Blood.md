@@ -3,8 +3,11 @@ tags:
   - faction
   - xylaan
   - Goblin
+  - event
 aliases:
   - Blood Court
+fc-date: 3-bida-435
+fc-calendar: Teloric
 ---
 [[Goblins]]
 
@@ -15,3 +18,8 @@ What do I gotta know
 	- [[Grumblethorn]]: middle aged goblin 
 - Signs and sigils
 - why is it boiled blood
+
+[[Goblins]]
+
+
+

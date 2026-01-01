@@ -3,6 +3,7 @@ tags:
   - C04
   - Session
 aliases:
+fc-date:
 ---
 
 # Details

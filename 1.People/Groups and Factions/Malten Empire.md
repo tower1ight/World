@@ -1,8 +1,6 @@
 ---
 tags:
   - faction
-  - xylaan
-  - Goblin
 aliases:
 ---
-[[Goblins]]
+Semi dead civ

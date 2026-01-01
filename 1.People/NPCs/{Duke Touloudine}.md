@@ -6,4 +6,4 @@ aliases:
 Ancestry: Human
 Appearance:
 ---
-Duke of [[{Dukedom V}]]
+Duke of [[{Duchy V}]]

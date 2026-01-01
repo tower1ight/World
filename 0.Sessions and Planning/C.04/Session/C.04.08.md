@@ -1,11 +1,13 @@
 ---
-tags: []
+tags:
+  - C04
+  - Session
 aliases:
 ---
 ARC: [[C.04 Arc 2 - The Great Arsonist Hunt]]
 Prev: [[C.04.07]]
 Post: [[C.04.09]]
-Date:
+Date: 
 
 Locations: [[The Talons|Talons]], [[Ghostlands]]
 NPCs:

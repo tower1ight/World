@@ -106,7 +106,7 @@ In terms of the earths surface, Xylaan can be split into a couple regions, the d
 
 **[[Substrate]]:** Your former home, shared with the [[The Entangled|Entangled]] also known as [[The Entangled|Seers]],  this place has heavy presence of large fungi, underneath a large deciduous forest, essentially creating a crown cover underneath an already existing one made by the trees. The network is at its most dense here
 
-**[[Arcadian Sea]]:** the Arcadian sea is an enormous lake nestled against a finger of the tallons. Curves around xylaan's southern edge, it is home to the arcadian court it holds the wealth of xylaan
+**[[1.Places/Xylaan/1.Xylaani Regions/Arcadian Sea]]:** the Arcadian sea is an enormous lake nestled against a finger of the tallons. Curves around xylaan's southern edge, it is home to the arcadian court it holds the wealth of xylaan
 
 **[[{Crown}]] and [[{Abyssal Dark}]]:** closer to the planet's equator this place is humid and below the crown cover, dark. Even for your people, thrilled by the prospect of cool dark spaces fear this place! little is known about this region
 

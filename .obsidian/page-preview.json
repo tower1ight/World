@@ -1,5 +1,7 @@
 {
   "editor": false,
   "graph": false,
-  "bases": false
+  "bases": false,
+  "tab-header": false,
+  "search": false
 }

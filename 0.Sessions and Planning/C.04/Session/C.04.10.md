@@ -9,10 +9,8 @@ Prev: [[C.04.08]]
 Post: [[C.04.11]]
 Date: 
 
-| Affiliations | Locations | Major NPCs | Minor NPCs |  Enemies   | 
-| ----------------- | ------------ | --------- | ---------- | ---------- |
-|                   |              |           |            |             |
 
+2-Artol-453
 # Recap
 - Fight with rotbeasts
 	- [[Qball]], [[Parsley]], and Bill contrast a nasty case of forest rot, which is quickly set right by the holy hands of deko 
