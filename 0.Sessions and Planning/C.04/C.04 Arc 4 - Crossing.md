@@ -54,7 +54,7 @@ Discovery of the bridge and the plot
 Get the giants on your side
 get cool giant items 
 ## Act II: Killbox
-Success at the bridge dictates what they know, 
+Success at the bridge dictates what they know about the invasion, 
 
 
 make the crossing giant spider hindering, that is the cavelry and 

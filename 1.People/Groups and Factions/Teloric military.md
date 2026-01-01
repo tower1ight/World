@@ -1,6 +1,8 @@
 ---
-tags: Telor, faction
-alias: 
+tags:
+  - Telor
+  - faction
+alias:
 ---
 
 In its current iteration, shaped by [[Yondal Voral]],  the teloric militaries values 

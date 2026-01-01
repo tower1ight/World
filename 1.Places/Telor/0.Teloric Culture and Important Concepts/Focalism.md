@@ -40,13 +40,14 @@ The governments hierarchy and bureaucracy is based and exists as part of the hie
 The core values and pursuits of the [[Telor|Teloric]] people are founded in focalist ideology.  Public opinion hinges on ones adherence to these tenants. Sins like destruction of information will bring the ire of every citizen, and at times, the populous will support scholars and sorcerers against their better judgment.
 
 ## Institution
-[[Violet Church]]
+##### [[Violet Church]]
 -   The seat of Focalism's power is the [[Violet Church]], an institution that sits within the smoking crater of they [[Amethyst City]]. It serves as great university especially known for magical research. 
 -   The high sage of the violet church is the point of focalist leadership and maintains a class of pupils who serve as an advisory council 
 -   Until very recently its reputation was somewhat besmirched with its closure by Jondal [[Voral Dynasty|Voral]]
-[[The Ascendant Halls]]: Home to what many believe is the site of [[Tel'Voric]] accession to godhood, the ascendant halls lie on the border of the first and second tier of [[Telor|Telor's]] capital city, [[Vorvelal]].
+##### [[The Ascendant Halls]]
+- Home to what many believe is the site of [[Tel'Voric]] accession to godhood, the ascendant halls lie on the border of the first and second tier of [[Telor|Telor's]] capital city, [[Vorvelal]].
 
 ## Pilgrimage 
--   Many choose to make their way to the [[Violet Church]] as it is said one experiences heightened connection to [[Tel'Voric]] there.
+-   Many used choose to make their way to the [[Violet Church]] as it is said one experiences heightened focus there. Some still do but the path is treacherous after the [[False Ascension]]. Most now make their pilgrimage to 
 -   Information and book trade is conducted through great [[Teloric Caravans|caravans]] that travel from city to city and town to town. They set up great markets, buying and selling the wares and products of focus from a given town.
 -   Most pilgrims join these [[Teloric Caravans|caravans]] and work their way to the [[Violet Church]] or a [[Trains|Train]] that will take them there, provided they have the funds.

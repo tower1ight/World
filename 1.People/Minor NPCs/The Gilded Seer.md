@@ -7,4 +7,12 @@ tags:
 aliases:
 Ancestry: Seer
 ---
-[[]]
+Enmeshed in the structure of the [[Cauldron]]
+
+Knighted 
+[[Sir Rank]]
+[[Sir Spite]]
+[[Sir Guile]]
+
+
+

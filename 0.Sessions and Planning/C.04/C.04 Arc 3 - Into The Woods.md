@@ -261,15 +261,13 @@ This is really our first travel session, what do i want, I want good presentatio
 	- the goblins are being forced to loose their sovereignty  
 	- grumble thorn is worth your trust
 #### Arrival
--  just on a ridge the players see  the scene before them
+-  just on a ridge the players see the scene before them
 - a small town on a river with minor fortifications 
-- they receive a vision with the parameters of the remaining arc
+- They receive a prophetic vision from the [[The Carved Seer]], this is rendered through a time laps of a maple tree being carved into facial expressions by a figure in gleaming armor
 	- ==in just four days a pact will be broken ==
-Goblins level blades at you and speak goblin at you, wait for [[Bogbelch]] to show up, ask why you are here.
-
-beep
 
 
+Wen the players descend into the town, Goblins level blades at them and speak goblin at them, wait for [[Bogbelch]] to show up, ask why you are here.
 
 
 #### **A Town**
@@ -282,24 +280,25 @@ from this point they have several options ahead of them, recruit a powerful knig
 | ------------------ | ------------------ | --- | ------ | --- |
 | [[Bogbelch]]       | [[Fizzlefoot]]     |     |        |     |
 | [[Commander Kael]] | [[Nettlegrin]]     |     |        |     |
-| [[Wyrmtongue]]     | [[Sir Beligerant]] |     |        |     |
+| [[{Wyrmtongue}]]   | [[Sir Rank]] |     |        |     |
 |                    |                    |     |        |     |
 
 
 ##### Misc Town Details
-- Village sized, around 200 Goblins recent addition of like 100 goblins
+- Village sized, around 400 Goblins recent addition of like 300 goblins
 - A minor village on a small creek
 		- Mainly grows and trains warspiders 
 - Who is at play 
 	- mayor
 	- [[Commander Kael]]
-	- [[Wyrmtongue]]
+	- [[{Wyrmtongue}]]
 - Points of interest
 	- [[The Mindless]] tent 
-	- [[Wyrmtongue]] space for augury
+	- [[{Wyrmtongue}]] space for augury
 		- nervous about the players 
 		- may mistake those with halos to be on his side
 		- will follow and try to recruit if given the opportunity
+		- if caught at the right time they will see a visage [[Prince Dagoag]]
 	- Workshop
 		- Many of industrious goblins 
 	- [[Bogbelch]]'s command?
@@ -387,7 +386,9 @@ The mindless are doing something nefarious, atempting to provoke aggression
 
 
 
-##### WE ARE UNDER FUCKING ATTACK
+#### WE ARE UNDER FUCKING ATTACK
+#### [[Prince Dagoag|Dagoag's ]]pitch 
+
 
 # Plates a spinning
 ## Set tone

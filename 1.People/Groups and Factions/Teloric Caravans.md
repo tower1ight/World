@@ -1,5 +1,7 @@
 ---
-tags: Telor
+tags:
+  - Telor
+  - faction
 alias: caravan, caravans
 ---
 x: [[Teloric Economy]]

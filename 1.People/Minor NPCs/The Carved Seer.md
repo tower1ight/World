@@ -8,3 +8,4 @@ tags:
 aliases:
 Ancestry: Seer
 ---
+Believes that a [[Xylaan|Xylaani]] rebirth is necessary if they are to prevail, seeks to 

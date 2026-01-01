@@ -10,6 +10,7 @@ aliases:
   - IT
   - Xylaan
   - The Forest
+  - Xylaani
 Location Type: Sovereign or State
 ---
 

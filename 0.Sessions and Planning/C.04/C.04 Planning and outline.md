@@ -79,7 +79,7 @@ Entry, Arcadian mind control, Party proxy
 		 - A portrait of a slug-like creature decked in leather chords and a wispy shall, their eyestalks look rather dry and old,
 			 - old floors, have zseen many libations 
 		 - three or four guests 
-			 -  one of the goblins kights,  [[Sir Beligerant]] sits on stool eyes lowered    
+			 -  one of the goblins kights,  [[Sir Rank]] sits on stool eyes lowered    
 		 - 
 
 ### Monuments
@@ -133,7 +133,7 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 	 - Knighted
 		 - Nastiness Knight 
 		 - Larceny
-		 - [[Sir Beligerant]]
+		 - [[Sir Rank]]
 		 - Sadism 
 
 ### Hazards 

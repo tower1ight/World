@@ -11,14 +11,13 @@ aliases:
 [[Tel'Voric]]'s Inner circle of [[The Great Library|Library]] [[Stewards]]
 
 ## Original  5
-#### [[Saint Aelor]]
-- Daughter Gael
-#### [[Saint Volanor]]
-#### [[Saint Ursk]]
-#### [[Saint Renta]]
-#### [[Nepsis]] (Forgotten)
-- 
-[[Saint Anestine]]
+##### [[Saint Aelor]]
+
+##### [[Saint Volanor]]
+##### [[Saint Ursk]]
+##### [[Saint Renta]]
+##### [[Nepsis]] (Forgotten)
+##### [[Saint Anestine]]
 # Title and Honorary Entries
-#### [[Voral Dynasty|Gael]]
-#### [[Marge Vaginopolis|Marge]]
+##### [[Voral Dynasty|Gael]]
+##### [[Marge Vaginopolis|Marge]]
