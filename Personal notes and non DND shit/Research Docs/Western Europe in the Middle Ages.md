@@ -2,6 +2,7 @@
 tags:
   - Personal_Note
   - Research
+  - Book
 aliases:
 ---
 
