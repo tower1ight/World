@@ -4,14 +4,14 @@ tags:
 aliases:
 ---
 
-| D6  | Stacks   | Laboratory | War Room       | The Lair   |
-| :-: | -------- | ---------- | -------------- | ---------- |
-|  1  | Modrones | Modrones   | [[Saint Aelor]]      | modrondes  |
-|  2  | Imps     | Devil      | [[Saint Renta]]      | The Source |
-|  3  | Craft    | Rats       | [[Saint Ursk]] | The Hoard  |
-|  4  | Archive  |            | [[Saint Volanor]]    |            |
-|  5  | Rats     |            | [[Saint Anestine]]   |            |
-|  6  |          |            | [[Nepsis]]     |            |
+| D6  | Stacks   | Laboratory | War Room           | The Lair   |
+| :-: | -------- | ---------- | ------------------ | ---------- |
+|  1  | Modrones | Modrones   | [[Saint Aelor]]    | modrondes  |
+|  2  | Imps     | Devil      | [[Saint Renta]]    | The Source |
+|  3  | Craft    | Rats       | [[Saint Ursk]]     | The Hoard  |
+|  4  | Archive  |            | [[Saint Volanor]]  |            |
+|  5  | Rats     |            | [[Saint Anestine]] |            |
+|  6  |          |            | [[Nepsis]]         |            |
 
 
 

@@ -128,7 +128,7 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
 	 - Requires constant treatment, acolytes tending to their runic flesh carvings.
 	 - Sees the outcome of battles in their own healing wounds.
 	 - Wants to drive the land toward climactic war that will bring peace. 
- - [[The Gilded Seer]]: 
+ - [[The Gilded Seer]]: [[Sir Rank]], [[Sir Spite]], [[Sir Guile]], and [[sir]]
 	 - Resides in [[{the Woven City}]]
 	 - Knighted
 		 - Nastiness Knight 

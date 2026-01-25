@@ -150,7 +150,7 @@ This is really our first travel session, what do i want, I want good presentatio
 ## ACT II
 
 #### Entrance, guardian  
-**Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==
+**Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==w
 
  - solo encounter
 	 - The temperature drops and you see rippl3es in the air as an apparition fades into transparency 
@@ -244,9 +244,10 @@ This is really our first travel session, what do i want, I want good presentatio
  - **travel, seek the seer, 
  
  
-## ACT III
+## **ACT III**
 #### Encounter a girl
 - [[Fizzlefoot]]
+#### [[Fort Raynault]] Soliders
 #### Encounter [[Sage Aelon]]
 - A trick or a trap is in place to protect her 
 - She will tell you anything if you ask it of her 
@@ -265,7 +266,6 @@ This is really our first travel session, what do i want, I want good presentatio
 - a small town on a river with minor fortifications 
 - They receive a prophetic vision from the [[The Carved Seer]], this is rendered through a time laps of a maple tree being carved into facial expressions by a figure in gleaming armor
 	- ==in just four days a pact will be broken ==
-
 
 Wen the players descend into the town, Goblins level blades at them and speak goblin at them, wait for [[Bogbelch]] to show up, ask why you are here.
 
@@ -388,6 +388,10 @@ The mindless are doing something nefarious, atempting to provoke aggression
 
 #### WE ARE UNDER FUCKING ATTACK
 #### [[Prince Dagoag|Dagoag's ]]pitch 
+#### Decide weather to go back or go to the city
+- [[Sir Rank]] offers an escort
+- make it a reasonable request ie give the followers 
+
 
 
 # Plates a spinning
