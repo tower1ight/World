@@ -12,23 +12,16 @@ Give the players a repeated senses of completion, complete goals and story lines
 
 # Session Prep
 
-#### Things this session
-#### Current
-- [ ] Needs
-	- [ ] 
-- [ ] Wants
-	- [ ] Document for the quest: a missive from the 
-- [ ] Later
-	- [ ] 
-	
+#### ToDo
+
 
 #### Big to dos
 - [ ] write the missive that wart belly plans to give out
 
 
 # Outline
-## RECAP
-### Act I: Charcoal and Web 
+
+## Act I: Charcoal and Web 
 
 Core:
 Discovery of the bridge and the plot
@@ -70,12 +63,12 @@ If the players help her, shell spit at the ground and tell them to pound sand, a
 
 
 
-### Act II: Killbox
+## Act II: Killbox
 Success at the bridge dictates what they know about the invasion, 
 
 make the crossing giant spider hindering, that is the cavelry and 
 
-### Act III: The Seige 
+## Act III: The Seige 
 
 
 

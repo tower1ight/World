@@ -3,19 +3,19 @@ tags:
   - C04
 aliases:
 ---
-
- # Flavor Text
- 
-![[Pasted image 20240718222820.png]]
-
-
- # Omens
-1. An old coot proclaims their dreams, where foul earth was choking out life, solid blood, pleads for help spreading the word
-2. Moaning in the mist. An ivy-cloaked shack, home to a dying old couple. Their flesh is stiff and gummy their daughter left to search for treatment, if they touch them they
-3. A zombie, lost unfarmiliar with its surroundings, and gripping thier head, pained by polyphony, upon killed 3 bloodborn ozzes will drop
-4. A [[The Entangled|Seer]] scout claiming that they have news of the infections location, their roaming party has been killed by a rouge goblin bandit group, They attempt to conscript the party as a replacement escort
-5. An atrophied [[mycelium|node]] has been consumed, inside is a courupted seer, its halls creawl with bloodborne ooze
-7. A sanctuary has decayed, deep underground a mass of oozing puss builds pressure throughout the ground, the scent is heavy and pervades all of your clothing, a chill ehcos through the crumbling ground and arms burst through the ground. the place must be burned 
+# Omens
+##### I.Soothsayer
+An old coot proclaims their dreams, where foul earth was choking out life, solid blood, pleads for help spreading the word
+##### II.Mists
+An ivy-cloaked shack, home to a dying old couple. Their flesh is stiff and gummy their daughter left to search for treatment, if they touch them they
+##### III.Afflicted
+A zombie, lost unfamiliar goblin with its surroundings, and gripping thier head, pained by polyphony, upon killed 3 bloodborn ozzes will drop
+##### IV.Response 
+An envoy of the [[The Rotten Seer]] claiming that they have news of the infections location they attempt to conscript the party, asking for help in their search
+##### V.Node
+An atrophied [[mycelium|node]] has been consumed, inside is a courupted seer, its halls creawl with bloodborne ooze
+##### VI.Rot
+A sanctuary has decayed, deep underground a mass of oozing puss builds pressure throughout the ground, the scent is heavy and pervades all of your clothing, a chill ehcos through the crumbling ground and arms burst through the ground. the place must be burned 
  
  # Cast
 [[The Entangled|Seer]] Scout

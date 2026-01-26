@@ -150,7 +150,10 @@ This is really our first travel session, what do i want, I want good presentatio
 ## ACT II
 
 #### Entrance, guardian  
-**Killing Field** ==light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==w
+#### Killing Field
+
+> [!Description]
+> light sifts through the stalks, shadows lengthen as the sun goes unobstructed, steps sink farther into the ground and a small valley dotted with shallow pools reveals itself, around its perimeter where the basin pulls back up, dense stalks form a wall. studying further **insert weather feature**, highlight a heard of rot beasts at ease, dipping their heads into these pools. occasionally nipping at mounds of earth irregularly distributed about the area. focusing further on the far end the largest pile nearly all of the heard gathers at a large mound. You step forward and hear a crunch as bone breaks and an emaciated arm becomes clear under a shallow layer of dirt and white lace hyphae==w
 
  - solo encounter
 	 - The temperature drops and you see rippl3es in the air as an apparition fades into transparency 
@@ -198,13 +201,24 @@ This is really our first travel session, what do i want, I want good presentatio
 	 - Can tell you about a nearby if you are xenophobic enough stash
 	 - 
  
-#### The mound 
-* about a thirty foot mound of bodies
-* That same specter shows itself and is confused at your persistence and why you are seeking him out, requires combat to see if you are worthy 
-* The combat
-	- specter version of [[Commander Kael]], no glamour
-	- his buddy will cast from the back 
-	- shadows will fight and toss bodies from the top of the mound
+#### The Mound 
+
+> [!Fight on the Mound]
+> 
+> **Description**
+> A thirty foot tall mound of bodies of emaciated bodies piled at the center of the clearing. The specter stands on it flanked by the wraith, [[sgt March]], and a number of other ghostly figures
+> 
+> **Objectives**
+> Learn from whatever this mound is
+> 
+> **Combatants**
+> specter of [[Commander Kael]]: Strategic emphasis of the strong kick ability, make the players fight for ground
+> Sgt March
+> Specters 
+> 
+> **Rewards**
+> +1 ghostly sword (Deals an additional d6 to undead)
+
 - He gives you honors and takes you into the mound where he is housed
 	- he tells you the situation 
 	- What he can give you 
@@ -247,7 +261,30 @@ This is really our first travel session, what do i want, I want good presentatio
 ## **ACT III**
 #### Encounter a girl
 - [[Fizzlefoot]]
-#### [[Fort Raynault]] Soliders
+#### [[Fort Raynault]] Soldiers
+
+> [!Time Catching Up with You]
+> **Description**
+> Xylaani [[Reeds]], Relevant weather and Hex details
+> 
+>**Objectives**
+>If relevant, protect the girl
+>Subdue fort raynauld forces
+>Escape
+> 
+> **Combatants**
+> Human Wizard
+> Human knaves
+> Human Raiders
+> *mission objective will not accept casualties, non lethal employed, will surrender*
+> 
+> **Rewards** (xp to be calced)
+> If searched players find dispatch detail letter for their capture
+> If goon is left conscious they will try to covertly give [[Poe the Perfumer|Poe]] a communication link to [[Sircha Follanel|Sircha]]
+> 4D12 GP, many rations and supplies
+> Human caster carrying a diamond of 1000 GP
+
+
 #### Encounter [[Sage Aelon]]
 - A trick or a trap is in place to protect her 
 - She will tell you anything if you ask it of her 

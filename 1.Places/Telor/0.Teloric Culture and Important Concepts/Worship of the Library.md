@@ -1,6 +1,7 @@
 ---
-tags: religion, Library_worship
-alias: 
+tags:
+  - TeloricMilitary
+alias:
 ---
 up:  [[The Great Library]]
 
