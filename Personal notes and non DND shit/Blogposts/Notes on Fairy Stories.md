@@ -17,7 +17,6 @@ Though far from an expert ive found myself writing about the fey for ttrpgs for 
 
 # Signs and Symbols
 
-\
 - tal tries to leave prompting a pisvestigation 
 - They encounter a canyon, many bariars to progress
 - they see a goblin pass through camp but hide choosing to let her warnings pass by them ships in the night

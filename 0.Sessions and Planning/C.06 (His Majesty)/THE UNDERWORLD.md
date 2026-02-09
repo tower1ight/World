@@ -4,6 +4,11 @@ tags:
 aliases:
 ---
 # Background
+This is place is grounded in its connection to [[Focalism|focalist]] tellings, it is the site and being at the center of [[Tel'Voric]]'s labors
+
+The city at its core has grown up; around the base of the violet church, in the regrown and newly habitable portions of [[The Amethyst City]]. many pilgrims see part of their journey delving into the depths of this place,  Grave robbing is sacred, if the eyes 
+
+as Telvorics personal library and  
 # Stacks
 
 | Structures      | Bookshelves                     |

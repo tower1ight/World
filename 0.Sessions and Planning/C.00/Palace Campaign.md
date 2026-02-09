@@ -4,7 +4,7 @@ aliases:
 ---
 
 Preparing for a seige, 
-- two forms of assault made very clear so defence
+- two forms of assault made very clear so defence i
 - 
 
  

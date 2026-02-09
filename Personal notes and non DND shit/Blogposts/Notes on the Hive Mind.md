@@ -29,7 +29,7 @@ Here Is a behovioral table you can play with
 
 what is inhuman
 
-Bioessentialism: Conservative or reactionary viewpoints aside, people with any sense know that when it comes to humans construction does not dictate purpose, we understand that while our physical form may influence how others see us (and consequently how we see ourselves), not all is what it seems. We have all, to varying degrees of severity and consequence, been told we belonged somewhere that we just didn't and faced the consequences of either capitulating with or resisting those placements. How you approach this concept with a hive mind is dependent on the tone of your game and on what level you are interested in engaging this theme.
+Bioessentialism: Conservative or reactionary viewpoints aside, people with any sense know that when it comes to humans, construction does not dictate purpose, we understand that while our physical form may influence how others see us (and consequently how we see ourselves), not all is what it seems. We have all, to varying degrees of severity and consequence, been told we belonged somewhere that we just didn't and faced the consequences of either capitulating with or resisting those placements. How you approach this concept with a hive mind is dependent on the tone of your game and on what level you are interested in engaging this theme.
 
 
 

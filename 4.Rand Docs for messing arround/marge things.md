@@ -11,7 +11,7 @@ Marges rise to power
 - she afets thes guard to h
 - Grows up ammongst the el
 
-Gathers a group of loyalsits to do something necessary/ is shepherded by the mages that fled the [[Amethyst City]] 
+Gathers a group of loyalsits to do something necessary/ is shepherded by the mages that fled the [[The Amethyst City]] 
 seared into her right arm is the dragon mark, house vorals sigil and sign of telvorics favor
 
 in secret she dares the nuclear zone of the amethyst city and finds a completely intact violet church, with no one there, save for a malignant spirit 

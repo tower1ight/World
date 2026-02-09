@@ -11,6 +11,11 @@ alias: focalist
 - [[#National Significance:|National Significance:]]
 - [[#Institution|Institution]]
 - [[#Pilgrimage|Pilgrimage]]
+# The Myth
+
+in early days tels saw much suffering, people lived short lives, they fought, and starved and died in ignorance, leaving no mark behind, as though they had never exisited. A great being of knowledge had the power to pull them out of the mud and lend them shelter from an unforgiving land
+
+his chosen people stay goated and usher in a new era of learning and philosophical advancement 
 
 
 ## Focus in Focalism
@@ -41,7 +46,7 @@ The core values and pursuits of the [[Telor|Teloric]] people are founded in foca
 
 ## Institution
 ##### [[Violet Church]]
--   The seat of Focalism's power is the [[Violet Church]], an institution that sits within the smoking crater of they [[Amethyst City]]. It serves as great university especially known for magical research. 
+-   The seat of Focalism's power is the [[Violet Church]], an institution that sits within the smoking crater of they [[The Amethyst City]]. It serves as great university especially known for magical research. 
 -   The high sage of the violet church is the point of focalist leadership and maintains a class of pupils who serve as an advisory council 
 -   Until very recently its reputation was somewhat besmirched with its closure by Jondal [[Voral Dynasty|Voral]]
 ##### [[The Ascendant Halls]]
