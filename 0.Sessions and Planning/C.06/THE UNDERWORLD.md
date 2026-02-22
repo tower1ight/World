@@ -54,9 +54,9 @@ gas exhaust room
 stockroom and little pharmacy robots aliquoting stuff forever
 
 # The War Room
-![[4. The War Room]]
+![[4. Special Collections]]
 # The Horde                                                                     
-![[5. The Horde]]
+![[5. The Lair]]
 death has greated
 
 

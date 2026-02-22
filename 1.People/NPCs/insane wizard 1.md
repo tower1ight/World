@@ -5,5 +5,6 @@ tags:
 aliases:
 Ancestry: Human
 Appearance:
+Pronouns: She/Her
 ---
 Seeking a tome

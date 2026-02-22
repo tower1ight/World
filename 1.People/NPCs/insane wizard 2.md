@@ -4,5 +4,6 @@ tags:
 aliases:
 Ancestry: High Elf
 Appearance:
+Pronouns: She/It
 ---
 seeking [[{glados}]]
