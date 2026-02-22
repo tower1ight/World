@@ -4,11 +4,19 @@ tags:
 aliases:
 ---
 # Background
-This is place is grounded in its connection to [[Focalism|focalist]] tellings, it is the site and being at the center of [[Tel'Voric]]'s labors
+This is place is grounded in its connection to [[Focalism|focalist]] tellings, it is the site and being at the center of [[Tel'Voric]]'s labors.  Death has taken up residence 
 
 The city at its core has grown up; around the base of the violet church, in the regrown and newly habitable portions of [[The Amethyst City]]. many pilgrims see part of their journey delving into the depths of this place,  Grave robbing is sacred, if the eyes 
 
 many guilds are sponsored by wizards and have the right of first sale 
+
+# Theory
+- get the players to interact with the map
+- gygaxian naturalism 
+- Sillyness 
+- 
+
+
 # Stacks
 ![[1. Stacks]]
 
@@ -49,7 +57,7 @@ stockroom and little pharmacy robots aliquoting stuff forever
 ![[4. The War Room]]
 # The Horde                                                                     
 ![[5. The Horde]]
-
+death has greated
 
 
 
