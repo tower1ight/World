@@ -6,7 +6,7 @@ tags:
 aliases:
 Ancestry: Sylvan
 ---
-Queen of the feywild 
+Queen of the [[Misc/Fairie]]
 
 one of [[Pearl]] many guides and parental figures 
 

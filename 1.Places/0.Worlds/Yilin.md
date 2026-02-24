@@ -2,5 +2,5 @@
 tags:
   - Location
 aliases:
-Location Type: Planet
+Location Type: World
 ---

@@ -2,7 +2,7 @@
 tags:
   - Location
 alias:
-Location Type: Planet
+Location Type: World
 ---
 
 The Planet that our stories take place in 

@@ -19,9 +19,7 @@ his chosen people stay goated and usher in a new era of learning and philosophic
 
 
 ## Focus in Focalism
-On a fundamental level [[focus]] is concentrated meditation. Full body and mind devotion to [[Tel'Voric]], but more importantly to the work they are creating. It is akin to quiet one might feel when reading a particularly thrilling textbook. Some describe it as Euphoric yet grounded, open and closed, exploratory but directed, or any number of other contradictory word pairs.
-
-[[focus]] is a concept that is shared among nearly all cultures who study and practice magic. However, very few of them treat it with as much reverence and religious significance as the Teloric people. 
+On a fundamental level [[focus]] is concentrated meditation. Full body and mind devotion to [[Tel'Voric]], but more importantly to the work they are creating. It is akin to quiet one might feel when reading a particularly thrilling textbook. Some describe it as Euphoric yet grounded, open and closed, exploratory but directed, or any number of other contradictory word pairs. Think of Focalism as a theology that sees achieving flow as not only good but righteous. 
 
 The practice of [[focus]] has a couple of results and applications. Some Focus for the art of Focus itself, but most worship occurs within creative and exploratory work. Their effort manifests itself in a very real connection to [[Tel'Voric]]. Through this bond, those that are particularly adept at entering a state of Focus can sometimes see visions or sparks of inspiration from their [[god]]
 
@@ -53,6 +51,6 @@ The core values and pursuits of the [[Telor|Teloric]] people are founded in foca
 - Home to what many believe is the site of [[Tel'Voric]] accession to godhood, the ascendant halls lie on the border of the first and second tier of [[Telor|Telor's]] capital city, [[Vorvelal]].
 
 ## Pilgrimage 
--   Many used choose to make their way to the [[Violet Church]] as it is said one experiences heightened focus there. Some still do but the path is treacherous after the [[False Ascension]]. Most now make their pilgrimage to 
+-   Many used choose to make their way to the [[Violet Church]] as it is said one experiences heightened focus there. This slowed after the [[False Ascension]]. Most now make their pilgrimage to 
 -   Information and book trade is conducted through great [[Teloric Caravans|caravans]] that travel from city to city and town to town. They set up great markets, buying and selling the wares and products of focus from a given town.
 -   Most pilgrims join these [[Teloric Caravans|caravans]] and work their way to the [[Violet Church]] or a [[Trains|Train]] that will take them there, provided they have the funds.
