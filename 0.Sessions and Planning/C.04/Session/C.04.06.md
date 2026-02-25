@@ -8,6 +8,7 @@ ARC: [[C.04 Arc 2 - The Great Arsonist Hunt]]
 Prev: [[C.04.05]]
 Post: [[0.Sessions and Planning/C.04/Session/C.04.07|C.04.07]]
 Date:
+PCs: [[Pearl]], [[Billiard Ball]], [[Poe the Perfumer]], [[Talot]], 
 
 Locations: [[The Talons|Talons]]
 NPCs: 

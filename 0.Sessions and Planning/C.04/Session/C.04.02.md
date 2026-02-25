@@ -8,7 +8,7 @@ ARC:
 Prev: [[C.04.01]]
 Post:
 Date:
-
+PCs: [[Pearl]], [[Billiard Ball]], [[Poe the Perfumer]], [[Talot]], 
 
 | Affiliations | Locations         | NPCs                                                 | Enemies |     |
 | ------------ | ----------------- | ---------------------------------------------------- | ------- | --- |

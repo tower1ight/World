@@ -6,8 +6,9 @@ aliases:
 ---
 ARC: [[C.04 Arc 3 - Into The Woods]]
 Prev: [[C.04.08]]
-Post: [[C.04.11]]
+Post: [[C.04.12]]
 Date: 
+PCs: [[Pearl]], [[Billiard Ball]], [[Poe the Perfumer]], [[Talot]], [[Deko]]
 
 
 2-Artol-453

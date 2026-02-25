@@ -25,3 +25,13 @@ many guilds are sponsored by wizards and have the right of first sale
 | NPCs     | [[Rango]]<br>[[The Butcher]]<br>[[insane wizard 1]]<br>[[insane wizard 2]]<br> |                   |                                  |                                  |                 |
 |          |                                                                                |                   |                                  |                                  |                 |
 | Treasure |                                                                                |                   |                                  |                                  |                 |
+
+# Death
+As the players become accustomed to the world they begin to see beyond the veil, the non logic, the unspooling of the place, death packing up and labeling boxes
+
+Pulling the death adds to ones perception
+- Tracks with individual characteristics
+- a secret second thing, maybe: fruit, 
+
+You blink and can see massive bite marks all around the space, chunks carved, bitten, out of the wall
+If something dies in this room, the players will see a tentacled arm wrap around something

@@ -8,6 +8,7 @@ ARC: [[C.04 Arc 2 - The Great Arsonist Hunt]]
 Prev: [[C.04.04]]
 Post: [[C.04.06]]
 Date:
+PCs: [[Pearl]], [[Billiard Ball]], [[Poe the Perfumer]], [[Talot]], 
 
 Locations: [[The Talons|Talons]]
 NPCs: [[Captain Gorhm]]

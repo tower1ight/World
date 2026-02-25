@@ -8,18 +8,14 @@ aliases:
 # Details
 Campaign: [[C.04 Planning and outline]]
 ARC: [[C.04 Arc 3 - Into The Woods]]
-Prev: [[C.04.08]]
-Post: [[C.04.10]]
+Prev: [[C.04.15]]
+Post:
 PCs: [[Pearl]], [[Billiard Ball]], [[Poe the Perfumer]], [[Talot]], 
 
-Locations: [[Fort Raynault]]
-NPCs: [[SenaK]], [[Sage Aelon]]
-Factions: [[Tannia|alchemists]]
-
 # Retcons and Clarifications 
-- 
+-  Additional xp
 # Recap
-   - negotioations and aelons coup
+   - 
 
 # Impressions
    - 

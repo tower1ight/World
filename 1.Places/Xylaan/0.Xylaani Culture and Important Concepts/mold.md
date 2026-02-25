@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - Goblin
+  - xylaan
 aliases:
 ---
 

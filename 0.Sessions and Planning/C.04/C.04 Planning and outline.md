@@ -11,7 +11,7 @@ Progressing personal stories
 
 # Sessions
 [[C.04.01]], [[C.04.02]],, [[C.04.10]]
-[[C.04.11]],
+[[C.04.12]],
 
 # Adventures
 ## [[C.04 Arc 1 - Introduction]]
@@ -35,7 +35,7 @@ showing up, fire, goblins, and friendly fire
  [[C.04.03]], [[C.04.04]], [[C.04.05]], [[C.04.06]], [[0.Sessions and Planning/C.04/Session/C.04.07|C.04.07]], [[C.04.08]]
  Hunt, tunnels, COL, lizards, and a coup
 #### [[C.04 Arc 3 - Into The Woods]] 
-[[C.04.10]], [[C.04.11]], [[C.04.12]], [[C.04.13]], [[C.04.14]], [[C.04.15]]
+[[C.04.10]], [[C.04.12]], [[C.04.13]], [[C.04.14]], [[C.04.15]], [[C.04.16]]
 Entry, Arcadian mind control, Party proxy
 #### [[0.Sessions and Planning/C.04/C.04 Arc 4 - Crossing|C.04 Arc 4 - Crossing]]
 

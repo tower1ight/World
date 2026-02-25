@@ -8,6 +8,7 @@ ARC: [[C.04 Arc 2 - The Great Arsonist Hunt]]
 Prev: [[C.04.03]]
 Post: [[C.04.05]]
 Date:
+PCs: [[Pearl]], [[Billiard Ball]], [[Poe the Perfumer]], [[Talot]], 
 
 Locations: [[Fort Raynault]]
 NPCs: [[Whistopher the Bold]], [[Captain Gorhm]]

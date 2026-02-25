@@ -3,7 +3,7 @@ tags:
   - C04
 aliases:
 ---
-[[C.04.09]], [[C.04.10]], [[C.04.11]], [[C.04.12]], [[C.04.13]], [[C.04.14]]
+[[C.04.09]], [[C.04.10]], [[C.04.12]], [[C.04.13]], [[C.04.14]], [[C.04.15]]
 [[NPC Log.base]]
 Arc 3 of [[C.04 Planning and outline|C.04]]
 # Session Prep
@@ -103,7 +103,7 @@ This is really our first travel session, what do i want, I want good presentatio
 		- Your mind brings forward the prince 
 		- Some people marked as useful, others are marked as disposable 
 			- disposable: [[Pearl]], [[Deko]], Qball
-			- protected: [[Talot]], [[billiard Ball]], [[Poe the Perfumer]], 
+			- protected: [[Talot]], [[Billiard Ball]], [[Poe the Perfumer]], 
 	- rot beast charges in a gores a redshirt, start your first combat
 - Travel gameplay description 
 	- [[Travel, hexes, and landmarks]]

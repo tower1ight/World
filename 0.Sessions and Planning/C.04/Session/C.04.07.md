@@ -8,6 +8,7 @@ ARC: [[C.04 Arc 3 - Into The Woods]]
 Prev: [[C.04.06]]
 Post: [[C.04.08|C.04.08]]
 Date:
+PCs: [[Pearl]], [[Billiard Ball]], [[Poe the Perfumer]], [[Talot]], 
 
 Locations: [[The Talons|Talons]]
 NPCs: [[Captain Gorhm]]
