@@ -8,7 +8,8 @@ aliases:
   - Yondal
 ---
 # [[Saint Gael]]
-# [[Aloric Yondal]]
+# [[Aloric Voral]]
+
 
 [[draconic mark]]
 [[Tel'Voric]]

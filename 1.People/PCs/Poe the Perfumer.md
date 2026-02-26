@@ -165,7 +165,7 @@ We sent a distress message using the scroll I kept for business orders. Just lik
 
   
 
-Act 3: The House of Usher
+Act 3: [[The House of Usher]]
 
   
 

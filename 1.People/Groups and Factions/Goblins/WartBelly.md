@@ -3,6 +3,7 @@ tags:
   - Goblin
   - C04
   - CourtOfBoiledBlood
+  - NPC
 aliases:
 Ancestry: Goblin
 Appearance:

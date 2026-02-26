@@ -7,6 +7,5 @@ alias:
 Location Type: City
 ---
 Region, Sovereign or State: [[Telor]]
-Province: [[{Kha}]]
-
+Province: [[{Urstone}]]
 [[Notyei]]˜˜
