@@ -1,7 +1,7 @@
 ---
 tags:
   - Focalism
-alias: focalist
+alias: Focalist, Focalists
 ---
  n x:[[Tel'Voric]]
 
@@ -12,11 +12,13 @@ alias: focalist
 - [[#Institution|Institution]]
 - [[#Pilgrimage|Pilgrimage]]
 # The Myth
-
+##### What Happened
 in early days tels saw much suffering, people lived short lives, they fought, and starved and died in ignorance, leaving no mark behind, as though they had never exisited. A great being of knowledge had the power to pull them out of the mud and lend them shelter from an unforgiving land
 
 his chosen people stay goated and usher in a new era of learning and philosophical advancement 
 
+##### A More Objective Truth
+- Misuse of knowledge and destruction of 
 
 ## Focus in Focalism
 On a fundamental level [[focus]] is concentrated meditation. Full body and mind devotion to [[Tel'Voric]], but more importantly to the work they are creating. It is akin to quiet one might feel when reading a particularly thrilling textbook. Some describe it as Euphoric yet grounded, open and closed, exploratory but directed, or any number of other contradictory word pairs. Think of Focalism as a theology that sees achieving flow as not only good but righteous. 

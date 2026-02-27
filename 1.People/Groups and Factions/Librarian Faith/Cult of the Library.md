@@ -37,7 +37,7 @@ In many ways the method of a cultist's prayer is the same as a [[Pages of the Li
 
 # Hierarchy: 
 the basis for the hierarchy is in allowed knowledge, giving certain types of members special and discrete information.
-- Cultist, awareness of its [[Cult of the Library]] members place in [[Order of]]
+- Cultist, awareness of its [[Cult of the Library]] members place in [[Order of IDK]]
 - [[idky]]
 - idky
 - Potentate

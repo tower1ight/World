@@ -1,6 +1,7 @@
 ---
 tags:
   - Location
+  - God
 aliases:
 Location Type: Realm
 ---
