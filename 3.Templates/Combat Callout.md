@@ -1,5 +1,8 @@
 > [!Combat]
-> **Description**
+> **Terain**
+> lore ipsum
+> 
+> **Sensor**
 > lore ipsum
 > 
 >**Objectives**

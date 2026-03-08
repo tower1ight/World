@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#room ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -21,10 +21,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0,
   "repelStrength": 10.9619140625,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5990976739551716,
-  "close": true
+  "scale": 0.8116594296260681,
+  "close": false
 }
