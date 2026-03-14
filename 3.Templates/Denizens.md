@@ -1,16 +1,12 @@
 ---
 tags:
-  - NPC
   - Beastiary
   - C06
 aliases:
-Ancestry: Devil
-Appearance:
-Pronouns: He/Him
-Theme: Spirit
-Threat: Dungeon Lord
+Theme:
+Threat:
 ---
-
+<% await tp.file.move("/0.Sessions and Planning/C.06/Denizens/" + tp.file.title)%>
 *Lorem Ipsum*
 
 **ATTRIBUTES**:  Swords **#** | Pentacles **#** | Cups **#** | Wands **#** | 

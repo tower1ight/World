@@ -1,14 +1,14 @@
 {
   "collapse-filter": false,
-  "search": "tag:#room ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Session  ",
+      "query": "[\"location type\":Sovereign or State",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -25,6 +25,6 @@
   "repelStrength": 10.9619140625,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8116594296260681,
-  "close": false
+  "scale": 0.20035997213413323,
+  "close": true
 }

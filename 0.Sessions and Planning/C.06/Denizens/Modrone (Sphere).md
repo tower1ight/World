@@ -1,16 +1,11 @@
 ---
 tags:
-  - NPC
   - Beastiary
   - C06
 aliases:
-Ancestry: Devil
-Appearance:
-Pronouns: He/Him
 Theme: Spirit
-Threat: Dungeon Lord
+Threat: Minion
 ---
-
 *Lorem Ipsum*
 
 **ATTRIBUTES**:  Swords **#** | Pentacles **#** | Cups **#** | Wands **#** | 
