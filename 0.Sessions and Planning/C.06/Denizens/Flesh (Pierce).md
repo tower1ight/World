@@ -6,10 +6,10 @@ aliases:
 Theme: Undead
 Threat: Strategist
 ---
-*Transparent and glossy the piercer slips w*
+*Transparent and glossy the piercer excels at directing an ambush  [[flesh]] *
 
 **ATTRIBUTES**:  Swords **1** | Pentacles **4** | Cups **2** | Wands **3** | 
-**H/D:** 3/3
+**H/D:** 5/0
 
 **LIKES:** Perching 
 **HATES:** 
@@ -20,7 +20,7 @@ Threat: Strategist
 - **Ability Name:** 
 
 **GREATER DOOMS:**
-- **Bone Mage:** The peircer may discard a greater doom to cast a spell in any zone that they can see, shooting a carved bone fragment attached to the relevant spell component
+- **Bone Mage:** The piercer may discard a greater doom to cast a spell in any zone that they can see, shooting a carved bone fragment attached to the relevant spell component
 - **Ability Name:** 
 
 

@@ -23,16 +23,17 @@ Location Type: Sovereign or State
 
 *When I finally layed my eyes on the tree I knew instantly that we could never restore the sphere, something grander undulated beneath my feet, an organism with the capacity and, unbeknownst to me, the inclination for godhood, the prism, trapped in the interdimentional heart of the tree syphoned off [[focus]] from [[The Prismatic Whole]]. Our work had surpassed us and created the most beautiful thing I had ever seen*
 
-— Bigby 2
+— Bigby
 
- up: 
 
-[[Germ]]
-[[Xylaan]]
+# Germ
+![[Germ]]
 [[symbiotic groups ]]
-[[Xylaani History and Politics]]
+# Political environment
+![[Xylaani History and Politics#Political environment]]
 
-
+# People
+![[Xylaani History and Politics#Empowered Groups and People]]
 # Geography and Ecology 
 ## [[Ghostlands]]
 ![[Ghostlands#Description]]
