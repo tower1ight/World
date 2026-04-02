@@ -1,9 +1,9 @@
 [
-  "obsidian-git",
-  "templater-obsidian",
-  "oz-image-plugin",
-  "obsidian-style-settings",
   "table-editor-obsidian",
+  "calendarium",
+  "css-snippets",
+  "obsidian-git",
   "omnisearch",
-  "calendarium"
+  "obsidian-style-settings",
+  "templater-obsidian"
 ]

@@ -15,7 +15,7 @@ Threat: Minion
 **NOTES: 
 
 **LESSER DOOMS:**
-- **Ability Name:** 
+- **Ability Name:** Protoplasm
 - **Ability Name:** 
 
 **GREATER DOOMS:**
