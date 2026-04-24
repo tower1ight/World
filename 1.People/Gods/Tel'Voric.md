@@ -11,3 +11,5 @@ alias: Bestower_of_the_Mark, Second_Scale_of_Yilin, deposed_steward_of_The_Great
 
 In short Tel'Voric is an ancient amethyst dragon, the [[god|deity]] of the[[Focalism|focalist]] church, the founder of the nation of [[Telor]] (under the [[Voral Dynasty]]), builder of the [[Violet Church]], former [[Stewards]] of [[The Great Library]].
 
+His concept is tied to telor, his eye is forced to watch them, he fights his overwhelming identity. The supermassive weight of [[soul]]. He fights bitterly, nearly all of his weight thrust on [[xylaan]]. He will die soon, that or diminish, he cannot wait. 
+
