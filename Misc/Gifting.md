@@ -14,3 +14,25 @@ my mother
 	- pott for plants
 # Dad
 - dog trainer extraordinaire 
+
+
+
+|       |                 |
+| ----- | --------------- |
+| 5/2   | Lauren Bday     |
+| 5/5   | Taylor Bday     |
+| 5/10  | Mothers Day     |
+| 5/15  | Mom Bday        |
+| 6/14  | Adrienne Bday   |
+| 6/21  | Fathers Day     |
+| 7/10  | Mell Bday       |
+| 8/18  | Hannah Bday     |
+| 8/21  | Sydney Bday     |
+| 8/26  | Emma Bday       |
+| 8/29  | Sophie Bday     |
+| 10/3  | Ali Bday        |
+| 10/6  | Bea Bday        |
+| 10/22 | Elizzabeth Bday |
+| 11/28 | Z$ Bday         |
+| 12/8  | grammy BDay     |
+| 12/24 | Dad Bday        |
