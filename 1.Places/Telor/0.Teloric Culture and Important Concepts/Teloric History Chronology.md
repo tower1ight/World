@@ -6,7 +6,9 @@ alias:
 ---
 up:  [[Telor]]
 
-- 
+
+- roughly 4000 years ago, [[Urat]] ripped a new one 
+- roughtly 1600 years ago, fall of [[Malten Empire]]
 - Roughly 1000 years ago: [[Tel'Voric]] A dragon of wide renown among their brethren, leaves their home, [[Yilin]], in search of [[The Great Library]], an institution of even greater renown. 
 - Invasion of [[Malten Empire]]
 -  Roughly 1500 years ago: [[Tel'Voric]] becomes a [[Stewards]] of [[The Great Library]]

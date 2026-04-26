@@ -17,10 +17,5 @@ The fleshy mycelium of [[Xylaan]] supports the entire function of the xylanni ec
 
 
 
-
-
-
-
-
-A crusted bud of crystal parts a packed mound of dirt. It betrays the network it sprouted from, others in the area show it searching, growing slowly, tendrils out stretched. 
+A crusted bud of crystal parts a packed mound of dirt. It betrays the network it sprouted from, others in the area show it searching, growing slowly, tendrils outstretched. 
  

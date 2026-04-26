@@ -4,6 +4,7 @@ tags:
   - Telor
   - xylaan
 aliases:
+fc-date:
 ---
 
  # what is it

@@ -6,7 +6,7 @@ aliases:
   - Goblin's
   - Impulse
 ---
-
+FIX YOURE ANXIETY WITH A WORKER BEE ANALOGY, STOP TRYING TO MAKE THEM RIGHT AND MORALIZED, THEY ARENT MORE NOBLE, THEY ARE SLY AND CUNNING AT THEIR BEST, MYOPIC AND CRUEL AT THEIR WORST
 # Culture
 #### Impulse
 The goblins [[polyphony|polypsionic]] language
