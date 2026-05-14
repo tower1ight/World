@@ -13,18 +13,6 @@ Progressing personal stories
 [[C.04.01]], [[C.04.02]],, [[C.04.10]]
 [[C.04.12]],
 
-# Adventures
-## [[C.04 Arc 1 - Introduction]]
-
-## [[C.04 Arc 2 - The Great Arsonist Hunt]]
-
-## [[C.04 Arc 3 - Into The Woods]]
-
-## [[C.04 Arc 4 - Crossing]]
-
-: Entry, Arcadian mind control, Party proxy
-
- 
 # Planning 
 ## Outline 
 #### [[C.04 Arc 1 - Introduction]] 
@@ -45,8 +33,8 @@ Entry, Arcadian mind control, Party proxy
 ## Seat of Power and Holds
 - [[{the Woven City}]] (Seat of Power)
 - [[Fort Raynault]] (Hold)
-- [[{disconnected city}]] (Hold)
-- [[{Vacuole Stronghold}]] (Hold)
+- [[The Court of Shimmering Gut|Gut Court]] (Hold)
+- [[Substrate Pass Encampment]]
 
 ## Myths:
  - [[The Eye]]
@@ -59,18 +47,7 @@ Entry, Arcadian mind control, Party proxy
 
 #### Dwellings 
  Dwellings should be representative of local customs, artistic and architectural trends 
- - **Gristleak's Orchard**: mold farm and textile maker 
-	 - The air is thick humid, you feel energized walking through a field of stalks, as you walk you see that three sets of identical small ropes or lines hang from the stalks  at 5 ft, 10 ft, and 15ft. 
-		 - tall gets the strongest urge to put her mouth to the orifices on the side of whatever tube this is
-		 - investigating will let you see scorch marks above the lines
-	 - following the lines you find yoursdelf at a large domed structure with several offset structures
-		 - a tank of brown liquid that is connected to them with a lattice work of  
-	 - Gristleleak:
-		 - BENIGN ANNOYANCE: Taps pen on teeth, drumws fingers when waiting, flicks Zippo open and closed, minor situational catchphrase, etc.
-		 - owner of the place
-	 - Nettlegrin
-		 - herbalist and mold grower
-		 - suspicipous of yopu 
+ - [[Gristleak's Orchard]]
  - **Here kitty kitty**
  - **Ritual to the mothers:** 
 	 - you see one of the domed structures you have come to know as a goblin home smoke billows from a very small hut carved out of the body of a stalk, 
@@ -152,6 +129,7 @@ Often Sanctuaries take the form of a temples around specific [[mycelium|nodes]] 
  - **Bone Stalker**: 
 	 - Distortion crackles in your mind, the familiar fuzz youve grown accustomed to, followed by a long squak you haven't yet hear, looking up you lock eyes with a large sleek light brown bird with a long neck and a tall jagged beak, the size of a large dog, and ornamented with many skulls it perches on a thick branch and gives a you a long stare, It lets out another squawk and this time you feel a wave of psionic energy, go go go and the forest erupts, hundreds of brown shaps zip past you, fluttering in every direction and the static intensifies, You feel one of them give out an exploratory clip of its beak at you, the static is building faster growing and growing until you cant see,  squeezing your eyelids against the pressure inside your head. and then suddenly its gone, the trees clear and whatever flock that was is gone. but you look around, hopelessly turned around and the forests shadows and shapes look different, you cant identify any landmarks **blinded** - 
 	 - Bone-stalker, spots you, and pursues you, making very infrequent ranged attacks, waits untill your next predicament to attack
+	 - 
  - **Smoke:**
 	 - You breath in and pick up the distinct smell of acrid smoke and you look up to find the sun with a much darker red then typicall. It glares back at you and you realize looking directly at it that you are being slowly enveloped by thick ashfall, soot clinging to your coats. 
 	 - its just smoke floating over the stalkfeid, billowing marble drifts, holding shape

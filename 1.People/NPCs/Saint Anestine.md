@@ -18,19 +18,22 @@ Threat: Dungeon Lord
 **ATTRIBUTES**:  Swords **#** | Pentacles **#** | Cups **#** | Wands **#** | 
 **H/D:** 5/10
 
-**LIKES:** 
+**LIKES:** Purpose and Dedication, 
 **HATES:** 
 **NOTES: 
 
 **LESSER DOOMS:**
-- **Ability Name:** 
+- **Andreus's fang:** 
 - **Ability Name:** 
 
 **GREATER DOOMS:**
-- **Ability Name:** 
+- **Shuffling Tile:** 
 - **Ability Name:** 
 
 
 # High Art - Telvoric's Oracle
+First to join him, she foresaw his ascension and the war that would come from the [[library]]'s clear and steady decline. 
 
 # Focalist Myth and Iconography 
+
+Anestine Is always backed by a latice or complicated pattern, she is often represented by a snake, thin and wrapped around another symbolic object

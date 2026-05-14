@@ -22,28 +22,21 @@ Responsible for
 - Raw materials
 - Sanctuaries 
 - pipes resource transport 
+##### Sanctuary project 
+
 #### Anarchy?:
-Work in concert with xylaan
- goblin are largely used as a disposable force of workers capable of autonomous manufacturing and importing important good to most of xylaan : mining and precious metals, mold creation (textiles, tool), arcane component gathering. might makes right 
- - Green: The most subjugated and exploited goblin community, their relationship and proximity to the arcadian court and their role producing luxury goods, dyes, and fine textiles, 
-	 - nobility 
- - Yellow: manages a lot of the building projects and raw materials exports
- - White: left with the least level of communication this group is discipated and barely organganized 
+Even before [[Xylaan retreat]] goblins exemplified the chaotic and at times unproductive side of natural self interest. The self meaning communities with no more than 20 people. Larger organizations of goblins can and do exist but organizing them to do anything take herculean will. The "Courts" function as principal approach to life, they are religious dogma more than a real governing body, but if the principal is leveraged properly and with enough cunning, goblins are more or less capable of anything.
+
+All [[goblins]] have court affiliation, many pay attention to the politics, many dont, but in all likelihood a goblin is more interested in the scheme *they* have cooked up, than any court drama going on. 
+
+
 
 # Census
-- Currently split into four large groups
+- Currently split into four large courts
 	- [[The Court of Boiled Blood]]: the court of many, Largely associated with central [[Reeds]] and [[{the Woven City}]]
-	- [[The Court of Shimmering Gut]]: the court of fang and scale, Largely associated with [[Arcadian Court|Arcadian]] occupied territory and [[{LakeTown}]]
-	- [[The Court of Sharpest Bone]]
+	- [[The Court of Shimmering Gut]]: the court of fang and scale, Largely associated with southern [[Reeds]] and [[{LakeTown}]]
+	- [[The Court of Sharpest Beak]]: the court of clean violence and survival, disorganized and self sufficient. Largely associated with northern [[Reeds]] and with no hold to mark its center. This court has never been all that integrated into the goings on of xylaan.
 	- [[The Court of Dappled Night]]
-#### Geography
- 
-- death and bodies
-	- go in the ground
-	- many people choose important places
-	- sometimes thats impossible 
-
-
 #### Projects
  - Pipes and material transport
  - waste transport
@@ -53,7 +46,7 @@ Work in concert with xylaan
 - immigration to xylaan {named figure}
 - cut off
 - warfare and small scale building projects, raiding of the [[Tannia]] and 
-- xylaan reaches chapparal
+- xylaan reaches [[Reeds]] formerly chaparral like foothills 
 - partisan migration event to live near places with mycelium
 - creation of language 
 - conflict about the spread of 
@@ -88,7 +81,7 @@ big fans and straws syphon sugar and
 
 "Nonsense, I {programed} it to hold that weight, he doesnt like it? Good, he'll fix it not my problem"
 "likely story, fucking guys not gonna do it, you know hell just burry it"
-*buuurp* fucks bussier than a shit biscut and hald the price, that work will go to waste"
+*buuurp* "fucks bussier than a biscut and half the price, that work will go to waste"
 "what if we just gave it a quarter twist and a support pillar"
 fucking dick, who said that 
 Right now tell me who fuckking said that, 
@@ -114,12 +107,9 @@ Distract from the point at hand
 Say something witty
 
 
-G:Well in that case we rip them to shreds,  we fill our baths with their warm blood, soap ourselves with their belly fat
-
+G:Well in that case we rip them to shreds,  we fill our baths with warm blood, soap ourselves with their belly fat
 T: Not so simple though, we may find ours is the fat doing the soaping if we strike too early, voiding the pact will see us loose the seers, 
-
 G: So be it, I say we leave them to their leaves, for years they haven't mustered a peep about port seizing, those viney fucks will die before leaving their nodes, the builder themself couldn't convince them to lift a finger
-
 R: You know I dont think its out of the realm of
 
 T: the next time you offfer up xylaans return as a discussion point I will throw you out of this fucking tower

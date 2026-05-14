@@ -37,7 +37,6 @@ A gust of wind pushed reeds in a dance, their green stalks bending together as t
 
 This shit dry as hell, except when there are flowers and giant deer and lizards and cellery plants, 
 
-all [[goblins]] have court affiliation, and most live in community with eachother. many pay attention to the politics, many dont, but in all likelyhood a goblin is more interested in the scheme *they* have cooked up. 
 
 Schem
 

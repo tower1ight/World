@@ -285,7 +285,7 @@ This is really our first travel session, what do i want, I want good presentatio
 > Human caster carrying a diamond of 1000 GP
 
 
-#### Encounter [[Sage Aelon]]
+#### Encounter a woman ([[Sage Aelon]])
 - A trick or a trap is in place to protect her 
 - She will tell you anything if you ask it of her 
 	- She wishes to reconstruct the barrier 
