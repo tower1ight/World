@@ -14,3 +14,5 @@ Though few of sightings of them have been recorded, existing accounts have descr
 
 Manny of the known mommets are located within the [[The Great Library]]
 Few know of their existance in the hierarchy but a few of these are possesed by the [[Cult of the Library]] and obtain the highest degree of knowledge within their ranks
+
+Originates with [[Pages of the Library|Page]] ritual for preserving the body and mind at the moment of death
