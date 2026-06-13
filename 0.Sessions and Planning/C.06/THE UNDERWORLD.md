@@ -10,21 +10,18 @@ The city at its core has grown up; around the base of the violet church, in the 
 
 many guilds are sponsored by wizards and have the right of first sale 
 
-# Theory
-- get the players to interact with the map
-- gygaxian naturalism 
-- Sillyness 
 
 
+# Manifest
 
-|            | [[1. Stacks]]                                                                  | [[2. Facilities]]              | [[3. Laboratory]]                    | [[4. Special Collections]]                                                       | [[5. The Lair]]                 |
-| ---------- | ------------------------------------------------------------------------------ | ------------------------------ | ------------------------------------ | -------------------------------------------------------------------------------- | ------------------------------- |
-| Lord       | [[MoundRank]]<br>                                                              | [[{Devil}]]                     | [[{glados}]]                         | [[Saint Anestine\|St. Anestine]]                                                 | [[Death]]                       |
-| Denizens   | [[1.People/Groups and Factions/The Lair/flesh]]<br>[[Modrone]]<br>Warebats                                           | Imps<br>Flesh                  | Modrones<br>Warforged<br>Roombas     | Vampires<br>Ghosts<br>Moths                                                      | Weights                         |
-| NPCs       | [[Rango]]<br>[[The Butcher]]<br>[[insane wizard 1]]<br>[[insane wizard 2]]<br> |                                |                                      |                                                                                  |                                 |
-|            |                                                                                |                                |                                      |                                                                                  |                                 |
-| Treasure   | Shadow Dragon Egg; Dragon mark crest<br>                                       |                                |                                      |                                                                                  |                                 |
-| Components | Guano (flare); A chyrstal ball (Scry)                                          | Thunderbolt iron (thunderclap) | Vile of quicksilver (Animate Object) | athame<br>mermaid fetus<br>Spider egg (speak to animal); mummified viper(Enrage) | A seven faceted prism(Illusion) |
+|            | [[1. Stacks]]                                                              | [[2. Facilities]]                | [[3. Laboratory]]                                                                                 | [[4. Special Collections]]                                                       | [[5. The Lair]]                 |
+| ---------- | -------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------- |
+| Lord       | [[MoundRank]]<br>                                                          | [[{Devil}]]                      | [[Dianea]]                                                                                        | [[Saint Anestine\|St. Anestine]]                                                 | [[Death]]                       |
+| Denizens   | [[1.People/Groups and Factions/The Lair/flesh]]<br>[[Modrone]]<br>Warebats | Imps<br>Flesh                    | Modrones<br>Warforged<br>Synths<br>                                                               | Vampires<br>Ghosts<br>Moths                                                      | Weights                         |
+| NPCs       | [[Rango]]<br>[[The Butcher]]<br>[[insane wizard 1]]<br>[[Ariadne]]<br>     |                                  | [[Bart]]<br>[[Ariadne]]<br>[[Brix]]                                                               |                                                                                  |                                 |
+|            |                                                                            |                                  |                                                                                                   |                                                                                  |                                 |
+| Treasure   | Shadow Dragon Egg; Dragon mark crest<br>                                   | [[{Engine}]]<br>[[{Faded Coin}]] | [[{crystal}]]<br>[[{lazer}]]<br>[[{shield}]]<br>[[{seed (Artifact)}]]<br>[[{Cauldron(Artifact)}]] | [[{Sacrificial Blade}]]                                                          |                                 |
+| Components | Guano (flare); A chyrstal ball (Scry)                                      | Thunderbolt iron (thunderclap)   | Vile of quicksilver (Animate Object)                                                              | athame<br>mermaid fetus<br>Spider egg (speak to animal); mummified viper(Enrage) | A seven faceted prism(Illusion) |
 
 # Death
 As the players become accustomed to the world they begin to see beyond the veil, the non logic, the unspooling of the place, death packing up and labeling boxes
@@ -35,3 +32,5 @@ Pulling the death adds to ones perception
 
 You blink and can see massive bite marks all around the space, chunks carved, bitten, out of the wall
 If something dies in this room, the players will see a tentacled arm wrap around something
+
+

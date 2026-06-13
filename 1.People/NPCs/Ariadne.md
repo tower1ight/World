@@ -6,4 +6,4 @@ Ancestry: High Elf
 Appearance:
 Pronouns: She/It
 ---
-seeking [[{glados}]]
+seeking [[Dianea]]

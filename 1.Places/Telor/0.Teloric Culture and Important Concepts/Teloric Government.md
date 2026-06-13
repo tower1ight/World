@@ -8,7 +8,7 @@ aliases:
   - Focal Group
 alias:
 ---
-up: 
+ up: 
 
 The [[Telor|Teloric]] political system is built on a dense and complicated hierarchy. Here are the key points 
 - The throne is the central point of rule that branches both into two groups: The [[Violet Church]], and the [[Teloric military]]
