@@ -1,0 +1,160 @@
+---
+tags:
+  - C06
+  - Location
+aliases:
+Location Type: City or Multinote Location
+---
+# Layout
+
+|                                                 |                                         |                      MAP                      |                                               |                                                 |
+| :---------------------------------------------: | :-------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :---------------------------------------------: |
+|    [[GLASSTOP#Ace of Swords\|Ace]]<br>Swords    |                                         |                                               |                     Death                     |                                                 |
+|       [[GLASSTOP#IV of Cups\|IV]]<br>Cups       |          Wheel of <br>Fortune           | [[GLASSTOP#II of Pentacles\|II]]<br>Pentacles |   [[GLASSTOP#III of Swords\|III]]<br>Swords   |                                                 |
+| [[GLASSTOP#III of Pentacles\|III]]<br>Pentacles |  [[GLASSTOP#VI of Wands\|VI]]<br>Wands  |     [[GLASSTOP#Academy\|Queen]]<br>Wands      | [[GLASSTOP#VI of Pentacles\|VI]]<br>Pentacles |                                                 |
+|                                                 | [[GLASSTOP#VI of Swords\|VI]]<br>Swords |      [[GLASSTOP#V of Wands\|V]]<br>Wands      |                  Temperence                   | [[GLASSTOP#Knight of Swords\|Knight]]<br>Swords |
+|                                                 |  [[GLASSTOP#VII of Cups\|VII]]<br>Cups  |                                               |       [[GLASSTOP#X of Cups\|X]]<br>Cups       |                                                 |
+# Example District 
+**CARD**
+
+Lorem Ipsum
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+
+# Pillars
+## Academy 
+**Queen of Wands**
+*The Queen of Wands is the warmth of the garden, charisma, and the living flame that nourishes projects and brings people together. She symbolizes presence, inner steadiness, and the joy of embracing life while remaining attentive.*
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+
+# Swords
+
+## Ace of Swords
+**Ace of Swords**
+*The Ace of Swords is the first beam of light through mist - the moment a thought gains a clean edge. In Secret Garden it arrives as a clarifying force that clears the air and sets things in motion. In the Renaissance, jurists drafted charters, anatomists traced the lines of the body, printers set letters into columns - reason flowed like water through channels. Thus the card blesses discernment, clarity, and the precision of mind that keeps a vine from withering in shade. It is the hygiene of mind and speech.*
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+
+## III of Swords
+**Three of Swords**
+*The Three of Swords marks an incision in the realm of thought and speech that reaches the tender body of feeling. It speaks of heartbreak, separation, heavy words, and unsettling clarity. This card shapes ideas into a statement, forming a triangle of mind, heart, and voice — when tension rises, edges meet, and something gives. Its principles are truth, discernment, and boundary. It pierces illusion and condenses sorrow into a moment that can finally be felt.*
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+
+## VI of Swords
+**Six of Swords**
+*The Six of Swords denotes a passage in thought and circumstance. It is a gradual movement from noise to clarity. It speaks of the craft of transition: mapping, awareness, seeking support, and trusting the distance that does part of the healing on its own.*
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+
+## Knight of Swords
+**Knight of Swords**
+*The Knight of Swords focuses the air element into direction. He brings sharp intellect, determination, and t h e courage t o speak w h e n others hesitate. H i s energy resembles a current of mind seeking a clear aim — a cause to pursue, a problem to clarify, a path through dense thought. This card speaks of strategy, research, and precision in language. It values facts, discipline, and the ethics of action*
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+# Pentacles
+## II of Pentacles 
+**Two of Pentacles**
+*The Two of Pentacles is the art of keeping movement balanced through change. It speaks of flexibility and the ability to sustain flow amid shifting circumstances without losing rhythm. In the Secret Garden Tarot, this card reflects the cycles of the earth — the turn of seasons, the exchange between giving and receiving, the quiet accounting of what nourishes and what is spent. What matters here is a living fluidity - the grace of adapting, where every wave carries the next.*
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+
+## III of Pentacles 
+**Three of Pentacles**
+*The Three of Pentacles honors skill made social: a craft tested in community and a plan grown from shared focus. It celebrates learning made deliberate — the apprenticeship that turns study into ability, the repeated gestures that shape a steady hand. Value contributions both small and structural: measurements, quiet edits, spoken corrections, the steady circulation of knowledge. Progress here is cumulative; mastery builds through review, critique, and the exchange of tools.*
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+## VI of Pentacles
+**Six of Pentacles**
+*This card tracks the flow of resources and the moral weight that travels with them. It speaks of distribution rather than abundance or lack — a deliberate exchange where one hand opens an d another receives, and where the measure of help equals a choice about dignity. The Six of Pentacles asks you to notice who sets the tempo: are gifts a true redress or a stage for reputation,
+control, or repayment?*
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+# Cups
+## IV of Cups
+**Four of Cups**
+*The Four of Cups speaks of a pause after abundance — a quiet plateau where sweetness loses its sharpness. This is not failure but fermentation: a necessary stillness in which desire clarifies, sediments settle, and the difference between habit and true hunger becomes perceptible. It is a resting of the heart, where the fire cools to preserve strength.*
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+
+## VII of Cups
+**Seven of Cups**
+*The Seven of Cups speaks of visions and paths born from imagination. It is the moment when desire becomes the material of creation and a dream begins to take shape. What matters here is discernment — the ability to sense where energy is ready t o grow and where it is time to let go. The card invites observation of how imagination moves, how it shapes images and calls for choice.
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+
+## X of Cups
+**Ten of Cups**
+*The Ten of Cups speaks of the maturity of belonging. After the tides of longing, loss, and renewal, the water finds its course and nourishes the garden of connection. It represents emotional fulfillment, closeness, reciprocity, and a blessing that naturally extends beyond the personal circle. This is a living state sustained by care, attention, and shared rhythm.*
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+# Wands
+
+## V of Wands
+**Five of Wands**
+*The Five of Wands speaks of a moment when many forces begin to move at once, and energy turns vivid and unpredictable. It marks the first trial after the beginning, when an idea meets reality and learns balance. The card shows strength searching for form and direction. It carries heat, drive, and curiosity. Here, interaction becomes a teacher - each person or intention reveals its nature and learns to move in rhythm with others. The essence of the card is not struggle but calibration.*
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
+
+## VI of Wands
+**Six of Wands**
+*The Six of Wands speaks of recognition and clarity. It marks the moment when effort becomes visible and shared rhythm brings people together. After a time of striving comes awareness of what has been accomplished and gratitude for those who walked beside you. The focus is not on display, but on the quiet understanding that growth has taken root*
+
+**Sensations**
+*Lorem Ipsum*
+
+**Special City Action**
+Lorem Ipsum
