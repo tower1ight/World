@@ -29,7 +29,6 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "3.Templates/Note Template.md",
     "3.Templates/Session Notes.md",
     "3.Templates/NPC.md",
     "3.Templates/Location.md",
@@ -40,7 +39,8 @@
     "3.Templates/Room.md",
     "3.Templates/Denizens.md",
     "3.Templates/Myth.md",
-    "3.Templates/Item Template.md"
+    "3.Templates/Item Template.md",
+    "3.Templates/Note.md"
   ],
   "startup_templates": [
     ""
