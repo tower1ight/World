@@ -113,10 +113,10 @@ Lorem Ipsum
 *The Four of Cups speaks of a pause after abundance — a quiet plateau where sweetness loses its sharpness. This is not failure but fermentation: a necessary stillness in which desire clarifies, sediments settle, and the difference between habit and true hunger becomes perceptible. It is a resting of the heart, where the fire cools to preserve strength.*
 
 **Sensations**
-*Lorem Ipsum*
+*regret*
 
 **Special City Action**
-Lorem Ipsum
+carouse+
 
 ## VII of Cups
 **Seven of Cups**
