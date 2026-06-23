@@ -9,7 +9,7 @@ Location Type: City or Multinote Location
 
 |                                                 |                                         |                      MAP                      |                                               |                                                 |
 | :---------------------------------------------: | :-------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :---------------------------------------------: |
-|    [[GLASSTOP#Ace of Swords\|Ace]]<br>Swords    |                                         |                                               |                     Death                     |                      boop                       |
+|    [[GLASSTOP#Ace of Swords\|Ace]]<br>Swords    |                                         |                                               |                     Death                     |                                                 |
 |       [[GLASSTOP#IV of Cups\|IV]]<br>Cups       |          Wheel of <br>Fortune           | [[GLASSTOP#II of Pentacles\|II]]<br>Pentacles |   [[GLASSTOP#III of Swords\|III]]<br>Swords   |                                                 |
 | [[GLASSTOP#III of Pentacles\|III]]<br>Pentacles |  [[GLASSTOP#VI of Wands\|VI]]<br>Wands  |     [[GLASSTOP#Academy\|Queen]]<br>Wands      | [[GLASSTOP#VI of Pentacles\|VI]]<br>Pentacles |                                                 |
 |                                                 | [[GLASSTOP#VI of Swords\|VI]]<br>Swords |      [[GLASSTOP#V of Wands\|V]]<br>Wands      |                  Temperence                   | [[GLASSTOP#Knight of Swords\|Knight]]<br>Swords |
