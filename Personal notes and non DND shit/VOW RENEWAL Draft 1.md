@@ -7,11 +7,15 @@ aliases:
 
 All those who know Hannah and Zach (presumably all of you) know what an easy job they have given me. They have asked me to describe what makes them special. Ive picked two things from a very long list.
 
-But If we can take a moment and make this about me. Id like to say how precious these two are to me. When I am day drinking I want them at the function. When I am playing a game I want to kick their ass. When I am hungry I want a seat at their table. I am honored to be standing up here with them in ways I cant describe.  They make me so happy and I look forward to many wonderful hangs for years to come.
+But If we can take a moment and make this about me. Id like to say how precious these two are to me. When Im throwing down I want them at the function. When I am playing a game I want to kick their ass. When I am hungry I want a seat at their table. I am honored to be standing up here with them in ways I cant describe.  They make me so happy and I look forward to many wonderful memories for years to come.
 
 About a year into their relationship they were over for some family thing. I cant really remember. What I can recollect was the two casually kissing in our living room in front of god and everyone. Consider my pearls clutched. After a decade of time, and no longer being 15 and a prude, I can see them for what they are. Two people who love the intimacy they share and aren't afraid to make that clear. Its refreshing to see them take this simple joy in what they mean to each other and It bodes well for the future they share.
 
-The second thing that marks them is very purposeful and deliberate commitment to companionship. The two expertly shift princess treatment back and forth like I've never seen before. But more important than the care they have gotten so good at delivering, is the way Zach and Hannah
+The second thing that marks them is very purposeful and deliberate commitment to companionship. The two expertly shift princess treatment back and forth like I've never seen before. But more than the care they have gotten so good at, is the way Zach and Hannah are active participants in each others change. Many of us have seen these two in turbulent times, times when they have felt loss, times that they have searched for direction, times of change. And in those times 
+
+THey represent to me a very high standard of love, the delight in eachothers company but have changes themselves sublty and not so subtly, Hannah at the very least has learned a far more level hr
+
+I aspire to be as good a team as these two 
 
  
  
