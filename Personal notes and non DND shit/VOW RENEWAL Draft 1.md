@@ -5,16 +5,18 @@ aliases:
 ---
 
 
-All those who know Hannah and Zach (presumably all of you) know what an easy job they have given me. They have asked me to describe what makes them special. Ive picked two things from a very long list.
+All those who know Hannah and Zach (presumably all of you) know what an easy job they have given me. They have asked me to describe what makes them special. I've picked two things from a very long list.
 
-But If we can take a moment and make this about me. Id like to say how precious these two are to me. When Im throwing down I want them at the function. When I am playing a game I want to kick their ass. When I am hungry I want a seat at their table. I am honored to be standing up here with them in ways I cant describe.  They make me so happy and I look forward to many wonderful memories for years to come.
+But if we can take a moment and make this about me. I'd like to say how precious these two are to me. When I'm throwing down, I want them at the function. When I am playing a game, I want to kick their ass. When I am hungry, I want a seat at their table. I am honored to be standing up here with them in ways I can't describe. They make me so happy, and I look forward to many wonderful memories for years to come.
 
-About a year into their relationship they were over for some family thing. I cant really remember. What I can recollect was the two casually kissing in our living room in front of god and everyone. Consider my pearls clutched, A childhood of closing my eyes during particularly romantic movie scenes did not equip me to see that sort of love unaccompanied by shame. After a decade of time, and no longer being 15 and a prude, I can see them for what they are. Two people who love the intimacy they share and aren't afraid to make that clear. Its refreshing to see them take this simple joy in what they mean to each other and It bodes well for their future.
+About a year into their relationship, they were over for some family thing. I can't really remember. What I can recollect was the two casually kissing in our living room in front of god and everyone. Consider my pearls clutched, A childhood of closing my eyes during particularly romantic movie scenes did not equip me to see that sort of love unaccompanied by shame. After a decade, and no longer being 15 and a prude, I can see them for what they are. Two people who love the intimacy they share and aren't afraid to make that clear. It's refreshing to see them take this simple joy in what they mean to each other, and it bodes well for their future.
 
-The second thing that marks them is very purposeful and deliberate commitment to the each others priorities. The two shift princess treatment back and forth like I've never seen before. Writing this now I have an impulse to dismiss that, love is more than getting your partner boba, everybody has the capacity to get their partner boba. But not everybody is as observant as these two. They work hard at it, they challenge their assumptions of each other,
+The second thing that marks them is a very purposeful and deliberate commitment to each other's priorities. The two shift princess treatment back and forth like I've never seen before. Writing this now, I have an impulse to dismiss that. Love is more than suggesting you and your partner go get boba at the right moment, everybody has the capacity to get their partner boba. But not everybody is as observant as these two. They challenge their assumptions of each other. They look for ways they can make each other feel special. No one has to tell Hannah what kind of party to throw Zach. No one had to tell Zach to make Hannah a ring full of secrets. They knew from the start that family was very important to both of them; they looked. Do I think Zach really wanted to watch a three-hour video essay that I recently sent the both of them? I have no regrets. No, Zach knew what I meant to Hannah a long time ago and built a relationship with me that would survive that kind of link in the group chat. I think these two shine when they keep their eyes open. It will serve them in good times and bad times, for small things and big things, and when priorities change, they'll be watching.
+
+--- 
 
 
-. No one had to tell them that family was very important to other, they looked. Do I think Zach really wanted to watch a three hour video essay that I sent the both of them. I have no regrets. But No, Zach knew what I meant to Hannah a long time ago and built a relationship with me that would survive that kind of link in the group-chat. I think these two shine when they keep their eyes open. It will serve them in good times and bad times, for small things and big things, and when priorities change they'll be watching. 
+
 
 No one had to tell Hannah that zach needed his surprise birthday at pirate 
 
@@ -158,5 +160,5 @@ Hannah
 Zach
 lets get married again
 
-# Man and wife 
+
 
