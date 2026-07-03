@@ -38,7 +38,7 @@ Lorem Ipsum
 
 # Swords
 
-## Ace of Swords
+# Faraks Engine
 **Ace of Swords**
 *The Ace of Swords is the first beam of light through mist - the moment a thought gains a clean edge. In Secret Garden it arrives as a clarifying force that clears the air and sets things in motion. In the Renaissance, jurists drafted charters, anatomists traced the lines of the body, printers set letters into columns - reason flowed like water through channels. Thus the card blesses discernment, clarity, and the precision of mind that keeps a vine from withering in shade. It is the hygiene of mind and speech.*
 
@@ -68,9 +68,16 @@ Lorem Ipsum
 **Special City Action**
 Lorem Ipsum
 
-## Knight of Swords
+## Taliels Tourney
 **Knight of Swords**
-*The Knight of Swords focuses the air element into direction. He brings sharp intellect, determination, and t h e courage t o speak w h e n others hesitate. H i s energy resembles a current of mind seeking a clear aim — a cause to pursue, a problem to clarify, a path through dense thought. This card speaks of strategy, research, and precision in language. It values facts, discipline, and the ethics of action*
+*The Knight of Swords focuses the air element into direction. He brings sharp intellect, determination, and the courage to speak when others hesitate. His energy resembles a current of mind seeking a clear aim — a cause to pursue, a problem to clarify, a path through dense thought. This card speaks of strategy, research, and precision in language. It values facts, discipline, and the ethics of action*
+
+Those officers that wish to see battle, glory, and high command t to the teloric military academy in [[Vorvelal]], Those that wish for 
+
+
+Over the past 50 years this district has become a social hub for the more politically inclined officers of the teloric military, those who 
+
+Facts, discipline, and ethics of action marks the COL, for many young officers, this is their first real way to interface with the cult as an individual, How young captains choose to navigate this district will play a significant hand in where they end up in it. 
 
 **Sensations**
 *Lorem Ipsum*

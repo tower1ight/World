@@ -40,7 +40,9 @@
     "3.Templates/Denizens.md",
     "3.Templates/Myth.md",
     "3.Templates/Item Template.md",
-    "3.Templates/Note.md"
+    "3.Templates/Note.md",
+    "3.Templates/Major Arcana.md",
+    "3.Templates/Minor Arcana.md"
   ],
   "startup_templates": [
     ""
