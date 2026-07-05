@@ -1,15 +1,11 @@
 ---
 tags:
   - NPC
-  - C06
 aliases:
-Ancestry: Modrone
+Ancestry: Vampire
 Appearance:
-Pronouns: He/Him
-Location: 2.Laboratory
-Threat: NPC
+Pronouns:
 ---
-
 
 | --- Likes ---                    | --- Dislikes ---               |
 | :------------------------------- | ------------------------------ |
@@ -17,3 +13,5 @@ Threat: NPC
 | **--- Wants ---**                | **--- Needs ---**              |
 | - Aspirational character desires | - Foundational Character Needs |
 ### Relationships
+Member of [[{Coven}]]
+[[House Kahdar]] contact in [[0.Griddle]]

@@ -3,6 +3,7 @@ tags:
   - Event
   - Telor
 alias:
+fc-date: 51-Tion-1087
 ---
 up:  [[Teloric History Chronology]]
 

@@ -8,7 +8,8 @@ Ancestry: Construct
 Appearance:
 Pronouns: It/Its
 Theme:
-Threat:
+Threat: NPC
+Location: 2.Laboratory
 ---
 
 *Lorem Ipsum*

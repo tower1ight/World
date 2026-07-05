@@ -9,6 +9,7 @@ Appearance:
 Pronouns: He/Him
 Theme: Spirit
 Threat: Dungeon Lord
+Location: 3.Facilities
 ---
 
 *Lorem Ipsum*

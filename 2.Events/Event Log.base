@@ -6,8 +6,11 @@ views:
         - file.hasTag("event")
     order:
       - file.name
+      - fc-date
       - Date
       - Event Description
     sort:
+      - property: fc-date
+        direction: ASC
       - property: Date
         direction: ASC

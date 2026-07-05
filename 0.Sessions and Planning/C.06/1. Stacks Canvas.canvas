@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"9c14cbbc0a49ebc8","type":"file","file":"0.Sessions and Planning/C.06/0.Meatgrinders.md","x":-540,"y":-480,"width":600,"height":1100},
 		{"id":"dc46bc9e9e6172b4","type":"text","text":"| [[101]] | [[112]] |     |\n| ------- | ------- | --- |\n|         |         |     |\n","x":-540,"y":-600,"width":1580,"height":80},
-		{"id":"879a3735869b7255","type":"text","text":"[[insane wizard 1]]\n\n[[Ariadne]]\n\n[[Rango]]\n\n[[The Butcher]]\n\n[[Osa Alriaock]]","x":-540,"y":680,"width":180,"height":240},
+		{"id":"879a3735869b7255","type":"text","text":"[[Alexander]]\n\n[[Ariadne]]\n\n[[Rango]]\n\n[[The Butcher]]\n\n[[Osa Alriaock]]","x":-540,"y":680,"width":180,"height":240},
 		{"id":"c74c62cf01ce62bc","type":"file","file":"0.Sessions and Planning/C.06/1. Stacks Room Descriptions.md","x":680,"y":-480,"width":760,"height":1100},
 		{"id":"461db7f345be431f","type":"file","file":"0.Sessions and Planning/C.06/Denizens/Flesh (Brute).md","x":-540,"y":1000,"width":480,"height":740},
 		{"id":"ccbee6b2e249b18b","type":"file","file":"0.Sessions and Planning/C.06/Denizens/Flesh (Ooze).md","x":-40,"y":1000,"width":480,"height":720},

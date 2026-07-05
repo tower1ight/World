@@ -3,10 +3,10 @@ tags:
   - NPC
   - C06
 aliases:
-Ancestry: Modrone
+Ancestry: Human
 Appearance:
-Pronouns: He/Him
-Location: 2.Laboratory
+Pronouns:
+Location: 5.Lair
 Threat: NPC
 ---
 
@@ -17,3 +17,4 @@ Threat: NPC
 | **--- Wants ---**                | **--- Needs ---**              |
 | - Aspirational character desires | - Foundational Character Needs |
 ### Relationships
+Surgeon of [[Embalmers]]

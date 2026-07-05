@@ -3,17 +3,18 @@ tags:
   - NPC
   - C06
 aliases:
-Ancestry: Modrone
+Ancestry: Orc
 Appearance:
-Pronouns: He/Him
-Location: 2.Laboratory
+Pronouns: It/Its
+Location: 4.SpecialCollections
 Threat: NPC
 ---
 
-
 | --- Likes ---                    | --- Dislikes ---               |
-| :------------------------------- | ------------------------------ |
+|:-------------------------------- | ------------------------------ |
 | - Key to the heart               | - Gates to the Heart           |
 | **--- Wants ---**                | **--- Needs ---**              |
 | - Aspirational character desires | - Foundational Character Needs |
-### Relationships
+
+First hand and Handmaid to [[Saint Anestine]]
+Member of the [[{Coven}]]

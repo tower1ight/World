@@ -1,0 +1,30 @@
+properties:
+  note.Appearance:
+    displayName: Appearance
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("NPC")
+        - file.hasTag("C06")
+    order:
+      - Location
+      - file.name
+      - Ancestry
+      - Appearance
+      - Threat
+      - tags
+    sort:
+      - property: Location
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: Ancestry
+        direction: DESC
+      - property: Appearance
+        direction: DESC
+      - property: file.links
+        direction: ASC
+    columnSize:
+      note.Location: 6

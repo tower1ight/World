@@ -18,8 +18,8 @@ The [[Telor|Teloric]] political system is built on a dense and complicated hiera
 
 | [[{Kha}]]                    | [[{Tahold}]]                | [[{Urstone}]]                                       | [[{Duchy IV}]]       | [[{Duchy V}]]                                             | [[{Duchy VI}]]                                         | [[{Duchy VII}]]      |
 | ---------------------------- | --------------------------- | --------------------------------------------------- | -------------------- | --------------------------------------------------------- | ------------------------------------------------------ | -------------------- |
-| [[House Kahdar]]             | [[House Follanel]]          | [[House Yeitel]]                                    |                      |                                                           |                                                        |                      |
-| Octopus on a black banner    | Bear                        | lightning splitting a rock                          | Hawk Spearing a Fish | A Tree Bending in a Storm                                 | A fort                                                 |                      |
+| [[House Kahdar]]             | [[House Follanel]]          | [[House Yeitel]]                                    |                      |                                                           | [[House Verek]]                                        |                      |
+| Octopus on a black banner    | Bear                        | lightning splitting a rock                          | Hawk Spearing a Fish | A Tree Bending in a Storm                                 | A three towered fort on a hill                         |                      |
 | [[{Duke Gask}]]              | [[{Duke Belouine}]]         | [[{Duke Berring}]]                                  | [[{Duke Nime}]]      | [[{Duke Touloudine}]]                                     |                                                        |                      |
 | [[{Tahold}]], [[{Duchy IV}]] |                             | Sea and riverlands                                  | North                | Foothills, river lands<br>[[{Duchy V}]]<br>[[Thronewood]] | south, medeterainian<br>[[{Urstone}]], [[{Duchy VII}]] | Plains and chaparral |
 |                              | Lumber, Iron, Raw materials | Paper, Textiles, Tools and other high value craftes |                      |                                                           |                                                        |                      |
@@ -39,7 +39,7 @@ All civic work generally is run out of the local [[Focalism|focalist]] church an
 ## Leader selection and indoctrination
 - Because travel is so fast, cheap, and emphasized for the progression of ones craft, civic training is handled both as mentorship under the previous leader and formal training in government organizations
 - When the two scholars deem the timing right they will select five adolescents and send them to the violet church for training.
-- The five will make a pilgrimage to the violet church and train there for several years, a year or so into study they will choose amongst themselves which path is appropriate for each of them (often this choice is influenced by the scholars at the violet church) and continue their studies with concentration on their chosen subject
+- The five will make a pilgrimage to the violet church and train there for several years, a year or so into study they will choose amongst themselves which path is appropriate for each of them (often this choice is influenced by the scholars at the [[Violet Church]]) and continue their studies with concentration on their chosen subject
 	- One will become a focal leader (often potent mages)
 	- One will become a guiding scholar
 	- One will become a archival scholar

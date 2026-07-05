@@ -7,11 +7,12 @@ tags:
   - C06
   - Beastiary
 aliases:
-Ancestry: High Elf
+Ancestry: Orc
 Pronouns: She/Her
 Appearance:
 Theme: Man
 Threat: Dungeon Lord
+Location: 4.SpecialCollections
 ---
 *[[Tel'Voric|Tel'Voric's]] oracle, [[Inner Circle]], former [[Stewards]] of the [[The Great Library|Library]], perpetrator of [[The War of the Gates]]*
 

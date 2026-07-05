@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "[\"location type\":Sovereign or State",
@@ -15,16 +15,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.06745225694444,
+  "lineSizeMultiplier": 1.10296875,
+  "collapse-forces": true,
+  "centerStrength": 0.394184027777778,
   "repelStrength": 10.9619140625,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.23330902582957383,
+  "linkDistance": 94,
+  "scale": 0.13091864331520764,
   "close": true
 }

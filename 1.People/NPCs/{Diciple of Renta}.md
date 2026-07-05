@@ -3,9 +3,9 @@ tags:
   - NPC
   - C06
 aliases:
-Ancestry: Modrone
+Ancestry: Warforged
 Appearance:
-Pronouns: He/Him
+Pronouns: She/Her
 Location: 2.Laboratory
 Threat: NPC
 ---

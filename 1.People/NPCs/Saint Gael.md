@@ -8,3 +8,5 @@ aliases:
 Ancestry: Human
 Appearance:
 ---
+### Relationships
+[[Teloric Unification]] 

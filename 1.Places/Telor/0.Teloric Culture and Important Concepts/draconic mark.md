@@ -1,5 +1,6 @@
 ---
-tags: dragons, telor
+tags:
+  - Telor
 alias: mark
 ---
 up: 

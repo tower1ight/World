@@ -9,6 +9,7 @@ Appearance: A 20 ft diameter mound of semi transparent flesh
 Pronouns: It/Its
 Theme: Undead
 Threat: Dungeon Lord
+Location: 1.Stacks
 ---
 you know what it is 
 

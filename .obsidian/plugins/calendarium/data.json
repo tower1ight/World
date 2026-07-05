@@ -191,9 +191,9 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 3,
-        "month": 0,
-        "year": 453
+        "day": 24,
+        "month": 3,
+        "year": 1216
       },
       "events": [],
       "categories": [
@@ -218,7 +218,7 @@
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
   "defaultCalendar": "ID_da78ba3aaaea",
-  "eventPreview": false,
+  "eventPreview": true,
   "exit": {
     "saving": false,
     "event": false,
@@ -233,15 +233,10 @@
     "patch": 0,
     "beta": null
   },
-  "debug": false,
+  "debug": true,
   "askedToMoveFC": false,
   "askedAboutSync": false,
   "syncBehavior": "Ask",
   "inlineEventsTag": "date",
-  "paths": [
-    [
-      "/",
-      "DEFAULT"
-    ]
-  ]
+  "paths": []
 }

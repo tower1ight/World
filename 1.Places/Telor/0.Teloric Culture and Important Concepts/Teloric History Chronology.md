@@ -8,9 +8,9 @@ up:  [[Telor]]
 
 
 - roughly 4000 years ago, [[Urat]] ripped a new one 
-- roughtly 1600 years ago, fall of [[Malten Empire]]
+- roughtly 1600 years ago, fall of [[Maltan Empire]]
 - Roughly 1000 years ago: [[Tel'Voric]] A dragon of wide renown among their brethren, leaves their home, [[Yilin]], in search of [[The Great Library]], an institution of even greater renown. 
-- Invasion of [[Malten Empire]]
+- Invasion of [[Maltan Empire]]
 -  Roughly 1500 years ago: [[Tel'Voric]] becomes a [[Stewards]] of [[The Great Library]]
 -  Roughly 1270 years ago: [[Tel'Voric]] is removed from their position as [[Stewards]] for violation of their oaths, resulting in the creation of their personal research facility on the location that will become the [[The Amethyst City]].
 -  Roughly 1200 years ago:  [[Tel'Voric]] grooms a young supplicant, [[Gael [[Voral Dynasty|Voral]],  for rule of the land surrounding the current location of the library, granting her a [[draconic mark]]. Through said [[draconic mark]] she gains powerful draconic sorcery and all that comes with increased capacity. With the dragons' intense guidance and public council, Gael founds and the nation of [[Telor]]. 

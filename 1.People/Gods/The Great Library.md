@@ -8,7 +8,7 @@ Location Type: Realm
 
 
 
-Rediscovered by the [[Malten Empire]] and Deified the library changed most in this period, becoming a large facet of [[Malten Empire|Malten]] culture. Many peices of the empire came together to crack [[{greyhawk}]]'s written language and know their secrets
+Rediscovered by the [[Maltan Empire]] and Deified the library changed most in this period, becoming a large facet of [[Maltan Empire|Malten]] culture. Many peices of the empire came together to crack [[{greyhawk}]]'s written language and know their secrets
 
 Now the library is closed, barred from public and private viewing
 

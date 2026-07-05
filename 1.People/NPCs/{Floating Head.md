@@ -3,10 +3,10 @@ tags:
   - NPC
   - C06
 aliases:
-Ancestry: Modrone
+Ancestry: Wood Elf
 Appearance:
 Pronouns: He/Him
-Location: 2.Laboratory
+Location: 5.Lair
 Threat: NPC
 ---
 
