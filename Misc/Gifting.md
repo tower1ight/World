@@ -35,6 +35,7 @@ my mother
 | 8/29  | Sophie Bday     |
 | 10/3  | Ali Bday        |
 | 10/6  | Bea Bday        |
+| 10/14 | Hazel bday      |
 | 10/22 | Elizzabeth Bday |
 | 11/9  | Dan Bday        |
 | 11/28 | Z$ Bday         |

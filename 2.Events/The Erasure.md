@@ -1,9 +1,11 @@
 ---
 tags:
-  - Event
   - Telor
+  - date
 alias:
-fc-date: 51-Tion-1087
+fc-date: 1087-Tion-51
+fc-calendar: Teloric
+fc-category: Event
 ---
 up:  [[Teloric History Chronology]]
 

@@ -3,14 +3,16 @@ views:
     name: Table
     filters:
       and:
-        - file.hasTag("event")
+        - file.hasTag("date")
     order:
       - file.name
       - fc-date
-      - Date
-      - Event Description
+      - fc-end
+      - fc-calendar
+      - fc-category
+      - file.tags
     sort:
       - property: fc-date
         direction: ASC
-      - property: Date
-        direction: ASC
+    columnSize:
+      note.fc-date: 124

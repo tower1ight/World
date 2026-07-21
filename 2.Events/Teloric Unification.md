@@ -1,9 +1,10 @@
 ---
 tags:
-  - event
+  - date
 aliases:
-Date:
-fc-date: 28-Sida-811
+fc-date: 811-Sida-21
+fc-calendar: Teloric
+fc-category: Event
 ---
 
 

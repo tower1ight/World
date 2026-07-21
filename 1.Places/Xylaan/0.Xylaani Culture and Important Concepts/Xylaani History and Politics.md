@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
  # Political environment
- -  Pre [[disconnect]]
+ -  Pre [[Xylaan retreat]]
 	 - All entities within [[Xylaan]] are essentially one organism, acting as a part of [[Xylaan]] with as much personal autonomy as it desires them to have
 	 - Treats the space as a menagerie for its entertainment and a farm to steadily grow its power
 	 - Allows some autonomy for factions to naturally grow and develop, allows inter-faction conflict but restricts outright war through its influence on 
@@ -28,7 +28,7 @@ aliases:
 	  - Trying to resummon xylaan
 
   - Faction History
-	  -  Pre [[disconnect]]
+	  -  Pre [[Xylaan retreat]]
 	  - Post [[Xylaan retreat]]
   
  ### [[Seraphs]] 
@@ -39,7 +39,7 @@ aliases:
 	 - Is seeking out external help (library, feywild?)
 		 - Specifically is getting help with manufacturing practices
  - Faction History
-	  - Pre [[disconnect]]
+	  - Pre [[Xylaan retreat]]
 		  - collaborated on [[skiffs]] with [[Tannia]]
 	  - Post [[Xylaan retreat]]
 
@@ -50,7 +50,7 @@ aliases:
 		  - Cannot replicate god level network usage
 		  - Trying to resist the call of external help
   - Faction History
-	  -  Pre [[disconnect]]
+	  -  Pre [[Xylaan retreat]]
 	  - Post [[Xylaan retreat]]
 
  ### [[Tannia|Tannia]]  (mechanics, manufacturing, physical and natural sciences)

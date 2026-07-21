@@ -116,7 +116,7 @@ saraan:
  ### Underground
  - A decree from [[Sage Aelon]] restricted access, declaring that those not authorized to travel the passageways would be punished, this has made a large surveying operation impossible. This was a large point of contention between Sage Aelon and general raynault as a system of unexplored caves is indefensible. This has however not kept the underground from being explored 
 	 - Dwarves explorin its their nature 
-- What was it? originally alchemist territory pre [[disconnect]] and is later utilized by them to implant a psionic blocker and perform maintenance, as it is currently active this is a sort of inert location of the underway
+- What was it? originally alchemist territory pre [[Disconnect]]] and is later utilized by them to implant a psionic blocker and perform maintenance, as it is currently active this is a sort of inert location of the underway
 - There is a rumor of deeper caves and a cave system in the talons,
 	- Sage aelon has scouts looking 
 	- dwarves know of it

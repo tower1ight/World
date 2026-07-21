@@ -1,7 +1,6 @@
 ---
 tags:
   - Telor
-  - event
 alias:
 ---
 up:  [[Telor]]

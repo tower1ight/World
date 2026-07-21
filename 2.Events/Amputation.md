@@ -1,10 +1,11 @@
 ---
 tags:
-  - event
   - Focalism
+  - date
 aliases:
-Date:
-fc-date: 36-Tion-831
+fc-calendar: Teloric
+fc-date: 813-Tion-23
+fc-category: Event
 ---
 
 The moment at which [[The Great Library]] physically removes [[Tel'Voric]]'s personal library from themselves, severing a substantial part of their [[soul]] to cut out the dragon's intellectual rot.

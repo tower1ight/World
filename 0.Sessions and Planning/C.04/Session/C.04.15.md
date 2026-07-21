@@ -4,6 +4,9 @@ tags:
   - Session
   - date
 aliases:
+fc-category: Session
+fc-date: 1261-Sida-12
+fc-calendar: Teloric
 ---
 
 # Details
@@ -11,7 +14,7 @@ Campaign: [[C.04 Planning and outline]]
 ARC: [[C.04 Arc 3 - Into The Woods]]
 Prev: [[C.04.14]]
 Post: [[C.04.16]]
-Date: <span data-category='Session' data-calendar="Teloric" data-date='23-Sida-1216' data-end='24-Sida-1216' data-img='0.Sessions and Planning/C.04/Assets/C.04. asset Xylaan Landmark_Sanctuary copy.png' data-name='C.04.15'>  </span>
+Date: <span data-category='Session' data-calendar="Teloric" data-date='1216-Sida-23' data-end='1216-Sida-24' data-img='0.Sessions and Planning/C.04/Assets/C.04. asset Xylaan Landmark_Sanctuary copy.png' data-name='C.04.15'>  </span>
 PCs: [[Pearl]], [[Billiard Ball]], [[Poe the Perfumer]], [[Talot]], [[Deko]]
 
 [[C.04 Planning and outline#Sanctuaries]]

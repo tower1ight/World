@@ -1,10 +1,13 @@
 ---
 tags:
-  - event
   - C04
   - xylaan
+  - date
 aliases:
-fc-date: 10-Sida-1211
+fc-date: 1261-Sida-12
+fc-calendar: Teloric
+fc-category: Event
+time:
 ---
 
  # What Happened 
@@ -13,6 +16,13 @@ In response to the [[Piercing]], [[Xylaan]] immediately moves their consciousnes
 While not entirely abandoning [[Xylaan]] and its people, this retreat leaves them with more autonomy then they have ever come close to having and systems of growth and maintenance that are impossible to maintain without godly awareness and power. 
 
 In doing this [[Xylaan]] believes that they safely scope out the relevant powers on [[Urat]] and eventually determines that they can wear out [[Tel'Voric|Tel'Voric's]] forces by staying on the defensive and wearing them thin
+
+
+ 
+ 
+ 
+
+
 
 
  

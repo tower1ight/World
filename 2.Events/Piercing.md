@@ -1,10 +1,12 @@
 ---
 tags:
-  - event
   - Telor
   - xylaan
+  - date
 aliases:
-fc-date: 10-Sida-1211
+Fc-date: 1261-Sida-12
+fc-calendar: Teloric
+fc-category: Event
 ---
 
  # what is it

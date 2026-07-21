@@ -1,8 +1,10 @@
 ---
 tags:
-  - event
+  - date
 aliases:
-Date:
+fc-date:
+fc-calendar: Teloric
+fc-category: Event
 ---
 <% await tp.file.move("/2.Events/" + tp.file.title)%>
 

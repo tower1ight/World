@@ -3,11 +3,12 @@ tags:
   - faction
   - xylaan
   - Goblin
-  - event
+  - date
 aliases:
   - Blood Court
-fc-date: 3-bida-435
+fc-date: 435-Bida-3
 fc-calendar: Teloric
+fc-category: Event
 ---
 [[Goblins]]
 
