@@ -2,12 +2,14 @@
 tags:
   - NPC
   - C06
+  - Beastiary
 aliases:
 Ancestry: Devil
 Appearance:
 Pronouns: He/Him
 Location: 3.Facilities
-Threat: NPC
+Threat: Dungeon Lord
+Theme: Spirit
 ---
 
 
@@ -19,3 +21,21 @@ Threat: NPC
 ### Relationships
 one of [[Kalreg]]'s original field generals, specializing in terrain manipulation trickery
 poached as [[Tel'Voric]]'s communication logistics person
+
+### Stats
+*Lorem Ipsum*
+
+**ATTRIBUTES**:  Swords **#** | Pentacles **#** | Cups **#** | Wands **#** | 
+**H/D:** 5/10
+
+**LIKES:** 
+**HATES:** 
+**NOTES: 
+
+**LESSER DOOMS:**
+- **Ability Name:** 
+- **Ability Name:** 
+
+**GREATER DOOMS:**
+- **Ability Name:** 
+- **Ability Name:** 

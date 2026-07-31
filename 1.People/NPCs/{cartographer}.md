@@ -6,10 +6,10 @@ aliases:
 Ancestry:
 Appearance:
 Pronouns:
-Location:
+Location: 3.Facilities
 Threat: NPC
 ---
-<% await tp.file.move("/1.People/NPCs/" + tp.file.title)%>
+
 
 | --- Likes ---                    | --- Dislikes ---               |
 | :------------------------------- | ------------------------------ |
@@ -17,22 +17,4 @@ Threat: NPC
 | **--- Wants ---**                | **--- Needs ---**              |
 | - Aspirational character desires | - Foundational Character Needs |
 ### Relationships
-
-
-### Stats
-*Lorem Ipsum*
-
-**ATTRIBUTES**:  Swords **#** | Pentacles **#** | Cups **#** | Wands **#** | 
-**H/D:** 5/10
-
-**LIKES:** 
-**HATES:** 
-**NOTES: 
-
-**LESSER DOOMS:**
-- **Ability Name:** 
-- **Ability Name:** 
-
-**GREATER DOOMS:**
-- **Ability Name:** 
-- **Ability Name:** 
+apprentice to [[{archivist}]]
