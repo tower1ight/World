@@ -33,7 +33,7 @@ The Circle of Blood follows the tenants of the blood pheonix, through blood we a
 item:
 A number of times equal to your wisdom modifier per rest, you can change the damage type of all “Bleed” and “Blood” spells originating from you. This damage type can be from the following options: Fire, Cold, Acid.
 
-Staff of Reaping (if we have a little downtime and you have the bandwidth maybe a little solo quest)
+Staff of Reaping (requires attunement) (if we have a little downtime and you have the bandwidth maybe a little solo quest)
 +1 focus or +2 if you are feeling generous/ decide to give this later in the campaign
 - 3 charges of blood harvest,
 - allows blood harvest healing to be split among the caster and person of choice within 30 ft
