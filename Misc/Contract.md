@@ -11,7 +11,7 @@ The Circle of Blood follows the tenants of the blood pheonix, through blood we a
   
 **Blood feature:** Bonus blood damage-  All bleed stacks you suffer or inflict are all 1d6 instead of 1d4. You always have the spell “Bleed” prepared, this does not count against your number of known spells.
   
-**2nd lvl Feature:** Bleeding for a cause- When you cast a leveled spell, suffer one stack of “Bleed”. Stacks of bleed taken on by the caster in this way can be negated. As a bonus action, you can cause an ally within 60ft of you to be healed equal to the amount of dmg you took from your bleed stacks, pre mitigation. (ex: if you have resistance to necrotic damage and would suffer 20 bleed damage, now down to 10 damage, your ally is healed for 20hp.) Instead of healing an ally, you can alternatively cause an enemy within 60ft to suffer the same amount of necrotic damage. You can use this effect a number of times equal to your wisdom modifier per long rest.
+**2nd lvl Feature:** Bleeding for a cause- When you cast a leveled spell, suffer one stack of “Bleed”. As a bonus action, you can cause an ally within 60ft of you to be healed equal to the amount of dmg you took from your bleed stacks, pre mitigation. (ex: if you have resistance to necrotic damage and would suffer 20 bleed damage, now down to 10 damage, your ally is healed for 20hp.) Instead of healing an ally, you can alternatively cause an enemy within 60ft to suffer the same amount of necrotic damage. You can use this effect a number of times equal to your wisdom modifier per long rest. Spend an action to negate all stacks of bleed taken in this way.
   
 
 **Circle spells:**
