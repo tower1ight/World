@@ -102,12 +102,12 @@
             "id": "ID_6a286a7b1ae8"
           }
         ],
-        "displayMoons": true,
-        "displayDayNumber": false,
+        "displayMoons": false,
+        "displayDayNumber": true,
         "leapDays": [
           {
             "id": "ID_69c9980a1a8a",
-            "name": "Leap Dat",
+            "name": "Leap Day",
             "interval": [
               {
                 "interval": 3,
@@ -198,20 +198,20 @@
       "events": [],
       "categories": [
         {
-          "id": "ID_99eb5bba4b4b",
-          "color": "#006eff",
+          "id": "ID_bb9b0a9b999b",
+          "color": "#5eb0aa",
           "name": "Session"
         },
         {
-          "id": "ID_3899484b7818",
-          "color": "#ff0000",
+          "id": "ID_3b280839ea1a",
+          "color": "#7b7aa7",
           "name": "Event"
         }
       ],
       "path": [],
       "supportInlineEvents": true,
       "inlineEventTag": "date",
-      "dateFormat": "D-MMM-Y"
+      "dateFormat": "Y-MMMM-D"
     }
   ],
   "configDirectory": null,
@@ -235,8 +235,21 @@
   },
   "debug": true,
   "askedToMoveFC": false,
-  "askedAboutSync": true,
-  "syncBehavior": "Ask",
+  "askedAboutSync": false,
+  "syncBehavior": "Always",
   "inlineEventsTag": "date",
-  "paths": []
+  "paths": [
+    [
+      "0.Sessions and Planning",
+      "ID_da78ba3aaaea"
+    ],
+    [
+      "1.Places",
+      "ID_da78ba3aaaea"
+    ],
+    [
+      "2.Events",
+      "ID_da78ba3aaaea"
+    ]
+  ]
 }

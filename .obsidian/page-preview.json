@@ -2,5 +2,6 @@
   "editor": false,
   "bases": false,
   "tab-header": false,
-  "search": false
+  "search": false,
+  "preview": true
 }
