@@ -3,7 +3,18 @@ tags:
   - C06
 aliases:
 ---
-# Background
+
+> [!NOTE]
+>1. It’s big, and has many levels; in fact, it may be endless_  
+>2. It follows its own ecological and physical rules_  
+>3. It is not static; the inhabitants and even the layout may grow or change over time_  
+>4. It is not linear_  
+>5. There are many ways to move up and down through the levels_  
+>6. Its purpose is mysterious or shrouded in legend_  
+>7. It’s inimical to those exploring it_  
+>8. Deeper or farther levels are more dangerous_  
+>9. It’s a (the?) central feature of the campaign_
+
 This is place is grounded in its connection to [[Focalism|focalist]] tellings, it is the site and being at the center of [[Tel'Voric]]'s labors .  Death has taken up residence 
 
 The city at its core has grown up; around the base of the violet church, in the regrown and newly habitable portions of [[The Amethyst City]]. many pilgrims see part of their journey delving into the depths of this place,  Grave robbing is sacred, if the jewels see the light of day
