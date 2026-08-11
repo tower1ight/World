@@ -11,7 +11,10 @@ The Circle of Blood follows the tenants of the blood pheonix, through blood we a
   
 **Blood feature:** Bonus blood damage-  All bleed stacks you suffer or inflict are all 1d6 instead of 1d4. You always have the spell “Bleed” prepared, this does not count against your number of known spells.
   
-**2nd lvl Feature:** Bleeding for a cause- When you cast a leveled spell, suffer one stack of “Bleed”. As a bonus action, you can cause an ally within 60ft of you to be healed equal to the amount of dmg you took from your bleed stacks, pre mitigation. (ex: if you have resistance to necrotic damage and would suffer 20 bleed damage, now down to 10 damage, your ally is healed for 20hp.) Instead of healing an ally, you can alternatively cause an enemy within 60ft to suffer the same amount of necrotic damage. You can use this effect a number of times equal to your wisdom modifier per long rest. Spend an action to negate all stacks of bleed taken in this way.
+**2nd lvl Feature:** Bleeding for a cause- When you cast a leveled spell, suffer one stack of “Bleed”. 
+- As a bonus action, you can cause an ally within 60ft of you to be healed equal to the amount of dmg you took from your bleed stacks, pre mitigation. (ex: if you have resistance to necrotic damage and would suffer 20 bleed damage, now down to 10 damage, your ally is healed for 20hp.) 
+- Instead of healing an ally, you can alternatively cause an enemy within 60ft to suffer the same amount of necrotic damage. You can use this effect a number of times equal to your wisdom modifier per long rest. 
+- Spend an action to negate all stacks of bleed taken in this way.
   
 
 **Circle spells:**
@@ -25,7 +28,13 @@ The Circle of Blood follows the tenants of the blood pheonix, through blood we a
 
 10th lvl feature: Bloody configuration- A number of times equal to your wisdom modifier per rest, you can change the damage type of all “Bleed” and “Blood” spells originating from you. This damage type can be from the following options: Fire, Cold, Acid.
 
-14th lvl feature: Bleeding is pain- The damage die of all “Bleed” effects originating from you changes to a d8. Bloody configuration now allows for selection of Psychic, Radiant, and Force damge
+14th lvl feature: Bleeding is pain- The damage die of all “Bleed” effects originating from you changes to a d8. Adds radiant, psychic, and force damage options to bloody configuration.
+
+
+Upon proccing bloody configuration you may select one of the following effects, and apply it each time you inflict bleed on an enemy
+- Coagulate: -5 speed per stack of bleed, 
+- Curdle: The enemy must make a WIS save, on failure receive the frightened condition, save at end of turn
+- Corrupt: The enemy must make a CON save on failure receive the poisoned condition, save at end of turn
 
 
 
@@ -33,11 +42,11 @@ The Circle of Blood follows the tenants of the blood pheonix, through blood we a
 item:
 A number of times equal to your wisdom modifier per rest, you can change the damage type of all “Bleed” and “Blood” spells originating from you. This damage type can be from the following options: Fire, Cold, Acid.
 
-Staff of Reaping (requires attunement) (if we have a little downtime and you have the bandwidth maybe a little solo quest)
-+1 focus or +2 if you are feeling generous/ decide to give this later in the campaign
-- 3 charges of blood harvest,
-- allows blood harvest healing to be split among the caster and person of choice within 30 ft
-- Allows number of stacks to on a target to increase the spell check
+Staff of Reaping (Very Rare - requires attunement) 
++2 focus pretty please (this can be something I get down the line (if we have a little downtime and you have the bandwidth maybe a little solo quest in textchat))
+- 3 charges of blood harvest reset at dawn
+- Adds # of stacks on a target to their save to resist blood harvest
+- Provides the option modify the spell to be single target 4d6 + 1d
 
 Blood healing Amulet
 A number of times equal to your spell casting modifier, the stacks of bleed on you can be consumed 
@@ -45,6 +54,12 @@ A number of times equal to your spell casting modifier, the stacks of bleed on y
 - 4 stacks: Lesser Restoration
 - 6 stacks: Remove Curse
 - 8 stacks: Greater Restoration
+
+Blood Phoenix 
+- amulet
+
+
+
 
 
 --- 
