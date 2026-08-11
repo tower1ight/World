@@ -6,7 +6,7 @@ aliases:
 Ancestry: Human
 Appearance:
 Pronouns: He/Him
-Location: NA
+Location: 1.Stacks
 Threat: NPC
 ---
 

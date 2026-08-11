@@ -13,16 +13,24 @@ Theme: Spirit
 ---
 
 
-| --- Likes ---                                                                     | --- Dislikes ---                                                                         |
-| :-------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| - Dominion over communication, seriously nosey, will protect it at all costs<br>- | - being excluded, conversations held in confidence<br>- The deal<br>- Gates to the Heart |
-| **--- Wants ---**                                                                 | **--- Needs ---**                                                                        |
-| - Aspirational character desires                                                  | - Foundational Character Needs                                                           |
+| --- Likes ---                                                                | --- Dislikes ---                                                                         |
+| :--------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| - Dominion over communication, seriously nosey, will protect it at all costs | - being excluded, conversations held in confidence<br>- The deal<br>- Gates to the Heart |
+| **--- Wants ---**                                                            | **--- Needs ---**                                                                        |
+| - Power within the hells, a larger depth of power but not necessarily renown | - Foundational Character Needs                                                           |
 ### Relationships
 one of [[Kalreg]]'s original field generals, specializing in terrain manipulation trickery
 poached as [[Tel'Voric]]'s communication logistics person
 
-### Stats
+*"A petty lord who enjoys his diversions, much to learn from that one" 
+ -[[Saint Anestine]]*
+ 
+*"A thorn in our side, wouldnt be that way if he served no purpose. He lacks the discipline to truely own us" 
+-[[MoundRank]]*
+
+*"his joy is repellent. so impotent and singular. He thinks he has no body" 
+-[[Dianea]]*
+### StatsΩ
 *Lorem Ipsum*
 
 **ATTRIBUTES**:  Swords **#** | Pentacles **#** | Cups **#** | Wands **#** | 

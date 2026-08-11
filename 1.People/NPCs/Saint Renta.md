@@ -5,6 +5,7 @@ tags:
   - religion
   - Focalism
 aliases:
+  - Renta
 Ancestry: Warforged
 Appearance:
 Pronouns: It/Its

@@ -11,10 +11,10 @@ Threat: NPC
 ---
 
 
-| --- Likes ---                    | --- Dislikes ---               |
-| :------------------------------- | ------------------------------ |
-| - Key to the heart               | - Gates to the Heart           |
-| **--- Wants ---**                | **--- Needs ---**              |
-| - Aspirational character desires | - Foundational Character Needs |
+| --- Likes ---                               | --- Dislikes ---                    |
+| :------------------------------------------ | ----------------------------------- |
+| - Combat: quick and easy solves to problems | - Focalists<br>- unearned knowledge |
+| **--- Wants ---**                           | **--- Needs ---**                   |
+| - Aspirational character desires            | - Foundational Character Needs      |
 ### Relationships
 Ship captain of [[{Old ship}]]

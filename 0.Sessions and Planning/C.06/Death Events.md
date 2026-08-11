@@ -29,4 +29,19 @@ aliases:
 | The Sun             | Celebration, Confidence, Joy, Successful Endeavors                                         |                                                                                         |
 | Judgement           | Awakenings, Reflection and discernment necessary for transition                            |                                                                                         |
 | The World           | Complete fulfillment, interconnection of all things; beginnings and endings                | Fulfillment, death has its fingers in all things and knowledge is lost, Anestine leaves |
-w
+
+
+room gets disapeared
+you loose a random sense in the room
+embalmer grabbing a corpse
+dealths body tentacles will grab you
+antything that dies in room gets shrivled ([[THE UNDERWORLD#Preservation|preservation charm]] giving way)
+portal to steel deck
+ghost of a warrior, asks you to deliver a message to anestine
+ghost of a tel, clown, patches type beat, gives you a hint of nearby treasure 
+forget whatever happens in this room as soon as you leave it
+rooms orientation changes and is slowly rotating 
+gaels ghost
+oldest thing in the room begins to fade, loose a memory upon interacting
+cell shading in the corner of your eye
+
