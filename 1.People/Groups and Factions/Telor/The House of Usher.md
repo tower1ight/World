@@ -4,7 +4,7 @@ tags:
   - Telor
 aliases:
 ---
-Estate: [[{Kha}]]
+Estate: [[Khahold]]
 
 Under contract with [[House Follanel]]
 

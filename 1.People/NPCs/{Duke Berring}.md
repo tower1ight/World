@@ -5,4 +5,4 @@ aliases:
 Ancestry: Human
 Appearance:
 ---
-Duke of [[{Urstone}]]
+Duke of [[Urstone]]

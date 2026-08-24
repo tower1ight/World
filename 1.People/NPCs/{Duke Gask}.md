@@ -6,4 +6,4 @@ aliases:
 Ancestry:
 Appearance:
 ---
-Duke of [[{Kha}]]
+Duke of [[Khahold]]
