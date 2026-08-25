@@ -5,4 +5,4 @@ aliases:
 Ancestry:
 Appearance:
 ---
-Duke of [[{Duchy IV}]]
+Duke of [[Yeinall]]

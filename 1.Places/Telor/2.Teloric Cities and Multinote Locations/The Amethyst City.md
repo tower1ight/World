@@ -7,7 +7,7 @@ Location Type: City or Multinote Location
 ---
 
 Region, Sovereign, or State: [[Telor]]
-Province: [[{Kha}]]
+Province: [[Khahold]]
 
 
 withered and this city is a ruin, its life syphoned in the process of the [[False Ascension]]

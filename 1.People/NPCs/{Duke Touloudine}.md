@@ -6,4 +6,4 @@ aliases:
 Ancestry: Human
 Appearance:
 ---
-Duke of [[{Duchy V}]]
+Duke of [[Heical]]

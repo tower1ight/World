@@ -49,7 +49,7 @@ Caught trying to place them on a nearby cabinet, Renta rolled his eyes and trekk
 Finally sitting at the table, palms laid on its face, a bright and earthy aroma wafted from the brewed tea in front of the two. 
 
 "No questions for me? No polite offers to hear of my work"
-The dwarf scoffed "That is not politeness, besides were not in your lab, they require experiencing to understand, I think talk cheapens them"
+The dwarf scoffed "That is not politeness, besides were not in your lab, they require experiencing to understand, technical drivel would cheapen it"
 "Fair point, an understandable opinion to be sure. There is much to say around anima without speaking of it directly"
 "well im direct, and you sir are not interested in talking about that either"
 "Oh Im not?"
@@ -58,7 +58,7 @@ The dwarf scoffed "That is not politeness, besides were not in your lab, they re
 "In this case it is"
 "ok fine, fair, noted"
 ". . ."
-"whatever . . . I just have to know what your getting out of this, Hes not a well loved drake"
+"whatever . . . I just have to know what youre getting out of this, Hes not a well loved drake"
 "No drake is, but if not loved, most respect him around here"
 "Yes but he shows his character constantly, the elves hate him, think hes ambitious even for a dragon"
 ". . ."
