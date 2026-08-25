@@ -59,7 +59,7 @@ aliases:
 ##### NPCs
 ##### Denizens
 
-# Dianea (18 pg)
+# Mainframe (18 pg)
 ##### Summary
 - Practical
 - What is this floor about
