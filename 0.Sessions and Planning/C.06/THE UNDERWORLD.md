@@ -49,3 +49,7 @@ If something dies in this room, the players will see a tentacled arm wrap around
 - A preservation charm runs through the fabric of this place though mutated after the [[Amputation]]
 - will not stop change to a certain degree, a smashed window will not reform, strange mixture of preserved and destroyed
 
+
+
+# Modrones
+Unlock Modrones as a playable Kin if you progress their independence 

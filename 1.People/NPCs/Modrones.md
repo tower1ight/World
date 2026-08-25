@@ -2,6 +2,7 @@
 tags:
   - NPC
 aliases:
+  - Modrone
 Ancestry: Modrone
 Appearance:
 ---
