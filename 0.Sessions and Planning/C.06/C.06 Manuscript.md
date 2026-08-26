@@ -71,18 +71,19 @@ aliases:
 ##### NPCs
 ##### Denizens
 # Facilities (15 pg)
-##### Summary
-- Practical
-	- 
-- What is this floor about
+##### Summary bi fold
+- Sensory breif
+- Blrb on what this place is
+- 
+
 ##### Meatgrinder
-##### Lieutenant
+##### Lieutenant (funpage)
+##### Curreny
 ##### Wormholes
 ##### Factions
 ##### GM Map
 ##### Room Descriptions
-##### NPCs
-##### Denizens
+
 # Special Collections (20 pg)
 ##### Summary
 - Practical
@@ -115,7 +116,7 @@ aliases:
 ##### The Fool
 # Appendix A: Tables and useful shit (10 pg)
 
-# Appendix B: The World (10 pg)
+# Appendix B: Texture (10 pg)
 ### Time and Cosmology (1pg)
 ### The Planet (1pg)
 ### Telor (6 pg)
