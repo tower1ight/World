@@ -39,7 +39,7 @@ aliases:
 - Era Detail
 - Lost Time and Dead Enemies
 # The Griddle (20 pg)
-- Diagram
+##### Signs and Portents (7 pgs) *cy_borg's news page*
 ##### Districts (7 pgs)
 ##### Bounty boards n Quest givers (3 pgs)
 ##### Politics (4 pgs)
@@ -47,18 +47,39 @@ aliases:
 ##### Tables (4 pgs)
 # Underworld Manifest (2pg Spread)
 # The Stacks (25 pg)
-##### Summary
-- Practical
-- What is this floor about
-- hooks
-##### Meatgrinder
-##### Moundrank
-##### Cypher
+### Summary (2pgs, 2nd pg shorned for quick nav )
+##### Blrb
+A cesspit, 50 years out its pretty much been completely scraped of any valuable information it was going to give. Anything left there is either too waterlogged, unreachable in moundranks personal collection, or valuable only to budget wizards with niche hobbies. Everyday the dream of undiscovered wealth 
+
+What is it? 
+What you get when you place a library with no roof inside a natural cave. Irradiated by the [[False Ascension]]. 
+
+What was it?
+A housing for general 
+
+What before that
 
 ##### GM Map
-##### Room Description
-##### NPCs
+##### Senses
+##### Themes 
+- The idiosyncrasies of [[The Great Library]]'s waning protection charm are probably most apparent on these 
+##### Hooks
+##### TOC and Manifest
+- 
+
+### Factions
+##### Moundrank
+##### Modrones
+##### Fulltimers
+
+### Moundrank (2pg spread)
+### Cypher
+
+### Room Description
 ##### Denizens
+##### NPCs
+##### Treasure 
+##### Talents
 
 # Mainframe (18 pg)
 ##### Summary
