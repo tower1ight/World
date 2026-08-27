@@ -50,6 +50,7 @@ aliases:
 ##### Summary
 - Practical
 - What is this floor about
+- hooks
 ##### Meatgrinder
 ##### Moundrank
 ##### Cypher
