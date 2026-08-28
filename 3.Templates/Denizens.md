@@ -23,3 +23,7 @@ Threat:
 **GREATER DOOMS:**
 - **Ability Name:** 
 - **Ability Name:** 
+
+| Cloth | Meat |
+| ----- | ---- |
+|       |      |
