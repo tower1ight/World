@@ -43,7 +43,7 @@ aliases:
 ##### Districts (7 pgs)
 ##### Bounty boards n Quest givers (3 pgs)
 ##### Politics (4 pgs)
-- Vamps
+- org chart
 ##### Tables (4 pgs)
 # Underworld Manifest (2pg Spread)
 # The Stacks (25 pg)
