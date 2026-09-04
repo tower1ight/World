@@ -6,6 +6,7 @@ tags:
   - Focalism
 aliases:
   - Renta
+  - Renta's
 Ancestry: Warforged
 Appearance:
 Pronouns: It/Its
