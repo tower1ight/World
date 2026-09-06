@@ -25,7 +25,7 @@ Now the library is closed, barred from public and private viewing
 ### Era of [[soul]]
 - Library is running out of battery, its loosing its ability to morph and change, magic goes out in the world, and the humans have lost most of what they once knew
 - [[Tel'Voric]] is ready to move, he empowers a petty kingdom and gathers his [[Inner Circle]]
-- [[The War of the Gates]] splits the library's [[Pages of the Library|pages]] and the library moves to [[Amputation|amputate]] [[Tel'Voric]]'s collection and faction, it successfully begins actually bringing in new [[Pages of the Library|pages]] but looses the war, relegated to pilgrims to journey into [[Hythriel]] and a few secret entrances in [[Telor]]
+- [[The War of the Gates]] splits the library's [[Pages of the Library|pages]] and the library moves to [[Amputation|amputate]] [[Tel'Voric]]'s collection and faction, it successfully begins actually bringing in new [[Pages of the Library|pages]] but looses the war, relegated to pilgrims to journey into [[1.Places/Hythriel/Hythriel]] and a few secret entrances in [[Telor]]
 - [[Tel'Voric]] ascends [[Telor]] is enlightened and hungry
 - [[Aloric Voral]] comes to know the library and learns much, ultimately failing to save her kingdom from the decline she foresaw (see era of green), [[False Ascension]]
 - [[Yondal Voral]] convinces the library to [[The Erasure|close its doors]]

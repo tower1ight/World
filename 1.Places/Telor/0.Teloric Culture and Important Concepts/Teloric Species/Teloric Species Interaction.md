@@ -12,7 +12,7 @@ Population dynamics
 -   Have a history of war with elves 
 
 [[Elves|Elves]]
--   Reside primarily in the swamps of [[Hythriel]] or the [glade]
+-   Reside primarily in the swamps of [[1.Places/Hythriel/Hythriel]] or the [glade]
 -   Have a history of war with humans, halflings, and gnomes
 	-   Given their lifespan they are much more angry about it
 

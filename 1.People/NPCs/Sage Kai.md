@@ -17,7 +17,7 @@ Appearance: Old short man, heavy smile lines and a jovial energy
  ## Visual description
  ## Who are they
 
-Sage kai is a manipulitive, brilliant, sadist, though a puipil with sage aelon in the early days, before the usurpation, the study always paled to the power it granted. As a diplomat he built some of [[Telor|Telor's]] most fundamental relationships, {[[{cathedral isles}]]}, [[Hythriel]], [[Allyol]]
+Sage kai is a manipulitive, brilliant, sadist, though a puipil with sage aelon in the early days, before the usurpation, the study always paled to the power it granted. As a diplomat he built some of [[Telor|Telor's]] most fundamental relationships, {[[{cathedral isles}]]}, [[1.Places/Hythriel/Hythriel]], [[Allyol]]
 
 good with words, better with song, he will do what he needs to twist a story and somehow keep you happy about it. He is eager at the change to play the game with aelon again.
 

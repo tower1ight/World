@@ -6,7 +6,7 @@ alias: pages, page
 ---
 up: [[Worship of the Library]]
 
-The Teloric [[Gate]] was hidden among the [[Elves|Elves]] of [[Hythriel]] or [[Hythriel|The_Azurite_Glade]] as you might know it. For millennia, led by the [[Stewards|stewards]] selected among them, they worshiped this structure shrouded in so much mystery as [[Pages of the Library|pages]]
+The Teloric [[Gate]] was hidden among the [[Elves|Elves]] of [[1.Places/Hythriel/Hythriel]] or [[1.Places/Hythriel/Hythriel|The_Azurite_Glade]] as you might know it. For millennia, led by the [[Stewards|stewards]] selected among them, they worshiped this structure shrouded in so much mystery as [[Pages of the Library|pages]]
 
 Core values 
 -   Emphasis on documentation but most importantly the democratization of knowledge
