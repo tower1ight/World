@@ -8,3 +8,4 @@ aliases:
 - [ ] Unlock-able [[Modrones|Modrone]] Kin
 - [ ] House fashion folio
 - [ ] Saint Scene Series
+- [ ] elevator diagram
