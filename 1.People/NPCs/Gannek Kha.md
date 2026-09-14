@@ -3,8 +3,8 @@ tags:
   - NPC
   - C06
 aliases:
-  - Ganek's
-  - Gan
+  - Gannek's
+  - Gannek
 Ancestry: Human
 Appearance: Lean, old, scarred, short and spiky white hair
 Pronouns: She/Her
