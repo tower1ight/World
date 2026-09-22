@@ -21,3 +21,5 @@ Threat: Brute
 **GREATER DOOMS:**
 - **Ability Name:** 
 - **Ability Name:** 
+
+Number of engaged flesh has stat impacts on pentacles and wands

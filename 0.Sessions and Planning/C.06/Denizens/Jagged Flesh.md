@@ -6,7 +6,7 @@ aliases:
 Theme: Undead
 Threat: Strategist
 ---
-*Transparent and glossy the piercer excels at directing an ambush  [[flesh]] *
+*Transparent and glossy the piercer excels at directing an ambush  [[1.People/Groups and Factions/The Lair/flesh]] *
 
 **ATTRIBUTES**:  Swords **1** | Pentacles **4** | Cups **2** | Wands **3** | 
 **H/D:** 5/0

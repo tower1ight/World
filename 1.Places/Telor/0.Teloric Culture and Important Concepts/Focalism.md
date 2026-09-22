@@ -13,10 +13,7 @@ alias: Focalist, Focalists
 - [[#Pilgrimage|Pilgrimage]]
 # The Myth
 ##### What Happened
-in early days tels saw much suffering, people lived short lives, they fought, and starved and died in ignorance, leaving no mark behind, as though they had never exisited. A great being of knowledge had the power to pull them out of the mud and lend them shelter from an unforgiving land
-
-his chosen people stay goated and usher in a new era of learning and philosophical advancement 
-
+ A broken people came to this land from beyond the [[{jungle river}]] on the southern tip. They brought with them a spirit and a path to another world. Their god offered gifts the likes of which we have seen neither before or sense, but offered a steep price. It owned all knowledge and thus owned whatever we could make with its gifts. It offered a grand reasoning, an argument for the cruelty it could dispense on its whim For many this was still a blessing, there was freedom, but not after you saw your neigbor be picked out of the mud, that was thwe price of slavery for them. Eternal service to a great patron, eternal 
 ##### A More Objective Truth
 - Misuse of knowledge and destruction of 
 
