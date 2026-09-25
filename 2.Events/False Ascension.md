@@ -9,5 +9,5 @@ fc-category: Event
 ---
 [[Teloric History Chronology]]
 [[MoundRank]]
-[[Aloric Voral]]
+[[Aloric Voral VI]]
 

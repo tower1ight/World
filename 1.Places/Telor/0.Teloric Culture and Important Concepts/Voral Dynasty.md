@@ -8,7 +8,7 @@ aliases:
   - Yondal
 ---
 # [[Saint Gael]]
-# [[Aloric Voral]]
+# [[Aloric Voral VI]]
 
 
 [[draconic mark]]
