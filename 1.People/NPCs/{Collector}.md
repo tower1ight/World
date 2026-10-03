@@ -14,4 +14,4 @@ Pronouns:
 | - Aspirational character desires | - Foundational Character Needs |
 ### Relationships
 Member of [[{Coven}]]
-[[House Kahdar]] contact in [[0.Griddle]]
+[[House Kahdar]] contact in [[0. Griddle]]

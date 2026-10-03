@@ -7,10 +7,10 @@ tags:
 **Study Hall**: Lure<br>
 Two massive chandeliers lay in ruins on the floor, their massive chains cracking and crushing what wooden tables haven't been pushed to the sides of the room. crystal bits are strewn all over the floor, though a desire path seems to have been made over time between the rooms three exits, a clearing made in particular between the chandeliers in the middle of the path to the staircase<br><br>A figure kneels in this clearing, turned away, weeping, facing a large wooden statue, carved into a vivid depiction of a dragon, piercing amethyst eyes staring down from its perch on a spire. <br>
 - If the guild approaches the figure or the statue **3 other [[Ooze Flesh]]** fall from the ceiling
-- if the guild touches the crystal they will feel their skin get colder, like something is evaporating off their skin, this will open the gate to [[116]] this will expire after three watches
+- if the guild touches the crystal they will feel their skin get colder, like something is evaporating off their skin, this will open the gate to [[118 - Rug Room]] this will expire after three watches
 
 --- 
 
-| [[106]] | [[107]] | [[109]] | [[114]] |
+| [[110 - Camp]] | [[113 - TBD]] | [[115 - Gate]] | [[112 - Exhibit]] |
 | ------- | ------- | ------- | ------- |
 | Open    | Open    | Open    | Open    |

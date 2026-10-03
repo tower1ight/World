@@ -5,7 +5,8 @@ tags:
 ---
 **Maze:** a narrow, winding, and unpredictable space for storing books and loosing oneself in a claustrophobic atmosphere, unguided, one could get lost in here
 
->NAVIGATION CYPHER: Operating the stacks takes knowledge and memorization, you may only enter a place you have been taught to enter, otherwise you are forced to draw on the random navigation table
+>NAVIGATION CYPHER: Operating the stacks takes knowledge and memorization, you may only enter a place you have been taught to enter, otherwise you are forced to draw on the random navigation table.
+>
 
 | Card               | Event                                     |
 | ------------------ | ----------------------------------------- |
@@ -18,16 +19,16 @@ tags:
 | The Chariot        | Gelatinous Cube                           |
 | Strength           | [[Rango]]                                 |
 | The Hermit         | [[Alexander]]                             |
-| Wheel of Fortune   | Entrance to [[120]]                       |
+| Wheel of Fortune   | Entrance to [[116 - TBD]]                       |
 | Justice            | War room                                  |
 | The Hanged Man     | Trapdoor                                  |
 | Death(Cosmic)      | Slip into a death room, cannot open doors |
-| Temerance          | [[106]]                                   |
-| The Devil          | [[107]]                                   |
-| The Tower          | [[108]]                                   |
-| The Star           | [[104]]                                   |
-| The Moon           | Entrance to [[117]]                       |
-| The Sun            | Entrance to [[113]]                       |
+| Temerance          | [[110 - Camp]]                                   |
+| The Devil          | [[113 - TBD]]                                   |
+| The Tower          | [[114 - Nest]]                                   |
+| The Star           | [[107 - Eaves and Nesting]]                                   |
+| The Moon           | Entrance to [[108 - Sorting and Distribution Machine]]                       |
+| The Sun            | Entrance to [[120 - Solarium]]                       |
 | Judgement          | Missing gem                               |
 | The World          | (Quest Hint )                             |
 

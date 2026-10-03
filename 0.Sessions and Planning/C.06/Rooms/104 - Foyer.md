@@ -22,6 +22,6 @@ Your boots land in three inches of pulp, foul cave water and rotting paper. Atop
 >HOLE: It is very hard to tell over the rotting sludge near your feet but something fouls emanates from the black space behind this
 
 
-| [[102]] | [[104]] |        |
+| [[102 - Admin]] | [[107 - Eaves and Nesting]] |        |
 | ------- | ------- | ------ |
 | Open    | Open    | Sealed |

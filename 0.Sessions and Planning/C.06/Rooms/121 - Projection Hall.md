@@ -9,6 +9,6 @@ A mound of undulating semi transparent flesh 20 ft diameter sits in the rooms ce
 ---
 Dragon mark crest
 
-| [[113]] |
+| [[120 - Solarium]] |
 | ------- |
 | Open    |

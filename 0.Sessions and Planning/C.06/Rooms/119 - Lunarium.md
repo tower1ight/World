@@ -6,6 +6,6 @@ tags:
 **[[Saint Aelor]]'s Offices:** 
 Secret door within the carpert<br>entrance to the library
 
-| [[105]]      | [[118]] | 3?? |
+| [[110 - Stacks]]      | [[119 - Lunarium]] | 3?? |
 | ------------ | ------- | --- |
 | Discoverable | Secret  |     |

@@ -3,9 +3,9 @@ tags:
   - NPC
   - C06
 aliases:
-Ancestry: Dwarf
+Ancestry:
 Appearance:
-Pronouns: He/Him
+Pronouns:
 Location: 0.City
 Threat: NPC
 ---
@@ -17,4 +17,22 @@ Threat: NPC
 | **--- Wants ---**                | **--- Needs ---**              |
 | - Aspirational character desires | - Foundational Character Needs |
 ### Relationships
-Adept to the [[0. Griddle]]
+
+
+### Stats
+*Lorem Ipsum*
+
+**ATTRIBUTES**:  Swords **#** | Pentacles **#** | Cups **#** | Wands **#** | 
+**H/D:** 5/10
+
+**LIKES:** 
+**HATES:** 
+**NOTES: 
+
+**LESSER DOOMS:**
+- **Ability Name:** 
+- **Ability Name:** 
+
+**GREATER DOOMS:**
+- **Ability Name:** 
+- **Ability Name:** 

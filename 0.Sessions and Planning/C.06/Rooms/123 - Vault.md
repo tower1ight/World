@@ -12,6 +12,6 @@ Square chamber with an inexplicable shaft of light streaming down and illuminati
  - A candle made of the fat of a black serpent with a wick comprised i of the hair of a murdered woman
  - A twine of tails from rat king
 
-| [[104]] |
+| [[107 - Eaves and Nesting]] |
 | ------- |
 | Secret  |

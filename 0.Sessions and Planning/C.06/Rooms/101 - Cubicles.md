@@ -7,6 +7,6 @@ tags:
 
 - upon inspection the guild can find a piece of the arches brickwork, is a clear amethyst gem. When touched they feel something cover their skin and instantly feel cold, like solvent evaporating off of them.
 
-| [[102]] | [[103]] | [[113]] |
+| [[102 - Admin]] | [[106 - Study Hall]] | [[120 - Solarium]] |
 | ------- | ------- | ------- |
 | Sealed  | Open    | Open    |

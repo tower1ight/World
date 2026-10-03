@@ -55,11 +55,17 @@ Find alloric playing with [[Alexander]] (only once he is known to the party)
 	- diving in suffers you an affliction, this is stagnant biohazard water lets be real 
 	- Diving will let you drain the room, uncovering a modrone stuck under the pool
 
+
+
 - TE: Muck like quicksand, one can easily drown in this bitch
 - TE: Bat shit falls from the sky
 - TE: Magic eating 
 - TE: Classic mundane shit
 - RE: 
+- RE: [[Rango]] holding a meeting with other modrones<br>sitting a circle with detritus heaped in the corners of the room. Giving a focalist lecture and discussing self determination in front of a chalkboard.<br><br>The many of them seem checked out, some are clearly trying to ppay attention but slip into bouts of melancholy daydreaming <br><br>If the guild lingers, treats with the modrones with respect they will be allowed to listen in on the meeting spending **2 watches** there:
+- they will hear him describe and the rest of the circle do group therapy about the anguish of being cut away from a hive mind
+- [Rango]] added to the meatgrinder
+- If sought out, modrones may help with the challenge room cypher
 # Laboratory
 
 # Facilities 

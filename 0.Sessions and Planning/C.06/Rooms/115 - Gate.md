@@ -5,6 +5,6 @@ tags:
 ---
 **Testing Room: Testing Room** A cold, austere room, made of large panels smooth stone, water has collected in the southeast corner of the room, sloped down by centuries of run off from the atrium.<br><br>A large arch outlines the southern wall. the stone behind it segmented into many triangles converging at the center of the wall<br><br>A pedestal sits in the center of the room, celestial text reads "Excellence is Not Enough, Power to the People"
 
-| [[103]] | [[107]] |
+| [[106 - Study Hall]] | [[113 - TBD]] |
 | ------- | ------- |
 | open    | Open    |
